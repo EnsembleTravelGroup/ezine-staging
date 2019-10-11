@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-
+	
 <article date="1910">
 	<dir_name><![CDATA[spotlight]]></dir_name>
 	<pub_date><![CDATA[October 2019]]></pub_date>
@@ -62,5 +62,5 @@
 		<tag slug="australia-south-pacific"><![CDATA[australia-south-pacific]]></tag>
 	</tags>
 </article>
-
+	
 </root>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	
+<article date="1910" id="01">
+	<dir_name><![CDATA[ship]]></dir_name>
+	<pub_date><![CDATA[October 2019]]></pub_date>
+	<dir_year><![CDATA[19]]></dir_year>
+	<dir_month><![CDATA[10]]></dir_month>
+	<file_ship><![CDATA[01]]></file_ship>
+	
+	<tab_class><![CDATA[active]]></tab_class> <!-- If there's more than one ship showcase, only the first showcase has the 'active' class -->
+
+	<author><![CDATA[Princess Cruises]]></author>
+	<id_supplier><![CDATA[pri]]></id_supplier>
+	<translator><![CDATA[]]></translator>
+	
+	<title><![CDATA[Princess® MedallionClass Vacations™]]></title>
+	<teaser><![CDATA[
+		The easiest way to cruise, exclusively on Princess&reg;
+	]]></teaser>
+	<lead><![CDATA[
+		It&rsquo;s been called the next wave of travel, but you&rsquo;ll call it the most relaxing vacation you&rsquo;ve ever had &mdash; Discover all the ways Princess<sup>&reg;</sup> MedallionClass&trade; gives you more time for &ldquo;me time.&rdquo;
+	]]></lead>
+	<body><![CDATA[
+		<img src='https://www.ensembletravel.com/assets/img/ezine/19/06/article/advertorial-03-logo.png' style='float: right; width: 100px; height: auto; margin-top: 20px; margin-left: 40px; margin-bottom: 40px;'>
+		<p>Exclusively on Princess, MedallionClass&trade; offers the fastest way to an easy, personalized and smooth-sailing vacation, featuring the OceanMedallion&trade;, a free, quarter-size device, that never needs to be turned on or off. On your ship, it replaces your key and credit card. All you have to do is wear it and almost anything you want is at your fingertips &ndash; a burger and beer, directions to your favorite show, even casino games.</p>
+		<p><strong>Introducing the Sky Princess<sup>SM</sup>, debuting in the Mediterranean Fall 2019 and sailing in the Caribbean in the Winter.</strong></p> 
+	]]></body>
+	
+	<tab_group id_supplier="pri">
+		<tab id="02">
+			<id><![CDATA[02]]></id>
+			<title><![CDATA[Accommodations]]></title> <!-- Hébergement -->
+			<content><![CDATA[
+				<p>Rest easy on Sky Princess<sup>SM</sup>, with more rooms to choose from ever before and each with an elevated, modern design. The biggest news is the Sky Suite, with room for five and featuring the largest balcony at sea, at more than 1000 sq. ft. (starboard side). This luxurious suite also features 270-degree panoramic views, including of the Movies Under the Stars<sup>&reg;</sup> big screen, and a host of other VIP amenities.</p>
+			]]></content>
+			<tab_src>https://www.ensembletravel.com/assets/img/ezine/19/10/article/ship-01-accommodations.jpg</tab_src>
+			<tab_caption><![CDATA[Accommodations]]></tab_caption>
+			<class><![CDATA[active]]></class>
+		</tab>
+
+		<tab id="03">
+			<id><![CDATA[03]]></id>
+			<title><![CDATA[Dining]]></title> <!-- Gastronomie -->
+			<content><![CDATA[
+				<p>Sky Princess℠ features the best of Princess with some new twists. The ship will feature over 25 restaurants and bars, including Princess Favorites, like Crown Grill<sup>SM</sup> and Sabatini&rsquo;s<sup>SM</sup> Italian Trattoria as well as La Mer<sup>SM</sup>, a French Bistro, inspired by Michelin-star chef Emmanuel Renaut.</p>
+			]]></content>
+			<tab_src>https://www.ensembletravel.com/assets/img/ezine/19/10/article/ship-01-dining.jpg</tab_src>
+			<tab_caption><![CDATA[Dining]]></tab_caption>
+			<class><![CDATA[]]></class>
+		</tab>
+
+		<tab id="04">
+			<id><![CDATA[04]]></id>
+			<title><![CDATA[Activities]]></title> <!-- Activités -->
+			<content><![CDATA[
+				<p><strong>CURBSIDE TO POOLSIDE IN A BREEZE</strong> <br />
+				From Discovery at Sea enrichment programs , destination - themed activities and culinary demonstrations &amp; wine tasting to world-class gaming, art auctions and of course, shopping - there's something for everyone aboard a Princess ship.</p>
+				<p>And on Sky Princess<sup>SM</sup>,  you also thrill to the beat of an all-new jazz lounge, featuring music that was born in the streets of New Orleans,  Enjoy captivating production shows in the Princess Theater. Unwind in the ultimate comfort of the Lotus Spa<sup>&reg;</sup> and the Sanctuary or recharge enjoying the top-deck at one of the many pools - including the new infinity style Wakeview Pool and Bar. The possibilities are endless on board the Sky Princess<sup>SM</sup>. </p>
+
+				<p><strong>BEST WI-FI AT SEA</strong><br />
+				Even if you are on vacation to get away from it all, you can still stay connected. Princess MedallionNet&trade; delivers land-like connectivity so guests can post photos, text, video chat, and stream their favorite shows and sports and more. Whether you are on deck, at a lounge or in your stateroom, you&rsquo;ll enjoy super-fast Wi-Fi!</p>
+			]]></content>
+			<tab_src>https://www.ensembletravel.com/assets/img/ezine/19/10/article/ship-01-activities.jpg</tab_src>
+			<tab_caption><![CDATA[Activities]]></tab_caption>
+			<class><![CDATA[]]></class>
+		</tab>
+
+		<tab id="05">
+			<id><![CDATA[05]]></id>
+			<title><![CDATA[Family]]></title> <!-- Famille -->
+			<content><![CDATA[
+				<p>Princess Cruises<sup>&reg;</sup> takes families around the world like no one else can - offering unique ways to experience the history, culture and excitement of every region they sail to.</p>
+				<p>On every cruise, feel the grin take over as you discover countless ways to have fun together at sea. Learn about the world and discover new interests in Camp Discovery youth centers, designed specifically for young cruisers. Share the day&rsquo;s story over a freshly prepared meal in one of their specialty restaurants, like Sabatini&rsquo;s<sup>SM</sup> Italian Trattoria. And celebrate your family&rsquo;s time together with a party package featuring <em>Stanley the Bear</em>, Princess&rsquo; stowaway mascot. The opportunities for adventure and the activities that the whole family can enjoy together are endless aboard Sky Princess<sup>SM</sup>.</p>			
+			]]></content>
+			<tab_src>https://www.ensembletravel.com/assets/img/ezine/19/10/article/ship-01-family.jpg</tab_src>
+			<tab_caption><![CDATA[Family]]></tab_caption>
+			<class><![CDATA[]]></class>
+		</tab>
+
+		<tab id="06">
+			<id><![CDATA[06]]></id>
+			<title><![CDATA[Services]]></title> <!-- Services -->
+			<content><![CDATA[
+				<p><strong>SERVICE ON DEMAND AT YOUR FINGERTIPS</strong><br />
+				Once you&rsquo;re on board, you&rsquo;ll discover a world of enhanced MedallionClass features, like drinks, snacks and more delivered anywhere on the ship with the OceanNow<sup>&reg;</sup> feature that you can access through the MedallionClass&trade; app on your smart device anytime you like.</p>
+				<p>You&rsquo;ll never get lost on board with our way-finding feature that guides you with turn-by-turn directions using the OceanCompass App. And if you need to find a travel companion, you&rsquo;ll be able to locate them anywhere on board &ndash; all using your smart phone or touch screens around the ship!</p>			
+			]]></content>
+			<tab_src>https://www.ensembletravel.com/assets/img/ezine/19/10/article/ship-01-services.jpg</tab_src>
+			<tab_caption><![CDATA[Services]]></tab_caption>
+			<class><![CDATA[]]></class>
+		</tab>
+	</tab_group>
+	
+	<hero_src>https://www.ensembletravel.com/assets/img/ezine/19/10/hero/ship-01.jpg</hero_src>
+	<article_src>https://www.ensembletravel.com/assets/img/ezine/19/10/article/ship-01.jpg</article_src>
+	
+	<tile_color>005DAB</tile_color>
+	<tile_class>opaque-100</tile_class>
+	<tile_new>none</tile_new>
+</article>
+	
+</root>

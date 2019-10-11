@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+<article date="1910" id="01">
+	<dir_name><![CDATA[video]]></dir_name>
+	<pub_date><![CDATA[October 2019]]></pub_date>
+	<dir_year><![CDATA[19]]></dir_year>
+	<dir_month><![CDATA[10]]></dir_month>
+	<file_video><![CDATA[01]]></file_video>
+	
+	<author><![CDATA[Cunard]]></author>
+	<id_supplier><![CDATA[cun]]></id_supplier>
+	
+	<title><![CDATA[The inspiration of Alaska, only on Cunard]]></title>
+	<teaser><![CDATA[Cunard]]></teaser>
+	<lead><![CDATA[
+		Amazing destinations, unique culture, incredible excursions and renowned guests.
+	]]></lead>
+	<body><![CDATA[]]></body>
+	<embed><![CDATA[
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/xdtNDIo6JTs?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	]]></embed>
+	
+	<tile_color>D2367D</tile_color>
+	<tile_class>opaque-100</tile_class>
+	<tile_new>none</tile_new>
+</article>
+
+<article date="1910" id="02">
+	<dir_name><![CDATA[video]]></dir_name>
+	<pub_date><![CDATA[October 2019]]></pub_date>
+	<dir_year><![CDATA[19]]></dir_year>
+	<dir_month><![CDATA[10]]></dir_month>
+	<file_video><![CDATA[02]]></file_video>
+	
+	<author><![CDATA[Melia Hotels International]]></author>
+	<id_supplier><![CDATA[mhi]]></id_supplier>
+	
+	<title><![CDATA[Melia Nassau Beach - All-Inclusive]]></title>
+	<teaser><![CDATA[Melia Hotels International]]></teaser>
+	<lead><![CDATA[
+		The only all-inclusive family friendly resort at Nassau. Located on the stunning Cable Beach. Perfect for families, couples, and white sand beach lovers.
+	]]></lead>
+	<body><![CDATA[]]></body>
+	<embed><![CDATA[
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/RQXlCnTyfYg?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	]]></embed>
+	
+	<tile_color>D2367D</tile_color>
+	<tile_class>opaque-100</tile_class>
+	<tile_new>none</tile_new>
+</article>
+
+<article date="1910" id="03">
+	<dir_name><![CDATA[video]]></dir_name>
+	<pub_date><![CDATA[October 2019]]></pub_date>
+	<dir_year><![CDATA[19]]></dir_year>
+	<dir_month><![CDATA[10]]></dir_month>
+	<file_video><![CDATA[03]]></file_video>
+	
+	<author><![CDATA[Norwegian Cruise Line]]></author>
+	<id_supplier><![CDATA[ncl]]></id_supplier>
+	
+	<title><![CDATA[Cruise Alaska – Feel Free to Let the Outside In]]></title>
+	<teaser><![CDATA[Norwegian Cruise Line]]></teaser>
+	<lead><![CDATA[
+		When you cruise with Norwegian, the awe of Alaska stays with you. So, come aboard the youngest fleet cruising Alaska and feel what’s it like when you let the outside in.
+	]]></lead>
+	<body><![CDATA[]]></body>
+	<embed><![CDATA[
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/hrJ0MwT0hYg?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	]]></embed>
+	
+	<tile_color>D2367D</tile_color>
+	<tile_class>opaque-100</tile_class>
+	<tile_new>none</tile_new>
+</article>
+
+<article date="1910" id="04">
+	<dir_name><![CDATA[video]]></dir_name>
+	<pub_date><![CDATA[October 2019]]></pub_date>
+	<dir_year><![CDATA[19]]></dir_year>
+	<dir_month><![CDATA[10]]></dir_month>
+	<file_video><![CDATA[04]]></file_video>
+	
+	<author><![CDATA[Rocky Mountaineer]]></author>
+	<id_supplier><![CDATA[rmt]]></id_supplier>
+	
+	<title><![CDATA[Journey Through the Clouds. See Canada’s Most Remote and Stunning Vistas]]></title>
+	<teaser><![CDATA[Rocky Mountaineer]]></teaser>
+	<lead><![CDATA[
+		Travel through scenic valleys, the Coast Mountains range and the Fraser Canyon with its spectacular white water rapids and dramatic landscape.
+	]]></lead>
+	<body><![CDATA[
+		<p>You will follow the route of the Fraser River, home of British Columbia’s largest salmon run, pass by the Albreda Glacier and magnificent Pyramid Falls, and hopefully see wildlife on the way. The highlight of this route is majestic Mount Robson, the highest peak in the Canadian Rockies.</p>
+	]]></body>
+	<embed><![CDATA[
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/7GAdTVlW6Ws?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	]]></embed>
+	
+	<tile_color>D2367D</tile_color>
+	<tile_class>opaque-100</tile_class>
+	<tile_new>none</tile_new>
+</article>
+
+</root>

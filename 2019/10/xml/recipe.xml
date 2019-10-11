@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+<article date="1910" id="01">
+	<dir_name><![CDATA[recipe]]></dir_name>
+	<pub_date><![CDATA[October 2019]]></pub_date>
+	<dir_year><![CDATA[19]]></dir_year>
+	<dir_month><![CDATA[10]]></dir_month>
+	<id_recipe><![CDATA[01]]></id_recipe>
+	
+	<tab_class><![CDATA[active]]></tab_class>
+	
+	<author><![CDATA[Rocky Mountaineer]]></author>
+	<id_supplier><![CDATA[rmt]]></id_supplier>
+	<translator><![CDATA[]]></translator> <!-- Isabelle Labrosse -->
+	<cookbook><![CDATA[Serves 4]]></cookbook>
+	
+	<title><![CDATA[Braised Alberta Beef Short Ribs]]></title>
+	<teaser><![CDATA[Rocky Mountaineer]]></teaser>
+	<lead><![CDATA[
+		The meals enjoyed onboard Rocky Mountaineer are inspired by Western Canada&rsquo;s diverse culinary landscape, our rich tapestry of cultures, and the bountiful regions&nbsp;we travel through. See below for a recipe of one of our most popular dishes, braised Alberta beef short ribs simmered in Okanagan Valley Merlot and served with horseradish mashed potatoes. Bon&nbsp;appetit!
+	]]></lead>
+	<body><![CDATA[]]></body>
+	
+	<item>
+		<title><![CDATA[]]></title>
+		<ingredients><![CDATA[
+			<h4>Ingredients</h4> <!-- Ingrédients -->
+			<p><strong>Braised Short Ribs</strong></p>
+			<ul>
+				<li>1 bottle Okanagan Valley Merlot </li>
+				<li>30 ml / 2 Tbsp vegetable oil </li>
+				<li>900 g / 2 lb short ribs, trimmed </li>
+				<li>to taste sea salt </li>
+				<li>7 g / 1&frac12; tsp black peppercorns, crushed </li>
+				<li>10 garlic cloves </li>
+				<li>8 shallots, large, trimmed &amp; split </li>
+				<li>2 carrots, chopped </li>
+				<li>2 celery stalks, chopped </li>
+				<li>1 leek, chopped </li>
+				<li>6 sprigs Italian parsley </li>
+				<li>2 sprigs fresh thyme </li>
+				<li>2 bay leaves </li>
+				<li>30 g / 2 Tbsp tomato paste </li>
+				<li>2 litres / 8 cups beef or chicken stock, unsalted </li>
+				<li>to taste white pepper, ground </li>
+				<li>3 pcs pappadum </li>
+			</ul>
+			<p><strong>Horseradish Mashed Potatoes</strong></p>
+			<ul>
+				<li>1.4 kg / 3 lb yellow flesh potatoes, cut </li>
+				<li>3 litres / 12 cups salted water </li>
+				<li>120 ml / &frac12; cup 33% heavy cream </li>
+				<li>60 ml / &frac14; cup milk to taste horseradish </li>
+				<li>60 g / &frac14; cup butter to taste pepper, ground </li>
+				<li>to taste sea salt </li>
+			</ul>
+		]]></ingredients>
+		
+		<prep><![CDATA[
+			<h4>Preparation</h4> <!-- Préparation -->
+			<p><strong>Braised Short Ribs</strong><br />
+			Pour the wine into a large saucepan set over medium heat. When the wine is heated, carefully set it aflame. Let the flames die out, then increase the heat so that the wine boils. Allow it to boil until it cooks down by half. Remove from the heat.</p>
+			<p>Centre a rack in the oven and preheat to 175&deg;C / 350&deg;F. Place the pappadum on the oven rack and bake until bubbles start to appear on the surface and the pappadum starts to brown (approximately 5 minutes). Immediately remove from the oven and set aside. </p>
+			<p>Heat the oil over medium-high heat in a Dutch oven or large casserole dish big enough to hold 6 ribs. Season the ribs all over with salt and crushed pepper. When the oil is hot, slip the ribs into the pot and sear for 4 to 5 minutes on each side, until well browned. Transfer the browned ribs to a plate. </p>
+			<p>Remove all but 14 ml / 1 Tbsp of fat from the pot. Chop the carrots, celery and leek into 3 cm / 1 inch pieces. Lower the heat to medium, and toss in the vegetables and herbs. Brown the vegetables lightly for 5 to 7 minutes, then stir in the tomato paste and cook for 1 minute to blend. Deglaze with the reduced red wine and add browned ribs and stock to the pot. Bring to a boil. Cover the pot tightly and slide it into the oven to braise for about 2&frac12; hours, or until the ribs are tender enough to be easily pierced with a fork. Every 30 minutes or so, lift the lid and skim and discard whatever fat may have bubbled up to the surface. </p>
+			<p>Carefully transfer the meat to a heated serving platter with a lip and keep warm. Boil the pan liquid until it thickens and reduces to approximately 1 litre / 4 cups. Season with salt and pepper and pass through a fine-mesh strainer into a bowl. Discard the solids, and set aside the sauce. </p>
+			<p><strong>Horseradish Mashed Potatoes </strong><br />
+			Bring 3 litres / 3 quarts of salted water to a boil in a heavy saucepan. Add in the washed, peeled and cut potatoes and cook until very soft (35 to 55 minutes) at a medium boil. Drain all water and mash potatoes. Add in the cream and milk. Check seasoning (salt and pepper), and add horseradish to taste. Finish off with fresh butter.</p>
+		]]></prep>
+	</item>
+	
+	<body_2><![CDATA[]]></body_2>
+	
+	<sidebar><![CDATA[]]></sidebar>
+	
+	<hero_src>https://www.ensembletravel.com/assets/img/ezine/19/10/hero/recipe-01.jpg</hero_src>
+	<hero_caption><![CDATA[Braised Alberta Beef Short Ribs]]></hero_caption>
+	<hero_credit><![CDATA[Rocky Mountaineer]]></hero_credit>
+	<article_src>https://www.ensembletravel.com/assets/img/ezine/19/10/article/recipe-01.jpg</article_src>
+	<article_caption><![CDATA[Braised Alberta Beef Short Ribs]]></article_caption>
+	<article_credit><![CDATA[Rocky Mountaineer]]></article_credit>
+	
+	<tile_color>A8CB17</tile_color>
+	<tile_class>opaque-100</tile_class>
+	<tile_new>none</tile_new>
+</article>
+
+<article date="1910" id="02">
+	<dir_name><![CDATA[recipe]]></dir_name>
+	<pub_date><![CDATA[October 2019]]></pub_date>
+	<dir_year><![CDATA[19]]></dir_year>
+	<dir_month><![CDATA[10]]></dir_month>
+	<id_recipe><![CDATA[02]]></id_recipe>
+	
+	<tab_class><![CDATA[]]></tab_class>
+	
+	<author><![CDATA[Seabourn]]></author>
+	<id_supplier><![CDATA[sea]]></id_supplier>
+	<translator><![CDATA[]]></translator> <!-- Isabelle Labrosse -->
+	<cookbook><![CDATA[Serves 4]]></cookbook>
+	
+	<title><![CDATA[Breadsticks Seabourn]]></title>
+	<teaser><![CDATA[Seabourn]]></teaser>
+	<lead><![CDATA[
+		Seabourn&rsquo;s award-winning cuisine starts with the finest quality ingredients, infused with authentic regional flavors, prepared &aacute; la minute by our skilled chefs and served with pride.
+	]]></lead>
+	<body><![CDATA[
+		<p>Each Seabourn ship offers a choice of dining venues to suit your mood of the moment, and nearly all are open-seating, inviting you to dine where, when and with whom you wish. Complimentary fine wines are poured with lunch and dinner, and there is never an extra charge for any dining choice. You can even enjoy a meal in your suite or on your veranda, with our compliments.</p>
+		<p>Seabourn is a proud member of Cha&icirc;ne des R&ocirc;tisseurs, one of the world&rsquo;s most prestigious gastronomic societies devoted to the art of fine dining.</p>
+	
+	]]></body>
+	
+	<item>
+		<title><![CDATA[]]></title>
+		<ingredients><![CDATA[
+			<h4>Ingredients</h4> <!-- Ingrédients -->
+			<ul>
+				<li>1000g flour, all-purpose</li>
+				<li>30g fresh yeast</li>
+				<li>10g salt</li>
+				<li>25g sugar</li>
+				<li>3g bread improver (ignore if not available)</li>
+				<li>375g butter &ndash; unsalted</li>
+				<li>300ml ice cold water</li>
+				<li>4 eggs &ndash; to brush the sticks</li>
+				<li>Kosher salt or Sea Salt</li>
+			</ul>
+		]]></ingredients>
+		
+		<prep><![CDATA[
+			<h4>Preparation</h4> <!-- Préparation -->
+			<p>Mix all the ingredients (besides egg and kosher salt) in the mixer for 10 min and allow resting for several hours in the fridge.</p>
+			<p>Roll the dough in the dough sheeting machine or pasta machine about 1/8 inch (3mm) thick, and cut the rolled dough sheet in the pasta machine using the fettuccine cutter &frac14; inch (6mm) width.</p>
+			<p>Grease a baking sheet.</p>
+			<p>On a baking sheet pan arrange the individual &ldquo;fettuccine&rdquo; in a straight line. Make sure there are enough gaps (1/8 inch or 3mm) between each as they will puff up slightly.</p>
+			<p>Brush with egg wash. Sprinkle with kosher or sea salt (or any other flavorings or toppings)</p>
+			<p>Allow the sticks to prove for a 10 &ndash; 20 min in a warm place.</p>
+			<p>Bake by 220&deg;C (400&deg;F) for about 10 to 12 minutes till crispy and golden brown.&nbsp; </p>
+		]]></prep>
+	</item>
+	
+	<body_2><![CDATA[]]></body_2>
+	
+	<sidebar><![CDATA[]]></sidebar>
+	
+	<hero_src>https://www.ensembletravel.com/assets/img/ezine/19/10/hero/recipe-02.jpg</hero_src>
+	<hero_caption><![CDATA[Breadsticks Seabourn]]></hero_caption>
+	<hero_credit><![CDATA[Seabourn]]></hero_credit>
+	<article_src>https://www.ensembletravel.com/assets/img/ezine/19/10/article/recipe-02.jpg</article_src>
+	<article_caption><![CDATA[Breadsticks Seabourn]]></article_caption>
+	<article_credit><![CDATA[Seabourn]]></article_credit>
+	
+	<tile_color>A8CB17</tile_color>
+	<tile_class>opaque-100</tile_class>
+	<tile_new>none</tile_new>
+</article>
+
+</root>
