@@ -14,14 +14,16 @@
 		<author><![CDATA[Princess Cruises]]></author>
 		<id_supplier><![CDATA[pri]]></id_supplier>
 		<translator><![CDATA[]]></translator>
-		<cookbook><![CDATA[servingPortion]]></cookbook>
+		<cookbook><![CDATA[Makes 1 cocktail]]></cookbook>
 ​
 		<title><![CDATA[Vanilla Sky inspired by the destination of Tahiti]]></title>
 		<teaser><![CDATA[Princess Cruises]]></teaser>
 		<lead><![CDATA[
-		Inspired by the destinations that Princess Cruises sails, a new partnership has been announced with Mixologist Rob Floyd. Floyd believes spectacular drinks combine the best of &ldquo;The Three T&rsquo;s.&rdquo; First and foremost is &ldquo;Taste,&rdquo; as interesting ingredient combinations produce delicious flavors. The second element, &ldquo;Technique,&rdquo; refers to the skill and craft that goes into creating each drink. And last but not least the &ldquo;Tale;&rdquo; a creative and fascinating inspiration behind each unique cocktail.
-	]]></lead>
-		<body><![CDATA[]]></body>
+			Inspired by the destinations that Princess Cruises sails, a new partnership has been announced with Mixologist Rob Floyd.
+		]]></lead>
+		<body><![CDATA[
+			<p>Floyd believes spectacular drinks combine the best of &ldquo;The Three T&rsquo;s.&rdquo; First and foremost is &ldquo;Taste,&rdquo; as interesting ingredient combinations produce delicious flavors. The second element, &ldquo;Technique,&rdquo; refers to the skill and craft that goes into creating each drink. And last but not least the &ldquo;Tale;&rdquo; a creative and fascinating inspiration behind each unique cocktail.</p>
+		]]></body>
 ​
 		<item>
 			<title><![CDATA[]]></title>
@@ -39,7 +41,12 @@
 ​
 			<prep><![CDATA[
 			<h4>Preparation</h4> <!-- Préparation -->
-			<p>In a mixing tin add Vanilla Vodka, lime juice, fresh pineapple juice, Orgeat syrup, Orange Curacao &amp; Agave.  Shake with ice. Strain over fresh ice into Collins glass. Garnish with mint &amp; Pineapple</p>
+			<ol>
+				<li>In a mixing tin add Vanilla Vodka, lime juice, fresh pineapple juice, Orgeat syrup, Orange Curacao &amp; Agave.</li>
+				<li>Shake with ice.</li>
+				<li>Strain over fresh ice into Collins glass.</li>
+				<li>Garnish with mint &amp; pineapple.</li>
+			</ol>
 		]]></prep>
 		</item>
 ​
@@ -59,5 +66,5 @@
 		<tile_new>none</tile_new>
 	</article>
 <!-- END: 1911 PRI -->
-	
+
 </root>
