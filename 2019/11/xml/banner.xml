@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+​
+<!-- BEGIN: 1911 HAL -->
+	<element date="1911" id="banner-1911-hal">
+		<country><![CDATA[ca]]></country>
+		<tactic><![CDATA[banner]]></tactic>
+		<year><![CDATA[19]]></year>
+		<month><![CDATA[11]]></month>
+		<id_live><![CDATA[01]]></id_live>
+​
+		<supplier><![CDATA[Holland America Line]]></supplier>
+		<directory><![CDATA[hal]]></directory>
+​
+		<title><![CDATA[Holland America Line&rsquo;s Alaska]]></title>
+		<intro><![CDATA[Welcome to Holland America Line, the only cruise line dedicated to explorers, foodies and music lovers.]]></intro>
+		<offer><![CDATA[
+			For a limited-time, book select sailings and receive <strong>Our Agency Exclusive</strong> Amenities PLUS onboard spending money and more!
+		]]></offer>
+		<content><![CDATA[
+			<p>Holland America Line&rsquo;s carefully crafted itineraries blend the region&rsquo;s most popular ports with dozens of fascinating and often less visited gems. Most sailings also include Half Moon Cay, the region&rsquo;s most highly rated, private-island experience. And Holland America Line&rsquo;s ships are built for cruising, not for crowds. Sail on Holland America Line&rsquo;s beautiful new ship, Nieuw Statendam, with more space and fewer crowds, and explore their many different Caribbean destinations to find your next adventure beyond the shore.</p>
+		]]></content>
+​
+		<terms id="banner-1911-hal">
+			<consumer><![CDATA[
+				*Fares are based on Promo LG. Featured fares are per person based on double occupancy, cruise or Land+Sea Journeys only. Fares are in Canadian dollars. All savings amounts are included in the fares shown. Taxes, Fees &amp; Port Expenses are included and range from CAD 213 to CAD 519. Subject to availability. For more information about our stateroom categories and suite descriptions, and to view deck plans and for full terms and conditions applicable to your cruise, please refer to hollandamerica.com or the appropriate Holland America brochure. Offers have limited space and may be modified or withdrawn without prior notice. Other restrictions may apply. Ships' Registry: The Netherlands.
+			]]></consumer>
+​
+			<agent><![CDATA[]]></agent>
+		</terms>
+​
+		<products>
+			<!-- PRODUCT ONE -->
+			<product id="banner-1911-hal">
+				<title><![CDATA[7-Day Tropical Caribbean]]></title>
+				<offer><![CDATA[<strong>Our Agency: Hosted Sailing</strong> Includes welcome cocktail party, traveler host, and experience shore excursion.]]></offer>
+				<description><![CDATA[
+					Honoring our past while looking to the future, Nieuw Statendam is the sixth ship in Holland America Line&rsquo;s history to bear the name &ldquo;Statendam.&rdquo;
+				]]></description>
+​
+				<cost><![CDATA[$1,529]]></cost>
+				<taxes><![CDATA[including taxes]]></taxes>
+				<departing><![CDATA[Mar 29, 2020]]></departing>
+				<duration><![CDATA[7 days]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[CAD]]></currency>
+​
+				<ship><![CDATA[Nieuw Statendam]]></ship>
+				<category><![CDATA[Category E, Ocean view]]></category>
+				<embarkation><![CDATA[Roundtrip]]></embarkation>
+				<disembarkation><![CDATA[Fort Lauderdale]]></disembarkation>
+​
+				<img_hero><![CDATA[prod-hal-01-ca.jpg]]></img_hero>
+​
+				<amenities_title><![CDATA[]]></amenities_title>
+				<amenities_desc><![CDATA[]]></amenities_desc>
+				<exclusives_title><![CDATA[]]></exclusives_title>
+				<exclusives_desc><![CDATA[]]></exclusives_desc>
+				<inclusions_title><![CDATA[]]></inclusions_title>
+				<inclusions_desc><![CDATA[]]></inclusions_desc>
+​
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+​
+			<!-- PRODUCT TWO -->
+			<product id="banner-1911-hal">
+				<title><![CDATA[10-Day Panama Canal Sunfarer]]></title>
+				<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Up to US$50 onboard spending money per stateroom.]]></offer>
+				<description><![CDATA[
+					Beginning and ending in Ft. Lauderdale, this unforgettable journey starts with a day on our private island, Half Moon Cay, before making stops in Aruba, Curacao and Panama.
+				]]></description>
+​
+				<cost><![CDATA[$2,549]]></cost>
+				<taxes><![CDATA[including taxes]]></taxes>
+				<departing><![CDATA[Mar 29, 2020]]></departing>
+				<duration><![CDATA[7 days]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[CAD]]></currency>
+​
+				<ship><![CDATA[Zuiderdam]]></ship>
+				<category><![CDATA[Category F, Ocean view]]></category>
+				<embarkation><![CDATA[Roundtrip]]></embarkation>
+				<disembarkation><![CDATA[Fort Lauderdale]]></disembarkation>
+​
+				<img_hero><![CDATA[prod-hal-02-ca.jpg]]></img_hero>
+​
+				<amenities_title><![CDATA[]]></amenities_title>
+				<amenities_desc><![CDATA[]]></amenities_desc>
+				<exclusives_title><![CDATA[]]></exclusives_title>
+				<exclusives_desc><![CDATA[]]></exclusives_desc>
+				<inclusions_title><![CDATA[]]></inclusions_title>
+				<inclusions_desc><![CDATA[]]></inclusions_desc>
+​
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+​
+			<!-- PRODUCT THREE -->
+			<product id="banner-1911-hal">
+				<title><![CDATA[12-Day Mexico Sea Of Cortez]]></title>
+				<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Up to US$50 onboard spending money per stateroom and one Canaletto dinner for 2]]></offer>
+				<description><![CDATA[
+					On this San Diego roundtrip explore the charming ports that rim the Sea of Cortez, including Puerto Vallarta, Mazatl&aacute;n, La Paz and Loreto.
+				]]></description>
+​
+				<cost><![CDATA[$2,128]]></cost>
+				<taxes><![CDATA[including taxes]]></taxes>
+				<departing><![CDATA[Apr 3, 2020]]></departing>
+				<duration><![CDATA[7 days]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[CAD]]></currency>
+​
+				<ship><![CDATA[Maasdam]]></ship>
+				<category><![CDATA[Category FF, Ocean view]]></category>
+				<embarkation><![CDATA[Roundtrip]]></embarkation>
+				<disembarkation><![CDATA[San Diego]]></disembarkation>
+​
+				<img_hero><![CDATA[prod-hal-03-ca.jpg]]></img_hero>
+​
+				<amenities_title><![CDATA[]]></amenities_title>
+				<amenities_desc><![CDATA[]]></amenities_desc>
+				<exclusives_title><![CDATA[]]></exclusives_title>
+				<exclusives_desc><![CDATA[]]></exclusives_desc>
+				<inclusions_title><![CDATA[]]></inclusions_title>
+				<inclusions_desc><![CDATA[]]></inclusions_desc>
+​
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+		</products>
+​
+		<brandcolor>HEXColor</brandcolor>
+		<iframe_height></iframe_height>
+		<id_ezine><![CDATA[banner-##]]></id_ezine>
+		<file><![CDATA[]]></file>
+	</element>
+<!-- END: 1911 HAL -->
+
+<!-- BEGIN: 1911 WJV -->
+	<element date="1911" id="banner-1911-wjv">
+		<country><![CDATA[ca]]></country>
+		<tactic><![CDATA[banner]]></tactic>
+		<year><![CDATA[19]]></year>
+		<month><![CDATA[11]]></month>
+		<id_live><![CDATA[02]]></id_live>
+​
+		<supplier><![CDATA[Westjet Vacations]]></supplier>
+		<directory><![CDATA[wjv]]></directory>
+​
+		<title><![CDATA[Resort credit - Wynn Las Vegas and Encore]]></title>
+		<intro><![CDATA[Enrich stay with a $25 daily resort credit up to $150 your minimum 2-night at Wynn Las Vegas and Encore.]]></intro>
+		<offer><![CDATA[
+			Enrich your stay by receiving a $25 daily resort credit with a minimum 2-night stay at Wynn Las Vegas and Encore.
+		]]></offer>
+		<content><![CDATA[
+<p>The longer you stay, the more you can treat yourself at the luxurious Wynn Las Vegas or Encore.</p>
+<ul>
+	<li>Receive up to $50 in resort credit with a minimum 2-night stay.</li>
+	<li>Receive up to $75 in resort credit with a minimum 3-night stay.</li>
+	<li>Receive up to $100 in resort credit with a minimum 4-night stay.</li>
+	<li>Receive up to $125 in resort credit with a minimum 5-night stay.</li>
+	<li>Receive up to $150 in resort credit with a minimum 6-night stay.</li>
+</ul>
+
+<p><strong>Book by:</strong> November 30, 2019&nbsp;(11:59 p.m. MT)<br>
+<strong>Travel:</strong> October 1, 2019 - September 30, 2020<br>
+<strong>Blackout dates:</strong> December 28, 2019 - January 1, 6-8, 2020 and May 15-18, 2020<br>
+<strong>How to get this offer:</strong> Resort credit will be distributed to guests upon arrival at the time of check-in.</p>
+
+<p><strong>Participating hotels:</strong><br>
+Wynn Las Vegas &#9733;&#9733;&#9733;&#9733;&#9733;<br>
+Encore at Wynn Las Vegas &#9733;&#9733;&#9733;&#9733;&#9733;</p>
+
+<p><strong>Wynn Las Vegas overview</strong><br>
+Surrounding guests in opulence and indulgence, Wynn Resorts hold more Forbes Travel Guide Five-Star awards than any other casino resort in the world. As guests enjoy the finest in dining and shopping, heated pools amid manicured gardens, spa, salon and a unique Lake of Dreams, with its 40-foot waterfall, pine-topped mountain and nightly shows is a sight to behold.&nbsp;The experience at Wynn Las Vegas is worlds away from ordinary.</p>
+
+<p><strong>Encore at Wynn Las Vegas overview</strong><br>
+Wynn Las Vegas&rsquo; sister property Encore seduces guests with attentive service, distinctive variety of restaurants, and exquisite detailing. Guests discover an intimate ambiance complete with sunlit corridors, flowering atria, and sprawling pools visible throughout the property. Relax all day, let go all night at Encore&rsquo;s world-famous XS Nightclub. You will delight in the luxury that is distinctly Encore.</p>
+		]]></content>
+​
+		<terms id="banner-1911-wjv">
+			<consumer><![CDATA[
+<p>Legal, restrictions and terms and conditions</p>
+<ul>
+	<li>Advance booking required.</li>
+	<li>Non-refundable and non-transferable.</li>
+	<li>Offer limited and subject to availability.</li>
+	<li>Offer subject to change and expire without notice.</li>
+	<li>New bookings only.</li>
+	<li>Not valid on group bookings.</li>
+	<li>Other restrictions may apply.</li>
+	<li>Other blackout dates may apply.</li>
+	<li>Airport transfers to/from the hotel are not included.</li>
+	<li>Coupons have no cash value and will expire upon check-out.</li>
+	<li>There is no cash reimbursement if unused.</li>
+	<li>A minimum 2-night stay is required.</li>
+	<li>The resort credit is valid towards items charged to your room at Wynn Las Vegas or Encore during your stay excluding: resort fee, room rate, retail items, casino play, Cipriani, Urth Caffe, Encore Beach Club, La Cave, gratuities and taxes.</li>
+	<li>Guests must charge costs to their room for the credit to be applied.</li>
+	<li>The maximum credit earned per stay is $150 with a stay of 6 nights.</li>
+	<li>Offer is applicable to the Wynn Resort Two Doubles, Wynn Resort King, Wynn Panoramic View Two Doubles, and Wynn Panoramic View King with Resort Credit room types at the Wynn Las Vegas.&nbsp;</li>
+	<li>Offer is applicable to the Encore Resort King, Encore Resort Two Queens and Encore Panoramic View King with Resort Credit room types at Encore.</li>
+	<li>Quebec licensee. </li>
+	<li>Ontario travel agents are covered by TICO. Mailing address: 6085 Midfield Road, Toronto ON L5P 1A2. TICO registration number: 50018683.</li>
+</ul>
+			]]></consumer>
+​
+			<agent><![CDATA[]]></agent>
+		</terms>
+	</element>
+<!-- END: 1911 WJV -->
+​
+</root>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+<!-- BEGIN: 1911 PRI -->
+	<article date="1911" id="01">
+		<dir_name><![CDATA[recipe]]></dir_name>
+		<pub_date><![CDATA[November 2019]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[19]]></dir_year>
+		<dir_month><![CDATA[11]]></dir_month>
+		<id_recipe><![CDATA[01]]></id_recipe>
+​
+		<tab_class><![CDATA[active]]></tab_class>
+​
+		<author><![CDATA[Princess Cruises]]></author>
+		<id_supplier><![CDATA[pri]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		<cookbook><![CDATA[servingPortion]]></cookbook>
+​
+		<title><![CDATA[Vanilla Sky inspired by the destination of Tahiti]]></title>
+		<teaser><![CDATA[Princess Cruises]]></teaser>
+		<lead><![CDATA[
+		Inspired by the destinations that Princess Cruises sails, a new partnership has been announced with Mixologist Rob Floyd. Floyd believes spectacular drinks combine the best of &ldquo;The Three T&rsquo;s.&rdquo; First and foremost is &ldquo;Taste,&rdquo; as interesting ingredient combinations produce delicious flavors. The second element, &ldquo;Technique,&rdquo; refers to the skill and craft that goes into creating each drink. And last but not least the &ldquo;Tale;&rdquo; a creative and fascinating inspiration behind each unique cocktail.
+	]]></lead>
+		<body><![CDATA[]]></body>
+​
+		<item>
+			<title><![CDATA[]]></title>
+			<ingredients><![CDATA[
+			<h4>Ingredients</h4> <!-- Ingrédients -->
+			<ul>
+				<li>1.5 oz Vanilla Vodka</li>
+				<li>.25 Agave</li>
+				<li>.75 oz Lime Juice</li>
+				<li>.75 Fresh Pineapple Juice</li>
+				<li>.5 oz Orgeat syrup</li>
+				<li>.25 oz Orange Curacao</li>
+			</ul>
+		]]></ingredients>
+​
+			<prep><![CDATA[
+			<h4>Preparation</h4> <!-- Préparation -->
+			<p>In a mixing tin add Vanilla Vodka, lime juice, fresh pineapple juice, Orgeat syrup, Orange Curacao &amp; Agave.  Shake with ice. Strain over fresh ice into Collins glass. Garnish with mint &amp; Pineapple</p>
+		]]></prep>
+		</item>
+​
+		<body_2><![CDATA[]]></body_2>
+​
+		<sidebar><![CDATA[]]></sidebar>
+​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/19/11/hero/recipe-01.jpg</hero_src>
+		<hero_caption><![CDATA[Vanilla Sky inspired by the destination of Tahiti]]></hero_caption>
+		<hero_credit><![CDATA[Princess Cruises]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/19/11/article/recipe-01.jpg</article_src>
+		<article_caption><![CDATA[Vanilla Sky inspired by the destination of Tahiti]]></article_caption>
+		<article_credit><![CDATA[Princess Cruises]]></article_credit>
+​
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+<!-- END: 1911 PRI -->
+	
+</root>
