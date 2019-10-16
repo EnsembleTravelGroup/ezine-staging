@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="1911">
+		<dir_name><![CDATA[style]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[November 2019]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[19]]></dir_year>
+		<dir_month><![CDATA[11]]></dir_month>
+​
+		<author><![CDATA[Christina Newberry]]></author>
+		<translator><![CDATA[]]></translator>
+​
+		<title><![CDATA[Amazing Outdoor Adventures in the Pearl of Africa]]></title>
+		<teaser><![CDATA[
+			Indulge in a country so incredible, it&rsquo;ll take your breath away.
+		]]></teaser>
+		<lead><![CDATA[
+			It&rsquo;s easy to see why Winston Churchill called Uganda the &ldquo;Pearl of Africa.&rdquo; Straddling the equator, this stunning country&rsquo;s diverse landscapes and incredible wildlife experiences will take your breath away. Here are just a few of the unforgettable outdoor activities to explore in this East African gem.
+		]]></lead>
+		<body><![CDATA[
+<p><em>Trek for gorillas or chimpanzees</em><br>
+Uganda is one of only two countries in the world where you can trek to see the endangered mountain gorilla in the wild. At Bwindi Impenetrable Forest, a guide hacks his way through the trees with a machete, guiding you to your assigned gorilla family. </p>
+<p>You might spot huge silverbacks or tiny babies. You&rsquo;ll have an hour to spend in silence with these impressive great apes, watching them interact with each other or snooze under the leaves.</p>
+<p>For a completely different trekking experience, head to Kalinzu National Forest to visit a family of chimpanzees. The trekking is generally easier, but the wildlife experience is much less serene. Chimp shouts and calls can be heard up to a mile away, and you'll need to keep your wits about you to watch out for fruit being flung from on high.</p>
+<p><em>Watch hippos bathing in the Nile</em><br>
+The world&rsquo;s longest river, the Nile, begins in Jinga, Uganda, and flows 4,132 miles through nine countries. In Murchison Falls National Park, you can ride along the Nile in a small motorboat, passing elephants, crocodiles, and an astonishing number of brightly-colored birds on the shore.</p>
+<p>But the most impressive beasts you&rsquo;ll spot on a Nile safari are the hippos. Gathered in large groups, the semi-submerged beasts eye you menacingly. In fact, these are among the most dangerous animals you can come across in this country. It&rsquo;s a treat to be close enough to see the water running off their slippery skin from the safety of the boat.</p>
+<p><em>Hike Murchison Falls</em><br>
+Ernest Hemingway spent an unplanned night very near the base of the world&rsquo;s most powerful waterfall when his small plane crashed here in 1954. A small sign marked PBM 9026, the plane&rsquo;s registration number, marks the spot where Hemingway and his wife Mary spent the night, injured, fending off wild elephants.  </p>
+<p>But you won&rsquo;t crash on your exotic adventure; instead, you&rsquo;ll climb for 45 minutes up the hiking trail to the top of Murchison Falls, where the entire Nile squeezes through a 21-foot gap before thundering down 141 feet. The mist the falls throw off creates a perfect rainbow and cools your face as you prepare for the hike back down.</p>
+<p><em>Take a lion research safari</em><br>
+The best way to get up close to the kings of the jungle in the wild is to pair up with a researcher in Queen Elizabeth National Park. By tracking the movements of lions tagged with radio collars, the researchers help preserve peace between animals and local communities, while studying how lions live and behave.</p>
+<p>Joining a research safari allows you to go off-road in the park, something no other safari can do. Between the off-road access and the radio tracker, you have the best chance to find lions and watch them eat a fresh kill while vultures lurk nearby waiting for scraps.</p>
+		]]></body>
+​
+		<!-- <p class="question"><strong>Q:</strong> -->
+​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/19/11/hero/style.jpg</hero_src>
+		<hero_caption><![CDATA[Amazing Outdoor Adventures in the Pearl of Africa]]></hero_caption>
+		<hero_credit><![CDATA[Travel Style]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/19/11/article/style.jpg</article_src>
+		<article_caption><![CDATA[Amazing Outdoor Adventures in the Pearl of Africa]]></article_caption>
+		<article_credit><![CDATA[Travel Style]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/19/11/email/style.jpg</email_src>
+​
+		<tile_color>00B9F2</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+​
+		<tags>
+			<tag slug="africa"><![CDATA[africa]]></tag>
+			<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="safari-wildlife"><![CDATA[safari-wildlife]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+		</tags>
+	</article>
+</root>
