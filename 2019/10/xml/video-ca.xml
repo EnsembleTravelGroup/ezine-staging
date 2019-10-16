@@ -1,41 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-
-<!-- BEGIN: 1911 NCL -->
-<article date="1911" id="01">
-<dir_name><![CDATA[video]]></dir_name>
-<pub_date><![CDATA[November 2019]]></pub_date>
-<dir_year><![CDATA[19]]></dir_year>
-<dir_month><![CDATA[11]]></dir_month>
-<file_video><![CDATA[01]]></file_video>
-
-<author><![CDATA[Norwegian Cruise Line]]></author>
-<id_supplier><![CDATA[ncl]]></id_supplier>
-
-<title><![CDATA[Norwegian Cruise Line &ndash; The Caribbean]]></title>
-<teaser><![CDATA[Norwegian Cruise Line]]></teaser>
-<lead><![CDATA[With seven convenient departure ports, 12 amazing ships including the newest ship, Norwegian Encore, island-hopping The Caribbean with Norwegian is a breeze.]]></lead>
-<body><![CDATA[]]></body>
-<embed><![CDATA[
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/IQdWTSQ_c2A?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-]]></embed>
-
-<tile_color>D2367D</tile_color>
-<tile_class>opaque-100</tile_class>
-<tile_new>none</tile_new>
-</article>
-<!-- END: 1911 NCL -->
-
+	
 <article date="1910" id="01">
 	<dir_name><![CDATA[video]]></dir_name>
 	<pub_date><![CDATA[October 2019]]></pub_date>
 	<dir_year><![CDATA[19]]></dir_year>
 	<dir_month><![CDATA[10]]></dir_month>
 	<file_video><![CDATA[01]]></file_video>
-
+	
 	<author><![CDATA[AmaWaterways]]></author>
 	<id_supplier><![CDATA[amw]]></id_supplier>
-
+	
 	<title><![CDATA[Cruise the Rhine with AmaWaterways]]></title>
 	<teaser><![CDATA[AmaWaterways]]></teaser>
 	<lead><![CDATA[
@@ -45,7 +20,7 @@
 	<embed><![CDATA[
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/UVIHbA9mklA?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	]]></embed>
-
+	
 	<tile_color>D2367D</tile_color>
 	<tile_class>opaque-100</tile_class>
 	<tile_new>none</tile_new>
@@ -57,20 +32,20 @@
 	<dir_year><![CDATA[19]]></dir_year>
 	<dir_month><![CDATA[10]]></dir_month>
 	<file_video><![CDATA[02]]></file_video>
-
+	
 	<author><![CDATA[Holland America Line]]></author>
 	<id_supplier><![CDATA[hal]]></id_supplier>
-
+	
 	<title><![CDATA[Our Europe is your Europe]]></title>
 	<teaser><![CDATA[Holland America Line]]></teaser>
 	<lead><![CDATA[
-		Immerse yourself in the fascinating past and breathtaking natural beauty of Northern Europe or explore the Mediterranean’s seaside cities before sitting down together for an unforgettable meal.
+		Immerse yourself in the fascinating past and breathtaking natural beauty of Northern Europe or explore the Mediterranean’s seaside cities before sitting down together for an unforgettable meal. 
 	]]></lead>
 	<body><![CDATA[]]></body>
 	<embed><![CDATA[
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/SVGlXO3Wt_8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	]]></embed>
-
+	
 	<tile_color>D2367D</tile_color>
 	<tile_class>opaque-100</tile_class>
 	<tile_new>none</tile_new>
@@ -82,10 +57,10 @@
 	<dir_year><![CDATA[19]]></dir_year>
 	<dir_month><![CDATA[10]]></dir_month>
 	<file_video><![CDATA[03]]></file_video>
-
+	
 	<author><![CDATA[Princess Cruises]]></author>
 	<id_supplier><![CDATA[pri]]></id_supplier>
-
+	
 	<title><![CDATA[The Rhythm of Mexico Awaits | Find it with Princess Cruises]]></title>
 	<teaser><![CDATA[Princess Cruises]]></teaser>
 	<lead><![CDATA[
@@ -97,10 +72,10 @@
 	<embed><![CDATA[
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/akDgiM9IVPQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	]]></embed>
-
+	
 	<tile_color>D2367D</tile_color>
 	<tile_class>opaque-100</tile_class>
 	<tile_new>none</tile_new>
 </article>
-
+	
 </root>
