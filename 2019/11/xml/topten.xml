@@ -14,10 +14,10 @@
 
 	<title><![CDATA[10 Unique Experiences that Redefine Exotic Escapes]]></title>
 	<teaser><![CDATA[Explore every corner of the world in an exotic way.]]></teaser>
-	<lead><![CDATA[]]></lead>
-	<body><![CDATA[
-		<p>When we think of exotic escapes, we tend to think of fragrant spices and tropical air. But the truth is, you can find something exotic in every corner of the world, no matter the temperature. Here are 10 exotic experiences you may have never considered.</p>
-	]]></body>
+	<lead><![CDATA[
+		When we think of exotic escapes, we tend to think of fragrant spices and tropical air. But the truth is, you can find something exotic in every corner of the world, no matter the temperature. Here are 10 exotic experiences you may have never considered.
+	]]></lead>
+	<body><![CDATA[]]></body>
 
 	<gallery>
 		<img>
@@ -33,7 +33,7 @@
 			<content><![CDATA[At the largest underground medieval church in Europe, the light filters through a small arched window high above an altar, and candle flames flicker as your movement disturbs the still air. This magical church can only be entered with a guide, and it&rsquo;s an excellent excursion option for river cruises along the Dordogne.]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-02.jpg]]></src>
 			<position>1</position>
-			<class>active</class>
+			<class></class>
 		</img>
 
 		<img>
@@ -41,7 +41,7 @@
 			<content><![CDATA[Shooting a blast of turquoise glacial water up to 100 feet in the air every five to 10 minutes, Stokkur geyser is a thrill to watch. Propelled by the intense heat of liquid magma below the surface, the water first rises in a bubble and then explodes in a powerful column reaching the sky.]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-03.jpg]]></src>
 			<position>2</position>
-			<class>active</class>
+			<class></class>
 		</img>
 
 		<img>
@@ -49,7 +49,7 @@
 			<content><![CDATA[In Nuwara Eliya, a high-altitude British colonial-style town surrounded by tea plantations, hop on the train bound for Ella. The nearly 40-mile journey takes about three and a half hours, winding slowly down through the mountains. Brave travelers lean out doors or windows for an epic photo as the train rounds a scenic corner, while the more sedate settle into the observation car for non-stop views of waterfalls and tea fields.]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-04.jpg]]></src>
 			<position>3</position>
-			<class>active</class>
+			<class></class>
 		</img>
 
 		<img>
@@ -57,7 +57,7 @@
 			<content><![CDATA[These lovely white-and-blue cellars, some built right into the hill, were built beginning in the 1600s to store agricultural products. Now, they&rsquo;re used to make and store Moravian wine, with each cellar owned by a different family. Taste the Czech Republic&rsquo;s most popular wine, P&aacute;lava, a sweet white, and imagine you&rsquo;re in a fairy tale.]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-05.jpg]]></src>
 			<position>4</position>
-			<class>active</class>
+			<class></class>
 		</img>
 
 		<img>
@@ -65,7 +65,7 @@
 			<content><![CDATA[Head to the Valley of Fire, about an hour-long drive from the Las Vegas Strip, for landscapes that are truly out of this world. The jagged red rocks and white domes stood in for Mars in the 1990s blockbuster Total Recall, and as Veridian III in Star Trek Generations. It&rsquo;s a great spot to explore with short hikes manageable even when the temperatures soar.]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-06.jpg]]></src>
 			<position>5</position>
-			<class>active</class>
+			<class></class>
 		</img>
 
 		<img>
@@ -73,7 +73,7 @@
 			<content><![CDATA[The enormous Ise Grand Shrine, dedicated to sun goddess Amaterasu, is about 2,000 years old &ndash; but everything looks perfectly preserved. That&rsquo;s because the site has been torn down and rebuilt exactly as it was every 20 years for more than a millennium, last done in 2013. It&rsquo;s no small feat &ndash; the site includes 125 individual shrines in an area the size of central Paris.]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-07.jpg]]></src>
 			<position>6</position>
-			<class>active</class>
+			<class></class>
 		</img>
 
 		<img>
@@ -89,7 +89,7 @@
 			<content><![CDATA[There may be no place more exotic than space, and you can get a sense of the astronaut experience right here on Earth. Space Center Houston is the only place in the world where you can walk inside a space shuttle replica, view multiple flown spacecraft, and touch samples of rock from the moon and Mars.]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-09.jpg]]></src>
 			<position>8</position>
-			<class>active</class>
+			<class></class>
 		</img>
 
 		<img>
@@ -97,7 +97,7 @@
 			<content><![CDATA[At Flevopark, you&rsquo;ll find a darling jenever distillery that looks at first glance like a church. Built in 1880, this former pumping station is set on a pond surrounded by willows and hydrangea. Inaccessible by car, the tasting room and patio are easy to reach by bike or foot, but you&rsquo;ll feel a world away from Amsterdam&rsquo;s bustling center as you sip your jenever, the juniper-based traditional Dutch spirit.]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-10.jpg]]></src>
 			<position>9</position>
-			<class>active</class>
+			<class></class>
 		</img>
 	</gallery>
 
