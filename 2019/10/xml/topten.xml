@@ -1,13 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-	
+<article date="1911" id="index">
+	<dir_name><![CDATA[topten]]></dir_name>
+	<pub_date><![CDATA[November 2019]]></pub_date>
+	<dir_year><![CDATA[19]]></dir_year>
+	<dir_month><![CDATA[11]]></dir_month>
+	<id_article><![CDATA[index]]></id_article>
+
+	<author><![CDATA[Christina Newberry]]></author>
+	<translator><![CDATA[]]></translator>
+
+	<id_supplier><![CDATA[spacer]]></id_supplier>
+
+	<title><![CDATA[10 Unique Experiences that Redefine Exotic Escapes]]></title>
+	<teaser><![CDATA[Explore every corner of the world in an exotic way.]]></teaser>
+	<lead><![CDATA[]]></lead>
+	<body><![CDATA[
+		<p>When we think of exotic escapes, we tend to think of fragrant spices and tropical air. But the truth is, you can find something exotic in every corner of the world, no matter the temperature. Here are 10 exotic experiences you may have never considered.</p>
+	]]></body>
+
+	<gallery>
+		<img>
+			<title><![CDATA[Fish for a living dinosaur in Harrison Hot Springs, British Columbia]]></title>
+			<content><![CDATA[B.C.&rsquo;s Fraser River is home to more than 40,000 sturgeon &ndash; the largest freshwater fish in North America, with a history dating back 200 million years. The river has the only fully wild population of this ancient fish in the world, and a well-monitored catch-and-release tagging program using barb-free hooks allows anglers to help monitor and protect these ancient giants, which average six to eight feet in length.]]></content>
+			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-01.jpg]]></src>
+			<position>0</position>
+			<class>active</class>
+		</img>
+
+		<img>
+			<title><![CDATA[Explore an underground church in St. &Eacute;milion, France]]></title>
+			<content><![CDATA[At the largest underground medieval church in Europe, the light filters through a small arched window high above an altar, and candle flames flicker as your movement disturbs the still air. This magical church can only be entered with a guide, and it&rsquo;s an excellent excursion option for river cruises along the Dordogne.]]></content>
+			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-02.jpg]]></src>
+			<position>1</position>
+			<class>active</class>
+		</img>
+
+		<img>
+			<title><![CDATA[Watch a geyser explode in the Haukadalur Valley, Iceland]]></title>
+			<content><![CDATA[Shooting a blast of turquoise glacial water up to 100 feet in the air every five to 10 minutes, Stokkur geyser is a thrill to watch. Propelled by the intense heat of liquid magma below the surface, the water first rises in a bubble and then explodes in a powerful column reaching the sky.]]></content>
+			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-03.jpg]]></src>
+			<position>2</position>
+			<class>active</class>
+		</img>
+
+		<img>
+			<title><![CDATA[Ride the rails in Hill Country, Sri Lanka]]></title>
+			<content><![CDATA[In Nuwara Eliya, a high-altitude British colonial-style town surrounded by tea plantations, hop on the train bound for Ella. The nearly 40-mile journey takes about three and a half hours, winding slowly down through the mountains. Brave travelers lean out doors or windows for an epic photo as the train rounds a scenic corner, while the more sedate settle into the observation car for non-stop views of waterfalls and tea fields.]]></content>
+			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-04.jpg]]></src>
+			<position>3</position>
+			<class>active</class>
+		</img>
+
+		<img>
+			<title><![CDATA[Drink local wine in tiny cellars in Petrov, Czech Republic]]></title>
+			<content><![CDATA[These lovely white-and-blue cellars, some built right into the hill, were built beginning in the 1600s to store agricultural products. Now, they&rsquo;re used to make and store Moravian wine, with each cellar owned by a different family. Taste the Czech Republic&rsquo;s most popular wine, P&aacute;lava, a sweet white, and imagine you&rsquo;re in a fairy tale.]]></content>
+			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-05.jpg]]></src>
+			<position>4</position>
+			<class>active</class>
+		</img>
+
+		<img>
+			<title><![CDATA[Explore alien landscapes outside Las Vegas, Nevada]]></title>
+			<content><![CDATA[Head to the Valley of Fire, about an hour-long drive from the Las Vegas Strip, for landscapes that are truly out of this world. The jagged red rocks and white domes stood in for Mars in the 1990s blockbuster Total Recall, and as Veridian III in Star Trek Generations. It&rsquo;s a great spot to explore with short hikes manageable even when the temperatures soar.]]></content>
+			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-06.jpg]]></src>
+			<position>5</position>
+			<class>active</class>
+		</img>
+
+		<img>
+			<title><![CDATA[Visit a shrine rebuilt from scratch every 20 years in Ise, Japan]]></title>
+			<content><![CDATA[The enormous Ise Grand Shrine, dedicated to sun goddess Amaterasu, is about 2,000 years old &ndash; but everything looks perfectly preserved. That&rsquo;s because the site has been torn down and rebuilt exactly as it was every 20 years for more than a millennium, last done in 2013. It&rsquo;s no small feat &ndash; the site includes 125 individual shrines in an area the size of central Paris.]]></content>
+			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-07.jpg]]></src>
+			<position>6</position>
+			<class>active</class>
+		</img>
+
+		<img>
+			<title><![CDATA[Glamp in a floating tent in Khao Sok National Park, Thailand]]></title>
+			<content><![CDATA[On Cheow Larn Lake, you&rsquo;ll find one of the world&rsquo;s only floating tent camps. Each tent has its own kayak, giving you the perfect opportunity to slip out for a quiet paddle through the lake&rsquo;s small channels, with monkeys flying through the trees overhead. At night, watch the sun set over the rainforest as you soak up the blissful silence.]]></content>
+			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-08.jpg]]></src>
+			<position>7</position>
+			<class>active</class>
+		</img>
+
+		<img>
+			<title><![CDATA[Explore a space shuttle and touch the moon in Houston, Texas]]></title>
+			<content><![CDATA[There may be no place more exotic than space, and you can get a sense of the astronaut experience right here on Earth. Space Center Houston is the only place in the world where you can walk inside a space shuttle replica, view multiple flown spacecraft, and touch samples of rock from the moon and Mars.]]></content>
+			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-09.jpg]]></src>
+			<position>8</position>
+			<class>active</class>
+		</img>
+
+		<img>
+			<title><![CDATA[Sip jenever at a hidden pond in Amsterdam, Netherlands]]></title>
+			<content><![CDATA[At Flevopark, you&rsquo;ll find a darling jenever distillery that looks at first glance like a church. Built in 1880, this former pumping station is set on a pond surrounded by willows and hydrangea. Inaccessible by car, the tasting room and patio are easy to reach by bike or foot, but you&rsquo;ll feel a world away from Amsterdam&rsquo;s bustling center as you sip your jenever, the juniper-based traditional Dutch spirit.]]></content>
+			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index-10.jpg]]></src>
+			<position>9</position>
+			<class>active</class>
+		</img>
+	</gallery>
+
+	<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/hero/topten-index.jpg]]></hero_src>
+	<hero_caption><![CDATA[10 Unique Experiences that Redefine Exotic Escapes]]></hero_caption>
+	<hero_credit><![CDATA[Top Ten]]></hero_credit>
+	<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/11/article/topten-index.jpg]]></article_src>
+	<article_caption><![CDATA[10 Unique Experiences that Redefine Exotic Escapes]]></article_caption>
+	<article_credit><![CDATA[Top Ten]]></article_credit>
+	<email_src>https://www.ensembletravel.com/assets/img/ezine/19/11/email/topten-index.jpg</email_src>
+
+	<tile_color>FFC500</tile_color>
+	<tile_class>opaque-100</tile_class>
+	<tile_new>none</tile_new>
+
+	<tags>
+		<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+		<tag slug="hiking-trekking"><![CDATA[hiking-trekking]]></tag>
+		<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+		<tag slug="train"><![CDATA[train]]></tag>
+		<tag slug="adventure"><![CDATA[adventure]]></tag>
+		<tag slug="art-architecture"><![CDATA[art-architecture]]></tag>
+		<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+		<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+		<tag slug="faithreligious"><![CDATA[faithreligious]]></tag>
+		<tag slug="food-wine"><![CDATA[food-wine]]></tag>
+		<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+	</tags>
+</article>
+
 <article date="1910" id="index">
 	<dir_name><![CDATA[topten]]></dir_name>
 	<pub_date><![CDATA[October 2019]]></pub_date>
 	<dir_year><![CDATA[19]]></dir_year>
 	<dir_month><![CDATA[10]]></dir_month>
 	<id_article><![CDATA[index]]></id_article>
-	
+
 	<author><![CDATA[Craig Tansley]]></author>
 	<translator><![CDATA[]]></translator>
 
@@ -29,7 +156,7 @@
 			<title><![CDATA[It&rsquo;s not all Sauvignon Blanc from Marlborough.]]></title>
 			<content><![CDATA[While 58 percent of all wine produced in New Zealand is Sauvignon Blanc (and 85 percent of Marlborough&rsquo;s output is Sauvignon Blanc) and it&rsquo;s been the country&rsquo;s flagship variety since the &lsquo;90s, many varieties of wine are produced all over New Zealand &ndash; from its northern tip (Northland) to its southern reaches (Central Otago &ndash; the world&rsquo;s southern-most wine region). The other predominant white wine you don&rsquo;t hear much about is Chardonnay, and yet during the &lsquo;90s and early 2000s, plantings of this variety exceeded those of every grape. Not to mention, they&rsquo;ve been making Riesling in New Zealand since the first Europeans arrived.]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/10/article/topten-index-01.jpg]]></src>
-			<position>0</position> 
+			<position>0</position>
 			<class>active</class>
 		</img>
 
@@ -37,7 +164,7 @@
 			<title><![CDATA[Wine lovers make up a large portion of all New Zealand&rsquo;s visitors.]]></title>
 			<content><![CDATA[Last year, 25 percent of the 3.4 million international visitors to New Zealand spent at least part of their stay in a wine region (up from 13 percent four years prior). Tourism experts believe this is partly because the country is so small that international tourists can cover numerous wine regions during their stay. In fact, all 10 of the country&rsquo;s wine regions are easy to reach from major city centres, have many accommodation options &ndash; from budget to high-end &ndash; and offer some of the country&rsquo;s most-awarded restaurants.]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/10/article/topten-index-02.jpg]]></src>
-			<position>1</position> 
+			<position>1</position>
 			<class></class>
 		</img>
 
@@ -45,7 +172,7 @@
 			<title><![CDATA[The world&rsquo;s best Pinot Noir comes from here.]]></title>
 			<content><![CDATA[People told innovative winemaker Alan Brady the region just outside Queenstown (Central Otago) was too cold for Pinot Noir. A few years later, he produced the greatest Pinot Noir on Earth &ndash; his 2000 <em>Gibbston Valley Reserve Pinot Noir</em> was the first ever non-French wine to win the illustrious <em>Gold Medal Trophy</em> <em>for Pinot Noir/ Burgundy</em> at the <em>London International Wine Challenge</em>. Now, Central Otago is considered one of the world&rsquo;s top three Pinot Noir producing areas &ndash; 75 percent of all wine grown here is Pinot Noir; no other region in New Zealand has devoted such a large share of its wine production to a single grape variety. You won&rsquo;t find a bottle for less than $40 NZD ($25 USD).]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/10/article/topten-index-03.jpg]]></src>
-			<position>2</position> 
+			<position>2</position>
 			<class></class>
 		</img>
 
@@ -53,7 +180,7 @@
 			<title><![CDATA[New Zealand produces rich, robust Reds.]]></title>
 			<content><![CDATA[You probably haven&rsquo;t heard about the country&rsquo;s heavier reds because all the talk is about Sauvignon Blancs or Pinot Noirs. But there&rsquo;s a region in New Zealand famous for its Cabernet Sauvignon, Merlot and Syrah that&rsquo;s the country&rsquo;s oldest wine growing region with vines dating back to the 1800s. Hawke&rsquo;s Bay on New Zealand&rsquo;s North Island produces 82 percent of all Cabernet Sauvignon, Merlot and Syrah in New Zealand &ndash; in a region which shares a similar climate to the Mediterranean. And because it&rsquo;s warmer here, you should rent a bicycle and ride the more than 120 miles of cycling trails linking the wineries, all set beside the region&rsquo;s main town, Napier, which is UNESCO-World-Heritage listed for its 140 Art Deco buildings built during the 1930s.]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/10/article/topten-index-04.jpg]]></src>
-			<position>3</position> 
+			<position>3</position>
 			<class></class>
 		</img>
 
@@ -61,7 +188,7 @@
 			<title><![CDATA[You don&rsquo;t have to go far from Auckland Airport.]]></title>
 			<content><![CDATA[While undulating landscapes peppered with snow-capped mountains and winding rivers is how you might picture New Zealand&rsquo;s wine regions, one of New Zealand&rsquo;s most famous brands is just five minutes away from where you&rsquo;ll land at Auckland&rsquo;s International Airport. <em>Villa Maria Estate</em> is New Zealand&rsquo;s most awarded winery, so you can enjoy a gourmet lunch on a sun-drenched terrace overlooking its famous grapes as soon as you get off your flight. Auckland has plenty of wine touring options available &ndash; though its most unique (and picturesque) wine region can be accessed by a 40-minute ferry ride through its city harbour to Waiheke Island.]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/10/article/topten-index-05.jpg]]></src>
-			<position>4</position> 
+			<position>4</position>
 			<class></class>
 		</img>
 
@@ -69,7 +196,7 @@
 			<title><![CDATA[Where else can you bungy jump between tastings?]]></title>
 			<content><![CDATA[The Central Otago wine region is in the heart of the adventure capital of the world. The Queenstown region was where jet boating and bungy jumping was invented. When at the region&rsquo;s top-rated winery, <em>Gibbston Valley Wines</em>, simply cross the road to take a 141-foot jump off the Kawarau Bridge &ndash; the site of the world&rsquo;s first bungy jump. The rivers which run beneath the wineries, built high atop the region&rsquo;s mountainous landscape, can be traversed by high-speed jet boat, and there are three ski resorts all within a 45-minute drive. Tandem paragliding was also invented here, and there&rsquo;s sky diving, mountain biking, hang gliding and more.]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/10/article/topten-index-06.jpg]]></src>
-			<position>5</position> 
+			<position>5</position>
 			<class></class>
 		</img>
 
@@ -77,7 +204,7 @@
 			<title><![CDATA[Follow the country&rsquo;s most famous wine trail across the ocean.]]></title>
 			<content><![CDATA[<em>The Classic New Zealand Wine Trail</em> is one of the world&rsquo;s most iconic self-drive wine journeys. It covers over 300 miles, takes in three of the country&rsquo;s best-known wine regions, and requires you drive your car onto a ferry that will take you across the strait separating the North and South Islands. Starting in Hawke&rsquo;s Bay, you&rsquo;ll drive south to the Wairarapa region famed for its Pinot Noir and Pinot Gris, before stopping off in New Zealand&rsquo;s capital, Wellington &ndash; home of New Zealand&rsquo;s best restaurants, bars, theatres and cafes. Then you&rsquo;ll finish off amongst the world&rsquo;s most awarded Sauvignon Blanc wineries in Marlborough.]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/10/article/topten-index-07.jpg]]></src>
-			<position>6</position> 
+			<position>6</position>
 			<class></class>
 		</img>
 
@@ -85,7 +212,7 @@
 			<title><![CDATA[You can drink wine in Middle Earth.]]></title>
 			<content><![CDATA[Okay, so we all know New Zealand was the setting for <em>The</em> <em>Lord of The Rings</em> trilogy and <em>The Hobbit</em>. But did you know some scenes were filmed right in the middle of New Zealand&rsquo;s wine regions? This means you can quaff as you look out on Middle Earth. Head to the Wairarapa region, an hour&rsquo;s drive north of Wellington, to drink amongst the Putangirua Pinnacles, where Aragon, Legolas and Gimli sought the Paths of The Dead. Sample Nelson&rsquo;s Sauvignon Blanc and Chardonnay amongst the site of Chetwood Forest, visit CharRees Vineyard in Ashburton to see the set for Edorasm &ndash; the main city of the Roham people &ndash; and enjoy a unique view of Anduuin and Argonath at Chard Farm Winery in Central Otago. ]]></content>
 			<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/19/10/article/topten-index-08.jpg]]></src>
-			<position>7</position> 
+			<position>7</position>
 			<class></class>
 		</img>
 	</gallery>
@@ -97,7 +224,7 @@
 	<article_caption><![CDATA[Eight Things You Didn’t Know About New Zealand Wine]]></article_caption>
 	<article_credit><![CDATA[Top Ten]]></article_credit>
 	<email_src>https://www.ensembletravel.com/assets/img/ezine/19/10/email/topten-index.jpg</email_src>
-	
+
 	<tile_color>FFC500</tile_color>
 	<tile_class>opaque-100</tile_class>
 	<tile_new>none</tile_new>
@@ -109,5 +236,5 @@
 		<tag slug="australia-south-pacific"><![CDATA[australia-south-pacific]]></tag>
 	</tags>
 </article>
-	
+
 </root>
