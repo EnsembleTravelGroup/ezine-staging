@@ -2,62 +2,63 @@
 <root>
 
 <!-- BEGIN: 1911 AVL-CA -->
-	<article date="1911" id="01">
-		<dir_name><![CDATA[advertorial]]></dir_name>
-		<pub_date><![CDATA[November 2019]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
-		<dir_year><![CDATA[19]]></dir_year>
-		<dir_month><![CDATA[11]]></dir_month>
-		<id_article><![CDATA[01]]></id_article>
+<article date="1911" id="01">
+	<dir_name><![CDATA[advertorial]]></dir_name>
+	<pub_date><![CDATA[November 2019]]></pub_date>
+	<dir_year><![CDATA[19]]></dir_year>
+	<dir_month><![CDATA[11]]></dir_month>
+	<id_article><![CDATA[01]]></id_article>
 ​
-		<author><![CDATA[Avalon Waterways<sup>&reg;</sup>]]></author>
-		<id_supplier><![CDATA[avl]]></id_supplier>
+	<author><![CDATA[Avalon Waterways<sup>&reg;</sup>]]></author>
+	<id_supplier><![CDATA[avl]]></id_supplier>
 ​
-		<title><![CDATA[YOU Navigate. WE&rsquo;LL STEER.]]></title>
-		<teaser><![CDATA[Avalon Waterways<sup>&reg;</sup>]]></teaser>
-		<lead><![CDATA[
-			If you're reading this, you're probably wondering "why on earth should I consider a group trip with Contiki?" Well, what if we told you....
-		]]></lead>
-		<body><![CDATA[
-			<p>In 2020, Avalon Waterways is inviting travellers to chart their own course, at their own pace, before or after their cruise with its new <strong>YourWay</strong> program.  Utilizing sister companies Monograms and Globus, Avalon Waterways is making it easier than ever before for cruisers to customize their European river cruise vacation from start to finish. </p>
-			<p>In 2020, using Avalon&rsquo;s YourWay options, travellers can book their cruise and then add-on &hellip;</p>
-			<ol>
-				<li>An <strong>Avalon Waterways land extension</strong> featuring expert, guided sightseeing; </li>
-				<li>A <strong>Monograms independent vacation package</strong> that comes with hand-picked hotel accommodations, city sightseeing and the on-site services of a Local Host;</li>
-				<li>A <strong>Globus escorted touring vacation</strong> with included sightseeing, hotel accommodations, transportation and coach driver, Tour Director and certified Local Guides.</li>
-			</ol>
+	<title><![CDATA[YOU Navigate. WE&rsquo;LL STEER.]]></title>
+	<teaser><![CDATA[Avalon Waterways<sup>&reg;</sup>]]></teaser>
+	<lead><![CDATA[In 2020, Avalon Waterways is inviting travellers to chart their own course, at their own pace, before or after their cruise with its new <strong>YourWay</strong> program.  Utilizing sister companies Monograms and Globus, Avalon Waterways is making it easier than ever before for cruisers to customize their European river cruise vacation from start to finish.]]></lead>
+	<body><![CDATA[
+		<p>In 2020, using Avalon&rsquo;s YourWay options, travellers can book their cruise and then add-on &hellip;</p>
 
-			<p>&ldquo;With our new YourWay program, we&rsquo;re making it easier for travellers to extend their river cruise vacation with land itineraries that are perfectly suited to their preferences and budget,&rdquo; said Pam Hoffee, managing director of Avalon Waterways. &ldquo;No matter which YourWay extension our guests choose, we will take care of details like ship-to-hotel transportation, hotel accommodations and sightseeing in the world&rsquo;s most fascinating cities &ndash; from Paris to Prague and Budapest to Berlin.&rdquo; The extensions are available either before or after the Avalon cruise.</p>
-			<p>In addition, with its exclusive onboard Avalon Choice menu on every river cruise itinerary, travellers have their pick of the widest array of included excursions, from classic sightseeing to immersive discoveries and active adventures.</p>
-			<ol>
-				<li><strong>CLASSIC.</strong> A local expert guides guests through the history and heritage of local destinations to marvel at legends, lore and architecture of iconic and historic sites.</li>
-				<li><strong>DISCOVERY.</strong> Travellers are invited to engage in inspiring and interactive activities designed to cater to their interests &ndash; from cooking classes to painting workshops and encounters with local providers and vintners. Discovery excursions help travellers immerse themselves in culture.</li>
-				<li><strong>ACTIVE.</strong> Avalon guests can embark on energetic excursions &ndash; from a guided jogging tour of Amsterdam to biking, paddling and hiking their way through each destination &ndash; keeping in motion and on the go.</li>
-			</ol>
-			<p>And for those who prefer to explore ashore independently, the company&rsquo;s AvalonGO App helps travellers explore each port of call throughout their cruise with a detailed, daily schedule of the itinerary, a list of nearby attractions (featuring hours of operation, historical facts and more), maps, directions as well as local caf&eacute;s, restaurants, bars and entertainment options. &ldquo;With the flexibility to choose exactly where to go before and after a cruising vacation, plus the freedom of Avalon Choice onboard each and every cruise, Avalon Waterways is helping travellers see the world the way they&rsquo;ve always envisioned,&rdquo; said Hoffee.</p>
-		]]></body>
+		<ol>
+			<li>An <strong>Avalon Waterways land extension</strong> featuring expert, guided sightseeing; </li>
+			<li>A <strong>Monograms independent vacation package</strong> that comes with hand-picked hotel accommodations, city sightseeing and the on-site services of a Local Host;</li>
+			<li>A <strong>Globus escorted touring vacation</strong> with included sightseeing, hotel accommodations, transportation and coach driver, Tour Director and certified Local Guides.</li>
+		</ol>
+
+		<p>&ldquo;With our new YourWay program, we&rsquo;re making it easier for travellers to extend their river cruise vacation with land itineraries that are perfectly suited to their preferences and budget,&rdquo; said Pam Hoffee, managing director of Avalon Waterways. &ldquo;No matter which YourWay extension our guests choose, we will take care of details like ship-to-hotel transportation, hotel accommodations and sightseeing in the world&rsquo;s most fascinating cities &ndash; from Paris to Prague and Budapest to Berlin.&rdquo; The extensions are available either before or after the Avalon cruise.</p>
+
+		<p>In addition, with its exclusive onboard Avalon Choice menu on every river cruise itinerary, travellers have their pick of the widest array of included excursions, from classic sightseeing to immersive discoveries and active adventures.</p>
+
+		<ol>
+			<li><strong>CLASSIC.</strong> A local expert guides guests through the history and heritage of local destinations to marvel at legends, lore and architecture of iconic and historic sites.</li>
+			<li><strong>DISCOVERY.</strong> Travellers are invited to engage in inspiring and interactive activities designed to cater to their interests &ndash; from cooking classes to painting workshops and encounters with local providers and vintners. Discovery excursions help travellers immerse themselves in culture.</li>
+			<li><strong>ACTIVE.<strong> Avalon guests can embark on energetic excursions &ndash; from a guided jogging tour of Amsterdam to biking, paddling and hiking their way through each destination &ndash; keeping in motion and on the go.</li>
+		</ol>
+
+		<p>And for those who prefer to explore ashore independently, the company&rsquo;s AvalonGO App helps travellers explore each port of call throughout their cruise with a detailed, daily schedule of the itinerary, a list of nearby attractions (featuring hours of operation, historical facts and more), maps, directions as well as local caf&eacute;s, restaurants, bars and entertainment options. &ldquo;With the flexibility to choose exactly where to go before and after a cruising vacation, plus the freedom of Avalon Choice onboard each and every cruise, Avalon Waterways is helping travellers see the world the way they&rsquo;ve always envisioned,&rdquo; said Hoffee</p>
+	]]></body>
 ​
-		<body_2><![CDATA[]]></body_2>
+	<body_2><![CDATA[]]></body_2>
 ​
-		<hero_src>https://www.ensembletravel.com/assets/img/ezine/19/11/hero/advertorial-01.jpg</hero_src>
-		<hero_caption><![CDATA[YOU Navigate. WE&rsquo;LL STEER.]]></hero_caption>
-		<hero_credit><![CDATA[Avalon Waterways<sup>&reg;</sup>]]></hero_credit>
-		<article_src>https://www.ensembletravel.com/assets/img/ezine/19/11/article/advertorial-01.jpg
-		</article_src>
-		<article_caption><![CDATA[YOU Navigate. WE&rsquo;LL STEER.]]></article_caption>
-		<article_credit><![CDATA[Avalon Waterways<sup>&reg;</sup>]]></article_credit>
+	<hero_src>https://www.ensembletravel.com/assets/img/ezine/19/11/hero/advertorial-01.jpg</hero_src>
+	<hero_caption><![CDATA[YOU Navigate. WE&rsquo;LL STEER.]]></hero_caption>
+	<hero_credit><![CDATA[Avalon Waterways<sup>&reg;</sup>]]></hero_credit>
+	<article_src>https://www.ensembletravel.com/assets/img/ezine/19/11/article/advertorial-01.jpg
+	</article_src>
+	<article_caption><![CDATA[YOU Navigate. WE&rsquo;LL STEER.]]></article_caption>
+	<article_credit><![CDATA[Avalon Waterways<sup>&reg;</sup>]]></article_credit>
 ​
-		<tile_color>A8CB17</tile_color>
-		<tile_class>opaque-100</tile_class>
-		<tile_new>none</tile_new>
+	<tile_color>A8CB17</tile_color>
+	<tile_class>opaque-100</tile_class>
+	<tile_new>none</tile_new>
 ​
-		<tags>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-		</tags>
-	</article>
+	<tags>
+		<tag slug="xxx"><![CDATA[xxx]]></tag>
+		<tag slug="xxx"><![CDATA[xxx]]></tag>
+		<tag slug="xxx"><![CDATA[xxx]]></tag>
+		<tag slug="xxx"><![CDATA[xxx]]></tag>
+		<tag slug="xxx"><![CDATA[xxx]]></tag>
+	</tags>
+</article>
 <!-- BEGIN: 1911 AVL-CA -->
 
 <!-- BEGIN: 1911 CEN -->
@@ -98,7 +99,7 @@
 					<p>This Portuguese town is characterized by its lively city center, the remarkable churches, and the Roman architecture. Enjoy educational highlights at one of Europe&rsquo;s oldest universities, established in 1290. You&rsquo;ll definitely love the University&rsquo;s spectacular library.</p>
 					<p>Coimbra is home to some awe-inspiring churches such as the Igreja de Senhor da Pedra. Walk down the stone-paved streets and narrow streets and explore the striking white-washed buildings.</p>
 					<p>Step back in time by visiting the medieval walls of &Oacute;bidos and take in the atmospheric scene of a medieval village.  Splurge and spend the night at Coimbra&rsquo;s Pousada de &Oacute;bidos, one of the town's main attractions.</p>
-				</figcaption>			
+				</figcaption>
 			</figure>
 
 
