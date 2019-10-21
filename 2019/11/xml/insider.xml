@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="1911">
+		<dir_name><![CDATA[insider]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[November 2019]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[19]]></dir_year>
+		<dir_month><![CDATA[11]]></dir_month>
+​
+		<author><![CDATA[Le Boat]]></author>
+		<translator><![CDATA[]]></translator>
+​
+		<title><![CDATA[Le Boat Presents: Canal Cruise Escapes]]></title>
+		<teaser><![CDATA[
+			Navigate river canals on a private boat; no boating experience required.
+		]]></teaser>
+		<lead><![CDATA[
+			We caught up with Lisa McLean, Marketing Manager, North America and Latin America, at Le Boat, to learn how travelers can become the captain of their own boat and experience their greatest vacation yet.
+		]]></lead>
+		<body><![CDATA[
+			<h4>Why should travelers consider booking with Le Boat?</h4>
+
+			<p>Canal Cruise rentals is one of the hottest 2019 travel trends! It&rsquo;s the perfect option for travelers looking to go off the beaten path and explore a region by its waterway versus its roadways.</p>
+
+			<p>Le Boat has been in business for 50 years in Europe, but this style of travel is just starting to gain awareness with North American travelers. Most travelers are unaware they can rent a canal boat cruiser on a great waterway in Europe or Canada with no previous boating experience or boat license required.</p>
+
+			<p>To put in simple terms, Le Boat is a modern &ldquo;houseboat,&rdquo; floating cottage, or RV for the water, where travelers live onboard, are the captain of their boat, set their own agenda, and choose their own travel schedule. Boat rentals vary from 3-4 days, to one week, to even 10 days plus! All our boats are easy to drive, and you get a full driving lesson at the time of your check in. The Le Boat base team will teach you all you need to know to have an amazing, brag-worthy vacation.</p>
+
+			<p>Le Boat operates in eight European countries, and in 2018, we launched a fleet of boats on the UNESCO World Heritage Rideau in Ontario. With an entire fleet of more than 940 boats (sleeping 2-12 people), you will easily find a boat that fits your party size, budget, and travel style.</p>
+
+			<h4>What if travelers are new to boating?</h4>
+
+			<p>No boating license or boating experience required! If you&rsquo;ve never been on a boating vacation before, the concept is simple. We provide you with a boat, which will be your home and transport for the duration of your vacation. Pick it up from one of our many bases, situated along some of the most beautiful waterways in Europe and Canada, and the rest is entirely up to you. Go where you want; do as you please. The only requirement is that you return your boat back to the base on time.</p>
+
+			<p>Not many of our new customers have driven a boat before. However, they quickly realize how easy it is and soon become confident navigating the waterways. Our base teams will show you everything you need know! If you can drive a car, you can drive our boats, which were designed to be easy to use, with a steering wheel for left and right and a throttle for forward and reverse.</p>
+
+			<h4>How much can people expect to spend when booking with Le Boat?</h4>
+
+			<p>A private yachting vacation is no longer reserved for the rich and famous. A Le Boat canal cruise rental is much more affordable than you might expect, and the price is per boat, not per person. With a fleet of boats to choose from, you will easily find a boat to fit your budget. </p>
+
+			<h4>What type of traveler / travel experience do you cater to?</h4>
+
+			<p>Choose a cruise based on your favorite things to do. Whether it's golfing, biking, or wine-tasting you&rsquo;re looking for, we have cruises to suit all kinds of interests.</p>
+
+			<p>A Le Boat holiday is great for couples, families, groups of friends traveling together, or a girls/guy&rsquo;s getaway. It&rsquo;s also perfect for those looking for an authentic and unique holiday that is off the beaten path, or for those wanting to travel at their own pace and set their own itinerary. Le Boat can provide a sample itinerary based on a food /wine tour, history, nature, soft adventure, golfing or fishing, or you can just relax on the water. But, for those looking for more of an active holiday, Le Boat offers the option to rent bikes, stand up paddle boards, or kayaks. </p>
+
+			<h4>If a traveler could only pick one destination you offer, which do you recommend and why?</h4>
+
+			<p>Our most popular cruising region is France, and we recommend the UNESCO World Heritage Canal du Midi. When it comes to barging in the South of France, the scenic Canal du Midi is a must. Cruising this 300-year-old waterway, you will savor the slow, easy pace while traveling past lush vineyards in the heart of the Languedoc wine region. Passing through historic water locks, you will discover charming Medieval villages and ancient fortress cities. Sightseeing, wine tasting, and sun-kissed cycle rides await, all the way from bustling Toulouse to the golden sands of the Mediterranean Sea.</p>
+
+			<p>For those looking to stay closer to home and skip the long-haul flight to Europe, we would recommend the UNESCO World Heritage Rideau Canal located in Ontario. Our base is located 40 minutes from Canada&rsquo;s capital city, Ottawa. One of the greatest engineering feats of the 19th century, the Rideau Canal, is the oldest continuously-operated canal system in North America. While traveling this attractive waterway, you'll be able to unwind and take in the spectacular nature, picturesque towns and lively cities along the way.</p>
+
+			<h4>Describe a Le Boat experience in one word.</h4>
+
+			<p>UNFORGETABLE!</p>
+
+		]]></body>
+​ ​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/19/11/hero/insider.jpg</hero_src>
+		<hero_caption><![CDATA[Le Boat Presents: Canal Cruise Escapes]]></hero_caption>
+		<hero_credit><![CDATA[Insider]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/19/11/article/insider.jpg</article_src>
+		<article_caption><![CDATA[Le Boat Presents: Canal Cruise Escapes]]></article_caption>
+		<article_credit><![CDATA[Insider]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/19/11/email/insider.jpg</email_src>
+​
+		<tile_color>FA6900</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+​
+		<tags>
+			<tag slug="europe"><![CDATA[europe]]></tag>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="river-cruising"><![CDATA[river-cruising]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="honeymoons"><![CDATA[honeymoons]]></tag>
+		</tags>
+	</article>
+</root>
