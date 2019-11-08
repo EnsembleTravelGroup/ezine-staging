@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="1912">
+		<dir_name><![CDATA[spotlight]]></dir_name>
+		<pub_date><![CDATA[December 2019]]></pub_date>
+		<dir_year><![CDATA[19]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+​
+		<author><![CDATA[Lucas Aykroyd]]></author>
+		<translator><![CDATA[]]></translator>
+​
+		<title><![CDATA[Enjoy Thrilling Adventures While Island-Hopping in Hawaii]]></title>
+		<teaser><![CDATA[
+			No matter which island you choose, Hawaii offers activities suitable for every adrenaline level.
+		]]></teaser>
+		<lead><![CDATA[
+			Adventure travel in Hawaii is hot and happening. Granted, America&rsquo;s 50th state is well-known for destination weddings and tiki drinks, but there are also activities suitable for every level of adrenaline as you explore these legendary Pacific Ocean islands. From helicopter rides and jet boat tours to stand-up paddle boarding and whale-watching, Hawaii has never offered more exciting adventures.
+		]]></lead>
+		<body><![CDATA[
+			<h4>Maui</h4>
+
+			<p>You don&rsquo;t have to be a fan of military thrillers like The Hunt for Red October to enjoy a submarine tour of Lahaina Harbor with Atlantis Adventures. On a custom-built, 48-passenger submarine, view eels, sharks, and colorful tropical fish as you dive down 100 feet and motor past coral reefs and a sunken ship, with an interpreter providing educational commentary.</p>
+
+			<p>If you&rsquo;d rather stay close to the surface, a high-speed Blue Water Rafting boat tour is a thrilling option, especially on a sunny morning. Go snorkeling among sea turtles and manta rays and check out lava arches and sea caves along the Maui coast during a four-hour tour. And from November to April, keep your eyes peeled for humpback whales. Blue Water Rafting launches from the Kihei Maui Boat Ramp beneath Mount Haleakala.</p>
+
+			<p>Alternatively, soar over Haleakala with a Blue Hawaiian helicopter tour, diving into deep, lush canyons with waterfalls and admiring eucalyptus trees and sugar cane fields.</p>
+
+			<p>Stand-up paddle boarding provides a fantastic core workout. Whether you&rsquo;re a SUP veteran or newbie, you can hone your skills with lessons from a Moana Athletic Club instructor. The panoramic vistas at Kaanapali Beach as you balance atop your board make it genuinely magical.</p>
+
+			<h4>Oahu</h4>
+
+			<p>Nothing screams &ldquo;Hawaii!&rdquo; like surfing at Waikiki Beach. This two-mile strip of white sand witnessed a surfing revival in the early 1900&rsquo;s, thanks to legendary Waikiki beach boy Duke Kahanamoku. Today, local Honolulu operators like Waikiki Beach Services and Hans Hedemann Surf School are happy to rent you a board and help you progress toward your &ldquo;hang 10&rdquo; dreams on these welcoming waves.</p>
+
+			<p>Hawaii Water Center offers more adventures from wakeboarding to jet skiing. If you&rsquo;re looking for a more elevated perspective, you can go parasailing, riding single or tandem, over Oahu&rsquo;s gleaming water, going as high as 1,000 feet. Or head to the North Shore and learn how to fly a powered hang glider from Hang Gliding Hawaii, enjoying views of Makua Valley and Waimea Bay.</p>
+
+			<h4>The Big Island</h4>
+
+			<p>One of Hawaii&rsquo;s top ziplining experiences is the Akaka Falls Zipline Tour by Skyline Eco-Adventures. Not only do you whiz over a 250-foot-tall waterfall on this seven-line, 2.5-hour tour, but you also traverse landscapes featuring banana farms, wild pigs, and lush rainforests. Between ziplines, eat fresh local guava and passion fruit, and learn about the Big Island&rsquo;s history and botany from your guides.</p>
+
+			<p>The 1994-established Ocean Safaris offers scintillating kayak tours in Kona&rsquo;s pristine Keauhou Bay. Build your fitness while paddling amid spinner dolphins and sea turtles.</p>
+
+			<h4>Molokai</h4>
+
+			<p>Provided you&rsquo;re not prone to vertigo, the Kalaupapa Guided Mule Tour is a thrilling must-do. Riding a well-trained mule during this 1,700-foot descent off the sea cliffs on Molokai&rsquo;s north coast, you&rsquo;ll feel your pulse pounding on the 2.9-mile-long trail, which includes 26 switchbacks. At the bottom, take a poignant tour of a former leper colony, now part of a national historical park.</p>
+
+			<h4>Lanai</h4>
+
+			<p>Rusty wrecks of World War II navy boats greet visitors to Shipwreck Beach, a windswept, eight-mile-long beach on Lanai&rsquo;s north coast. More than 10 vessels &ndash; including schooners, barges, and steamships &ndash; either experienced shipwreck or were intentionally grounded here. The most adventurous way to get to Shipwreck Beach is renting a jeep from Dollar Rent a Car in Lanai City. After the joyfully bouncy ride, hike over to check out the Kukui Point petroglyphs as well.</p>
+		]]></body>
+​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/19/12/hero/spotlight.jpg</hero_src>
+		<hero_caption><![CDATA[Enjoy Thrilling Adventures While Island-Hopping in Hawaii]]></hero_caption>
+		<hero_credit><![CDATA[Spotlight]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/19/12/article/spotlight.jpg</article_src>
+		<article_caption><![CDATA[Enjoy Thrilling Adventures While Island-Hopping in Hawaii]]></article_caption>
+		<article_credit><![CDATA[Spotlight]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/19/12/email/spotlight.jpg</email_src>
+​
+		<tile_color>C8232C</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+​
+		<tags>
+			<tag slug="australia-south-pacific"><![CDATA[australia-south-pacific]]></tag>
+			<tag slug="hawaii"><![CDATA[hawaii]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="family-travel"><![CDATA[family-travel]]></tag>
+			<tag slug="hiking-trekking"><![CDATA[hiking-trekking]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+		</tags>
+	</article>
+</root>
