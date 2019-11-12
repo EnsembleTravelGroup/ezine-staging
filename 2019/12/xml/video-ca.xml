@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+​
+	<article date="1912" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[December 2019]]></pub_date>
+		<dir_year><![CDATA[19]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+​
+		<author><![CDATA[Princess Cruises]]></author>
+		<id_supplier><![CDATA[pri]]></id_supplier>
+​
+		<title><![CDATA[Discovery Princess:  Royal Class Ship 6 World Premiere]]></title>
+		<teaser><![CDATA[Princess Cruises]]></teaser>
+		<lead><![CDATA[
+			We&rsquo;re celebrating the debut of Discovery Princess, our 6th Royal Class ship, with a world premiere! Watch as our President Jan Swartz introduces the name and upcoming itineraries of this gorgeous new ship, setting sail November 2021.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/kATbQnh9YQo?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+​
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+​
+</root>
