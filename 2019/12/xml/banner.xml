@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+​
+	<element date="1912" id="banner-1912-reg">
+		<country><![CDATA[ca]]></country>
+		<tactic><![CDATA[banner]]></tactic>
+		<year><![CDATA[19]]></year>
+		<month><![CDATA[12]]></month>
+		<id_live><![CDATA[02]]></id_live>
+​
+		<supplier><![CDATA[Regent]]></supplier>
+		<directory><![CDATA[reg]]></directory>
+​
+		<title><![CDATA[Elevate &amp; Save - Free Suite Upgrade &amp; up to 20% savings!]]></title>
+		<intro><![CDATA[Our oceans connect and move us. They offer life, color and beauty while providing passage to the great wonders of our world in a way unlike any other.]]></intro>
+		<offer><![CDATA[
+			We invite you to Elevate &amp; Save with a FREE 2-Category Suite Upgrade and Up To 20% Savings* on select voyages.
+		]]></offer>
+		<content><![CDATA[
+			<p>We welcome the opportunity to create your perfect vacation. Come aboard to discover the difference that comes from a staff and crew comprised of the very best professionals in the hospitality industry, from expert Chefs to decorated Navigational Officers. Experience service like never before.</p>
+
+<p>Taking care of every detail so that you can fully experience and enjoy every moment is at the heart of our all-inclusiveness. Discover how everything from the exquisitely prepared cuisine to the included, unlimited shore excursions will create a truly unforgettable journey.  Freeing you to enjoy... An Unrivaled Experience&reg;.</p>
+		]]></content>
+​
+		<terms id="banner-1912-reg">
+			<consumer><![CDATA[
+				*Fares shown are after savings and are subject to increase. All fares are per person in U.S. dollars, valid for residents of U.S. and Canada, based on double occupancy for new bookings only and may be withdrawn at any time without notice. Not all promotions are combinable. 2-for-1 Fares are based on published Full Brochure Fares; such fares may not have resulted in actual sales in all suite categories and do not include optional charges as detailed in the Guest Ticket Contract. Elevate &amp; Save: offer is capacity-controlled and applies to new bookings only made between 11/1/19 and 1/3/20 in the U.S. and Canada. Offer is only available in USD. Offer is combinable with standard promotional offers but is not combinable with Canadian Dollars at Par or Single Supplement Specials. On applicable Seven Seas Voyager&reg;, Seven Seas Mariner&reg; and Seven Seas Navigator&reg; voyages, book a Category H Suite and receive a Category F Suite, or book a Category G Suite and receive a Category E Suite, or book a Category F Suite and receive a Category D Suite, or book a Category E Suite and receive a Category C Suite, or book a Category D Suite and get a Category B Suite or book a Category C Suite and get a Category A Suite. On applicable Seven Seas Explorer&reg; voyages, book a Category H and receive a Category G1, or book a Category G2 and get a Category F2, or book a Category G1 and get a F1, or book a Category F2 and get an E, or book a Category F1 and get a D, or book a Category E and get a C, or book a Category D and get a B, or book a Category C and get an A. On the May 18, June 11, June 23 and July 10, and August 16 2020 voyages aboard Seven Seas Explorer&reg;, the January 24, March 1 and April 29 voyages board Seven Seas Mariner&reg;, the April 25, 2020 voyage aboard Seven Seas Navigator and the May 11, June 14 and June 24, 2020 voyages aboard Seven Seas Voyager&reg;, guests sailing in Suite Categories A-H will receive 10% savings off the cruise-only fares. On the December 27, 2019, May 30, 2020, July 17, 2020 and August 28, 2020 voyages aboard Seven Seas Explorer&reg;, the May 17, 2020 voyage aboard Seven Seas Mariner&reg;, the January 23, 2020 voyage aboard Seven Seas Navigator&reg; and the January 21 and February 12, 2020 voyages board Seven Seas Voyager&reg;, guests sailing in Suite Categories A-H will receive 15% savings off the cruise-only fares. On the April 3 and April 17, 2020 voyages aboard Seven Seas Explorer&reg; and the February 8, 2020 voyage aboard Seven Seas Navigator&reg;, guests sailing in Categories A-H will receive 20% savings off the cruise-only fares. Offer may be withdrawn at any time. Mention &ldquo;ELEVATE &amp; SAVE&rdquo; at time of booking. Ships&rsquo; Registry: Marshall Islands &amp; Bahamas. &copy;2019 Regent Seven Seas Cruises&reg;
+			]]></consumer>
+​
+			<agent><![CDATA[]]></agent>
+		</terms>
+​
+		<products>
+			<!-- PRODUCT ONE -->
+			<product id="banner-1912-reg">
+				<title><![CDATA[Atlantic Escape]]></title>
+				<offer><![CDATA[Single Supplement Special<br>
+FREE Business Class air in all suite categories]]></offer>
+				<description><![CDATA[]]></description>
+​
+				<cost><![CDATA[6,580]]></cost>
+				<taxes><![CDATA[included]]></taxes>
+				<departing><![CDATA[Apr 03, 2020]]></departing>
+				<duration><![CDATA[14 nights]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[USD]]></currency>
+​
+				<ship><![CDATA[Seven Seas Explorer&reg;]]></ship>
+				<category><![CDATA[G1 - DLX Veranda Suite]]></category>
+				<embarkation><![CDATA[Miami]]></embarkation>
+				<disembarkation><![CDATA[Barcelona]]></disembarkation>
+​
+				<img_hero><![CDATA[prod-reg-01-ca.jpg]]></img_hero>
+​
+				<amenities_title><![CDATA[]]></amenities_title>
+				<amenities_desc><![CDATA[]]></amenities_desc>
+				<exclusives_title><![CDATA[Ports of Call]]></exclusives_title>
+				<exclusives_desc>
+				<![CDATA[
+					<ul>
+						<li>Miami, Florida; Royal Naval Dockyard, Bermuda; Funchal (Madeira), Portugal; Malaga, Spain; Alicante, Spain; Barcelona, Spain</li>
+					</ul>
+				]]></exclusives_desc>
+				<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+				<inclusions_desc>
+				<![CDATA[
+					<ul>
+						<li>All fares include: 2-for-1 all-inclusive fares, free business class air* on all intercontinental flights, free air* on domestic flights both with free transfers between airport and ship, free unlimited shore excursions, free unlimited beverages including fine wines and premium spirits, free open bars and lounges plus in-suite mini-bar replenished daily, free pre-paid gratuities, free specialty restaurants, free unlimited wifi</li>
+						<li>	Concierge Suites and higher include ;Free 1-night pre-cruise hotel package and more</li>
+						<li>	Penthouse Suites and higher include ;Free personal butler and more</li>
+					</ul>
+				]]>
+				</inclusions_desc>
+​
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+​
+			<!-- PRODUCT TWO -->
+			<product id="banner-1912-reg">
+				<title><![CDATA[Colorful Spain &amp; The Canary Islands]]></title>
+				<offer><![CDATA[Seven Seas Society Savings<br>
+Single Supplement Special<br>
+FREE Business Class air in all suite categories]]></offer>
+				<description><![CDATA[]]></description>
+​
+				<cost><![CDATA[7,140]]></cost>
+				<taxes><![CDATA[included]]></taxes>
+				<departing><![CDATA[Apr 17, 2020]]></departing>
+				<duration><![CDATA[10 nights]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[USD]]></currency>
+​
+				<ship><![CDATA[Seven Seas Explorer&reg;]]></ship>
+				<category><![CDATA[G1 - DLX Veranda Suite]]></category>
+				<embarkation><![CDATA[Roundtrip]]></embarkation>
+				<disembarkation><![CDATA[Barcelona]]></disembarkation>
+​
+				<img_hero><![CDATA[prod-reg-02-ca.jpg]]></img_hero>
+​
+				<amenities_title><![CDATA[]]></amenities_title>
+				<amenities_desc><![CDATA[]]></amenities_desc>
+				<exclusives_title><![CDATA[Ports of Call]]></exclusives_title>
+				<exclusives_desc>
+				<![CDATA[
+					<ul>
+						<li>Barcelona, Spain; Arrecife (Lanzarote), Canary Islands;  Santa Cruz De Tenerife, Spain; Arrecife (Lanzarote), Canary Islands; Tangier, Morocco; Cartagena, Spain; Valencia, Spain; Barcelona, Spain</li>
+					</ul>
+				]]>
+				</exclusives_desc>
+				<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+				<inclusions_desc>
+				<![CDATA[
+					<ul>
+						<li>All fares include: 2-for-1 all-inclusive fares, free business class air* on all intercontinental flights, free air* on domestic flights both with free transfers between airport and ship, free unlimited shore excursions, free unlimited beverages including fine wines and premium spirits, free open bars and lounges plus in-suite mini-bar replenished daily, free pre-paid gratuities, free specialty restaurants, free unlimited wifi</li>
+						<li>	Concierge Suites and higher include; Free 1-night pre-cruise hotel package and more</li>
+						<li>	Penthouse Suites and higher include; Free personal butler and more</li>
+					</ul>
+				]]>
+				</inclusions_desc>
+​
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+​
+			<!-- PRODUCT THREE -->
+			<product id="banner-1912-reg">
+				<title><![CDATA[Crossing The Isthmus To The Riviera]]></title>
+				<offer><![CDATA[Our agency exclusive ship board credit of $100 per person<br> 
+Seven Seas Society Savings<br>
+Single Supplement Special<br>]]></offer>
+				<description><![CDATA[]]></description>
+​
+				<cost><![CDATA[9,990]]></cost>
+				<taxes><![CDATA[included]]></taxes>
+				<departing><![CDATA[May 17, 2020]]></departing>
+				<duration><![CDATA[18 nights]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[USD]]></currency>
+​
+				<ship><![CDATA[Seven Seas Mariner&reg;]]></ship>
+				<category><![CDATA[F-DLX Veranda Suite]]></category>
+				<embarkation><![CDATA[Miami]]></embarkation>
+				<disembarkation><![CDATA[San Francisco]]></disembarkation>
+​
+				<img_hero><![CDATA[prod-reg-03-ca.jpg]]></img_hero>
+​
+				<amenities_title><![CDATA[]]></amenities_title>
+				<amenities_desc><![CDATA[]]></amenities_desc>
+				<exclusives_title><![CDATA[Ports of Call]]></exclusives_title>
+				<exclusives_desc>
+				<![CDATA[
+					<ul>
+						<li>Miami, Florida; Cartagena, Colombia; Colon, Panama; Panama Canal Daylight Transit; Puntarenas, Costa Rica; San Juan Del Sur, Nicaragua; Puerto Quetzal, Guatemala; Acapulco, Mexico; Mazatlan, Mexico; Cabo San Lucas, Mexico; San Diego, California; San Francisco, California</li>
+					</ul>
+				]]>
+				</exclusives_desc>
+				<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+				<inclusions_desc>
+				<![CDATA[
+					<ul>
+						<li>All fares include: 2-for-1 all-inclusive fares, free business class air* on all intercontinental flights, free air* on domestic flights both with free transfers between airport and ship, free unlimited shore excursions, free unlimited beverages including fine wines and premium spirits, free open bars and lounges plus in-suite mini-bar replenished daily, free pre-paid gratuities, free specialty restaurants, free unlimited wifi</li>
+						<li>	Concierge Suites and higher include; Free 1-night pre-cruise hotel package and more</li>
+						<li>	Penthouse Suites and higher include; Free personal butler and more</li>
+					</ul>
+				]]>
+				</inclusions_desc>
+​
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+		</products>
+​
+		<brandcolor>C09245</brandcolor>
+		<iframe_height></iframe_height>
+		<id_ezine><![CDATA[banner-02]]></id_ezine>
+		<file><![CDATA[]]></file>
+	</element>
+	
+	<element date="1912" id="banner-1912-wjv">
+		<country><![CDATA[countryID]]></country>
+		<tactic><![CDATA[banner]]></tactic>
+		<year><![CDATA[19]]></year>
+		<month><![CDATA[12]]></month>
+		<id_live><![CDATA[01]]></id_live>
+​
+		<supplier><![CDATA[Westjet Vacations]]></supplier>
+		<directory><![CDATA[wjv]]></directory>
+​
+		<title><![CDATA[Breakaway with Palace Resorts]]></title>
+		<intro><![CDATA[Receive up to $1500 resort credit at select Palace Resorts in Mexico and Jamaica.]]></intro>
+		<offer><![CDATA[
+			Book a 5-8 night vacation package to select Palace Resorts, and receive $1500 in resort credits per room, per stay to customize your dream vacation.
+		]]></offer>
+		<content><![CDATA[
+			<p>Start with a round of golf or a relaxing spa treatment; with endless activities available, the choices are yours at Palace Resorts. Whether you swim with dolphins or scuba dive in the deep sea, this dream vacation is yours to build. Resort credit redemption varies by hotel and may be available for use on: spa/beauty salon services, golf, scuba, tours, dolphin swims, gastronomic experiences, and more.<./p>
+
+			<p>Participating Hotels:</p>
+			<ul>
+				<li>Le Blanc Spa Resort, Cancun</li>
+				<li>Le Blanc Spa Resort Los Cabos, Los Cabos </li>
+				<li>Sun Palace, Cancun</li>
+				<li>The Grand at Moon Palace, Cancun</li>
+				<li>Beach Palace, Cancun</li>
+				<li>Moon Palace Cancun, Riviera Maya</li>
+				<li>Moon Palace Jamaica, Ocho Rios &ndash; Runaway Bay</li>
+				<li>Playacar Palace, Riviera Maya</li>
+			</ul>
+
+			<p>The value of the resort credit is flexible based on the desired length of stay:</p>
+			<ul>
+				<li>5-8 night packages = $1500 resort credit; 4-night package = $750 resort credit; 3-night package = $500 resort credit</li>
+			</ul>
+			
+			<p>Want to stay even longer? Receive up to $2,500 in resort credit:</p>
+			<ul>
+				<li>9-11 night packages = $2,000 resort credit; 12+ night packages = $2,500 resort credit</li>
+			</ul>
+			<figure>
+				<img class="img-responsive" src="http://www.ensembletravel.ca/im/ca/dc/19/12/wjv/hero-prod-1.jpg" alt="Plunge Pool Cabana Courtyard">
+				<caption>Plunge Pool Cabana Courtyard</caption>
+			</figure><br><br>
+			<figure>
+				<img class="img-responsive"src="http://www.ensembletravel.ca/im/ca/dc/19/12/wjv/hero-prod-2.jpg" alt="Plunge Pool Cabana Interior">
+				<caption>Plunge Pool Cabana Interior</caption>
+			</figure><br><br>
+			<figure>
+				<img class="img-responsive"
+				src="http://www.ensembletravel.ca/im/ca/dc/19/12/wjv/hero-prod-3.jpg" alt="The Venetian Resort Pool">
+				<caption>The Venetian Resort Pool</caption>
+			</figure>
+		]]></content>
+​
+		<terms id="banner-1912-wjv">
+			<consumer><![CDATA[
+				Travel: Now - December 23, 2020 Advance booking required. Non-refundable and non-transferable. Offer limited and subject to availability. Offer subject to change and expire without notice. New bookings only. Not valid on group bookings. Other restrictions may apply. Resort credit will be distributed to guests upon arrival at the time of check-in. Airport transfers to/from the hotel are included. A minimum 3-night stay is required. Resort credit is valued in USD and can be used towards select tours, golf, spa/beauty salon services, romantic dinners, diving packages, Vacation Memories photo packages, and Palace Resorts Wedding Collection. Promotion, prices and applicable services are subject to change without notice. Promotion will not be extended to travellers on: FAM trips, travel agent or employee rates, complimentary, incentive or compensatory stays. Resort credit cannot be exchanged for cash, products or merchandise. There is no cash reimbursement if unused. There is a 16% service fee on all products and services rendered with the resort credit. Some restrictions apply towards golf credits; see front desk for details. Taxes, surcharges and/or gratuity not included. Offer is applicable to all room categories. Inclusions can be changed or withdrawn at any time without notice. There is no cash reimbursement if unused. Credits are issued per room per stay. Blackout dates may apply. For any further details, please see hotel front desk. Quebec licensee. Ontario travel agents are covered by TICO. Mailing address: 6085 Midfield Road, Toronto ON L5P 1A2. TICO registration number: 50018683.
+			]]></consumer>
+​
+			<agent><![CDATA[]]></agent>
+		</terms>
+​
+		<brandcolor>00ABA5</brandcolor>
+		<iframe_height></iframe_height>
+		<id_ezine><![CDATA[banner-01]]></id_ezine>
+		<file><![CDATA[]]></file>
+	</element>
+​
+</root>
