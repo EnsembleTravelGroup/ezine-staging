@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+​
+	<article date="1912" id="01">
+		<dir_name><![CDATA[ship]]></dir_name>
+		<pub_date><![CDATA[December 2019]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[19]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+		<file_ship><![CDATA[01]]></file_ship>
+​
+		<tab_class><![CDATA[active]]></tab_class> <!-- If there's more than one ship showcase, only the first showcase has the 'active' class -->
+​
+		<author><![CDATA[Holland America Line]]></author>
+		<id_supplier><![CDATA[hal]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+​
+		<title><![CDATA[articleTitle]]></title>
+		<teaser><![CDATA[
+			Renowned for its timeless style, exquisite appointments and superb service, Holland America Line is the premium cruise line for explorers, foodies and music lovers who want to pursue these passions on perfectly sized, refreshingly uncrowded ships with service that attends to every detail, every day.
+		]]></teaser>
+		<lead><![CDATA[
+			With carefully crafted itineraries that take you to magnificent destinations, Holland America Line&rsquo;s perfectly sized, refreshingly uncrowded ships will give you a one-of-a-kind experience. And unmatched experience and insider knowledge make Holland America Line the Alaska experts.
+		]]></lead>
+		<body><![CDATA[
+			<p>Unforgettable northern landscapes and equatorial jungles. Ruins ravaged by time and cultures enriched by its passage. Dazzling capitals, quiet ports and beaches off the beaten path. With voyages to 98 countries, territories or dependencies, Holland America Line offers an array of options to transform your ideas about the world.</p>
+		]]></body>
+​
+		<tab_group id_supplier="hal">
+			<tab id="01">
+				<id><![CDATA[01]]></id>
+				<title><![CDATA[The Ship]]></title> <!-- Le navire -->
+				<content><![CDATA[
+					<p>Honoring our past while looking to the future, <em>Nieuw Statendam</em> is the sixth ship in Holland America Line&rsquo;s history to bear the name &ldquo;Statendam.&rdquo; Launching in December 2018, <em>Nieuw Statendam</em> carries forward the nautical heritage, gracious service and classic style for which Holland America Line is known &mdash; while setting a new standard for 21st-century elegance. <em>Nieuw Statendam</em> is sister ship to <em>Koningsdam</em> and is the second of our Pinnacle-class ships.</p>
+
+					<p>Guests onboard <em>Nieuw Statendam</em> will love her interiors, which feature grand, light-filled spaces, visual drama and sumptuous interiors inspired by the fluid curves of musical interests.</p>
+
+					<p><em>Nieuw Statendam</em> takes our passion of the arts to new heights with a collection that turns your cruise into a one-of-a-kind experience with over 150 of the world&rsquo;s top artists, creating one of the largest collections at sea.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/19/12/article/ship-01-ship.jpg</tab_src>
+				<tab_caption><![CDATA[The Ship]]></tab_caption>
+				<class><![CDATA[active]]></class> <!-- The first tab has the 'active' class -->
+			</tab>
+​
+			<tab id="02">
+				<id><![CDATA[02]]></id>
+				<title><![CDATA[Accommodations]]></title> <!-- Hébergement -->
+				<content><![CDATA[
+					<p>Refined amenities and our signature Mariner&rsquo;s Dream&trade; bed grace each elegant stateroom offered by Holland America Line. Most of our spacious cruise ship rooms are ocean-facing; many have teak-lined verandahs for dining alfresco or sunbathing in private.</p>
+
+					<ul>
+						<li>Complimentary 24-hour In-Room Dining</li>
+						<li>Daily Housekeeping</li>
+						<li>Nightly turndown service</li>
+						<li>Generous Storage</li>
+						<li>Safes for your valuables</li>
+						<li>Deluxe bathrobes</li>
+						<li>Elemis Aromapure bath amenities</li>
+						<li>Complimentary fresh fruit</li>
+						<li>Complimentary shoeshine service</li>
+						<li>Complimentary ice service</li>
+					</ul>
+
+					<p>Additional Amenities For Suite Guests
+					Bose&reg; Bluetooth-enabled Soundlink; complimentary mimosas with in-suite breakfast; premium duvet, and soft, cotton bathrobes and slippers; binoculars for use during voyage; expanded line of Elemis bath amenities; in-suite coffee and espresso machine.</p>
+
+					<p>Neptune Lounge: A very special amenity exclusively for guests cruising in a Neptune or Pinnacle Suite, the industry-leading Neptune Lounge features a private place to relax, socialize with other suite guests and enjoy the personalized service of a concierge. The fleet-wide lounges provide worktables, a large screen television, a library, sofas and chairs, refreshments throughout the day and wi-fi for a small charge. One-Touch 24-hour Concierge Service is available when the Neptune Lounge is closed.</p>
+
+					<p><em>Nieuw Statendam</em> has Family Ocean View options with accommodations for five guests, this stateroom includes two lower beds convertible to one queen-size bed and one upper bed&mdash;all are our signature Mariner's Dream&trade; beds with plush Euro-Top mattresses, plus one sofa bed for two persons. There are two bathrooms: one with bathtub, shower, sink and toilet, one with shower and sink. </p>
+
+					<p>Also on <em>Nieuw Statendam</em> are Single staterooms, perfect for guests traveling solo, these staterooms feature one full-size Signature Mariner's Dream&trade; bed with plush Euro-top mattress, plus a shower with premium massage head, an array of modern amenities and an ocean view.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/19/12/article/ship-02-accommodations.jpg</tab_src>
+				<tab_caption><![CDATA[Accommodations]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+​
+			<tab id="03">
+				<id><![CDATA[03]]></id>
+				<title><![CDATA[Dining]]></title> <!-- Gastronomie -->
+				<content><![CDATA[
+					<p>Explore a wide range of delicious onboard dining options - everything from a burger and fries by the Lido pool to the Pan-Asian flavors of Tamarind to the ultimate in refined and luxurious dining at Pinnacle Grill. A team of world-class celebrity chefs is charting an exciting course for dining across our fleet. With their global traditions and diverse culinary interests, they're adding inspired new signature dishes to our menus.</p>
+
+					<p>Additionally, <em>Nieuw Statendam</em> features Rudi&rsquo;s Sel de Mer and The Grand Dutch Caf&eacute;</p>
+
+					<p>Rudi&rsquo;s Sel de Mer<br>
+					Named for Master Chef Rudi Sodamin, Rudi&rsquo;s Sel de Mer is an intimate brasserie featuring classic French dishes reimagined with contemporary flair. Menu selections include whole Dover sole meuni&egrave;re with shaved pink Himalayan sea salt, oysters on the half shell, fruits de mer, and salt-crust baked branzino, as well as favorites such as steak frites, duck cassoulet and coq au vin. Conclude your dinner with a classic dessert and fine French cheeses.</p>
+
+					<p>The Grand Dutch Cafe<br>
+					Looking for a refreshing pick-me-up on an adventure-filled day? The Grand Dutch Cafe is for you. Located just off the atrium area, it&rsquo;s the perfect spot to connect with friends over a cold beer, coffee or other Dutch specialty beverages, such as Genever and Advoccaat, and a snack. Choose from among 16 Belgian and Dutch beers (four on tap) and a variety of spirits or enjoy your favorite coffee beverage with complimentary Dutch snacks. For heartier appetites, there are made-to-order Dutch specialties from open-faced herring sandwiches to apple and bacon pancakes. Just place your order at the counter; anything we prepare will be brought to your table.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/19/12/article/ship-03-dining.jpg</tab_src>
+				<tab_caption><![CDATA[Dining]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+​
+			<tab id="04">
+				<id><![CDATA[04]]></id>
+				<title><![CDATA[Activities]]></title> <!-- Activités -->
+				<content><![CDATA[
+					<p>Blend wine at BLEND by Chateau Ste. Michelle. Build a travel journal, create amazing photo albums and produce videos of your vacation memories at Microsoft Studios, or spoil yourself with a massage or other treats at the Greenhouse Spa &amp; Salon&reg;</p>
+
+					<p>Experience World Stage, our state-of-the-art theater. With its two-story, 270-degree wraparound LED screen surrounding you in high-definition, World Stage on <em>Nieuw Statendam</em> is a dazzling theater where innovation meets entertainment. Showcasing music, song, dance and more, the World Stage presents myriad performances and presentations to entertain and inform throughout your voyage.</p>
+
+					<p>Explore the Natural World with BBC Earth Experiences, bringing you unforgettable new ways to experience the world's natural wonders. Through the innovative and breathtaking programming, guests will be taken closer to the ocean and the natural world through groundbreaking concerts and films.</p>
+
+					<p>The Best in Live Music<br>
+					Evenings on board are all about live music, and only Holland America Line gives you so many irresistible sounds to choose from. Surround yourself with the beauty and power of classical chamber music. Swing and dance to the irresistible sounds of Memphis blues. Relive rock and roll&rsquo;s greatest hits as you experience the songs that defined a generation. Spend your entire evening in one place or hop from venue to venue over the course of one epic night. No matter what you choose, memorable performances from world-class musicians fill your journey with an unforgettable rhythm as its own.</p>
+
+					<p><strong>Music Walk&reg;<p><strong>
+
+					<p>Lincoln Center Stage<br>
+					<p>In an exclusive partnership with the world&rsquo;s leading center for the performing arts, Lincoln Center Stage showcases outstanding musicians performing multiple programs of classable and even contemporary music.
+					</p>
+
+					<p>B.B. King&rsquo;s Blues Club<br>
+					<p>Direct from Beal Street, B. B. Kings&rsquo; All Stars bring the best from Memphis music to the sea. From funky and fast to soulful and smooth, enjoy dancing and trying specialty cocktails like the Lucille and Rock Me Baby.
+					</p>
+
+					<p>Billboard Onboard<br>
+					Two pianists play chart-topping hits you know and love. It&rsquo;s all part of Billboard Onboard, an interactive experience made possible by a partnership with Billboard.
+					</p>
+
+					<p>Rolling Stone Rock Room<br>
+					Step into the pages of Rolling Stone magazine for a unique experience in a new classic rock club chronicling rock history as a live band kicks out iconic hits by your favorite stars.
+					</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/19/12/article/ship-04-activities.jpg</tab_src>
+				<tab_caption><![CDATA[Activities]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+​
+			<tab id="05">
+				<id><![CDATA[05]]></id>
+				<title><![CDATA[Family]]></title> <!-- Famille -->
+				<content><![CDATA[
+					<p>A MEMORABLE VACATION FOR THE WHOLE CREW<br>
+Holland America Line offers families and multigenerational groups an unforgettable cruise vacation with experience to suit all the interests and activity levels. </p>
+
+					<p><strong>A JOURNEY FOR ALL AGES<br>
+					From onboard programs for kids and teens to world-class dining and entertainment for all to enjoy, everyone has the freedom to pursue their passions, their way on a Holland America Line cruise. Younger travelers can join kids their own age on a treasure hunt while their parents get a crash course on Mediterranean architecture at an Explorations Central&trade; presentation. Later, the entire family can come together to share the day&rsquo;s highlights over freshly made pasta at Canaletto.</p>
+
+					<p><strong>FLEXIBLE STATEROOM &amp; SUITE OPTIONS<br>
+					Our spacious accommodations come in an array of sizes and configurations to fit families and groups. Guests can take advantage of reduced fares for kids or extra guests with options such as sofa beds, Murphy beds and cribs. <em>Nieuw Statendam</em> also features dedicated family staterooms with beds for five guests, extra closet space and two bathrooms &mdash; one with a bathtub, shower, sink and toilet and one with a shower and sink. And for larger parties, connecting rooms are available to keep the group together.</p>
+
+					<p><strong>FAMILY-FRIENDLY SHORE EXCURSIONS<br>
+					On our award-winning shore excursions, the whole group can share the thrill of watching a humpback whale breach against a mountainous backdrop or the joy of building sandcastles on a sunny beach. From spotting squirrel monkeys in the jungles of the Dominican Republic to time-traveling back to Ancient Rome on a theatrical tour of the city, our excursions are designed to immerse the entire family in authentic and engaging experiences.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/19/12/article/ship-05-family.jpg</tab_src>
+				<tab_caption><![CDATA[Family]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+​
+			<tab id="06">
+				<id><![CDATA[06]]></id>
+				<title><![CDATA[Services]]></title> <!-- Services -->
+				<content><![CDATA[
+					<p>A Holland America Line stateroom surrounds you with comfort, sophistication and thoughtful extra touches.</p>
+
+					<p>From the moment you arrive, you are welcomed as a friend. As you settle into your spacious stateroom, your room steward stops by to ensure every detail is in order, taking a moment to learn your name to greet you personally each day.</p>
+
+					<p>Gracious and warmly attentive. Never in the way, yet always close at hand. Ours are the service traditions that have always been at the heart of cruising with Holland America Line &ndash; more prized than ever among new generations who know that when it comes to travel, service is the ultimate luxury.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/19/12/article/ship-06-services.jpg</tab_src>
+				<tab_caption><![CDATA[Services]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+		</tab_group>
+​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/19/12/hero/ship-01.jpg</hero_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/19/12/article/ship-01.jpg</article_src>
+​
+		<tile_color>005DAB</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+​
+</root>
