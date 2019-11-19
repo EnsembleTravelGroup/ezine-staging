@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-​
+​	<!-- BEGIN: 1912 AVL -->
 	<article date="1912" id="01">
 		<dir_name><![CDATA[advertorial]]></dir_name>
 		<pub_date><![CDATA[December 2019]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
@@ -52,7 +52,9 @@
 			<tag slug="xxx"><![CDATA[xxx]]></tag>
 		</tags>
 	</article>
+	<!-- END: 1912 AVL -->
 	
+	<!-- BEGIN: 1912 CIE -->
 	<article date="1912" id="02">
 		<dir_name><![CDATA[advertorial]]></dir_name>
 		<pub_date><![CDATA[December 2019]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
@@ -70,6 +72,10 @@
 		]]></lead>
 		<body><![CDATA[
 			<p>Among the fresh opportunities are 12 new land tours, CIE Tours&rsquo; first-ever River Cruise Collection, and expanded offerings in Iceland, Italy and beyond. CIE Tours&rsquo; newest offerings deepen the experiences travelers can have in the tour operator&rsquo;s core regions of Ireland and Britain. And, they answer the desire of loyal guests for a signature CIE Tours experience in new destinations. All guided tours can be customized for group travel and individual Private Driver experiences. They include:</p>
+			
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/19/12/article/advertorial-02-01">
+			</figure>
 
 			<ul>
 				<li><strong>New! Ireland South Daytripper:</strong> 7 days from $1,699 USD &amp; $2,210 CAD. Guests live like a local in the picturesque village of Adare for five nights of this tour, staying at a luxury, family-run hotel and taking day trips to the Cliffs of Moher, highlights of the Ring of Kerry and the Dingle Peninsula, and a scenic rail journey to the seaport town of Cobh&mdash;the last port of call for the Titanic. Along the way, they&rsquo;ll enjoy a sheepdog demonstration, jaunting car ride, a drink at the South Pole Inn, and a visit to Blarney Castle. Capping off the tour is a private pub experience near Dublin and free time to explore before a final night&rsquo;s stay in Ireland&rsquo;s capital city.</li>
@@ -125,76 +131,6 @@
 		</tags>
 	</article>
 	
-	<article date="1912" id="02">
-		<dir_name><![CDATA[advertorial]]></dir_name>
-		<pub_date><![CDATA[December 2019]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
-		<dir_year><![CDATA[19]]></dir_year>
-		<dir_month><![CDATA[12]]></dir_month>
-		<id_article><![CDATA[02]]></id_article>
-​
-		<author><![CDATA[C.I.E Tours International]]></author>
-		<id_supplier><![CDATA[cie]]></id_supplier>
-​
-		<title><![CDATA[New Travel Experiences from CIE Tours]]></title>
-		<teaser><![CDATA[C.I.E Tours International]]></teaser>
-		<lead><![CDATA[
-			Answering the dreams of North American travelers who seek new adventures across the pond, CIE Tours has unveiled more than a dozen new travel experiences for 2020.
-		]]></lead>
-		<body><![CDATA[
-			<p>Among the fresh opportunities are 12 new land tours, CIE Tours&rsquo; first-ever River Cruise Collection, and expanded offerings in Iceland, Italy and beyond. CIE Tours&rsquo; newest offerings deepen the experiences travelers can have in the tour operator&rsquo;s core regions of Ireland and Britain. And, they answer the desire of loyal guests for a signature CIE Tours experience in new destinations. All guided tours can be customized for group travel and individual Private Driver experiences. They include:</p>
-
-			<ul>
-				<li><strong>New! Ireland South Daytripper:</strong> 7 days from $1,699 USD &amp; $2,210 CAD. Guests live like a local in the picturesque village of Adare for five nights of this tour, staying at a luxury, family-run hotel and taking day trips to the Cliffs of Moher, highlights of the Ring of Kerry and the Dingle Peninsula, and a scenic rail journey to the seaport town of Cobh&mdash;the last port of call for the Titanic. Along the way, they&rsquo;ll enjoy a sheepdog demonstration, jaunting car ride, a drink at the South Pole Inn, and a visit to Blarney Castle. Capping off the tour is a private pub experience near Dublin and free time to explore before a final night&rsquo;s stay in Ireland&rsquo;s capital city.</li>
-
-				<li><strong>New! Castles &amp; Manors of Ireland:</strong> 8 days from $2,649 USD &amp; $3,445 CAD. In three CIE Tours exclusives on this tour, guests take part in the &ldquo;feeding of champions&rdquo; at the Irish National Stud and Gardens, sip Irish coffee at Europe&rsquo;s oldest pub (dating back to 900 AD), and enjoy dinner in a 12th century  castle keep, staying each night in a historic manor house or castle as they traverse the island. The tour is bookended with castle stays at Barberstown Castle in Co. Kildare and Cabra Castle in Co. Cavan. Manor stays include the historic Cahernane House and Glenlo Abbey. Guests also visit Ross Castle by jaunting car, 1867 Kylemore Abbey, Russborough House (site of an infamous art heist) and Muckross House and Gardens.</li>
-
-				<li><strong>New! Ireland by Road &amp; Rail:</strong> 8 days from $1,999 USD &amp; $2,600 CAD. Guests explore Ireland via modern coach, rail, boat and even a vintage double-decker bus&mdash;complete with afternoon tea&mdash;on this eight-day adventure that starts and ends in Dublin. Classic attractions like the Guinness Storehouse, the Book of Kells and Waterford Crystal are paired with hidden treasures like Hazel Mountain Chocolate Factory&mdash;one of the smallest and most remote chocolate factories in the world. Other highlights include beautiful Dingle Peninsula, the Cliffs of Moher and lively Galway City. </li>
-
-				<li><strong>New! London Daytripper:</strong> 6 days from $1,599. With London serving as home base for a series of day trips, guests only need to unpack once. The tour starts in the afternoon with a visit to the Tower of London and a welcome dinner at the hotel. Day trips include Windsor to see the Queen&rsquo;s official residence, Stonehenge and the Roman baths in Bath, Oxford and Stratford-upon-Avon, and Kent to tour Leeds Castle and Canterbury Cathedral.</li>
-
-				<li><strong>New! Best of London &amp; Paris:</strong> 7 days from $1,999 USD &amp; $2,600 CAD. Guests experience two of the world&rsquo;s great capital cities on this special tour. It starts with afternoon tea while touring London in a vintage double-decker Routemaster. The next few days include the British Museum, a London pub food tour, the Tower of London and Windsor Castle. Then it&rsquo;s off to Paris by Eurostar train, followed by a Seine River cruise. Days five and six include the Louvre, Montmartre, and plenty of free time to explore the City of Lights.</li>
-
-				<li>New! Best of Northern England:</strong> 8 days from $1,999 USD &amp; $2,600 CAD. Traveling from London to Liverpool, guests on this tour explore medieval cities and the stunning Lake District along the way. It starts with independent sightseeing in London before journeying to the college towns of Oxford and Cambridge. Ely Cathedral, York Minster, Whitby&rsquo;s ancient seaport (traveling by vintage train), and the Victorian spa town of Harrogate are among the stops. A scenic cruise down Lake Windermere and a train ride through the Leven Valley follow before the tour ends with free time in Liverpool to explore The Beatles&rsquo; legendary hometown.</li>
-
-				<li><strong>New! Best of Southern England:</strong> 8 days from $2,149 USD &amp; $2,795 CAD. Among the authentic experiences on this tour that begins and ends in London are a visit to Blenheim Palace&mdash;birthplace of Winston Churchill and the real-life inspiration behind Downton Abbey, a ride in a private capsule on the London Eye, and a tour of Kensington Palace, Queen Victoria&rsquo;s childhood home. Other tour highlights include the famed Roman baths in Bath, the Elizabethan-era Chavenage House, the massive monoliths of Stonehenge and the white chalk cliffs, known as the &ldquo;Seven Sisters.&rdquo; </li>
-
-				<li><strong>New! Taste of England:</strong> 14 days from $4,099 USD &amp; $5,330 CAD. Starting in London and ending in Liverpool, this sweeping tour of England combines the Best of Northern England and Best of Southern England tours in one, treating Anglophile travelers to all the main attractions of this fascinating country&mdash;and so much more. Punting on the River Cam, stops for tours and samplings at Shepherd Neame Brewery, the Lakes Distillery and Grasmere Gingerbread Shop, and a vintage train ride from the Goathland Station that portrayed Hogsmeade Station in the first &ldquo;Harry Potter&rdquo; film are among the authentic experiences&rsquo; guests will enjoy along the way.</li>
-
-				<li><strong>New! Iceland &amp; Ireland Adventure:</strong> 11 days from $3,649 USD &amp; $4,744 CAD. Guests enjoy more of Iceland&rsquo;s highlights, from the famed Golden Circle to an insider&rsquo;s visit to the sustainable greenhouse at Fridheimer Tomato Farm to an evening soak in the Blue Lagoon. The Irish half of this epic adventure spans the Emerald Isle&rsquo;s north and south, with stops in Glendalough, Waterford, the Ring of Kerry, Cliffs of Moher, Donegal, Giant&rsquo;s Causeway and more. </li>
-
-				<li><strong>New! Best of Iceland &amp; Ireland South:</strong> 10 days from $3,289 USD &amp; $4,276 CAD. This tour invites guests to mingle with locals and in-the-know travelers at Iceland&rsquo;s Secret Lagoon and explore the Golden Circle with highlights such as Gullfoss Waterfall and Strokkur Geyser before flying to Dublin. A jaunt through Ireland&rsquo;s magnificent south follows, stopping to see Ireland&rsquo;s most famous racehorses at the Irish National Stud, then continuing on to Killarney, Dingle, Adare and Galway.</li>
-
-				<li><strong>New! Northern Lights Quest of Iceland:</strong> 6 days from $2,149 USD &amp; $2,794 CAD. Guests on this tour will experience Iceland&rsquo;s top highlights and hidden gems, including a sail from The Old Harbor on a quest for the Northern Lights and a journey to the Secret Lagoon&mdash;a more intimate alternative to the popular Blue Lagoon, which is also included. Another highlight is early admission to the LAVA Center, an interactive, high-tech experience exploring the epic forces of nature that formed this volcanic island nation.</li>
-
-				<li><strong>New! Taste of Italy with Sorrento:</strong> 10 days from $3,199 USD &amp; $4,159 CAD. This new tour includes all the highlights of CIE Tours&rsquo; popular seven-day Taste of Italy tour, topped off by a jaunt south to Sorrento and the Isle of Capri. Guests explore Venice, Florence and Rome, with free time for dining in Bologna and wine tasting in Orvieto, before heading to Italy&rsquo;s southern coast for a visit to Pompeii, ferry ride to Capri and an authentic Naples-style pizza lunch.</li>
-			</ul>
-
-			<p>CIE Tours guided vacation experiences include daily sightseeing admissions, full breakfasts, entertainment, most dinners as well as unique visits. This inclusive advantage means no upselling by tour guides or optional extras to pay for once the tour is underway.</p>
-
-			<p>For more information connect with a travel professional.</p>
-		]]></body>
-​
-		<body_2><![CDATA[]]></body_2>
-​
-		<hero_src>https://www.ensembletravel.com/assets/img/ezine/19/12/hero/advertorial-02.jpg</hero_src>
-		<hero_caption><![CDATA[New Travel Experiences from CIE Tours]]></hero_caption>
-		<hero_credit><![CDATA[C.I.E Tours International]]></hero_credit>
-		<article_src>https://www.ensembletravel.com/assets/img/ezine/19/12/article/advertorial-02.jpg
-		</article_src>
-		<article_caption><![CDATA[New Travel Experiences from CIE Tours]]></article_caption>
-		<article_credit><![CDATA[C.I.E Tours International]]></article_credit>
-​
-		<tile_color>A8CB17</tile_color>
-		<tile_class>opaque-100</tile_class>
-		<tile_new>none</tile_new>
-​
-		<tags>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-		</tags>
-	</article>
+	<!-- END: 1912 CIE -->
 ​
 </root>
