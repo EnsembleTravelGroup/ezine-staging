@@ -8,7 +8,7 @@
 		<month><![CDATA[12]]></month>
 		<id_live><![CDATA[02]]></id_live>
 ​
-		<supplier><![CDATA[Regent]]></supplier>
+		<supplier><![CDATA[Regent Seven Seas Cruises]]></supplier>
 		<directory><![CDATA[reg]]></directory>
 ​
 		<title><![CDATA[Elevate &amp; Save - Free Suite Upgrade &amp; up to 20% savings!]]></title>
@@ -126,7 +126,7 @@ FREE Business Class air in all suite categories]]></offer>
 			<!-- PRODUCT THREE -->
 			<product id="banner-1912-reg">
 				<title><![CDATA[Crossing The Isthmus To The Riviera]]></title>
-				<offer><![CDATA[Our agency exclusive ship board credit of $100 per person<br> 
+				<offer><![CDATA[Our agency exclusive ship board credit of $100 per person<br>
 Seven Seas Society Savings<br>
 Single Supplement Special<br>]]></offer>
 				<description><![CDATA[]]></description>
@@ -178,13 +178,13 @@ Single Supplement Special<br>]]></offer>
 	</element>
 	
 	<element date="1912" id="banner-1912-wjv">
-		<country><![CDATA[countryID]]></country>
+		<country><![CDATA[ca]]></country>
 		<tactic><![CDATA[banner]]></tactic>
 		<year><![CDATA[19]]></year>
 		<month><![CDATA[12]]></month>
 		<id_live><![CDATA[01]]></id_live>
 ​
-		<supplier><![CDATA[Westjet Vacations]]></supplier>
+		<supplier><![CDATA[WestJet Vacations]]></supplier>
 		<directory><![CDATA[wjv]]></directory>
 ​
 		<title><![CDATA[Breakaway with Palace Resorts]]></title>
@@ -217,16 +217,15 @@ Single Supplement Special<br>]]></offer>
 				<li>9-11 night packages = $2,000 resort credit; 12+ night packages = $2,500 resort credit</li>
 			</ul>
 			<figure>
-				<img class="https://www.ensembletravel.com/assets/img/ezine/19/12/article/banner-wjv-01.jpg" alt="Le Blanc Spa Resort, Cancun">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/19/12/banner/prod-wjv-01-ca.jpg" alt="Le Blanc Spa Resort, Cancun">
 				<caption>Le Blanc Spa Resort, Cancun</caption>
 			</figure><br><br>
 			<figure>
-				<img class="https://www.ensembletravel.com/assets/img/ezine/19/12/article/banner-wjv-02.jpg" alt="Moon Palace Jamaica Grand">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/19/12/banner/prod-wjv-02-ca.jpg" alt="Moon Palace Jamaica Grand">
 				<caption>Moon Palace Jamaica Grand</caption>
 			</figure><br><br>
 			<figure>
-				<img class="img-responsive"
-				src="https://www.ensembletravel.com/assets/img/ezine/19/12/article/banner-wjv-03.jpg" alt="Le Blanc Los Cabos">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/19/12/banner/prod-wjv-03-ca.jpg" alt="Le Blanc Los Cabos">
 				<caption>Le Blanc Los Cabos</caption>
 			</figure>
 			

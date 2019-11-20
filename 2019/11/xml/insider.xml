@@ -5,10 +5,10 @@
 		<pub_date><![CDATA[November 2019]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
 		<dir_year><![CDATA[19]]></dir_year>
 		<dir_month><![CDATA[11]]></dir_month>
-​
+
 		<author><![CDATA[Le Boat]]></author>
 		<translator><![CDATA[]]></translator>
-​
+
 		<title><![CDATA[Le Boat Presents: Canal Cruise Escapes]]></title>
 		<teaser><![CDATA[
 			Navigate river canals on a private boat; no boating experience required.
@@ -54,7 +54,7 @@
 			<p>UNFORGETABLE!</p>
 
 		]]></body>
-​ ​
+
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/19/11/hero/insider.jpg</hero_src>
 		<hero_caption><![CDATA[Le Boat Presents: Canal Cruise Escapes]]></hero_caption>
 		<hero_credit><![CDATA[Insider]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
@@ -62,11 +62,11 @@
 		<article_caption><![CDATA[Le Boat Presents: Canal Cruise Escapes]]></article_caption>
 		<article_credit><![CDATA[Insider]]></article_credit> <!--Spotlight, Insider, Travel Style -->
 		<email_src>https://www.ensembletravel.com/assets/img/ezine/19/11/email/insider.jpg</email_src>
-​
+
 		<tile_color>FA6900</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
-​
+
 		<tags>
 			<tag slug="europe"><![CDATA[europe]]></tag>
 			<tag slug="north-america"><![CDATA[north-america]]></tag>
