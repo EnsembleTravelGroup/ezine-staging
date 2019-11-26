@@ -25,5 +25,55 @@
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 	</article>
+	
+	<article date="1912" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[December 2019]]></pub_date> <!-- December = Full month name (ie. January) -->
+		<dir_year><![CDATA[19]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+		​
+		<author><![CDATA[Avalon Waterways]]></author>
+		<id_supplier><![CDATA[avl]]></id_supplier>
+		​
+		<title><![CDATA[River Cruising Views]]></title>
+		<teaser><![CDATA[Avalon Waterways]]></teaser>
+		<lead><![CDATA[
+			Avalon Waterways invites travelers to experience the views they deserve when sailing the world’s rivers. Because unlike other cruise ships, Avalon Waterways has designed its staterooms so beds face the window* and the incredible sights river cruising is famous for. In fact, on two full decks of every Suite Ship® in Europe Avalon Waterways offers travelers a unique point-of-view: One where the view is the whole point.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/C18hOIdXUVo?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+		​
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	
+	<article date="1912" id="03">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[December 2019]]></pub_date> <!-- December = Full month name (ie. January) -->
+		<dir_year><![CDATA[19]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+		<file_video><![CDATA[03]]></file_video>
+		​
+		<author><![CDATA[Celebrity Cruises]]></author>
+		<id_supplier><![CDATA[cel]]></id_supplier>
+		​
+		<title><![CDATA[Celebrity Edge Hyperlapse Ship Tour]]></title>
+		<teaser><![CDATA[Celebrity Cruises]]></teaser>
+		<lead><![CDATA[
+			A ship designed to leave the future behind. From the incredible new Magic Carpet to the groundbreaking Edge Stateroom with Infinite Verandas, Celebrity Edge is the most refined ship at sea. The unique outward-facing design brings guests closer to the ocean than ever before. Aboard, guests will feel more connected with the sea and the places they visit. Watch, as we take you through a hyperlapse tour of Celebrity Edge.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/HKw0dPJo-Rw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+		​
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
 ​
 </root>

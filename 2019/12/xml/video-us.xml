@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+	<article date="1912" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[December 2019]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[19]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+​
+		<author><![CDATA[UnCruise]]></author>
+		<id_supplier><![CDATA[unc]]></id_supplier>
+​
+		<title><![CDATA[UnCruise Defines Adventure in Alaska]]></title>
+		<teaser><![CDATA[UnCruise]]></teaser>
+		<lead><![CDATA[
+			Explore playgrounds offering the richest, wildest connections by hike, paddle & with locals. Places so tucked away our cozy boats fit in just right. Small ships, BIG adventures. 
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/Vb0AqnHSZWc?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+​
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+​
+
+</root>
