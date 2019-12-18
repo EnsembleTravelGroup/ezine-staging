@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2001">
+		<dir_name><![CDATA[style]]></dir_name>
+		<pub_date><![CDATA[January 2020]]></pub_date>
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[01]]></dir_month>
+​
+		<author><![CDATA[Lisa Maloney]]></author>
+		<translator><![CDATA[]]></translator>
+​
+		<title><![CDATA[Capture Your Moment Under Alaska's Northern Lights]]></title>
+		<teaser><![CDATA[
+			From volcanic mountain slopes to twisty single tracks, there&rsquo;s no shortage of routes in Hawaii.
+		]]></teaser>
+		<lead><![CDATA[
+			<p>Few things can rival the experience of looking up to see a night sky covered in dancing ribbons of light: the aurora borealis, also known as the northern lights. These mysterious lights draw thousands of visitors to Alaska during the winter and shoulder seasons, when night skies are dark enough for the colors of the aurora to shine through.</p>
+
+			<p>The only thing better than carrying a memory of the northern lights home with you is capturing them in a photo, too &ndash; so I turned to Todd Salat, the Aurora Hunter, professional photographer, and owner of the Todd Salat Shots gallery in Anchorage, for some advice on how to make that happen.</p>
+		]]></lead>
+		<body><![CDATA[
+			<h4>Prep before your trip</h4>
+
+			<p>The key to capturing aurora with both camera and heart? Salat says it's taking the time to practice night photography before you leave on your trip, along with accepting that no matter how good you are or what kind of camera you're using, a certain amount of trial and error is inevitable.</p>
+
+			<p>"Practice in the backyard before you go, or even in a closed bedroom with the lights off and a candle as a target," he advises. And although with a bit of luck you can capture amazing aurora photos on late-model mobile devices, if you're after a hero shot you can blow up and hang on the wall, you're going to need a higher-end digital camera and a tripod.</p>
+
+			<p>"The first thing you need to do is stabilize your camera," Salat goes on to say, "After that, it's all about exposing the relatively low light onto the sensor of your camera." That means learning to twiddle a few settings in manual mode: ISO, shutter speed, and f-stop or aperture.</p>
+
+			<h4>Get ready for trial and error</h4>
+
+			<p>Cameras, lenses, and shooting conditions all vary enormously, so Salat recommends starting by making sure you have some light preserved on your camera. Set your shutter speed between five and 10 seconds, place the aperture as wide as possible to let the most light in (select the lowest possible f-stop setting), and crank the ISO as high as you can tolerate it. Salat usually starts shooting at ISO 3200 but notes that on some cameras, ISO 1600 is a good place to start.</p>
+
+			<p>Then, take a picture and check the results in your camera's LCD. At a high ISO, your camera sensor is more sensitive to light than your eye, so even if all you see is the vague white light of a dim aurora, your camera might be able to see green and other colors. If the picture is too grainy or "noisy," that's because of a high ISO. But since the most common mistake Salat sees from hopeful photographers is underexposing their photos, it's better to overexpose at first, so you at least see something on the screen, then dial it back.</p>
+
+			<p>Once you have the first trace of light on your screen, tweak your settings to suit conditions in the moment. As a general rule, keep the aperture as wide open as possible as you adjust the balance of ISO and shutter speed. A higher ISO lets you use a faster shutter speed, while a lower ISO requires a slower shutter speed to allow more light through the lens.</p>
+
+			<h4>Focus on the light</h4>
+
+			<p>Knowing how those settings relate to each other and being comfortable adjusting them before you find yourself standing under the ever-changing aurora, will get you most of the way to great photo memories of your Alaska experience. But if the stars or foreground objects in your shot are fuzzy, you may have a problem with your lens focus.</p>
+
+			<p>"You need to set your lens to infinity focus, then dial it back a hair," Salat explains. "But the width of that hair varies from lens to lens." His solution? Go into live view mode, focus on a star or a foreground object that you've illuminated by headlamp, then tape your focus ring in place so it'll stay at just the right setting. Once that's done you can sit back, relax, and enjoy the hunt for a perfect photo memory.</p>
+
+			<p>"I think the number one thing you want to do is enjoy the experience," he says. And as long as you take the time to practice adjusting your camera settings beforehand, you can have your aurora experience and photograph it, too.</p>
+
+			<p>Additionally, follow these tips for a seamless aurora photography experience:</p>
+
+			<ul>
+				<li>Use a remote shutter release or short shutter delay so your long exposure isn't blurred by the motion of your finger on the camera.</li>
+
+				<li>Bring extra camera batteries &ndash; they run out quickly in the cold. Keep the spares in an inside pocket of your jacket or stash them in a warm place.</li>
+
+				<li>When you bring your camera back inside, put it in a plastic bag to keep the lens from icing over.</li>
+
+				<li>Bring a headlamp with a red-light mode so you can see what you're doing without disrupting your night vision or photos with splashes of bright white light.</li>
+			</ul>
+		]]></body>
+​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/01/hero/style.jpg</hero_src>
+		<hero_caption><![CDATA[Capture Your Moment Under Alaska's Northern Lights]]></hero_caption>
+		<hero_credit><![CDATA[Travel Style]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/01/article/style.jpg</article_src>
+		<article_caption><![CDATA[Capture Your Moment Under Alaska's Northern Lights]]></article_caption>
+		<article_credit><![CDATA[Travel Style]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/01/email/style.jpg</email_src>
+​
+		<tile_color>00B9F2</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+​
+		<tags>
+			<tag slug="alaska"><![CDATA[alaska]]></tag>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+		</tags>
+	</article>
+</root>

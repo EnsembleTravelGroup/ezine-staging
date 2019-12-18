@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2001">
+		<dir_name><![CDATA[insider]]></dir_name>
+		<pub_date><![CDATA[January 2020]]></pub_date>
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[01]]></dir_month>
+​
+		<author><![CDATA[ Rocky Mountaineer]]></author>
+		<translator><![CDATA[]]></translator>
+​
+		<title><![CDATA[All Aboard with Rocky Mountaineer]]></title>
+		<teaser><![CDATA[
+		]]></teaser>
+		<lead><![CDATA[
+		]]></lead>
+		<body><![CDATA[
+			<p>Imagine yourself training through the Canadian Rockies, stopping in small picturesque villages
+and iconic cities like Vancouver, Banff, Lake Louise, and Jasper. You might see wildlife along the way, waterfalls, and endless mountain peaks soaring above your current elevation. Your journey is paired with fine wine and locally sourced produce representative of the lands you&rsquo;re passing through. You arrive to a destination, explore all the area has to offer, and before you know it, you&rsquo;re boarding a helicopter and being whisked away to fly through the mountain peaks you just viewed from below. It feels like a dream ... but it isn&rsquo;t.</p>
+
+			<!-- Embedded YouTube Video -->
+			<div class="videoWrapper" style="padding-bottom: 45%;">
+				<figure>
+					<iframe width="853" height="480" src="https://www.youtube.com/embed/KZelEJ96sqw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				</figure>
+			</div>
+			
+			<p>Ready for the rail journey of a lifetime? Contact your Ensemble travel agent to start planning.</p>
+		]]></body>
+​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/01/hero/insider.jpg</hero_src>
+		<hero_caption><![CDATA[All Aboard with Rocky Mountaineer]]></hero_caption>
+		<hero_credit><![CDATA[Insider]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/01/article/insider.jpg</article_src>
+		<article_caption><![CDATA[All Aboard with Rocky Mountaineer]]></article_caption>
+		<article_credit><![CDATA[Insider]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/01/email/insider.jpg</email_src>
+​
+		<tile_color>FA6900</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+​
+		<tags>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="all-inclusive"><![CDATA[all-inclusive]]></tag>
+			<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+			<tag slug="train"><![CDATA[train]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="food-wine"><![CDATA[food-wine]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+		</tags>
+	</article>
+</root>
