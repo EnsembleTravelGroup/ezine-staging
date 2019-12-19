@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+​
+	<!-- BEGIN: 2001 CRY -->
+	<article date="2001" id="01">
+		<dir_name><![CDATA[recipe]]></dir_name>
+		<pub_date><![CDATA[January 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[01]]></dir_month>
+		<id_recipe><![CDATA[01]]></id_recipe>
+	​
+		<tab_class><![CDATA[active]]></tab_class>
+	​
+		<author><![CDATA[Crystal]]></author>
+		<id_supplier><![CDATA[cry]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		<cookbook><![CDATA[Serves 4, yields 2 clay pots]]></cookbook>
+	​
+		<title><![CDATA[CULINARY DISCOVERY]]></title>
+		<teaser><![CDATA[Crystal]]></teaser>
+		<lead><![CDATA[Steeped in tradition and infused with innovation, cuisine transcends mere excellence and enters the sublime. Michelin-inspired menus reflect the flavors of the world with every meal an artful orchestration of culinary discovery.	The Spot Prawn Vermicelli Clay Pot is a fine example of dining crossing paths with art &ndash; enjoy it on Crystal Symphony or Crystal Serenity at the new Silk Kitchen and Bar, one of up to ten dining venues!]]></lead>
+		<body><![CDATA[]]></body>
+	​
+		<item>
+			<title><![CDATA[Spot Prawn Vermicelli Clay Pot]]></title>
+			<ingredients><![CDATA[
+			<h4>Ingredients</h4>
+			<p><strong>Sauce:</strong></p>
+			<ul>
+				<li>2 ounce chicken stock</li>
+				<li>0.35 ounce light soy sauce</li>
+				<li>0,2 ounce dark soy sauce</li>
+				<li>0.35 ounce oyster sauce</li>
+				<li>0.35 ounce sugar</li>
+			</ul>
+			<p><strong>Sweet Garlic:</strong></p>
+			<ul>
+				<li>6 pcs. garlic cloves</li>
+				<li>3/4 cup onion oil</li>
+				<li>12 pcs. crushed black pepper</li>
+			</ul>
+			<p><strong>Ingredients List:</strong></p>
+			<ul>
+				<li>0.70 ounce bacon slices 3 * 3 cm</li>
+				<li>0.35 ounce ginger ( julienne)	</li>
+				<li>8.8 ounce glass noodles cut into 10 cm long and soaked in warm water</li>
+				<li>12 pcs. blanched celery stalks (chinese cut into 1 cm by 2 cm)</li>
+				<li>16 pcs. spot prawn tails (raw)</li>
+				<li>4 pcs. langoustine raw or spot prawns (cut tail in half claws cracked)</li>
+				<li>18 pcs. parsley stems	cut into 4cm pieces</li>
+				<li>18 pcs. cilantro stems cut into 4cm pieces</li>
+			</ul>
+			<p><strong>Garnish:</strong></p>
+			<ul>
+				<li>young celery leaves</li>
+				<li>fresh cilantro</li>
+			</ul>
+		]]></ingredients>
+	​
+			<prep><![CDATA[
+			<h4>Preparation</h4>
+			<p><strong>For the Sauce</strong></p>
+			<ol>
+				<li>Mix all ingredients and bring to a boil and set aside</li>
+			</ol>
+			<p><strong>Sweet Garlic</strong></p>
+			<ol>
+				<li>Cook all ingredients over very low heat until garlic is soft and sweet, crush with a fork</li>
+			</ol>
+			<p><strong>Procedure</strong></p>
+			<ol>
+				<li>In a clay pot place parsley stems, cilantro stems, ginger julienne, bacon slices top with your sweet garlic pepper mixture</li>
+				<li>Next place your prawn tails on top followed by the glass noodles (dry no water)</li>
+				<li>Add in each clay pot 3/4 cup sauce, top each clay pot with 2 pcs. langoustine</li>
+				<li>Preheat oven to 220&deg;C cover clay pot and cook for 15 minutes</li>
+				<li>Before serving mix the noodles well garnish with celery leaves and fresh cilantro</li>
+			</ol>
+		]]></prep>
+		</item>
+	​
+		<body_2><![CDATA[]]></body_2>
+	​
+		<sidebar><![CDATA[]]></sidebar>
+	​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/01/hero/recipe-01.jpg</hero_src>
+		<hero_caption><![CDATA[CULINARY DISCOVERY]]></hero_caption>
+		<hero_credit><![CDATA[Crystal]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/01/article/recipe-01.jpg</article_src>
+		<article_caption><![CDATA[CULINARY DISCOVERY]]></article_caption>
+		<article_credit><![CDATA[Crystal]]></article_credit>
+	​
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	<!-- END: 2001 CRY -->
+
+</root>

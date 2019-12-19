@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+<!-- BEGIN: 2001 RMT -->​
+	<article date="2001" id="01">
+		<dir_name><![CDATA[advertorial]]></dir_name>
+		<pub_date><![CDATA[January 2020]]></pub_date> <!-- 01m = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[01]]></dir_month>
+		<id_article><![CDATA[01]]></id_article>
+​
+		<author><![CDATA[Rocky Mountaineer]]></author>
+		<id_supplier><![CDATA[rmt]]></id_supplier>
+​
+		<title><![CDATA[The Road Less Travelled Is On Rails]]></title>
+		<teaser><![CDATA[Rocky Mountaineer]]></teaser>
+		<lead><![CDATA[
+			Sky-high peaks, fine dining, roaming wildlife, stunning sunsets&mdash;a journey through the Canadian Rocky Mountains by rail is quite simply, unforgettable.
+		]]></lead>
+		<body><![CDATA[
+			<p>Rocky Mountaineer, the luxury tourist train operating in Western Canada and the Canadian Rockies, is the best way to see all this part of the world has to offer. You will be taken on a journey alongside stunning scenery, while you enjoy world-class culinary creations inspired by the passing regions. With three unique routes to choose from, the unforgettable all daylight journeys offer romance and history, reminding you that traveling is as much about the journey as it is about the destination.</p>
+​
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/01/article/advertorial-01-01.jpg">
+			</figure>
+
+			<p>Rocky Mountaineer offers two levels of service, both with engaging hosts, delectable food, and all the comforts for which Rocky Mountaineer is known. Stepping onto the bi-level, glass-domed train cars of GoldLeaf Service is a luxurious experience unto itself. With sprawling windows on the upper level, you can feast your eyes on panoramic views from every angle. In the lower level, an elegant dining room awaits, where you can enjoy a freshly prepared breakfast and three-course lunch as the dramatic scenery unfolds outside the windows next to you.</p>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/01/article/advertorial-01-02.jpg">
+			</figure>
+
+			<p>SilverLeaf Service offers optimal viewing from oversized windows, so you don&rsquo;t miss a moment of the stunning waterfalls, snowcapped mountains or eagles soaring overhead. With a selection of regionally inspired menu options served right at your seat, you receive the royal treatment while chugging along the railway to your destination of choice.</p>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/01/article/advertorial-01-03.jpg">
+			</figure>
+
+			<p>With over 50 Rocky Mountaineer vacation packages along three rail routes, rich in culture, history and natural wonders, there is something for everyone. Our First Passage to the West route is the only passenger rail service on the historic Canadian Pacific track&mdash;famous for uniting the country and connecting British Columbia to Canada over 130 years ago. On this route, you&rsquo;ll travel through lush rainforests and the semi-arid desert, alongside the powerful Kicking Horse River, and into the Rocky Mountain towns of Lake Louise and Banff.</p>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/01/article/advertorial-01-04.jpg">
+			</figure>
+
+			<p>One of Rocky Mountaineer&rsquo;s most popular packages is the Circle Journey, which includes all of its exciting destinations, including Jasper, Lake Louise, Banff, Whistler, and Vancouver. With a minimum of four days on the train, there is no limit to the wildlife sightings and breathtaking scenery along the journey.</p>
+
+			<p>The awe-inspiring views are enough to keep you enthralled, but beyond that, there&rsquo;s the chance to make new friends and connect with your traveling companions as you take in this memorable trip of a lifetime. A journey through the Canadian Rockies with Rocky Mountaineer is a feast for the senses and an unparalleled experience that should be on every traveler&rsquo;s must-do list.</p>
+		]]></body>
+​
+		<body_2><![CDATA[]]></body_2>
+​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/01/hero/advertorial-01.jpg</hero_src>
+		<hero_caption><![CDATA[The Road Less Travelled Is On Rails]]></hero_caption>
+		<hero_credit><![CDATA[Rocky Mountaineer]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/01/article/advertorial-01.jpg
+		</article_src>
+		<article_caption><![CDATA[The Road Less Travelled Is On Rails]]></article_caption>
+		<article_credit><![CDATA[Rocky Mountaineer]]></article_credit>
+​
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+​
+		<tags>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+		</tags>
+	</article>
+<!-- END: 2001 RMT -->
+	
+<!-- BEGIN: 2001 CEL -->
+	<article date="2001" id="02">
+		<dir_name><![CDATA[advertorial]]></dir_name>
+		<pub_date><![CDATA[January 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[01]]></dir_month>
+		<id_article><![CDATA[02]]></id_article>
+​
+		<author><![CDATA[Celebrity Cruises]]></author>
+		<id_supplier><![CDATA[cel]]></id_supplier>
+​
+		<title><![CDATA[Extraordinary Place. Extraordinary Ship. Celebrity Flora]]></title>
+		<teaser><![CDATA[Celebrity Cruises]]></teaser>
+		<lead><![CDATA[
+			Celebrity Flora is the first yacht designed for this unique corner of the world, with the most luxurious suites in the islands, expert naturalists, and eco-friendly technology.
+		]]></lead>
+		<body><![CDATA[
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/01/article/advertorial-02-01.jpg">
+				<figcaption>
+					<h4>Celebrity Flora<br>
+					THE ALL-SUITES LUXURY SHIP DESIGNED TO DELIVER YOUR DREAM VACATION</h4>
+					Celebrity Flora<sup>SM</sup>, is the first ship of its kind to be designed and built specifically with this destination in mind. Every space, including the all-suites accommodations, features our innovative outward-facing concept, so the destination is the center of attention at every turn. By using natural materials inspired by the islands, we&rsquo;ve created a ship that&rsquo;s a true complement to the destination and merges seamlessly with the surroundings to create a greater connection between you, the ocean, and the breathtaking islands</p>
+				</figcaption>
+			</figure>
+
+				<p>In the spirit of continuous improvement and innovation, and to ensure that we protect the islands and the pristine waters that surround them, Celebrity FloraSM was designed with every state-of-the-art option and latest technology&mdash;from a dynamic positioning system that enables the ship to stay on station without the use of anchors, helping protect the seas, to solar panels that supplement electricity, helping reduce emissions. The result is one of the most eco-friendly and environmentally safe ships sailing the planet.</p>
+
+				<p>Our visionary outward-facing concept maximizes your sense of being in the destination&mdash;even when you&rsquo;re on board. The indoor and outdoor spaces on Celebrity FloraSM are large sanctuaries that showcase endless ocean views and the extraordinary Galapagos Islands. These spaces are also designed to educate, inform, and easily connect you to the naturalists, other guests, and islands themselves. There are few places in the world where this innovative concept would benefit travelers more, and we&rsquo;re proud to present them to you.</p>
+
+				<p>Experience the timeless islands that inspired Charles Darwin, and do it aboard the most advanced ship in the Galapagos Islands. We designed new Celebrity FloraSM especially for this wondrous place, and she&rsquo;s already won Travel Weekly&rsquo;s Magellan Award for Best Small Ship. Each day, you&rsquo;ll travel back in time, led by our certified naturalists, to discover plants and animals that live only here. Each night, you&rsquo;ll enjoy fascinating programs, relax in comfortable lounges with your favorite libation, dine on globally inspired, locally sourced cuisine, and recharge in stunning suites. Plus, it&rsquo;s all included, from shore excursions to nightcaps</p>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/01/article/advertorial-02-02.jpg">
+				<figcaption>
+					<h4>ALL SUITES, ALL INCLUSIVE, ALL FOR YOU</h4>
+					Aboard Celebrity Flora, you&rsquo;ll indulge in the largest, most luxurious veranda suites&mdash;yes, they&rsquo;re all suites&mdash;in the Galapagos, with numerous design features and amenities to help you unwind each evening. Control the air, blinds, lighting, even the Infinite Veranda, all from a touch screen. Receive seamless service from your Personal Suite Attendant, helping you unpack, stocking the minibar, and bringing your morning coffee just the way you like it. Enjoy the welcome bottle of champagne, king-size beds from our Cashmere Collection bedding, plush cotton bathrobes, unlimited Wi-Fi, 24-hour room service, in-suite water filtration, and daily delectables for those afternoon cravings. One thing is certain: Your all-inclusive stay in these primitive islands will be anything but primitive.
+				</figcaption>
+			</figure>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/01/article/advertorial-02-03.jpg">
+				<figcaption>
+					<h4>Truly All Inclusive Vacation/h4>
+					A trip to the Galapagos Islands is so unique and full of monumental experiences that we don&rsquo;t want you to waste a single moment thinking about logistics or details. Our Galapagos adventures are blissfully all-inclusive, worry-free, and well-planned, right down to the last detail. So you can immerse yourself in centuries-old landscapes, catch rare bird sightings, or hang out with a giant 70-year-old tortoise for the day. We&rsquo;ve taken care of everything from hotel stays before and after your cruise, to flights, transfers, packages, meals, beverages, and shore excursions.
+				</figcaption>
+			</figure>
+
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/01/article/advertorial-02-04.jpg">
+				<figcaption>
+					<h4>GALAPAGOS GLAMPING, CELEBRITY STYLE</h4>
+					Galapagos Glamping is the first sunset-to-sunrise experience of its kind in the Galapagos Islands. Enjoy an exclusive and delectable dinner featuring campfire-themed delights and cocktails. Experience a naturalist-guided stargazing session under the constellations of both the Northern and Southern Hemispheres, as you sail along the equator. Sleep under the stars in a cabana that transforms into a comfortable double bed. Wake up to the sunrise and a private breakfast before you leave for your daily island adventures.
+				</figcaption>
+			</figure>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/01/article/advertorial-02-05.jpg">
+				<figcaption>
+					<h4>Novurania Yacht Tenders</h4>
+					Celebrity Flora&rsquo;s custom-built Novurania tenders will transport you in comfort and style. They feature stairs with a metal railing that fits flush against the open aft creating a seamless ship to shore transportation system that makes it even easier to go exploring the islands&mdash;a first in the Galapagos. Each tender also features a hydraulic ramp that makes wet landings in the islands much more convenient&mdash;and less wet. It can also be used as a platform that makes getting on and off for snorkeling much easier. Other features not found on the standard tender include storage space for snorkel gear and interior seating, in case you&rsquo;re not comfortable sitting on the sides of the tender. They also feature rubber grips on the sides for a comfortable place to hold on while you explore the islands.
+				</figcaption>
+			</figure>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/01/article/advertorial-02-06.jpg">
+				<figcaption>
+					<h4>The Galapagos Islands<br>
+					UNTOUCHED UNSPOILED UNBELIEVABLE</h4>
+					Located 600 miles off the coast of Ecuador, this archipelago of unspoiled, isolated islands will welcome you with its rugged charms and evolutionary wonders. Consisting of 19 islands and 42 islets that all rose from the sea as the product of volcanic eruptions, these islands are between 3 million and 4 million years old.<br>
+					<br>
+					Completely oceanic&mdash;meaning they&rsquo;ve never been connected to the mainland&mdash;the Galapagos Islands are truly a world apart. Settlers have carved out their lives on the lava rocks, pirates have profited, and scientists have explored. The history of the Galapagos is rich and diverse, with tales of basic survival and extraordinary discovery. For almost any modern adventurer, a journey through time  
+to the Galapagos Islands is a dream vacation.<br>
+					<br>
+					The animals of the Galapagos are unlike any others on earth. Apart from having no natural fear of humans, they evolved in entirely unique manners, which are on full display daily for you to see. This includes enormous 100-year-old Galapagos giant tortoises, free-diving marine iguanas, the beautiful and animated blue-footed boobies, and a host of other exotic fauna found nowhere else on earth.
+				</figcaption>
+			</figure>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/01/article/advertorial-02-07.jpg">
+				<figcaption>
+					<h4>Leaving the World a Better Place</h4>
+					When you love traveling the planet as much as we do, being its steward is paramount. We're focused passionately on preserving the environment and partnering with local organizations on programs designed to improve the quality of life for residents of the Galapagos Islands. Since 2014, working in collaboration with the Galapagos National Park and our naturalists, our guests have introduced more than 50,000 plants in support of the Scalesia reforestation effort. We're not only helping the wildlife that rely on these plants for survival but also assuring that future generations get to experience this magical place&mdash;just as you can today.
+				</figcaption>
+			</figure>
+		]]></body>
+​
+		<body_2><![CDATA[]]></body_2>
+​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/01/hero/advertorial-02.jpg</hero_src>
+		<hero_caption><![CDATA[Extraordinary Place. Extraordinary Ship. Celebrity Flora]]></hero_caption>
+		<hero_credit><![CDATA[Celebrity Cruises]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/01/article/advertorial-02.jpg
+		</article_src>
+		<article_caption><![CDATA[Extraordinary Place. Extraordinary Ship. Celebrity Flora]]></article_caption>
+		<article_credit><![CDATA[Celebrity Cruises]]></article_credit>
+​
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+​
+		<tags>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+		</tags>
+	</article>
+	
+<!-- END: 2001 CEL -->
+​
+</root>

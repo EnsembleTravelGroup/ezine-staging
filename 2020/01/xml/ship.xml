@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+​
+	<article date="2001" id="01">
+		<dir_name><![CDATA[ship]]></dir_name>
+		<pub_date><![CDATA[January 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[01]]></dir_month>
+		<file_ship><![CDATA[01]]></file_ship>
+​
+		<tab_class><![CDATA[active]]></tab_class> <!-- If there's more than one ship showcase, only the first showcase has the 'active' class -->
+​
+		<author><![CDATA[Regent]]></author>
+		<id_supplier><![CDATA[reg]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+​
+		<title><![CDATA[Experience Luxury Perfected]]></title>
+		<teaser><![CDATA[
+			<em>Seven Seas Splendor&trade;</em> is the next evolution in luxury travel.  No effort has been spared in the design and creation of the latest addition to the most elegant fleet in the world.  From the smallest details in your spacious suite to the exquisite cuisine in our refined restaurants alongside the enchanting entertainment and activities awaiting you around every corner, we invite you to come aboard and experience luxury perfected.
+		]]></teaser>
+		<lead><![CDATA[
+			We are the moment makers, your consummate host. We deliver the pinnacle of ocean cruising, with every luxury included, knowing your delight is in the details. Whether you seek a quiet night alone, are looking to socialize or are simply excited to explore our world, we look forward to welcoming you aboard.  We believe luxury exists in the smallest details, the most attentive service and the most inviting atmosphere. Come aboard and allow us to create opportunities for you to embrace the moment, so that you can create memories that will last a lifetime.  We take care of everything, so you don&rsquo;t need to do anything except enjoy your travel. The genuine hospitality and attention to detail of our outstanding crew will carry forward throughout your voyage, from the little touches in your suite to the perfect dining choices made to your taste.
+		]]></lead>
+		<body><![CDATA[
+			<p></p>
+		]]></body>
+​
+		<tab_group id_supplier="reg">
+			<tab id="01">
+				<id><![CDATA[01]]></id>
+				<title><![CDATA[The Ship]]></title> <!-- Le navire -->
+				<content><![CDATA[
+					<p><em>Seven Seas Splendor&trade;</em> Arriving February 2020. Catering to a mere 750 guests, she will boast one of the highest space ratios in the industry while maintaining an intimate atmosphere. Intricate design details create an elegant and relaxing space in each of the 375 spacious suites.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/ship-01-ship.jpg</tab_src>
+				<tab_caption><![CDATA[The Ship]]></tab_caption>
+				<class><![CDATA[active]]></class> <!-- The first tab has the 'active' class -->
+			</tab>
+​
+			<tab id="02">
+				<id><![CDATA[02]]></id>
+				<title><![CDATA[Accommodations]]></title> <!-- Hébergement -->
+				<content><![CDATA[
+					<p>Fine stones and marble, custom furniture, oversized bathrooms, European King Size Elite Slumber&trade; beds and private balconies, which are among the largest at sea, create the ultimate haven. The crown jewel of Seven Seas Splendor&rsquo;s suites is the one-of-a-kind, 4,443 square foot Regent Suite, offering sweeping ocean views, a wrap-around balcony with a glass enclosed sitting area at the bow, unlimited in-suite spa treatments and a luxurious custom-built H&auml;stens Vividus bed.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/ship-01-accommodations.jpg</tab_src>
+				<tab_caption><![CDATA[Accommodations]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+​
+			<tab id="03">
+				<id><![CDATA[03]]></id>
+				<title><![CDATA[Dining]]></title> <!-- Gastronomie -->
+				<content><![CDATA[
+					<p>An unmatched collection of specialty dining options including French fare with a twist in Chartreuse, the Pan-Asian Pacific Rim, the best steakhouse at sea in Prime 7 and our largest specialty restaurant, with fully customizable menus, Compass Rose. Relax at the Pool Grill with friends after a full day of onshore adventures or simply enjoy the quiet and comfort of your suite with an impeccably prepared meal from the excellent 24-hour room service.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/ship-01-dining.jpg</tab_src>
+				<tab_caption><![CDATA[Dining]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+​
+			<tab id="04">
+				<id><![CDATA[04]]></id>
+				<title><![CDATA[Activities]]></title> <!-- Activités -->
+				<content><![CDATA[
+					<p>Talented expert Chefs lead individualized, hands-on instruction in specially developed cooking classes within the professionally designed Culinary Arts Kitchen. In the evenings, our ships take on new life as the sun sets and lights come on. Dance the night away to the tunes of a live band or take the stage yourself during karaoke with friends. The Casino always invites a good time, whether you&rsquo;d prefer to join in the fun or simply cheer on your fellow gamers as they bet on a favorite number or beat the house in a high stakes card game.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/ship-01-activities.jpg</tab_src>
+				<tab_caption><![CDATA[Activities]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+​
+			<tab id="05">
+				<id><![CDATA[05]]></id>
+				<title><![CDATA[Family]]></title> <!-- Famille -->
+				<content><![CDATA[
+					<p></p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/ship-01-family.jpg</tab_src>
+				<tab_caption><![CDATA[Family]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+​
+			<tab id="06">
+				<id><![CDATA[06]]></id>
+				<title><![CDATA[Services]]></title> <!-- Services -->
+				<content><![CDATA[
+					<p>Enjoy an invigorating workout or exercise class in the state-of-the-art Fitness Center or indulge and revitalize your mind and body with a holistic treatment at our onboard spa.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/ship-01-services.jpg</tab_src>
+				<tab_caption><![CDATA[Services]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+		</tab_group>
+​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/hero/ship-##.jpg</hero_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/ship-##.jpg</article_src>
+​
+		<tile_color>005DAB</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+​
+</root>
