@@ -1,0 +1,24 @@
+<!-- BEGIN: 2001 RCI -->
+<article date="2001" id="01">
+	<dir_name><![CDATA[video]]></dir_name>
+	<pub_date><![CDATA[January 2020]]></pub_date>
+	<dir_year><![CDATA[20]]></dir_year>
+	<dir_month><![CDATA[01]]></dir_month>
+	<file_video><![CDATA[01]]></file_video>
+
+	<author><![CDATA[Royal Caribbean]]></author>
+	<id_supplier><![CDATA[rci]]></id_supplier>
+
+	<title><![CDATA[11 Must Do&rsquo;s for your visit to Perfect Day at CocoCay]]></title>
+	<teaser><![CDATA[Royal Caribbean]]></teaser>
+	<lead><![CDATA[Here are 11 must do's for any visit to Perfect Day at CocoCay, Royal Caribbean's new private island in the Bahamas that's unlike any you've ever been before.]]></lead>
+	<body><![CDATA[]]></body>
+	<embed><![CDATA[
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/fNoj7izUooo?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	]]></embed>
+
+	<tile_color>D2367D</tile_color>
+	<tile_class>opaque-100</tile_class>
+	<tile_new>none</tile_new>
+</article>
+<!-- END: 2001 RCI -->
