@@ -32,7 +32,7 @@
 				<content><![CDATA[
 					<p><em>Seven Seas Splendor&trade;</em> Arriving February 2020. Catering to a mere 750 guests, she will boast one of the highest space ratios in the industry while maintaining an intimate atmosphere. Intricate design details create an elegant and relaxing space in each of the 375 spacious suites.</p>
 				]]></content>
-				<tab_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/ship-01-ship.jpg</tab_src>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/01/article/ship-01-ship.jpg</tab_src>
 				<tab_caption><![CDATA[The Ship]]></tab_caption>
 				<class><![CDATA[active]]></class> <!-- The first tab has the 'active' class -->
 			</tab>
@@ -43,7 +43,7 @@
 				<content><![CDATA[
 					<p>Fine stones and marble, custom furniture, oversized bathrooms, European King Size Elite Slumber&trade; beds and private balconies, which are among the largest at sea, create the ultimate haven. The crown jewel of Seven Seas Splendor&rsquo;s suites is the one-of-a-kind, 4,443 square foot Regent Suite, offering sweeping ocean views, a wrap-around balcony with a glass enclosed sitting area at the bow, unlimited in-suite spa treatments and a luxurious custom-built H&auml;stens Vividus bed.</p>
 				]]></content>
-				<tab_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/ship-01-accommodations.jpg</tab_src>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/01/article/ship-01-accommodations.jpg</tab_src>
 				<tab_caption><![CDATA[Accommodations]]></tab_caption>
 				<class><![CDATA[]]></class>
 			</tab>
@@ -54,7 +54,7 @@
 				<content><![CDATA[
 					<p>An unmatched collection of specialty dining options including French fare with a twist in Chartreuse, the Pan-Asian Pacific Rim, the best steakhouse at sea in Prime 7 and our largest specialty restaurant, with fully customizable menus, Compass Rose. Relax at the Pool Grill with friends after a full day of onshore adventures or simply enjoy the quiet and comfort of your suite with an impeccably prepared meal from the excellent 24-hour room service.</p>
 				]]></content>
-				<tab_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/ship-01-dining.jpg</tab_src>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/01/article/ship-01-dining.jpg</tab_src>
 				<tab_caption><![CDATA[Dining]]></tab_caption>
 				<class><![CDATA[]]></class>
 			</tab>
@@ -65,7 +65,7 @@
 				<content><![CDATA[
 					<p>Talented expert Chefs lead individualized, hands-on instruction in specially developed cooking classes within the professionally designed Culinary Arts Kitchen. In the evenings, our ships take on new life as the sun sets and lights come on. Dance the night away to the tunes of a live band or take the stage yourself during karaoke with friends. The Casino always invites a good time, whether you&rsquo;d prefer to join in the fun or simply cheer on your fellow gamers as they bet on a favorite number or beat the house in a high stakes card game.</p>
 				]]></content>
-				<tab_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/ship-01-activities.jpg</tab_src>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/01/article/ship-01-activities.jpg</tab_src>
 				<tab_caption><![CDATA[Activities]]></tab_caption>
 				<class><![CDATA[]]></class>
 			</tab>
@@ -76,7 +76,7 @@
 				<content><![CDATA[
 					<p></p>
 				]]></content>
-				<tab_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/ship-01-family.jpg</tab_src>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/01/article/ship-01-family.jpg</tab_src>
 				<tab_caption><![CDATA[Family]]></tab_caption>
 				<class><![CDATA[]]></class>
 			</tab>
@@ -87,14 +87,14 @@
 				<content><![CDATA[
 					<p>Enjoy an invigorating workout or exercise class in the state-of-the-art Fitness Center or indulge and revitalize your mind and body with a holistic treatment at our onboard spa.</p>
 				]]></content>
-				<tab_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/ship-01-services.jpg</tab_src>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/01/article/ship-01-services.jpg</tab_src>
 				<tab_caption><![CDATA[Services]]></tab_caption>
 				<class><![CDATA[]]></class>
 			</tab>
 		</tab_group>
 ​
-		<hero_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/hero/ship-##.jpg</hero_src>
-		<article_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/ship-##.jpg</article_src>
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/01/hero/ship-01.jpg</hero_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/01/article/ship-01.jpg</article_src>
 ​
 		<tile_color>005DAB</tile_color>
 		<tile_class>opaque-100</tile_class>
