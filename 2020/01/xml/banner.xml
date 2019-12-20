@@ -213,7 +213,7 @@ Ensemble Xtra: Offer applies to 4-night and longer itineraries that depart Oct. 
 	<element date="2001" id="banner-2001-hal">
 		<country><![CDATA[ca]]></country>
 		<tactic><![CDATA[banner]]></tactic>
-		<year><![CDATA[12]]></year>
+		<year><![CDATA[20]]></year>
 		<month><![CDATA[01]]></month>
 		<id_live><![CDATA[02]]></id_live>
 ​
@@ -273,7 +273,7 @@ Ensemble Xtra: Offer applies to 4-night and longer itineraries that depart Oct. 
 				<exclusives_title><![CDATA[]]></exclusives_title>
 				<exclusives_desc><![CDATA[]]></exclusives_desc>
 				<inclusions_title><![CDATA[]]></inclusions_title>
-				<inclusions_desc><![CDATA[]]>
+				<inclusions_desc><![CDATA[]]></inclusions_desc>
 ​
 				<terms><![CDATA[]]></terms>
 				<img_map></img_map>
@@ -305,7 +305,7 @@ Ensemble Xtra: Offer applies to 4-night and longer itineraries that depart Oct. 
 				<exclusives_title><![CDATA[]]></exclusives_title>
 				<exclusives_desc><![CDATA[]]></exclusives_desc>
 				<inclusions_title><![CDATA[]]></inclusions_title>
-				<inclusions_desc><![CDATA[]]>
+				<inclusions_desc><![CDATA[]]></inclusions_desc>
 ​
 				<terms><![CDATA[]]></terms>
 				<img_map></img_map>
