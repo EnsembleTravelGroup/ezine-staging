@@ -19,10 +19,10 @@
 			<span style="font-style: italic;">Seven Seas Splendor&trade;</span> is the next evolution in luxury travel.  No effort has been spared in the design and creation of the latest addition to the most elegant fleet in the world.  From the smallest details in your spacious suite to the exquisite cuisine in our refined restaurants alongside the enchanting entertainment and activities awaiting you around every corner, we invite you to come aboard and experience luxury perfected.
 		]]></teaser>
 		<lead><![CDATA[
-			We are the moment makers, your consummate host. We deliver the pinnacle of ocean cruising, with every luxury included, knowing your delight is in the details. Whether you seek a quiet night alone, are looking to socialize or are simply excited to explore our world, we look forward to welcoming you aboard.  We believe luxury exists in the smallest details, the most attentive service and the most inviting atmosphere. Come aboard and allow us to create opportunities for you to embrace the moment, so that you can create memories that will last a lifetime.  We take care of everything, so you don&rsquo;t need to do anything except enjoy your travel. The genuine hospitality and attention to detail of our outstanding crew will carry forward throughout your voyage, from the little touches in your suite to the perfect dining choices made to your taste.
+			We are the moment makers, your consummate host. We deliver the pinnacle of ocean cruising, with every luxury included, knowing your delight is in the details. Whether you seek a quiet night alone, are looking to socialize or are simply excited to explore our world, we look forward to welcoming you aboard.
 		]]></lead>
 		<body><![CDATA[
-			<p></p>
+			<p>We believe luxury exists in the smallest details, the most attentive service and the most inviting atmosphere. Come aboard and allow us to create opportunities for you to embrace the moment, so that you can create memories that will last a lifetime.  We take care of everything, so you don&rsquo;t need to do anything except enjoy your travel. The genuine hospitality and attention to detail of our outstanding crew will carry forward throughout your voyage, from the little touches in your suite to the perfect dining choices made to your taste.</p>
 		]]></body>
 ​
 		<tab_group id_supplier="reg">
@@ -67,17 +67,6 @@
 				]]></content>
 				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/01/article/ship-01-activities.jpg</tab_src>
 				<tab_caption><![CDATA[Activities]]></tab_caption>
-				<class><![CDATA[]]></class>
-			</tab>
-​
-			<tab id="05">
-				<id><![CDATA[05]]></id>
-				<title><![CDATA[Family]]></title> <!-- Famille -->
-				<content><![CDATA[
-					<p></p>
-				]]></content>
-				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/01/article/ship-01-family.jpg</tab_src>
-				<tab_caption><![CDATA[Family]]></tab_caption>
 				<class><![CDATA[]]></class>
 			</tab>
 ​
