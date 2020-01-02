@@ -11,7 +11,7 @@
 		<author><![CDATA[Avalon Waterways]]></author>
 		<id_supplier><![CDATA[avl]]></id_supplier>
 ​
-		<title><![CDATA[Short and &ldquo;Suite&rdquo;: 4 day European river cruises may be just the ticket]]></title>
+		<title><![CDATA[Short and Suite: 4 day European river cruises may be just the ticket]]></title>
 		<teaser><![CDATA[Avalon Waterways]]></teaser>
 		<lead><![CDATA[
 			If you want to see the world, cruise down its legendary rivers. If you want to see more of the world, look no further than Avalon Waterways.
@@ -61,11 +61,11 @@
 		<dir_month><![CDATA[12]]></dir_month>
 		<id_article><![CDATA[02]]></id_article>
 ​
-		<author><![CDATA[C.I.E Tours International]]></author>
+		<author><![CDATA[CIE Tours]]></author>
 		<id_supplier><![CDATA[cie]]></id_supplier>
 ​
 		<title><![CDATA[New Travel Experiences from CIE Tours]]></title>
-		<teaser><![CDATA[C.I.E Tours International]]></teaser>
+		<teaser><![CDATA[CIE Tours]]></teaser>
 		<lead><![CDATA[
 			Answering the dreams of North American travelers who seek new adventures across the pond, CIE Tours has unveiled more than a dozen new travel experiences for 2020.
 		]]></lead>
@@ -111,11 +111,11 @@
 ​
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/19/12/hero/advertorial-02.jpg</hero_src>
 		<hero_caption><![CDATA[New Travel Experiences from CIE Tours]]></hero_caption>
-		<hero_credit><![CDATA[C.I.E Tours International]]></hero_credit>
+		<hero_credit><![CDATA[CIE Tours]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/19/12/article/advertorial-02.jpg
 		</article_src>
 		<article_caption><![CDATA[New Travel Experiences from CIE Tours]]></article_caption>
-		<article_credit><![CDATA[C.I.E Tours International]]></article_credit>
+		<article_credit><![CDATA[CIE Tours]]></article_credit>
 ​
 		<tile_color>A8CB17</tile_color>
 		<tile_class>opaque-100</tile_class>
@@ -129,7 +129,6 @@
 			<tag slug="xxx"><![CDATA[xxx]]></tag>
 		</tags>
 	</article>
-	
 	<!-- END: 1912 CIE -->
 ​
 </root>
