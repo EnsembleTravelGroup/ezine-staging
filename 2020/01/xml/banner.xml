@@ -251,7 +251,7 @@ Ensemble Xtra: Offer applies to 4-night and longer itineraries that depart Oct. 
 			<!-- PRODUCT ONE -->
 			<product id="banner-2001-hal">
 				<title><![CDATA[Great Alaskan Explorer]]></title>
-				<offer><![CDATA[]]></offer>
+				<offer><![CDATA[US$75 onboard spending money per stateroom!]]></offer>
 				<description><![CDATA[Board this convenient Vancouver roundtrip cruise and experience nature&rsquo;s awesome sculpting power at Tracy Arm and Hubbard Glacier. Visit Homer, the &ldquo;Halibut Capital of the World.]]></description>
 ​
 				<cost><![CDATA[2,959]]></cost>
@@ -262,7 +262,7 @@ Ensemble Xtra: Offer applies to 4-night and longer itineraries that depart Oct. 
 				<currency><![CDATA[CAD]]></currency>
 ​
 				<ship><![CDATA[Maasdam]]></ship>
-				<category><![CDATA[Interior with complimentary upgrade to obstructed ocean view!]]></category>
+				<category><![CDATA[Interior with complimentary upgrade to ocean view!]]></category>
 				<embarkation><![CDATA[Roundtrip]]></embarkation>
 				<disembarkation><![CDATA[Vancouver]]></disembarkation>
 ​
@@ -316,7 +316,7 @@ Ensemble Xtra: Offer applies to 4-night and longer itineraries that depart Oct. 
 				<title><![CDATA[Greek Odyssey]]></title>
 				<offer><![CDATA[
 					Our agency exclusive hosted sailing: Complimentary shore excursion, traveller cocktail party, and company of a gracious onboard host.]]></offer>
-				<description><![CDATA[Rome is your launching point to the wonders of ancient Greece and its picturesque isles. Cap off your journey with an overnight stay in romantic Venice]]></description>
+				<description><![CDATA[Rome is your launching point to the wonders of ancient Greece and its picturesque isles. Cap off your journey with an overnight stay in romantic Venice.]]></description>
 ​
 				<cost><![CDATA[3,179]]></cost>
 				<taxes><![CDATA[included]]></taxes>
