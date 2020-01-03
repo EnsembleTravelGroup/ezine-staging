@@ -1,24 +1,24 @@
-<!-- BEGIN: 2001 PGN -->
 <article date="2001" id="01">
 	<dir_name><![CDATA[video]]></dir_name>
 	<pub_date><![CDATA[January 2020]]></pub_date>
 	<dir_year><![CDATA[20]]></dir_year>
 	<dir_month><![CDATA[01]]></dir_month>
 	<file_video><![CDATA[01]]></file_video>
-
+	
 	<author><![CDATA[Paul Gauguin Cruises]]></author>
 	<id_supplier><![CDATA[pgn]]></id_supplier>
-
+	
 	<title><![CDATA[Paul Gauguin Cruises - The World&rsquo;s Best]]></title>
 	<teaser><![CDATA[Proud to be named the "#1 Midsize-Ship Cruise Line" in Travel + Leisure's 2019 World's Best Awards!]]></teaser>
-	<lead><![CDATA[Paul Gauguin Cruises has been honored by notable names in the travel and lifestyle industry for our award-winning luxury voyages which some deem the world&rsquo;s best cruises. We are fortunate to be recognized for our top cruises including being voted &ldquo;World&rsquo;s Best Small-Ship Cruise Line&rdquo; and &ldquo;World&rsquo;s Best Small-Ship Cruise Line for Families&rdquo; by the readers of <em>Travel + Leisure</em>. Paul Gauguin Cruises has also received exceptional cruise reviews and accolades from our guests who thank us for providing the best cruises in the world. We invite you to sail with us and experience our top cruises.]]></lead>
-	<body><![CDATA[]]></body>
+	<lead><![CDATA[Paul Gauguin Cruises has been honored by notable names in the travel and lifestyle industry for our award-winning luxury voyages which some deem the world&rsquo;s best cruises.]]></lead>
+	<body><![CDATA[
+		<p>We are fortunate to be recognized for our top cruises including being voted &ldquo;World&rsquo;s Best Small-Ship Cruise Line&rdquo; and &ldquo;World&rsquo;s Best Small-Ship Cruise Line for Families&rdquo; by the readers of <span style="font-style: italic;">Travel + Leisure</span>. Paul Gauguin Cruises has also received exceptional cruise reviews and accolades from our guests who thank us for providing the best cruises in the world. We invite you to sail with us and experience our top cruises.</p>
+	]]></body>
 	<embed><![CDATA[
-		<iframe src="https://player.vimeo.com/video/362176082?color=ed1940&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-	]]></embed>
-
+			<iframe src="https://player.vimeo.com/video/362176082?color=ed1940&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		]]></embed>
+	
 	<tile_color>D2367D</tile_color>
 	<tile_class>opaque-100</tile_class>
 	<tile_new>none</tile_new>
 </article>
-<!-- END: 2001 PGN -->
