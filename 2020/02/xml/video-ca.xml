@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>​
+	<!-- BEGIN: 2002 PRI -->
+	<article date="2002" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[February 2020]]></pub_date>
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[02]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+
+		<author><![CDATA[Princess Cruises]]></author>
+		<id_supplier><![CDATA[pri]]></id_supplier>
+
+		<title><![CDATA[Go Together | Princess Cruises]]></title>
+		<teaser><![CDATA[Princess Cruises]]></teaser>
+		<lead><![CDATA[Princess guests are people people, who know a greater connection lies when you're actually in the moment, together. They know that this beautiful world is better experienced together. Unpack once and visit many destinations. Go Together.]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/2RzUU0R_p80?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	<!-- END: 2002 PRI -->
+</root>

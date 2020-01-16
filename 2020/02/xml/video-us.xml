@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>​
+
+	<!-- BEGIN: 2002 CUN -->
+	<article date="2002" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[February 2020]]></pub_date>
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[02]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+
+		<author><![CDATA[Cunard]]></author>
+		<id_supplier><![CDATA[cun]]></id_supplier>
+
+		<title><![CDATA[Alaska, by Cunard.]]></title>
+		<teaser><![CDATA[Cunard]]></teaser>
+		<lead><![CDATA[Breathtaking scenic voyages, immersive Alaska experiences and unforgettable Cunard style.]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/gRLZiU46vxI?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	<!-- END: 2002 CUN -->
+
+	<!-- BEGIN: 2002 GMI -->
+	<article date="2002" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[February 2020]]></pub_date>
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[02]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+
+		<author><![CDATA[Gran Meli&aacute; Iguaz&uacute;]]></author>
+		<id_supplier><![CDATA[gmi]]></id_supplier>
+
+		<title><![CDATA[The Gran Meli&aacute; Iguaz&uacute;: Connect with Nature in Elegance]]></title>
+		<teaser><![CDATA[Gran Meli&aacute; Iguaz&uacute;]]></teaser>
+		<lead><![CDATA[The Gran Meli&aacute; Iguaz&uacute; is the only hotel within Iguaz&uacute; National Park, offering relaxed elegance and luxury. Enjoy one of the Seven Wonders of the World, Iguazu Falls, from a privileged location.]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/Jpv_XzryihQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	<!-- END: 2002 GMI -->
+
+</root>
