@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!--BEGIN: 2002 CRY-->
+	<element date="2002" id="banner-2002-cry">
+		<country><![CDATA[ca]]></country>
+		<tactic><![CDATA[banner]]></tactic>
+		<year><![CDATA[20]]></year>
+		<month><![CDATA[02]]></month>
+		<id_live><![CDATA[01]]></id_live>
+	​
+		<supplier><![CDATA[Crystal]]></supplier>
+		<directory><![CDATA[cry]]></directory>
+	​
+		<title><![CDATA[View &amp; Verandah. Move Up, Get More&mdash;Upgrade Event.]]></title>
+		<intro><![CDATA[Crystal Cruises is offering reduced deposits of $100 for a dozen <em>Crystal Serenity</em> sailings and one Crystal Symphony sailing in 2020.]]></intro>
+		<offer><![CDATA[Valid for new bookings on select voyages booked by March 4, 2020. Take advantage of the best possible fares on Crystal&rsquo;s all-inclusive luxury with the added incentive of the low deposit.]]></offer>
+		<content><![CDATA[
+			<p>As Crystal begins their 30th Anniversary Year, they wish to say thank you for choosing to explore the world with them.</p>
+
+			<p>As a gesture of their appreciation, they&rsquo;re pleased to offer reduced deposits on select Crystal Symphony and Crystal Serenity voyages sailing from April through August 2020.</p>
+
+			<p>Book by March 4, 2020 to enjoy reduced initial deposits of just $100 per guest. Plus, get additional Book Now Savings of up to $6,000 per suite.</p>
+
+			<p><em>Crystal Serenity</em></p>
+			<ul>
+				<li>April 21, 2020 (12 nights), Rome to Monte Carlo</li>
+				<li>May 3, 2020 (7 nights), Monte Carlo to Venice</li>
+				<li>May 10, 2020 (12 nights), Venice to Barcelona</li>
+				<li>May 31, 2020 (7 nights), Rome to Venice</li>
+				<li>June 14, 2020 (12 nights), Athens to Barcelona</li>
+				<li>July 3, 2020 (7 nights), Rome to Monte Carlo</li>
+				<li>July 10, 2020 (9 nights), Monte Carlo to Venice</li>
+				<li>July 31, 2020 (9 nights), Rome to Barcelona</li>
+				<li>August 9, 2020 (7 nights), Barcelona to Monte Carlo</li>
+				<li>August 16, 2020 (7 nights), Monte Carlo to Rome</li>
+				<li>August 23, 2020 (7 nights), Rome to Barcelona</li>
+				<li>August 30, 2020 (13 nights), Barcelona to Qu&eacute;bec City</li>
+				<li>Crystal Symphony</li>
+				<li>August 19, 2020 (13 nights), Amsterdam to Barcelona</li>
+			</ul>
+		]]></content>
+	​
+		<terms id="banner-2002-cry">
+			<consumer><![CDATA[Reduced deposit offer is available on select 2020 sailings only for new bookings made between January 9 and March 4, 2020. Offer is capacity controlled, subject to availability and is combinable with all offers excluding net rates. Final payments for these select sailings are due 90 days prior to departure. Book Now Savings are per suite based on double occupancy and vary by departure date and category. For Cruise Fare, Promotional Information and General Ticket Terms and Conditions ask your travel advisor. Crystal Cruises reserves the right to correct errors or omissions and to change any and all fares, fees, promotions and programs at any time with or without notice.]]></consumer>
+			<agent><![CDATA[]]></agent>
+		</terms>
+	​
+		<products>
+			<!-- PRODUCT ONE -->
+			<product id="banner-2002-cry">
+				<title><![CDATA[Palais to Palazzos &ndash; Enjoy Monaco, Italy and Croatia]]></title>
+				<offer><![CDATA[Our Agency Exclusive: $250 &ldquo;As You Wish&rdquo; credit per stateroom or suite (double occupancy)]]></offer>
+				<description><![CDATA[From the Prince&rsquo;s Palace of Monaco to the landmarks crowning Rome &amp; the grand palazzos lining the canals of Venice, discover lands at once regal and enchanting.]]></description>​
+
+				<cost><![CDATA[2,949]]></cost>
+				<taxes><![CDATA[315]]></taxes>
+				<departing><![CDATA[May 03, 2020]]></departing>
+				<duration><![CDATA[7 nights]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[USD]]></currency>
+	​
+				<ship><![CDATA[Crystal Serenity]]></ship>
+				<category><![CDATA[Deluxe stateroom with large picture window forward (C3)]]></category>
+				<embarkation><![CDATA[Monte Carlo]]></embarkation>
+				<disembarkation><![CDATA[Venice]]></disembarkation>
+	​
+				<img_hero><![CDATA[prod-hal-01-ca.jpg]]></img_hero>
+	​
+				<amenities_title><![CDATA[]]></amenities_title>
+				<amenities_desc><![CDATA[]]></amenities_desc>
+				<exclusives_title><![CDATA[Ports of Call]]></exclusives_title>
+				<exclusives_desc><![CDATA[<ul>
+					<li>Monte Carlo, Monaco; Rome (Civitavecchia), Italy; Sorrento, Italy; Taormina/Giardini Naxos, Italy; Dubrovnik, Croatia; Venice, Italy (Overnight)</li>
+				</ul>]]></exclusives_desc>
+				<inclusions_title><![CDATA[]]></inclusions_title>
+				<inclusions_desc><![CDATA[]]></inclusions_desc>
+	​
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+	​
+			<!-- PRODUCT TWO -->
+			<product id="banner-2002-cry">
+				<title><![CDATA[Riviera Dreams &ndash; Sailing to Italy, France, Spain, and Monaco]]></title>
+				<offer><![CDATA[Our Agency Exclusive: $250 &ldquo;As You Wish&rdquo; credit per stateroom or suite (double occupancy)]]></offer>
+				<description><![CDATA[Sip a limoncello along the Amalfi Coast and visit Caf&eacute; de las Horas in Valencia; explore castles and cathedrals, and the sun-drenched beauty of the French Riviera]]></description>
+	​
+				<cost><![CDATA[2,749]]></cost>
+				<taxes><![CDATA[315]]></taxes>
+				<departing><![CDATA[July 03, 2020]]></departing>
+				<duration><![CDATA[7 nights]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[USD]]></currency>
+	​
+				<ship><![CDATA[Crystal Serenity]]></ship>
+				<category><![CDATA[Deluxe stateroom with large picture window forward (C3)]]></category>
+				<embarkation><![CDATA[Rome]]></embarkation>
+				<disembarkation><![CDATA[Monte Carlo]]></disembarkation>
+	​
+				<img_hero><![CDATA[prod-hal-02-ca.jpg]]></img_hero>
+	​
+				<amenities_title><![CDATA[]]></amenities_title>
+				<amenities_desc><![CDATA[]]></amenities_desc>
+				<exclusives_title><![CDATA[Ports of Call]]></exclusives_title>
+				<exclusives_desc><![CDATA[<ul>
+					<li>Rome (Civitavecchia), Italy; Sorrento, Italy; Propriano, Corsica; Palma De Mallorca, Spain; Valencia, Spain; Barcelona, Spain; Cassis, France; Monte Carlo, Monaco</li>
+				</ul>]]></exclusives_desc>
+				<inclusions_title><![CDATA[]]></inclusions_title>
+				<inclusions_desc><![CDATA[]]></inclusions_desc>
+	​
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+	​
+			<!-- PRODUCT THREE -->
+			<product id="banner-2002-cry">
+				<title><![CDATA[Espa&ntilde;a to the Cote D'azur &ndash; All-Inclusive Luxury Cruise in the Med]]></title>
+				<offer><![CDATA[Our Agency Exclusive: $250 &ldquo;As You Wish&rdquo; credit per stateroom or suite (double occupancy)]]></offer>
+				<description><![CDATA[From Barcelona&rsquo;s artful treasures to Valencia&rsquo;s tree-lined Old Town and Palma de Mallorca&rsquo;s Santa Maria Gothic Cathedral, embark on a journey to the storied French Riviera.]]></description>
+	​
+				<cost><![CDATA[2,999]]></cost>
+				<taxes><![CDATA[315]]></taxes>
+				<departing><![CDATA[Aug 09, 2020]]></departing>
+				<duration><![CDATA[7 nights]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[USD]]></currency>
+	​
+				<ship><![CDATA[Crystal Serenity]]></ship>
+				<category><![CDATA[Deluxe stateroom with large picture window forward (C3)]]></category>
+				<embarkation><![CDATA[Barcelona]]></embarkation>
+				<disembarkation><![CDATA[Monte Carlo]]></disembarkation>
+	​
+				<img_hero><![CDATA[prod-hal-03-ca.jpg]]></img_hero>
+	​
+				<amenities_title><![CDATA[]]></amenities_title>
+				<amenities_desc><![CDATA[]]></amenities_desc>
+				<exclusives_title><![CDATA[Ports of Call]]></exclusives_title>
+				<exclusives_desc><![CDATA[<ul>
+					<li>Barcelona, Spain (Overnight); Valencia, Spain; Palma De Mallorca, Spain; Port-Vendres, France; Marseille, France; Cannes, France; Monte Carlo, Monaco</li>
+				</ul>]]></exclusives_desc>
+				<inclusions_title><![CDATA[]]></inclusions_title>
+				<inclusions_desc><![CDATA[]]>
+				</inclusions_desc>
+	​
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+		</products>
+	​
+		<brandcolor>008C9A</brandcolor>
+		<iframe_height></iframe_height>
+		<id_ezine><![CDATA[banner-01]]></id_ezine>
+		<file><![CDATA[]]></file>
+	</element>
+	<!--END: 2002 CRY-->
+
+	<!--BEGIN: 2002 WJV-->
+	<element date="2002" id="banner-2002-wjv">
+		<country><![CDATA[ca]]></country>
+		<tactic><![CDATA[banner]]></tactic>
+		<year><![CDATA[20]]></year>
+		<month><![CDATA[02]]></month>
+		<id_live><![CDATA[02]]></id_live>
+	​
+		<supplier><![CDATA[WestJet Vacations]]></supplier>
+		<directory><![CDATA[wjv]]></directory>
+	​
+		<title><![CDATA[Palace Resorts &ndash; Up To $1500 In Resort Credits]]></title>
+		<intro><![CDATA[Customize your dream vacation. ]]></intro>
+		<offer><![CDATA[Book a 5-8 night vacation package at select Palace Resorts, and receive $1500 in resort credits per room, per stay. Resort credits are flexible and are based on the desired length of stay.]]></offer>
+		<content><![CDATA[
+			<p>Start with a round of golf or a relaxing spa treatment; with endless activities available, the choices are yours at Palace Resorts. Whether you swim with dolphins or scuba dive1 in the deep sea, this dream vacation is yours to build.</p>
+
+			<p>The value of the resort credit is flexible based on the desired length of stay:</p>
+
+			<p>5 to 8-night packages - $1500 resort credit<br>
+			4-night package - $750 resort credit<br>
+			3-night package - $500 resort credit<br>
+			Want to stay even longer? <br></p>
+
+			<p>Receive up to $2,500 in resort credit:</p>
+
+			<p>9-11 night packages - $2,000 resort credit<br>
+			12+ night packages - $2,500 resort credit</p>
+
+			<p>Participating hotels:</p>
+
+			<p>Le Blanc Spa Resort, Cancun&#8232;Le Blanc Spa Resort, Los Cabos<br>
+			Sun Palace, Cancun<br>
+			The Grand at Moon Palace, Cancun<br>
+			Beach Palace, Cancun<br>
+			Moon Palace Cancun, Riviera Maya<br>
+			Moon Palace Jamaica, Ocho Rios &ndash; Runaway Bay<br>
+			Playacar Palace, Riviera Maya</p>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.ca/im/ezine/img/20/02/banner/prod-XXX-01-ca.jpg">
+				<figcaption>
+					<p>Caption-1: Sun Palace Cancun</p>
+				</figcaption>
+			</figure>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.ca/im/ezine/img/20/02/banner/prod-XXX-02-ca.jpg">
+				<figcaption>
+					<p>Caption-2: Le Blanc Spa Resort Los Cabo</p>
+				</figcaption>
+			</figure>
+		]]></content>
+	​
+		<terms id="banner-2002-wjv">
+			<consumer><![CDATA[Book by: December 16, 2020 (11:59 p.m. MT) Travel: Now - December 23, 2020 Resort credit will be distributed to guests upon arrival at the time of check-in. Advance booking required. Non-refundable and non-transferable. Offer limited and subject to availability. Offer subject to change and expire without notice. New bookings only. Not valid on group bookings. Other restrictions may apply. Resort credit will be distributed to guests upon arrival at the time of check-in. Airport transfers to/from the hotel are included. A minimum 3-night stay is required. Resort credit is valued in USD and can be used towards select tours, golf, spa/beauty salon services, romantic dinners, diving packages, Vacation Memories photo packages, and Palace Resorts Wedding Collection. Promotion, prices and applicable services are subject to change without notice. Promotion will not be extended to travellers on: FAM trips, travel agent or employee rates, complimentary, incentive or compensatory stays. Resort credit cannot be exchanged for cash, products or merchandise. There is no cash reimbursement if unused. There is a 16% service fee on all products and services rendered with the resort credit. Some restrictions apply towards golf credits; see front desk for details. Taxes, surcharges and/or gratuity not included. Offer is applicable to all room categories. Inclusions can be changed or withdrawn at any time without notice. There is no cash reimbursement if unused. Credits are issued per room per stay. Blackout dates may apply. For any further details, please see hotel front desk. 1Available at Palace Resorts in Mexico only.]]></consumer>
+			<agent><![CDATA[]]></agent>
+		</terms>
+	​
+		<brandcolor>00ABA5</brandcolor>
+		<iframe_height></iframe_height>
+		<id_ezine><![CDATA[banner-02]]></id_ezine>
+		<file><![CDATA[]]></file>
+	</element>
+	<!--END: 2002 WJV-->
+
+</root>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2002">
+		<dir_name><![CDATA[insider]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[February 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[02]]></dir_month>
+​
+		<author><![CDATA[Avalon Waterways]]></author>
+		<translator><![CDATA[]]></translator>
+​
+		<title><![CDATA[Avalon Waterways Presents:]]></title>
+		<teaser><![CDATA[Culinary Experiences Along European Waterways]]></teaser>
+		<lead><![CDATA[We sat down with Jennifer Halboth, Director of National Accounts at Avalon Waterways to chat about European waterways and why they&rsquo;re a superb destination for immersive culinary experiences.]]></lead>
+		<body><![CDATA[
+			<p class="question"><strong>Q:</strong>What makes an Avalon Waterways cruise unique?</p>
+			<p>Changing your outlook can be a great thing. For Avalon, we wouldn&rsquo;t have it any other way. Our entire fleet of Suite Ships&reg; in Europe and Southeast Asia feature incomparable Panorama SuitesSM with the widest windows in river cruising that transform your suite into our signature Open Air BalconySM. While other river cruise ships stick your bed against one wall only to face another wall, we&rsquo;ve turned that idea on its head. With beds that actually face your wall-to-wall, floor-to-ceiling panoramic windows, you&rsquo;ll stretch out to the widest views in river cruising. So, go ahead, open wide and say, &ldquo;Aaaahhh!&rdquo;</p>
+			
+			<p>Beyond our wall-to-wall, floor-to-ceiling windows is a world just waiting to be discovered with Avalon's unmatched choice of included excursions and activities. Whether you want to enjoy a guided walking tour of one of Europe's great cities, join a cooking class or paddle a canoe, our Avalon Choice&reg; selections of Classic, Discovery, and Active excursions offer a wide range of possibilities. When you prefer to explore on your own, we can help you with all the recommendations, information, and gear your need with our new Adventure Center and AvalonGO Mobile App. When it's time to refuel, your onboard dining options are as wide open as your views, with our new FlexDining&reg; choices. Rise and shine when you please, dine where and when you wish, or take a picnic lunch to enjoy on shore.</p>
+			
+			<p class="question"><strong>Q:</strong>Which rivers in Europe does Avalon Waterways sail?</p>
+			
+			<p>Danube, Sa&ocirc;ne, Rh&ocirc;ne, Rhine, Moselle, Main, and Seine</p>
+			
+			<p class="question"><strong>Q:</strong>How does Avalon Waterways incorporate culinary experiences into their sailings?</p>
+			<p>From morning breakfast to elegant dinners, Avalon frees your taste buds from the ordinary. Using the freshest local ingredients, our talented chefs prepare mouthwatering recipes from the region through which you're traveling and present them in a variety of inspiring settings. Our FlexDining&reg; approach to onboard dining lets you choose the onboard dining venue that suits your mood &mdash; from a breezy al fresco lunch at the Sky Grill to an elegant four-course dinner in the glass-walled Panorama Dining Room. For a less formal "sit-down" atmosphere, take a more casual approach to fine dining while mingling over several satisfying selections in our Panorama Bistro. Whichever table setting you choose, you'll savor local flavors and the familiar favorites you may crave &mdash; as well as our Avalon Fresh&reg; menu options. On an Avalon cruise, every meal is part of the journey.</p>
+			
+			<p class="question"><strong>Q:</strong>What are some amazing culinary experiences you can have while sailing in Europe, both on board and at port?</p>
+			
+			<p>On the Tulip Time in Holland &amp; Belgium cruise in Maastricht, Holland, take a guided visit to an old working mill still in operation. At the end of your visit, join the interactive museum and bake your own Vlaai &mdash; a delicious Limburg pie.</p>
+			
+			<p>In M&acirc;con, France, enjoy a cheese tasting onboard the Rhine &amp; Rhone Revealed cruise.</p>
+			
+			<p>Join a Cooking Demonstration and learn how to prepare a Lyonnaise treat while sailing to Viviers, France on the Active &amp; Discovery on the Rh&ocirc;ne cruise.</p>
+			
+			<p>On Tulips of Northern Holland, in Enkhuizen, join us at the home of a Dutch family for authentic samples of local specialties.</p>
+			
+			<p class="question"><strong>Q:</strong>Which European routes offer the most culinary experiences?</p>
+			
+			<p>Our Active &amp; Discovery on the Rh&ocirc;ne offers many culinary experiences including a cooking class, culinary walk, and a guided tour of an oyster farm.</p>
+			
+			<p class="question"><strong>Q:</strong>If you had to recommend just one culinary experience to have while exploring European waterways, what experience would that be?</p>
+			
+			<p>Pam Hoffee, Managing Director of Avalon Waterways, and Chief Operating Officer of Globus family of brands, said:<br>
+			&ldquo;While I&rsquo;ve had many amazing culinary experiences along Europe&rsquo;s Waterways, my favorite was a cooking class in Vienna, making Viennese specialties at Andante with their chef instructor, Nabiel. Nabiel makes you feel right at home learning everyone&rsquo;s names and putting you to work &ndash; cooking has never been so much fun! You can visit Andante to learn how to make traditional Viennese rolls during a walking tour with Avalon Waterways, or head back in the afternoon to spend more time making a full lunch including schnitzel, seasonally inspired side dishes, and apple strudel.&nbsp;The food is also super fresh and organic as the restaurant serves as a hub for locals to come and get their organic farm delivery each week.&rdquo;</p>​
+		]]></body>
+​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/02/hero/insider.jpg</hero_src>
+		<hero_caption><![CDATA[Avalon Waterways Presents: Culinary Experiences Along European Waterways]]></hero_caption>
+		<hero_credit><![CDATA[Insider]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/02/article/insider.jpg</article_src>
+		<article_caption><![CDATA[Avalon Waterways Presents: Culinary Experiences Along European Waterways]]></article_caption>
+		<article_credit><![CDATA[Insider]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/02/email/insider.jpg</email_src>
+​
+		<tile_color>FA6900</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+​
+		<tags>
+			<tag slug="europe"><![CDATA[europe]]></tag>
+			<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+			<tag slug="river-cruising"><![CDATA[river-cruising]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="food-wine"><![CDATA[food-wine]]></tag>
+		</tags>
+	</article>
+</root>
