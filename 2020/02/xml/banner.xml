@@ -7,10 +7,10 @@
 		<year><![CDATA[20]]></year>
 		<month><![CDATA[02]]></month>
 		<id_live><![CDATA[01]]></id_live>
-	​
+
 		<supplier><![CDATA[Crystal]]></supplier>
 		<directory><![CDATA[cry]]></directory>
-	​
+
 		<title><![CDATA[View &amp; Verandah. Move Up, Get More&mdash;Upgrade Event.]]></title>
 		<intro><![CDATA[Crystal Cruises is offering reduced deposits of $100 for a dozen <em>Crystal Serenity</em> sailings and one Crystal Symphony sailing in 2020.]]></intro>
 		<offer><![CDATA[Valid for new bookings on select voyages booked by March 4, 2020. Take advantage of the best possible fares on Crystal&rsquo;s all-inclusive luxury with the added incentive of the low deposit.]]></offer>
@@ -39,18 +39,18 @@
 				<li>August 19, 2020 (13 nights), Amsterdam to Barcelona</li>
 			</ul>
 		]]></content>
-	​
+
 		<terms id="banner-2002-cry">
 			<consumer><![CDATA[Reduced deposit offer is available on select 2020 sailings only for new bookings made between January 9 and March 4, 2020. Offer is capacity controlled, subject to availability and is combinable with all offers excluding net rates. Final payments for these select sailings are due 90 days prior to departure. Book Now Savings are per suite based on double occupancy and vary by departure date and category. For Cruise Fare, Promotional Information and General Ticket Terms and Conditions ask your travel advisor. Crystal Cruises reserves the right to correct errors or omissions and to change any and all fares, fees, promotions and programs at any time with or without notice.]]></consumer>
 			<agent><![CDATA[]]></agent>
 		</terms>
-	​
+
 		<products>
 			<!-- PRODUCT ONE -->
 			<product id="banner-2002-cry">
 				<title><![CDATA[Palais to Palazzos &ndash; Enjoy Monaco, Italy and Croatia]]></title>
 				<offer><![CDATA[Our Agency Exclusive: $250 &ldquo;As You Wish&rdquo; credit per stateroom or suite (double occupancy)]]></offer>
-				<description><![CDATA[From the Prince&rsquo;s Palace of Monaco to the landmarks crowning Rome &amp; the grand palazzos lining the canals of Venice, discover lands at once regal and enchanting.]]></description>​
+				<description><![CDATA[From the Prince&rsquo;s Palace of Monaco to the landmarks crowning Rome &amp; the grand palazzos lining the canals of Venice, discover lands at once regal and enchanting.]]></description>
 
 				<cost><![CDATA[2,949]]></cost>
 				<taxes><![CDATA[315]]></taxes>
@@ -58,14 +58,14 @@
 				<duration><![CDATA[7 nights]]></duration>
 				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
 				<currency><![CDATA[USD]]></currency>
-	​
+
 				<ship><![CDATA[Crystal Serenity]]></ship>
 				<category><![CDATA[Deluxe stateroom with large picture window forward (C3)]]></category>
 				<embarkation><![CDATA[Monte Carlo]]></embarkation>
 				<disembarkation><![CDATA[Venice]]></disembarkation>
-	​
+
 				<img_hero><![CDATA[prod-hal-01-ca.jpg]]></img_hero>
-	​
+
 				<amenities_title><![CDATA[]]></amenities_title>
 				<amenities_desc><![CDATA[]]></amenities_desc>
 				<exclusives_title><![CDATA[Ports of Call]]></exclusives_title>
@@ -74,31 +74,31 @@
 				</ul>]]></exclusives_desc>
 				<inclusions_title><![CDATA[]]></inclusions_title>
 				<inclusions_desc><![CDATA[]]></inclusions_desc>
-	​
+
 				<terms><![CDATA[]]></terms>
 				<img_map></img_map>
 			</product>
-	​
+
 			<!-- PRODUCT TWO -->
 			<product id="banner-2002-cry">
 				<title><![CDATA[Riviera Dreams &ndash; Sailing to Italy, France, Spain, and Monaco]]></title>
 				<offer><![CDATA[Our Agency Exclusive: $250 &ldquo;As You Wish&rdquo; credit per stateroom or suite (double occupancy)]]></offer>
 				<description><![CDATA[Sip a limoncello along the Amalfi Coast and visit Caf&eacute; de las Horas in Valencia; explore castles and cathedrals, and the sun-drenched beauty of the French Riviera]]></description>
-	​
+
 				<cost><![CDATA[2,749]]></cost>
 				<taxes><![CDATA[315]]></taxes>
 				<departing><![CDATA[July 03, 2020]]></departing>
 				<duration><![CDATA[7 nights]]></duration>
 				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
 				<currency><![CDATA[USD]]></currency>
-	​
+
 				<ship><![CDATA[Crystal Serenity]]></ship>
 				<category><![CDATA[Deluxe stateroom with large picture window forward (C3)]]></category>
 				<embarkation><![CDATA[Rome]]></embarkation>
 				<disembarkation><![CDATA[Monte Carlo]]></disembarkation>
-	​
+
 				<img_hero><![CDATA[prod-hal-02-ca.jpg]]></img_hero>
-	​
+
 				<amenities_title><![CDATA[]]></amenities_title>
 				<amenities_desc><![CDATA[]]></amenities_desc>
 				<exclusives_title><![CDATA[Ports of Call]]></exclusives_title>
@@ -107,31 +107,31 @@
 				</ul>]]></exclusives_desc>
 				<inclusions_title><![CDATA[]]></inclusions_title>
 				<inclusions_desc><![CDATA[]]></inclusions_desc>
-	​
+
 				<terms><![CDATA[]]></terms>
 				<img_map></img_map>
 			</product>
-	​
+
 			<!-- PRODUCT THREE -->
 			<product id="banner-2002-cry">
 				<title><![CDATA[Espa&ntilde;a to the Cote D'azur &ndash; All-Inclusive Luxury Cruise in the Med]]></title>
 				<offer><![CDATA[Our Agency Exclusive: $250 &ldquo;As You Wish&rdquo; credit per stateroom or suite (double occupancy)]]></offer>
 				<description><![CDATA[From Barcelona&rsquo;s artful treasures to Valencia&rsquo;s tree-lined Old Town and Palma de Mallorca&rsquo;s Santa Maria Gothic Cathedral, embark on a journey to the storied French Riviera.]]></description>
-	​
+
 				<cost><![CDATA[2,999]]></cost>
 				<taxes><![CDATA[315]]></taxes>
 				<departing><![CDATA[Aug 09, 2020]]></departing>
 				<duration><![CDATA[7 nights]]></duration>
 				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
 				<currency><![CDATA[USD]]></currency>
-	​
+
 				<ship><![CDATA[Crystal Serenity]]></ship>
 				<category><![CDATA[Deluxe stateroom with large picture window forward (C3)]]></category>
 				<embarkation><![CDATA[Barcelona]]></embarkation>
 				<disembarkation><![CDATA[Monte Carlo]]></disembarkation>
-	​
+
 				<img_hero><![CDATA[prod-hal-03-ca.jpg]]></img_hero>
-	​
+
 				<amenities_title><![CDATA[]]></amenities_title>
 				<amenities_desc><![CDATA[]]></amenities_desc>
 				<exclusives_title><![CDATA[Ports of Call]]></exclusives_title>
@@ -141,12 +141,12 @@
 				<inclusions_title><![CDATA[]]></inclusions_title>
 				<inclusions_desc><![CDATA[]]>
 				</inclusions_desc>
-	​
+
 				<terms><![CDATA[]]></terms>
 				<img_map></img_map>
 			</product>
 		</products>
-	​
+
 		<brandcolor>008C9A</brandcolor>
 		<iframe_height></iframe_height>
 		<id_ezine><![CDATA[banner-01]]></id_ezine>
@@ -161,12 +161,12 @@
 		<year><![CDATA[20]]></year>
 		<month><![CDATA[02]]></month>
 		<id_live><![CDATA[02]]></id_live>
-	​
+
 		<supplier><![CDATA[WestJet Vacations]]></supplier>
 		<directory><![CDATA[wjv]]></directory>
-	​
+
 		<title><![CDATA[Palace Resorts &ndash; Up To $1500 In Resort Credits]]></title>
-		<intro><![CDATA[Customize your dream vacation. ]]></intro>
+		<intro><![CDATA[Customize your dream vacation.]]></intro>
 		<offer><![CDATA[Book a 5-8 night vacation package at select Palace Resorts, and receive $1500 in resort credits per room, per stay. Resort credits are flexible and are based on the desired length of stay.]]></offer>
 		<content><![CDATA[
 			<p>Start with a round of golf or a relaxing spa treatment; with endless activities available, the choices are yours at Palace Resorts. Whether you swim with dolphins or scuba dive1 in the deep sea, this dream vacation is yours to build.</p>
@@ -207,12 +207,12 @@
 				</figcaption>
 			</figure>
 		]]></content>
-	​
+
 		<terms id="banner-2002-wjv">
 			<consumer><![CDATA[Book by: December 16, 2020 (11:59 p.m. MT) Travel: Now - December 23, 2020 Resort credit will be distributed to guests upon arrival at the time of check-in. Advance booking required. Non-refundable and non-transferable. Offer limited and subject to availability. Offer subject to change and expire without notice. New bookings only. Not valid on group bookings. Other restrictions may apply. Resort credit will be distributed to guests upon arrival at the time of check-in. Airport transfers to/from the hotel are included. A minimum 3-night stay is required. Resort credit is valued in USD and can be used towards select tours, golf, spa/beauty salon services, romantic dinners, diving packages, Vacation Memories photo packages, and Palace Resorts Wedding Collection. Promotion, prices and applicable services are subject to change without notice. Promotion will not be extended to travellers on: FAM trips, travel agent or employee rates, complimentary, incentive or compensatory stays. Resort credit cannot be exchanged for cash, products or merchandise. There is no cash reimbursement if unused. There is a 16% service fee on all products and services rendered with the resort credit. Some restrictions apply towards golf credits; see front desk for details. Taxes, surcharges and/or gratuity not included. Offer is applicable to all room categories. Inclusions can be changed or withdrawn at any time without notice. There is no cash reimbursement if unused. Credits are issued per room per stay. Blackout dates may apply. For any further details, please see hotel front desk. 1Available at Palace Resorts in Mexico only.]]></consumer>
 			<agent><![CDATA[]]></agent>
 		</terms>
-	​
+
 		<brandcolor>00ABA5</brandcolor>
 		<iframe_height></iframe_height>
 		<id_ezine><![CDATA[banner-02]]></id_ezine>
