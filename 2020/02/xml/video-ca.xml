@@ -25,4 +25,58 @@
 		<tile_new>none</tile_new>
 	</article>
 	<!-- END: 2002 PRI -->
+	
+	<!-- BEGIN: 2002 MAN -->
+	<article date="2002" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[Februray 2020]]></pub_date> <!-- Februray = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[02]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+
+		<author><![CDATA[Manulife]]></author>
+		<id_supplier><![CDATA[man]]></id_supplier>
+
+		<title><![CDATA[Alycia &ndash; Saved by Travel Insurance]]></title>
+		<teaser><![CDATA[Manulife]]></teaser>
+		<lead><![CDATA[
+			Alycia tells her tale of what happened when things went wrong on a trip and how Manulife was there to help.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/RuSuKUqPbI8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	<!-- END: 2002 MAN -->
+	
+	<!-- BEGIN: 2002 SIL -->
+	<article date="2002" id="03">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[Februray 2020]]></pub_date> <!-- Februray = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[02]]></dir_month>
+		<file_video><![CDATA[03]]></file_video>
+
+		<author><![CDATA[Silversea]]></author>
+		<id_supplier><![CDATA[sil]]></id_supplier>
+
+		<title><![CDATA[Let Silversea Take You Closer to the Authentic Beauty of Northern Europe]]></title>
+		<teaser><![CDATA[Silversea]]></teaser>
+		<lead><![CDATA[
+			Witness the fiery spectacles of Iceland, or the wild beauty and wildlife of Norway and the Scottish Isles. You can cruise down the Thames from London or transit the Kiel Canal aboard our smaller ships. Whether you're drawn to cathedrals or the countryside, the sublime beauty of Northern Europe will captivate you.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/i5CagQaMe6g?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	<!-- END: 2002 SIL -->
 </root>

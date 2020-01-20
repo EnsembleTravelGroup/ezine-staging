@@ -52,4 +52,58 @@
 	</article>
 	<!-- END: 2002 GMI -->
 
+	<!-- BEGIN: 2002 RMT -->
+	<article date="2002" id="03">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[Februray 2020]]></pub_date> <!-- Februray = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[02]]></dir_month>
+		<file_video><![CDATA[03]]></file_video>
+
+		<author><![CDATA[Rocky Mountaineer]]></author>
+		<id_supplier><![CDATA[rmt]]></id_supplier>
+
+		<title><![CDATA[Rocky Mountaineer Experience]]></title>
+		<teaser><![CDATA[Rocky Mountaineer]]></teaser>
+		<lead><![CDATA[
+			Transporting guests through the grandeur of the Canadian Rockies, our custom design glass-dome trains offer breathtaking landscapes, outstanding service, gourmet food and passionate hosts with stories to tell.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/aGOJxIbFzCs?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	<!-- END: 2002 RMT -->
+	
+	<!-- BEGIN: 2002 SEA -->
+	<article date="2002" id="04">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[Februray 2020]]></pub_date> <!-- Februray = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[02]]></dir_month>
+		<file_video><![CDATA[04]]></file_video>
+
+		<author><![CDATA[Seabourn]]></author>
+		<id_supplier><![CDATA[sea]]></id_supplier>
+
+		<title><![CDATA[Seabourn All-Inclusive Differences]]></title>
+		<teaser><![CDATA[Seabourn]]></teaser>
+		<lead><![CDATA[
+			This video illustrates why Seabourn is the world&rsquo;s finest all-inclusive ultra-luxury resort at sea.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/IpdDuIBQCLw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	<!-- END: 2002 SEA -->
+
 </root>
