@@ -8,10 +8,10 @@
 		<dir_year><![CDATA[20]]></dir_year>
 		<dir_month><![CDATA[02]]></dir_month>
 		<id_article><![CDATA[01]]></id_article>
-​
+
 		<author><![CDATA[Goway]]></author>
 		<id_supplier><![CDATA[gow]]></id_supplier>
-​
+
 		<title><![CDATA[Five Thai Dishes to Eat in Bangkok While on a Thailand Vacation]]></title>
 		<teaser><![CDATA[Goway]]></teaser>
 		<lead><![CDATA[
@@ -55,20 +55,20 @@
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/02/article/advertorial-01-02.jpg">
 			<figure>
 		]]></body>
-​
+
 		<body_2><![CDATA[]]></body_2>
-​
+
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/02/hero/advertorial-01.jpg</hero_src>
 		<hero_caption><![CDATA[Five Thai Dishes to Eat in Bangkok While on a Thailand Vacation]]></hero_caption>
 		<hero_credit><![CDATA[Goway]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/02/article/advertorial-01.jpg</article_src>
 		<article_caption><![CDATA[Five Thai Dishes to Eat in Bangkok While on a Thailand Vacation]]></article_caption>
 		<article_credit><![CDATA[Goway]]></article_credit>
-​
+
 		<tile_color>A8CB17</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
-​
+
 	</article>
 	<!-- END: 2002 gow -->
 
@@ -79,16 +79,16 @@
 		<dir_year><![CDATA[20]]></dir_year>
 		<dir_month><![CDATA[02]]></dir_month>
 		<id_article><![CDATA[02]]></id_article>
-​
+
 		<author><![CDATA[Holland America Line]]></author>
 		<id_supplier><![CDATA[hal]]></id_supplier>
-​
+
 		<title><![CDATA[Holland America Line, We Are Alaska]]></title>
 		<teaser><![CDATA[Holland America Line]]></teaser>
 		<lead><![CDATA[
 			Experience the beauty of Alaska as you wander ashore to explore towns alive with history and rich in native culture.
 		]]></lead>
-		<body><![CDATA[​
+		<body><![CDATA[
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/02/article/advertorial-02-01.jpg">
 				<figcaption>
@@ -138,34 +138,34 @@
 				<figcaption></figcaption>
 			</figure>
 		]]></body>
-​
+
 		<body_2><![CDATA[]]></body_2>
-​
+
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/02/hero/advertorial-02.jpg</hero_src>
 		<hero_caption><![CDATA[Holland America Line, We Are Alaska]]></hero_caption>
 		<hero_credit><![CDATA[Holland America Line]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/02/article/advertorial-02.jpg</article_src>
 		<article_caption><![CDATA[Holland America Line, We Are Alaska]]></article_caption>
 		<article_credit><![CDATA[Holland America Line]]></article_credit>
-​
+
 		<tile_color>A8CB17</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
-​
+
 	</article>
 	<!-- END: 2002 hal -->
 
-	<!-- END: 2002 uni -->​
+	<!-- END: 2002 uni -->
 	<article date="2002" id="03">
 		<dir_name><![CDATA[advertorial]]></dir_name>
 		<pub_date><![CDATA[February 2002]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
 		<dir_year><![CDATA[20]]></dir_year>
 		<dir_month><![CDATA[02]]></dir_month>
 		<id_article><![CDATA[03]]></id_article>
-​
+
 		<author><![CDATA[Uniworld]]></author>
 		<id_supplier><![CDATA[uni]]></id_supplier>
-​
+
 		<title><![CDATA[Venture Off The Beaten Path]]></title>
 		<teaser><![CDATA[Uniworld]]></teaser>
 		<lead><![CDATA[
@@ -218,20 +218,20 @@
 			</figure>
 
 		]]></body>
-​
+
 		<body_2><![CDATA[]]></body_2>
-​
+
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/02/hero/advertorial-03.jpg</hero_src>
 		<hero_caption><![CDATA[Venture Off The Beaten Path]]></hero_caption>
 		<hero_credit><![CDATA[Uniworld]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/02/article/advertorial-03.jpg</article_src>
 		<article_caption><![CDATA[Venture Off The Beaten Path]]></article_caption>
 		<article_credit><![CDATA[Uniworld]]></article_credit>
-​
+
 		<tile_color>A8CB17</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
-​
+
 	</article>
 	<!-- END: 2002 uni -->
 
@@ -242,10 +242,10 @@
 		<dir_year><![CDATA[20]]></dir_year>
 		<dir_month><![CDATA[02]]></dir_month>
 		<id_article><![CDATA[04]]></id_article>
-​
+
 		<author><![CDATA[G Adventures]]></author>
 		<id_supplier><![CDATA[gad]]></id_supplier>
-​
+
 		<title><![CDATA[We&rsquo;re All Family.]]></title>
 		<teaser><![CDATA[G Adventures]]></teaser>
 		<lead><![CDATA[
@@ -254,20 +254,20 @@
 		<body><![CDATA[
 			<p>National Geographic Family Journeys with G Adventures is a line of trips for adventure-loving families in search of a meaningful way to discover the world together. These itineraries are specially designed so travelers ages seven and up can explore a destination&rsquo;s rich and diverse characteristics. Each itinerary features unique, interactive activities inspired by National Geographic's expertise in photography and storytelling, wildlife, culture, history, and geography to encourage kids and adults alike to connect with the world around them. Families will enjoy enlightening experiences, the freedom to explore, quality time together&mdash;and they&rsquo;ll return home with a renewed sense of wonder.</p>
 		]]></body>
-​
+
 		<body_2><![CDATA[]]></body_2>
-​
+
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/02/hero/advertorial-04.jpg</hero_src>
 		<hero_caption><![CDATA[We&rsquo;re All Family.]]></hero_caption>
 		<hero_credit><![CDATA[G Adventures]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/02/article/advertorial-04.jpg</article_src>
 		<article_caption><![CDATA[We&rsquo;re All Family.]]></article_caption>
 		<article_credit><![CDATA[G Adventures]]></article_credit>
-​
+
 		<tile_color>A8CB17</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
-​
+
 	</article>
 	<!-- END: 2002 gad -->
 
@@ -278,10 +278,10 @@
 		<dir_year><![CDATA[20]]></dir_year>
 		<dir_month><![CDATA[02]]></dir_month>
 		<id_article><![CDATA[05]]></id_article>
-​
+
 		<author><![CDATA[UnCruise<sup>&reg;</sup>]]></author>
 		<id_supplier><![CDATA[unc]]></id_supplier>
-​
+
 		<title><![CDATA[Live your #travelgoals in Alaska by small ship with UnCruise Adventures]]></title>
 		<teaser><![CDATA[UnCruise<sup>&reg;</sup>]]></teaser>
 		<lead><![CDATA[
@@ -302,7 +302,7 @@
 
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/02/article/advertorial-05-01.jpg">
-			<figure>
+			<figure><br>
 
 			<p>Travel <strong>Alaska's Glacier Country</strong>. With a full day in Glacier Bay National Park, explore islands, glaciers, and forests. Bushwhack in the Tongass National Forest. Kayak in remote inlets eyes peeled for eagles, sea otters, harbor seals, sea lions, and seabirds.</p>
 
@@ -312,9 +312,9 @@
 
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/02/article/advertorial-05-02.jpg">
-			<figure>
+			<figure><br>
 
-			<p>What are guests saying about Alaska with UnCruise?</strong><br>
+			<p><strong>What are guests saying about Alaska with UnCruise?</strong><br>
 			<em>&ldquo;Exceptional! Excellent! Can't find the words&hellip; Seeing the &lsquo;Unseen&rsquo; of my lifetime.&rdquo;</em> - L Gorski, Grosse Pointe, MI (Alaska, 2019)</p>
 
 			<p><em>&ldquo;(The highlights were) being the only boat to experience this place during our visit. Watching a glacier calve from 1/4 mile from its face... and listening too! Kayaking to the back of one of the bays, alone, closing your eyes...with nature at your fingertips.&rdquo;</em> - A Stroppini, Reno, NV (Alaska, 2019)</p>
@@ -322,16 +322,16 @@
 			<p><strong>Explore Alaska with UnCruise Adventures</strong><br>
 			Ask your travel advisor about current promotions.</p>
 		]]></body>
-​
+
 		<body_2><![CDATA[]]></body_2>
-​
+
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/02/hero/advertorial-05.jpg</hero_src>
 		<hero_caption><![CDATA[Live your #travelgoals in Alaska by small ship with UnCruise Adventures]]></hero_caption>
 		<hero_credit><![CDATA[UnCruise<sup>&reg;</sup>]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/02/article/advertorial-05.jpg</article_src>
 		<article_caption><![CDATA[Live your #travelgoals in Alaska by small ship with UnCruise Adventures]]></article_caption>
 		<article_credit><![CDATA[UnCruise<sup>&reg;</sup>]]></article_credit>
-​
+
 		<tile_color>A8CB17</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
