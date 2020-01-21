@@ -8,25 +8,25 @@
 		<dir_year><![CDATA[20]]></dir_year>
 		<dir_month><![CDATA[02]]></dir_month>
 		<id_recipe><![CDATA[01]]></id_recipe>
-​
+
 		<tab_class><![CDATA[active]]></tab_class>
-​
+
 		<author><![CDATA[Celebrity Cruises<sup>&reg;</sup>]]></author>
 		<id_supplier><![CDATA[cel]]></id_supplier>
 		<translator><![CDATA[]]></translator>
 		<cookbook><![CDATA[]]></cookbook>
-​
+
 		<title><![CDATA[Grilled Ribeye Steak Rutabaga Puree, Roasted Root Vegetables, Brown Butter Bearnaise Sauce]]></title>
 		<teaser><![CDATA[The exclusive restaurant for Suite Class.]]></teaser>
 		<lead><![CDATA[
 			Exclusive and cutting edge, the globally inspired menus at Luminae are not available in any other restaurant on board. And, you&rsquo;ll see each one only once&mdash;because every day features a fresh, new menu.
 		]]></lead>
 		<body><![CDATA[]]></body>
-​
+
 		<item>
 			<title><![CDATA[Ribeye Cooking Recipe]]></title>
 			<ingredients><![CDATA[
-				<h4>Ingredients</h4> <!-- Ingrédients -->
+				<h4>Ingredients</h4>
 				<p>Yield: 1 Portions<p>
 				<ul>
 					<li>1 ea. Beef Ribeye Steak, 10 oz.</li>
@@ -37,9 +37,9 @@
 					<li>Salt and Ground Black Peppercorn to taste</li>
 				</ul>
 			]]></ingredients>
-​
+
 			<prep><![CDATA[
-				<h4>Preparation</h4> <!-- Préparation -->
+				<h4>Preparation</h4>
 				<ol>
 					<li>Day before remove bones from ribeye and trimming some of the fat.</li>
 					<li>Cut by half lengthwise, and thigh wrap in plastic film to with cylinder shape. Keep into the cooler overnight.</li>
@@ -59,7 +59,7 @@
 		<item>
 			<title><![CDATA[Rutabaga Puree Recipe]]></title>
 			<ingredients><![CDATA[
-				<h4>Ingredients</h4> <!-- Ingrédients -->
+				<h4>Ingredients</h4> <!-- Ingrdients -->
 				<ul>
 					<li>3 ea. Garlic Cloves, finely chopped</li>
 					<li>4 oz. White Onions, finely chopped</li>
@@ -72,9 +72,9 @@
 					<li>Salt and Ground Black Peppercorn to tasted</li>
 				</ul>
 			]]></ingredients>
-​
+
 			<prep><![CDATA[
-				<h4>Preparation</h4> <!-- Préparation -->
+				<h4>Preparation</h4>
 				<ol>
 					<li>Place 3 oz. of butter over a rondo.</li>
 					<li>Heat and melt the butter; add garlic, bay leave, onions and thyme.</li>
@@ -94,15 +94,15 @@
 		<item>
 			<title><![CDATA[Brown Butter Recipe]]></title>
 			<ingredients><![CDATA[
-				<h4>Ingredients</h4> <!-- Ingrédients -->
+				<h4>Ingredients</h4>
 				<p>Yield: 30 Portions<p>
 				<ul>
 					<li>2 lbs. Butter</li>
 				</ul>
 			]]></ingredients>
-​
+
 			<prep><![CDATA[
-				<h4>Preparation</h4> <!-- Préparation -->
+				<h4>Preparation</h4>
 				<ol>
 					<li>Start melting butter over medium heat.</li>
 					<li>Use a pan with a light-colored bottom so you can keep track of the color. Swirl the pan occasionally to be sure the butter is cooking evenly.</li>
@@ -117,7 +117,7 @@
 		<item>
 			<title><![CDATA[Brown Butter B&eacute;arnaise Sauce Recipe]]></title>
 			<ingredients><![CDATA[
-				<h4>Ingredients</h4> <!-- Ingrédients -->
+				<h4>Ingredients</h4>
 				<p>Yield: 20 Portions<p>
 				<ul>
 					<li>1 &frac14; cup Brown Butter</li>
@@ -129,9 +129,9 @@
 					<li>Salt and Ground White Pepper to taste</li>
 				</ul>
 			]]></ingredients>
-	​
+
 			<prep><![CDATA[
-				<h4>Preparation</h4> <!-- Préparation -->
+				<h4>Preparation</h4>
 				<ol>
 					<li>In a Saut&eacute; pan bring to simmer the Vinegar and tarragon and reduce to half.</li>
 					<li>Pass the vinegar thru the chinois and place in a large mixing bowl. 3. Add the Lemon Juice and Eggs.</li>
@@ -150,7 +150,7 @@
 		<item>
 			<title><![CDATA[Veal Demi Glaze Recipe]]></title>
 			<ingredients><![CDATA[
-				<h4>Ingredients</h4> <!-- Ingrédients -->
+				<h4>Ingredients</h4>
 				<p>Yield: 2 Quarts<p>
 				<ul>
 					<li>2 lbs. Beef and Veal Trimmings </li>
@@ -167,9 +167,9 @@
 					<li>Salt as needed</li>
 				</ul>
 			]]></ingredients>
-​
+
 			<prep><![CDATA[
-				<h4>Preparation</h4> <!-- Préparation -->
+				<h4>Preparation</h4>
 				<ol>
 					<li>Reheat the oven to 450 F.</li>
 					<li>Place veal chunk bones over a sheet pan and roasted at 170 C until golden brown color. Reserved.</li>
@@ -194,7 +194,7 @@
 		<item>
 			<title><![CDATA[Beef Gravy Recipe]]></title>
 			<ingredients><![CDATA[
-				<h4>Ingredients</h4> <!-- Ingrédients -->
+				<h4>Ingredients</h4>
 				<p>Yield: 1 quart<p>
 				<ul>
 					<li>1 cups Red Wine</li>
@@ -206,9 +206,9 @@
 					<li>Salt to taste</li>
 				</ul>
 			]]></ingredients>
-​
+
 			<prep><![CDATA[
-				<h4>Preparation</h4> <!-- Préparation -->
+				<h4>Preparation</h4>
 				<ol>
 					<li>Place butter, thyme and shallots into a saucepan with pinch of salt.</li>
 					<li>Cook and stir shallots over medium-low heat until caramelized and browned, stir occasionally.</li>
@@ -224,7 +224,7 @@
 		<item>
 			<title><![CDATA[Pan Roasted Baby Vegetables Recipe]]></title>
 			<ingredients><![CDATA[
-				<h4>Ingredients</h4> <!-- Ingrédients -->
+				<h4>Ingredients</h4>
 				<p>Yield: 10 Portions<p>
 				<ul>
 					<li>10 ea. Red Baby Beetroot, peeled stem on and cut in half</li>
@@ -238,9 +238,9 @@
 					<li>Salt and Ground Black Peppercorn to taste</li>
 				</ul>
 			]]></ingredients>
-​
+
 			<prep><![CDATA[
-				<h4>Preparation</h4> <!-- Préparation -->
+				<h4>Preparation</h4>
 				<ol>
 					<li>Blanch all veggies separately to al dente and shock in ice bath.</li>
 					<li>In a large non-stick saut&eacute; pan heat oil and add herbs and garlic.</li>
@@ -250,18 +250,18 @@
 				</ol>
 			]]></prep>
 		</item>
-​
+
 		<body_2><![CDATA[]]></body_2>
-​
+
 		<sidebar><![CDATA[]]></sidebar>
-​
+
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/02/hero/recipe-01.jpg</hero_src>
 		<hero_caption><![CDATA[Grilled Ribeye Steak Rutabaga Puree, Roasted Root Vegetables, Brown Butter Bearnaise Sauce]]></hero_caption>
 		<hero_credit><![CDATA[Celebrity Cruises<sup>&reg;</sup>]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/02/article/recipe-01.jpg</article_src>
 		<article_caption><![CDATA[Grilled Ribeye Steak Rutabaga Puree, Roasted Root Vegetables, Brown Butter Bearnaise Sauce]]></article_caption>
 		<article_credit><![CDATA[Celebrity Cruises<sup>&reg;</sup>]]></article_credit>
-​
+
 		<tile_color>A8CB17</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>

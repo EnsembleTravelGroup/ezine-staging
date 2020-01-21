@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<root>​
+<root>
 
 	<!-- BEGIN: 2002 CUN -->
 	<article date="2002" id="01">
@@ -78,7 +78,7 @@
 		<tile_new>none</tile_new>
 	</article>
 	<!-- END: 2002 RMT -->
-	
+
 	<!-- BEGIN: 2002 SEA -->
 	<article date="2002" id="04">
 		<dir_name><![CDATA[video]]></dir_name>

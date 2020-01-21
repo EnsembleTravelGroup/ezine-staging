@@ -8,13 +8,13 @@
 		<dir_year><![CDATA[20]]></dir_year>
 		<dir_month><![CDATA[02]]></dir_month>
 		<file_ship><![CDATA[01]]></file_ship>
-​
+
 		<tab_class><![CDATA[active]]></tab_class> <!-- If there's more than one ship showcase, only the first showcase has the 'active' class -->
-​
+
 		<author><![CDATA[Viking]]></author>
 		<id_supplier><![CDATA[vik]]></id_supplier>
 		<translator><![CDATA[]]></translator>
-​
+
 		<title><![CDATA[EMBARK ON A JOURNEY OF DISCOVERY]]></title>
 		<teaser><![CDATA[
 			Viking<sup>&reg;</sup> brings you closer to the cultures of the world with destination-focused itineraries on the rivers of Europe, Russia, Ukraine, China, Southeast Asia and Egypt.
@@ -25,11 +25,11 @@
 		<body><![CDATA[
 			<p>Plus, the Viking Inclusive Value covers just about everything&mdash;port charges, Wi-Fi, meals, lectures, onboard activities and shore excursions&mdash;so all you have to do is relax and enjoy a great journey. And the award-winning Viking Longships<sup>&reg;</sup> have set the standard in river cruising with spacious Veranda Staterooms, the largest suites in Europe, al fresco dining and more. Discover for yourself why Viking truly is The World&rsquo;s Leading River Cruise Line<sup>&reg;</sup>.</p>
 		]]></body>
-​
+
 		<tab_group id_supplier="vik">
 			<tab id="01">
 				<id><![CDATA[01]]></id>
-				<title><![CDATA[The Ship]]></title> <!-- Le navire -->
+				<title><![CDATA[The Ship]]></title>
 				<content><![CDATA[
 					<p><strong>THE SMALL SHIP EXPERTS</strong><br>
 					Viking takes you closer to your destination</p>
@@ -44,12 +44,12 @@
 				]]></content>
 				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/02/article/ship-01-ship.jpg</tab_src>
 				<tab_caption><![CDATA[The Ship]]></tab_caption>
-				<class><![CDATA[active]]></class> <!-- The first tab has the 'active' class -->
+				<class><![CDATA[active]]></class>
 			</tab>
-​
+
 			<tab id="02">
 				<id><![CDATA[02]]></id>
-				<title><![CDATA[Accommodations]]></title> <!-- Hébergement -->
+				<title><![CDATA[Accommodations]]></title>
 				<content><![CDATA[
 					<p><strong style="text-decoration: underline;">UNPARALLELED STATEROOM CHOICES</strong><br>
 					<em>The Viking patented design allows for more variety than other ships</em></p>
@@ -82,10 +82,10 @@
 				<tab_caption><![CDATA[Accommodations]]></tab_caption>
 				<class><![CDATA[]]></class>
 			</tab>
-​
+
 			<tab id="03">
 				<id><![CDATA[03]]></id>
-				<title><![CDATA[Dining]]></title> <!-- Gastronomie -->
+				<title><![CDATA[Dining]]></title>
 				<content><![CDATA[
 					<p><strong>DESTINATION - FOCUSED DINING</strong><br>
 					<em>The most al fresco dining on the rivers</em></p>
@@ -101,10 +101,10 @@
 				<tab_caption><![CDATA[Dining]]></tab_caption>
 				<class><![CDATA[]]></class>
 			</tab>
-​
+
 			<tab id="04">
 				<id><![CDATA[04]]></id>
-				<title><![CDATA[Activities]]></title> <!-- Activités -->
+				<title><![CDATA[Activities]]></title>
 				<content><![CDATA[
 					<p><strong style="text-decoration: underline;">ONBOARD ENRICHMENT</strong><br>
 					<em>Bringing culture and history to life</em></p>
@@ -136,10 +136,10 @@
 				<tab_caption><![CDATA[Activities]]></tab_caption>
 				<class><![CDATA[]]></class>
 			</tab>
-​
+
 			<tab id="05">
 				<id><![CDATA[05]]></id>
-				<title><![CDATA[Services]]></title> <!-- Services -->
+				<title><![CDATA[Services]]></title>
 				<content><![CDATA[
 					<p><strong>AWARD - WINNING SERVICE</strong><br>
 					<em>Genuine warmth and thoughtful attention</em></p>
@@ -176,12 +176,12 @@
 				<tab_caption><![CDATA[Inclusions]]></tab_caption>
 				<class><![CDATA[]]></class>
 			</tab>
-​
+
 		</tab_group>
-​
+
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/02/hero/ship-01.jpg</hero_src>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/02/article/ship-01.jpg</article_src>
-​
+
 		<tile_color>005DAB</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>

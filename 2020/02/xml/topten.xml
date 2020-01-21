@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<root>​
+<root>
 	<!-- BEGIN: 2002 topten -->
 	<article date="2002" id="index">
 		<dir_name><![CDATA[topten]]></dir_name>
@@ -8,12 +8,12 @@
 		<dir_year><![CDATA[20]]></dir_year>
 		<dir_month><![CDATA[02]]></dir_month>
 		<id_article><![CDATA[index]]></id_article>
-​
+
 		<author><![CDATA[Tyler Wetherall]]></author>
 		<translator><![CDATA[]]></translator>
-​
+
 		<id_supplier><![CDATA[topten]]></id_supplier>
-​
+
 		<title><![CDATA[8 Top Dining Experiences on Europe's Waterways]]></title>
 		<teaser><![CDATA[
 			Europe&rsquo;s rivers and canals reveal the continent&rsquo;s most iconic destinations in all their foodie glory.
@@ -22,7 +22,7 @@
 			From the Seine to the Spree, Europe&rsquo;s waterways pass through some of the continent&rsquo;s most iconic destinations. Steeped in history and culture, they reveal the cities they occupy in all their glory, and there are few lovelier ways to experience a destination than dining on its rivers and canals. Read on for some of the best places to do just that.
 		]]></lead>
 		<body><![CDATA[]]></body>
-​
+
 		<gallery>
 			<img>
 				<title><![CDATA[Kladesholmen, Sweden: <a href="https://www.saltosill.se/en/restaurant" target="_blank">Salt &amp; Sill</a>]]></title>
@@ -34,7 +34,7 @@
 				<position>0</position>
 				<class>active</class>
 			</img>
-​
+
 			<img>
 				<title><![CDATA[London, England: <a href="https://www.skunaboats.com/bbqboat" target="_blank">Skuna BBQ Boat</a>]]></title>
 				<content><![CDATA[
@@ -45,7 +45,7 @@
 				<position>1</position>
 				<class></class>
 			</img>
-​
+
 			<img>
 				<title><![CDATA[Venice, Italy: <a href="http://www.ristorantelineadombra.com/" target="_blank">Lineadombra</a>]]></title>
 				<content><![CDATA[
@@ -56,7 +56,7 @@
 				<position>2</position>
 				<class></class>
 			</img>
-​
+
 			<img>
 				<title><![CDATA[Paris, France: <a href="https://www.rosabonheur.fr/rosa-seine" target="_blank">Rosa Bonheur sur Seine</a>]]></title>
 				<content><![CDATA[
@@ -67,7 +67,7 @@
 				<position>3</position>
 				<class></class>
 			</img>
-​
+
 			<img>
 				<title><![CDATA[Copenhagen, Denmark: <a href="https://www.vandvid.com/english" target="_blank">Vandvid</a>]]></title>
 				<content><![CDATA[
@@ -78,7 +78,7 @@
 				<position>4</position>
 				<class></class>
 			</img>
-​
+
 			<img>
 				<title><![CDATA[Amsterdam, Netherlands: <a href="http://www.reallyniceplace.com/brunch-boat" target="_blank">G&rsquo;s Brunch Boat</a>]]></title>
 				<content><![CDATA[
@@ -89,7 +89,7 @@
 				<position>5</position>
 				<class></class>
 			</img>
-​
+
 			<img>
 				<title><![CDATA[Bristol, England: <a href="http://www.grainbarge.com/" target="_blank">Grain Barge</a>]]></title>
 				<content><![CDATA[
@@ -100,7 +100,7 @@
 				<position>6</position>
 				<class></class>
 			</img>
-​
+
 			<img>
 				<title><![CDATA[Edinburgh, Scotland: <a href="https://www.fingal.co.uk/food-drink" target="_blank">Fingal</a>]]></title>
 				<content><![CDATA[
@@ -112,7 +112,7 @@
 				<class></class>
 			</img>
 		</gallery>
-​
+
 		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/02/hero/topten-index.jpg]]></hero_src>
 		<hero_caption><![CDATA[8 Top Dining Experiences on Europe's Waterways]]></hero_caption>
 		<hero_credit><![CDATA[Top Ten]]></hero_credit>
@@ -120,11 +120,11 @@
 		<article_caption><![CDATA[8 Top Dining Experiences on Europe's Waterways]]></article_caption>
 		<article_credit><![CDATA[Top Ten]]></article_credit>
 		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/02/email/topten-index.jpg</email_src>
-​
+
 		<tile_color>FFC500</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
-​
+
 		<tags>
 			<tag slug="europe"><![CDATA[europe]]></tag>
 			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
