@@ -29,6 +29,7 @@
 	<!-- BEGIN: 2002 MAN -->
 	<article date="2002" id="02">
 		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[February 2020]]></pub_date> <!-- Februray = Full month name (ie. January) -->
 		<dir_year><![CDATA[20]]></dir_year>
 		<dir_month><![CDATA[02]]></dir_month>
 		<file_video><![CDATA[02]]></file_video>
