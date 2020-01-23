@@ -169,14 +169,15 @@
 		<intro><![CDATA[Customize your dream vacation.]]></intro>
 		<offer><![CDATA[Book a 5-8 night vacation package at select Palace Resorts, and receive $1500 in resort credits per room, per stay. Resort credits are flexible and are based on the desired length of stay.]]></offer>
 		<content><![CDATA[
-			<p>Start with a round of golf or a relaxing spa treatment; with endless activities available, the choices are yours at Palace Resorts. Whether you swim with dolphins or scuba dive1 in the deep sea, this dream vacation is yours to build.</p>
+			<p>Start with a round of golf or a relaxing spa treatment; with endless activities available, the choices are yours at Palace Resorts. Whether you swim with dolphins or scuba dive<sup>1</sup> in the deep sea, this dream vacation is yours to build.</p>
 
 			<p>The value of the resort credit is flexible based on the desired length of stay:</p>
 
 			<p>5 to 8-night packages - $1500 resort credit<br>
 			4-night package - $750 resort credit<br>
-			3-night package - $500 resort credit<br>
-			Want to stay even longer?</p>
+			3-night package - $500 resort credit</p>
+			
+			<p>Want to stay even longer?</p>
 
 			<p>Receive up to $2,500 in resort credit:</p>
 
@@ -210,7 +211,7 @@
 		]]></content>
 
 		<terms id="banner-2002-wjv">
-			<consumer><![CDATA[Book by: December 16, 2020 (11:59 p.m. MT) Travel: Now - December 23, 2020 Resort credit will be distributed to guests upon arrival at the time of check-in. Advance booking required. Non-refundable and non-transferable. Offer limited and subject to availability. Offer subject to change and expire without notice. New bookings only. Not valid on group bookings. Other restrictions may apply. Resort credit will be distributed to guests upon arrival at the time of check-in. Airport transfers to/from the hotel are included. A minimum 3-night stay is required. Resort credit is valued in USD and can be used towards select tours, golf, spa/beauty salon services, romantic dinners, diving packages, Vacation Memories photo packages, and Palace Resorts Wedding Collection. Promotion, prices and applicable services are subject to change without notice. Promotion will not be extended to travellers on: FAM trips, travel agent or employee rates, complimentary, incentive or compensatory stays. Resort credit cannot be exchanged for cash, products or merchandise. There is no cash reimbursement if unused. There is a 16% service fee on all products and services rendered with the resort credit. Some restrictions apply towards golf credits; see front desk for details. Taxes, surcharges and/or gratuity not included. Offer is applicable to all room categories. Inclusions can be changed or withdrawn at any time without notice. There is no cash reimbursement if unused. Credits are issued per room per stay. Blackout dates may apply. For any further details, please see hotel front desk. 1Available at Palace Resorts in Mexico only.]]></consumer>
+			<consumer><![CDATA[Book by: December 16, 2020 (11:59 p.m. MT) Travel: Now - December 23, 2020 Resort credit will be distributed to guests upon arrival at the time of check-in. Advance booking required. Non-refundable and non-transferable. Offer limited and subject to availability. Offer subject to change and expire without notice. New bookings only. Not valid on group bookings. Other restrictions may apply. Resort credit will be distributed to guests upon arrival at the time of check-in. Airport transfers to/from the hotel are included. A minimum 3-night stay is required. Resort credit is valued in USD and can be used towards select tours, golf, spa/beauty salon services, romantic dinners, diving packages, Vacation Memories photo packages, and Palace Resorts Wedding Collection. Promotion, prices and applicable services are subject to change without notice. Promotion will not be extended to travellers on: FAM trips, travel agent or employee rates, complimentary, incentive or compensatory stays. Resort credit cannot be exchanged for cash, products or merchandise. There is no cash reimbursement if unused. There is a 16% service fee on all products and services rendered with the resort credit. Some restrictions apply towards golf credits; see front desk for details. Taxes, surcharges and/or gratuity not included. Offer is applicable to all room categories. Inclusions can be changed or withdrawn at any time without notice. There is no cash reimbursement if unused. Credits are issued per room per stay. Blackout dates may apply. For any further details, please see hotel front desk. <sup>1</sup>Available at Palace Resorts in Mexico only.]]></consumer>
 			<agent><![CDATA[]]></agent>
 		</terms>
 
