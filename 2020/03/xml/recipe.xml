@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- BEGIN: 2003 CUN -->
+	<article date="2003" id="01">
+		<dir_name><![CDATA[recipe]]></dir_name>
+		<pub_date><![CDATA[March 2020]]></pub_date>
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[03]]></dir_month>
+		<id_recipe><![CDATA[01]]></id_recipe>
+
+		<tab_class><![CDATA[active]]></tab_class>
+
+		<author><![CDATA[Cunard]]></author>
+		<id_supplier><![CDATA[cun]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		<cookbook><![CDATA[]]></cookbook>
+
+		<title><![CDATA[Sponge Cake]]></title>
+		<teaser><![CDATA[Cunard]]></teaser>
+		<lead><![CDATA[
+			<p>Afternoon tea with an Alaska twist. Both sweet and savory options incorporating Alaska&rsquo;s best recipes and dishes will be offered and paired with Alaska iced tea, champagne and, of course, tea along with the famous baked Alaska!</p>
+			<p>May this gem of a dessert bring you back to wonderful memories of your Cunard cruise to Alaska or bring you to book your Alaska cruise today!</p>
+		]]></lead>
+		<body><![CDATA[]]></body>
+
+		<item>
+			<title><![CDATA[Sponge Cake with Meringue]]></title>
+			<ingredients><![CDATA[
+				<h4>Ingredients</h4>
+				<p><strong>For sponge cake:</strong></p>
+				<ul>
+					<li>150 grams Cake Flour</li>
+					<li>6 small eggs</li>
+					<li>150 grams Superfine/Castor sugar</li>
+					<li>300 ML Chocolate Ice Cream</li>
+					<li>300 ML Vanilla Ice Cream</li>
+					<li>300 ML Strawberry Ice Cream</li>
+					<li>1 jar Maraschino cherries</li>
+				</ul>
+
+				<p><strong>For Meringue:</strong></p>
+				<ul>
+					<li>130 grams Superfine/Castor sugar</li>
+					<li>3 Egg whites only</li>
+					<li>30 grams Glucose Liquid</li>
+				</ul>
+			]]></ingredients>
+
+			<prep><![CDATA[
+			<h4>Preparation</h4> <!-- Preparation -->
+			<p><strong>Sponge Cake:</strong></p>
+			<ol>
+				<li>Set oven at 180C/350F</li>
+				<li>Brush a rectangular pan with melted butter. Line with parchment paper and brush again with butter. Reserve.</li>
+				<li>Whisk with a mixer with whip attachment, add the eggs one at a time (incorporating each completely before adding the next one) and sugar until big and pale. Pour into prepared pan.</li>
+				<li>Fold in the sifted flour and mix carefully. Mix until well blended.</li>
+				<li>Spread the sponge mix in the prepared pan and bake at 350 degrees for approx. 8 minutes or until golden and inserting a toothpick in the center and comes out clean. Cool for at least 15 minutes, then, remove cake from the pan and allow to cool on the rack.</li>
+				<li>Once cool, place metal 1 &frac12;-2&rdquo; rings over the sponge cake and cut out circles.</li>
+				<li>Top with a small scoop of each ice cream or a large scoop of one for each cake, &ndash; up to you - smooth into a mound and top with a cherry.</li>
+				<li>Freeze until solid.</li>
+				<li>Merinque:  Preheat the oven to broil and place an oven rack 8&rdquo; from the top.</li>
+				<li>Whisk with whip attachment on medium speed, beat a small quantity of sugar, a tablespoon at a time, with the egg whites become soft peaks.</li>
+				<li>Meanwhile, boil the sugar and glucose with a little water to stop it burning. Take it to 118C/245F</li>
+				<li>Pour the syrup slowly over the whisking whites and then continue whisking until cold and thick.</li>
+				<li>Place in pastry bag with large tip and pipe quickly over the frozen sponge and ice cream, covering everything.</li>
+				<li>Place on a baking tray and bake under broil until golden about 2 min.  Serve immediately.</li>
+			</ol>
+		]]></prep>
+		</item>
+
+		<body_2><![CDATA[]]></body_2>
+
+		<sidebar><![CDATA[]]></sidebar>
+
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/03/hero/recipe-01.jpg</hero_src>
+		<hero_caption><![CDATA[Sponge Cake with Meringue]]></hero_caption>
+		<hero_credit><![CDATA[Cunard]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/recipe-01.jpg</article_src>
+		<article_caption><![CDATA[Sponge Cake with Meringue]]></article_caption>
+		<article_credit><![CDATA[Cunard]]></article_credit>
+
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	<!-- END: 2003 CUN -->
+</root>

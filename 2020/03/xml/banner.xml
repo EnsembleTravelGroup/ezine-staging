@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
-<!-- BEGIN: 2003 avl -->
-
+<!-- BEGIN: 2003 AVL -->
 <element date="2003" id="banner-2003-avl">
 	<country><![CDATA[ca]]></country>
 	<tactic><![CDATA[banner]]></tactic>
@@ -10,11 +9,11 @@
 	<month><![CDATA[03]]></month>
 	<id_live><![CDATA[01]]></id_live>
 
-	<supplier><![CDATA[Avalon Waterways<sup>&reg;</sup>]]></supplier>
+	<supplier><![CDATA[Avalon]]></supplier>
 	<directory><![CDATA[avl]]></directory>
 
 	<title><![CDATA[Don&rsquo;t Miss The Boat]]></title>
-	<intro><![CDATA[If you want to see more of the world, look no further than Avalon Waterways. Beyond the wall-to-wall, floor-to-ceiling windows is a world waiting to be discovered with Avalon's unmatched choice of included excursions, FlexDining,&reg; personal service and desirable amenities.]]></intro>
+	<intro><![CDATA[If you want to see more of the world, look no further than Avalon Waterways. Beyond the wall-to-wall, floor-to-ceiling windows is a world waiting to be discovered with Avalon's unmatched choice of included excursions, FlexDining,<sup>&reg;</sup> personal service and desirable amenities.]]></intro>
 	<offer><![CDATA[
 		Fly free from select Canadian gateways PLUS save $600 per couple on select 2020 Avalon Waterways Europe river cruises*
 	]]></offer>
@@ -25,9 +24,7 @@
 
 	<terms id="banner-2003-avl">
 		<consumer><![CDATA[
-			*Book a select 2020 Avalon Waterways Europe river cruise to receive free round-trip economy class trans-Atlantic air from Calgary, Edmonton, Halifax, Montreal, Ottawa, Quebec City, Regina, Saskatoon, Toronto, Vancouver, Victoria, Winnipeg. Other gateway cities available for $199/person additional (inclusive of taxes/fees). Free air offer is based on lowest-priced economy class Flex airfare available for booking at time of reservation and scheduled to coincide with cruise itinerary; pre-assigned airline seats are limited and may not be available on all air segments. Quotes available through your travel advisor. Limited to new bookings for CANADA originating travellers and economy class Flex air tickets; must be booked &amp; under deposit between February 4 and April 6, 2020 for travel in 2020. A $550 non-refundable deposit is due at time of booking. Offer does not apply to instant purchase air and Groups. Offer is combinable with the Welcome Back Credit (if applicable) and $300pp land promo. Promotional discounts do not carry forward on voluntarily changed air bookings; other promotions at time of change may be available. Once ticketed, air reservations subject to change/cancellation penalties of between $300 per ticket and 100% of ticket value. Changes to ticketed air reservations (including itineraries involving free round-trip trans-Atlantic air) also subject to airfare differentials between originally ticketed air itinerary and re-ticketed air itinerary. Additional airline baggage fees may apply; speak with your travel advisor for details. Air schedules are available approximately 330 days prior to return travel date. Flight schedules, routings and air carriers are at the discretion of Globus family of brands.  Additional restrictions apply; see Travel Terms for details. Air tickets are non-commissionable. Offer may be withdrawn at any time. Consumers may choose to save $2600/couple instead of receiving Free Air offer. Call your travel agent for more information (restrictions apply).
-			<br><br>
-			**Book a select 2020 Avalon Waterways Europe river cruise to receive $300 off per person on the cruise/land or cruise only price. Booking must be made, under deposit, and discount applied between February 4, 2020 &ndash; April 6, 2020 for travel at select times in 2020. Not applicable to custom tours. Not applicable on TBA space. Discount will apply to individual members of groups adding a name and non-refundable per person deposit within the promo window. Offer reliant on space availability at time of booking and may be withdrawn at any time. Combinable with Free Air promotion (PRMYMH) and Welcome Back Credit only. Applies to new 2020 bookings only and offer will not be applied to pre-existing bookings. Full cancellation penalties will apply. Additional restrictions may apply; see Travel Terms &amp; Conditions for details. May be withdrawn at any time.
+			*Book a select 2020 Avalon Waterways Europe river cruise to receive free round-trip economy class trans-Atlantic air from Calgary, Edmonton, Halifax, Montreal, Ottawa, Quebec City, Regina, Saskatoon, Toronto, Vancouver, Victoria, Winnipeg. Other gateway cities available for $199/person additional (inclusive of taxes/fees). Free air offer is based on lowest-priced economy class Flex airfare available for booking at time of reservation and scheduled to coincide with cruise itinerary; pre-assigned airline seats are limited and may not be available on all air segments. Quotes available through your travel advisor. Limited to new bookings for CANADA originating travellers and economy class Flex air tickets; must be booked &amp; under deposit between February 4 and April 6, 2020 for travel in 2020. A $550 non-refundable deposit is due at time of booking. Offer does not apply to instant purchase air and Groups. Offer is combinable with the Welcome Back Credit (if applicable) and $300pp land promo. Promotional discounts do not carry forward on voluntarily changed air bookings; other promotions at time of change may be available. Once ticketed, air reservations subject to change/cancellation penalties of between $300 per ticket and 100% of ticket value. Changes to ticketed air reservations (including itineraries involving free round-trip trans-Atlantic air) also subject to airfare differentials between originally ticketed air itinerary and re-ticketed air itinerary. Additional airline baggage fees may apply; speak with your travel advisor for details. Air schedules are available approximately 330 days prior to return travel date. Flight schedules, routings and air carriers are at the discretion of Globus family of brands.  Additional restrictions apply; see Travel Terms for details. Air tickets are non-commissionable. Offer may be withdrawn at any time. Consumers may choose to save $2600/couple instead of receiving Free Air offer. Call your travel agent for more information (restrictions apply). **Book a select 2020 Avalon Waterways Europe river cruise to receive $300 off per person on the cruise/land or cruise only price. Booking must be made, under deposit, and discount applied between February 4, 2020 &ndash; April 6, 2020 for travel at select times in 2020. Not applicable to custom tours. Not applicable on TBA space. Discount will apply to individual members of groups adding a name and non-refundable per person deposit within the promo window. Offer reliant on space availability at time of booking and may be withdrawn at any time. Combinable with Free Air promotion (PRMYMH) and Welcome Back Credit only. Applies to new 2020 bookings only and offer will not be applied to pre-existing bookings. Full cancellation penalties will apply. Additional restrictions may apply; see Travel Terms &amp; Conditions for details. May be withdrawn at any time.
 		]]></consumer>
 		<agent><![CDATA[]]></agent>
 	</terms>
@@ -60,11 +57,13 @@
 			<exclusives_title><![CDATA[]]></exclusives_title>
 			<exclusives_desc><![CDATA[]]></exclusives_desc>
 			<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
-			<inclusions_desc><![CDATA[<ul>
-				<li>7-night cruise in an outside stateroom</li>
-				<li>Daily included port excursions</li>
-				<li>All meals included while on ship (including Captain&rsquo;s &amp; farewell dinners), complimentary beer and wine with dinner</li>
-			</ul]]></inclusions_desc>
+			<inclusions_desc><![CDATA[
+				<ul>
+					<li>7-night cruise in an outside stateroom</li>
+					<li>Daily included port excursions</li>
+					<li>All meals included while on ship (including Captain&rsquo;s &amp; farewell dinners), complimentary beer and wine with dinner</li>
+				</ul>
+			]]></inclusions_desc>
 
 			<terms><![CDATA[]]></terms>
 			<img_map></img_map>
@@ -97,12 +96,14 @@
 			<exclusives_title><![CDATA[]]></exclusives_title>
 			<exclusives_desc><![CDATA[]]></exclusives_desc>
 			<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
-			<inclusions_desc><![CDATA[<ul>
-	<li>7-night cruise in an outside stateroom </li>
-	<li>1 night in a deluxe hotel in Budapest</li>
-	<li>Daily included port excursions</li>
-	<li>All meals included while on ship (including Captain&rsquo;s &amp; farewell dinners), complimentary beer and wine with dinner</li>
-</ul>]]></inclusions_desc>
+			<inclusions_desc><![CDATA[
+				<ul>
+					<li>7-night cruise in an outside stateroom </li>
+					<li>1 night in a deluxe hotel in Budapest</li>
+					<li>Daily included port excursions</li>
+					<li>All meals included while on ship (including Captain&rsquo;s &amp; farewell dinners), complimentary beer and wine with dinner</li>
+				</ul>
+			]]></inclusions_desc>
 
 			<terms><![CDATA[]]></terms>
 			<img_map></img_map>
@@ -135,11 +136,13 @@
 			<exclusives_title><![CDATA[]]></exclusives_title>
 			<exclusives_desc><![CDATA[]]></exclusives_desc>
 			<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
-			<inclusions_desc><![CDATA[<ul>
-				<li>7-night cruise in an outside stateroom</li>
-				<li>Daily included port excursions</li>
-				<li>All meals included while on ship (including Captain&rsquo;s &amp; farewell dinners), complimentary beer and wine with dinner</li>
-			</ul>]]></inclusions_desc>
+			<inclusions_desc><![CDATA[
+				<ul>
+					<li>7-night cruise in an outside stateroom</li>
+					<li>Daily included port excursions</li>
+					<li>All meals included while on ship (including Captain&rsquo;s &amp; farewell dinners), complimentary beer and wine with dinner</li>
+				</ul>
+			]]></inclusions_desc>
 
 			<terms><![CDATA[]]></terms>
 			<img_map></img_map>
@@ -151,11 +154,9 @@
 	<id_ezine><![CDATA[banner-01]]></id_ezine>
 	<file><![CDATA[]]></file>
 </element>
+<!-- END: 2003 AVL -->
 
-<!-- END: 2003 avl -->
-
-<!-- BEGIN: 2003 hal -->
-
+<!-- BEGIN: 2003 HAL -->
 <element date="2003" id="banner-2003-hal">
 	<country><![CDATA[ca]]></country>
 	<tactic><![CDATA[banner]]></tactic>
@@ -235,8 +236,7 @@
 			<ship><![CDATA[Rotterdam]]></ship>
 			<category><![CDATA[Category FF, Ocean View]]></category>
 			<embarkation><![CDATA[Roundtrip]]></embarkation>
-			<disembarkation><![CDATA[Rotterdam
-	]]></disembarkation>
+			<disembarkation><![CDATA[Rotterdam]]></disembarkation>
 
 			<img_hero><![CDATA[prod-hal-02-ca.jpg]]></img_hero>
 
@@ -290,10 +290,9 @@
 	<id_ezine><![CDATA[banner-02]]></id_ezine>
 	<file><![CDATA[]]></file>
 </element>
-<!-- END: 2003 hal -->
+<!-- END: 2003 HAL -->
 
-<!-- BEGIN: 2003 win -->
-
+<!-- BEGIN: 2003 WIN -->
 <element date="2003" id="banner-2003-win">
 	<country><![CDATA[ca]]></country>
 	<tactic><![CDATA[banner]]></tactic>
@@ -392,7 +391,7 @@
 			<img_hero><![CDATA[prod-win-02-ca.jpg]]></img_hero>
 
 			<amenities_title><![CDATA[]]></amenities_title>
-			<amenities_desc><![CDATA[]></amenities_desc>
+			<amenities_desc><![CDATA[]]></amenities_desc>
 			<exclusives_title><![CDATA[]]></exclusives_title>
 			<exclusives_desc><![CDATA[]]></exclusives_desc>
 			<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
@@ -429,15 +428,17 @@
 			<img_hero><![CDATA[prod-win-03-ca.jpg]]></img_hero>
 
 			<amenities_title><![CDATA[]]></amenities_title>
-			<amenities_desc><![CDATA[]></amenities_desc>
+			<amenities_desc><![CDATA[]]></amenities_desc>
 			<exclusives_title><![CDATA[]]></exclusives_title>
 			<exclusives_desc><![CDATA[]]></exclusives_desc>
 			<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
-			<inclusions_desc><![CDATA[<ul>
-				<li>Tour the Parthenon and the Acropolis in Athens, which are must-sees</li>
-				<li>Take advantage of late nights in Crete and Rhodes for an even better sense of the local flavor</li>
-				<li>Find the history surrounding you with at least 9 UNESCO World Heritage Sites in this region</li>
-			</ul>]]></inclusions_desc>
+			<inclusions_desc><![CDATA[
+				<ul>
+					<li>Tour the Parthenon and the Acropolis in Athens, which are must-sees</li>
+					<li>Take advantage of late nights in Crete and Rhodes for an even better sense of the local flavor</li>
+					<li>Find the history surrounding you with at least 9 UNESCO World Heritage Sites in this region</li>
+				</ul>
+			]]></inclusions_desc>
 
 			<terms><![CDATA[]]></terms>
 			<img_map></img_map>
@@ -449,6 +450,6 @@
 	<id_ezine><![CDATA[banner-03]]></id_ezine>
 	<file><![CDATA[]]></file>
 </element>
-<!-- END: 2003 win -->
+<!-- END: 2003 WIN -->
 
 </root>

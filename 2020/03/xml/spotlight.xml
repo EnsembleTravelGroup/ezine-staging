@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+	<!-- BEGIN: 2003 spotlight -->
+	<article date="2003">
+		<dir_name><![CDATA[spotlight]]></dir_name>
+		<pub_date><![CDATA[March 2020]]></pub_date>
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[03]]></dir_month>
+
+		<author><![CDATA[Christina Newberry]]></author>
+		<translator><![CDATA[]]></translator>
+
+		<title><![CDATA[Fabulous Family Meals in Isla Mujeres, Mexico]]></title>
+		<teaser><![CDATA[
+			Don&rsquo;t miss out on these kid-friendly menus adults will love, too.
+		]]></teaser>
+		<lead><![CDATA[
+			A short ferry ride from the hustle and bustle of Cancun, you&rsquo;ll find lovely Isla Mujeres. At just over four miles long and only 2,100 feet wide, this friendly little island is a perfect family destination where you&rsquo;ll drive a golf cart instead of a rental car, and the kids can play on the beach while you feast on fresh-caught fish.
+			<br><br>
+			Whether you visit Isla Mujeres on a daytrip from Cancun or settle in for an extended holiday, these top family dining picks will give you a real taste of the island at any meal.
+		]]></lead>
+		<body><![CDATA[
+			<h4>Breakfast and Brunch</h4>
+
+			<p>The best way to start your day in the town center is to head just off the main street to Elements of the Island, a small caf&eacute; offering Swiss breakfast specials like bircherm&uuml;esli, roesti potatoes and apple strudel. The fresh, house-made jams in flavors like banana pineapple make your meal really pop, and kids will love the dolphin-shaped cookies.</p>
+
+			<p>If you&rsquo;re craving eggs, you&rsquo;ll find great ones at M&amp;J Cazuela. The cazuela is their signature creation &ndash;&nbsp;a cheesy souffl&eacute;-like omelet served with tortillas. Traditional omelets are also offered, or opt for crepes with savory or sweet fillings &ndash; including the kid-pleasing banana and Nutella.</p>
+
+			<p>If you&rsquo;ve got a golf cart or don&rsquo;t mind a short taxi ride, head to Polo&rsquo;s Mango Caf&eacute; in the Colonia Meteorologico neighborhood for a kid-friendly menu (try the coconut French toast) that adults will love for its Mexican flavors and top-notch coffee.</p>
+
+			<h4>Lunch</h4>
+
+			<p>If you only have one lunch on Isla Mujeres, go for the Tikin Xic fish at Playa Lancheros. You&rsquo;ll enjoy this whole fish grilled in the Yucatan style while your kids play in the Caribbean Sea less than 20 feet away. Plus, the guacamole is a great bet for picky eaters.</p>
+
+			<p>For a quick lunch break near Isla&rsquo;s best beach, Playa Norte, pop over to Loncheria Alexia y Geovanny next to the main food market. This no-frills family operation serves delicious Mexican dishes at reasonable prices. Kids will love the <em>agua de sandia</em> &ndash; a drink of fresh blended watermelon with water and sugar.</p>
+
+			<h4>Dinner</h4>
+
+			<p>Avenida Hidalgo, Isla Mujeres&rsquo;s main pedestrian street, is lined with great restaurants. A top pick is Lola Valentina, where adults will find some of the best margaritas in town (think watermelon and jalape&ntilde;o or hibiscus and rosemary), and kids get their own menu of chicken or fish fingers, mini-burgers, or quesadillas with fries.</p>
+
+			<p>For family-pleasing pizza and pasta, head to Mamma Rosa, also on Hidalgo. The cloud-like gnocchi melt in your mouth, and the pizza options range from basic pepperoni to the more adventurous combo of squid, shrimp, octopus, and mussels. Sit at an outdoor table to get a great view of the action on this lively strip.</p>
+
+			<p>If you&rsquo;re visiting the island with a larger family or group, book the semi-private pagoda at Olivia. This central restaurant run by an Israeli couple features tasty Mediterranean dishes, including huge wraps that easily satisfy two smaller appetites. The tapas selections are great for sharing, and you can&rsquo;t beat the candlelit garden setting.</p>
+		]]></body>
+
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/03/hero/spotlight.jpg</hero_src>
+		<hero_caption><![CDATA[Fabulous Family Meals in Isla Mujeres, Mexico]]></hero_caption>
+		<hero_credit><![CDATA[Christina Newberry]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/spotlight.jpg</article_src>
+		<article_caption><![CDATA[Fabulous Family Meals in Isla Mujeres, Mexico]]></article_caption>
+		<article_credit><![CDATA[Spotlight]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/03/email/spotlight.jpg</email_src>
+
+		<tile_color>C8232C</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+
+		<tags>
+			<tag slug="caribbean"><![CDATA[caribbean]]></tag>
+			<tag slug="central-america"><![CDATA[central-america]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="food-wine"><![CDATA[food-wine]]></tag>
+		</tags>
+	</article>
+	<!-- END: 2003 spotlight -->
+
+</root>

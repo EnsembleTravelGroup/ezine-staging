@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- BEGIN: 2003 DCL -->
+	<article date="2003" id="01">
+		<dir_name><![CDATA[ship]]></dir_name>
+		<pub_date><![CDATA[Match 2020]]></pub_date>
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[03]]></dir_month>
+		<file_ship><![CDATA[01]]></file_ship>
+
+		<tab_class><![CDATA[active]]></tab_class> <!-- If there's more than one ship showcase, only the first showcase has the 'active' class -->
+
+		<author><![CDATA[Disney Cruise Line]]></author>
+		<id_supplier><![CDATA[dcl]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+
+		<title><![CDATA[Set sail for the family adventure of a lifetime as you discover exotic ports-of-call the world over.]]></title>
+		<teaser><![CDATA[
+		]]></teaser>
+		<lead><![CDATA[
+			<strong>Disney Cruise Line</strong> ships are stunning vessels that pay homage to the grand era of the luxury ocean liner, Disney&rsquo;s 4 distinguished ships pamper Guests with state-of-the-art comforts, legendary service and Disney-exclusive activities that bring families together en route to exotic ports of call. From bow to stern, each magnificent ship brims with restaurants, nightclubs, shops and recreational facilities that make cruising a pleasure for Guests of all ages. With so much to experience built right in, getting there is half the fun!
+		]]></lead>
+		<body><![CDATA[
+			<p>Discover spectacular destinations, magical experiences and breathtaking ports of call. Enchanting locations include majestic Alaska, the tropical Caribbean, the blissful Bahamas, and more than 15 European countries. In early 2021, Disney Cruise Line will return to New Orleans for a limited-time engagement with sailings to the Bahamas and Caribbean, including visits to Disney&rsquo;s private island paradise, Castaway Cay. A lineup of popular itineraries will continue across the Disney fleet with cruises to tropical destinations from Texas, California and Florida.</p>
+
+			<p>A Disney cruise brings families together to create long-lasting memories with original, musical live shows, dazzling deck parties, incredible destinations like our private island and so much more. From sun-up to well past sundown, adults can escape to exclusive locations and experiences&mdash;from exciting nightlife and an adults-only pool area, to intimate dining and luxurious spa treatments.</p>
+
+			<p>Chart a course for more magic as you celebrate the holidays and share in special day-long celebrations on select Disney cruises. Howl in delight during a haunting Halloween scare-a-bration. Meet Santa and have a jolly good time at a tropical holiday party. You can even step into the epic saga of Star Wars and thrill to an amazing Marvel Day at Sea. As you sail, delight in enchanting entertainment, activities and d&eacute;cor throughout the ship.</p>
+
+			<p><strong>Enchanting Entertainment:</strong> Behold Broadway-caliber musicals and fireworks at sea, celebrate at deck parties and watch new Disney movies in 3D.</p>
+
+			<p><strong>Spacious Staterooms:</strong> Whether it's a cozy retreat or an extravagant suite, staterooms are designed with your family in mind&mdash;boasting innovative comforts and modern features you won't find elsewhere.</p>
+
+			<p><strong>Disney&rsquo;s Private Island:</strong> A port of call on many Bahamian and Caribbean itineraries, <strong>Castaway Cay</strong> is Disney&rsquo;s private island paradise reserved for <strong>Disney Cruise Line</strong> Guests. Offerings include:</p>
+
+			<ul>
+				<li>A buffet-style barbecue lunch</li>
+				<li>Beaches, including a family beach and adult-only beach</li>
+				<li>Beach chairs, umbrellas and hammocks</li>
+				<li>Island entertainment</li>
+				<li>Clubs for kids and teens</li>
+				<li>A splash zone</li>
+				<li>Pelican Plunge waterslide</li>
+			</ul>
+
+			<p><strong>Variety of Dining Options:</strong> Savor a wide variety of dining options sure to satisfy even the pickiest of palates, thanks to fresh, expertly prepared dishes available 24 hours a day</p>
+
+			<p><strong>Imaginative Youth Clubs:</strong> Play in themed clubs for every age, staffed by specially trained Disney counselors.</p>
+
+			<p><strong>Nightclubs &amp; Lounges:</strong> Discover adults-only areas that include a variety of bars and pubs.</p>
+
+			<p><strong>Pools &amp; Recreation:</strong> Splash it up in freshwater pools and waterslides at sea.</p>
+
+			<p>From the moment you step on board to your last wave goodbye, your vacation includes almost everything you and your family could hope for&mdash;and much more.</p>
+		]]></body>
+
+		<tab_group id_supplier="dcl">
+			<tab id="01">
+				<id><![CDATA[01]]></id>
+				<title><![CDATA[The Ships]]></title>
+				<content><![CDATA[
+					<h4>Disney Magic</h4>
+					<p>Created with your entire family in mind, the <strong>Disney Magic</strong> combines classic nostalgia and modern amenities with Disney&rsquo;s signature service. Step aboard for spacious staterooms that ensure everyone&rsquo;s comfort. Get lost in original Broadway-quality entertainment. Indulge in first-rate dining. From bow to stern, set sail for unforgettable storytelling that only Disney could bring to life.</p>
+
+					<h4>Disney Wonder</h4>
+					<p>Imagine a place where families can reconnect, adults can recharge and kids can immerse themselves in fantastical worlds only Disney could create. Renowned for its classic design, modern innovation and timeless whimsy, the <strong>Disney Wonder</strong> is home to 11 decks overflowing with restaurants, pools, recreation and more &mdash; ready to transport you to exotic locales waiting to be explored.</p>
+
+					<h4>Disney Dream</h4>
+					<p>Let your imagination set sail. Be front-and-center at original Broadway-caliber live shows, dine on artfully prepared meals in wondrously themed restaurants and make a splash on the AquaDuck. Combining classic beauty and modern luxury with legendary Disney storytelling, the award-winning Disney Dream invites you to embark on an unforgettable voyage where dreams really do come true.</p>
+
+					<h4>Disney Fantasy</h4>
+					<p>Chart a course for adventure and wonder, where elegance and sophistication mingle with storytelling and whimsy. Sister ship to the <strong>Disney Dream</strong>, the <strong>Disney Fantasy</strong> is a masterpiece of design and engineering boasting Art Nouveau allure alongside modern technological advancements. Set sail for exotic destinations aboard this 130,000-ton marvel while enjoying Disney magic at sea.</p>
+
+					<p>Ships&rsquo; Registry: the Bahamas. Disney artwork, logos, and properties: @Disney</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/ship-01-ship.jpg</tab_src>
+				<tab_caption><![CDATA[The Ships]]></tab_caption>
+				<class><![CDATA[active]]></class>
+			</tab>
+
+			<tab id="02">
+				<id><![CDATA[02]]></id>
+				<title><![CDATA[Accommodations]]></title>
+				<content><![CDATA[
+					<p>Whether it's a cozy retreat or an extravagant suite, staterooms are designed with your family in mind and are equipped with innovations that ensure the ultimate in comfort and relaxation for Guests of all ages. From an imaginative inside retreat to a spacious and abundantly appointed suite, our world-class accommodations let you and your loved ones travel the high seas in high style. Standard amenities include:</p>
+
+					<ul>
+						<li>Split bathrooms (in most staterooms) and privacy curtains that make getting ready easier for everyone</li>
+						<li>In-stateroom, H20 Plus-branded spa, bath and shower toiletries</li>
+						<li>Ample storage space, including room underneath the bed for tucking away luggage</li>
+						<li>A refrigerator</li>
+						<li>A hairdryer</li>
+						<li>Television and in-room movies</li>
+						<li>Attentive housekeeping services twice a day&mdash;including turndown service</li>
+					</ul>
+
+					<p>Four main categories encompass 10 different room types&mdash;or different deck locations within those types.</p>
+
+					<h4>Concierge</h4>
+					<p>Our most luxurious accommodations, each with a large private verandah and premium amenities and services:</p>
+
+					<ul>
+						<li>Concierge Royal Suite with Verandah</li>
+						<li>Concierge 2-Bedroom Suite with Verandah</li>
+						<li>Concierge 1-Bedroom Suite with Verandah</li>
+					</ul>
+
+					<h4>Verandah</h4>
+					<p>Our most spacious non-Concierge staterooms, each with a private verandah, some with partial views:</p>
+
+					<ul>
+						<li>Deluxe Family Oceanview Stateroom with Verandah</li>
+						<li>Deluxe Oceanview Stateroom with Verandah</li>
+						<li>Deluxe Oceanview Stateroom with Navigator&rsquo;s Verandah</li>
+					</ul>
+
+					<h4>Oceanview</h4>
+					<p>Enjoy more space than Standard and scenic vistas through a real porthole window&mdash;or possibly 2!</p>
+
+					<ul>
+						<li>Deluxe Oceanview Stateroom</li>
+					</ul>
+
+					<h4>Inside</h4>
+					Our base accommodations, featuring a classic nautical motif, porthole mirror and no exterior view:
+
+					<ul>
+						<li>Deluxe Inside Stateroom</li>
+						<li>Standard Inside Stateroom</li>
+					</ul>
+
+					<p>A number of staterooms provide extra comfort and convenience to Guests requiring an accessible stateroom. These staterooms include details such as open bed frames, roll-in showers, lowered towel bars and closet bars, and accessible vanities. Visit the above room categories for a complete list of features found in each room type.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/ship-01-accommodations.jpg</tab_src>
+				<tab_caption><![CDATA[Accommodations]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+
+			<tab id="03">
+				<id><![CDATA[03]]></id>
+				<title><![CDATA[Dining]]></title>
+				<content><![CDATA[
+					<p>Savor a wide variety of dining options sure to satisfy even the pickiest of palates, thanks to fresh, expertly prepared dishes available 24 hours a day. Dining options include:</p>
+
+					<ul>
+						<li>Three lavishly themed Main Dining restaurants</li>
+						<li>A charming casual buffet</li>
+						<li>Convenient quick-service dining</li>
+						<li>24-hour room service</li>
+						<li>Complimentary soda, tea and coffee on deck and in the dining rooms</li>
+						<li>All-you-care-to-enjoy soft-serve ice cream</li>
+						<li>Late-night snacks in the adult nightclubs and lounges</li>
+						<li>Kids clubs dining</li>
+					</ul>
+
+					<p>On all four ships you will find <strong>Palo</strong> where you can savor classic Northern Italian cooking with a modern twist at this chic adult-exclusive restaurant&mdash;it&rsquo;s a feast for the senses!&#8232;Named after the signature long poles used by gondoliers in Venice, <strong>Palo</strong> serves Italian fare in an intimate setting amid stunning seaside views.</p>
+
+					<p>Enhance your dining experience for an additional fee with a collection of wines strategically paired with delectable Italian dishes from the <strong>Palo</strong> menu. "Esperienza del Vino" features a selection of 5 recommended <strong>Palo</strong> dishes&mdash;including dessert&mdash;matched with the perfect Italian wines.</p>
+
+					<h4>Remy</h4>
+					<p>On the <strong>Disney Dream</strong> and <strong>Disney Fantasy</strong>, you will find <strong>Remy</strong>. Offering the most luxurious dinner experience on board, <strong>Remy</strong> is an adult-exclusive restaurant serving fine French fare. A French-inspired menu of superior seasonal ingredients ensures dining at <strong>Remy</strong> is always a first-rate gastronomic affair.</p>
+
+					<p>Most people know that <strong>Remy</strong>, one of the two adult-exclusive restaurants on <strong>Disney Cruise Line</strong>, features subtle nods to the Disney&bull;Pixar film &ldquo;Ratatouille&rdquo; and its star, <strong>Remy</strong>. But what they may not know is that the menu in this French-inspired restaurant is curated, in part, by one of the world&rsquo;s 10 best chefs, Chef Arnaud Lallement.</p>
+
+					<p>In a list compiled by &ldquo;Le Chef&rdquo; and voted on by two and three-star Michelin chefs, Chef Arnaud was recently named one of the world&rsquo;s best chefs based upon the values of the cooking profession and the exceptional cuisine featured in their restaurants. In addition to <strong>Remy</strong>, Chef Arnaud is world renowned for his Michelin three-star restaurant, L&rsquo;Assiette Champenoise, just outside Reims, France.</p>
+
+					<p>Chef Arnaud collaborates with Chef Scott Hunnel, from the award-winning Victoria &amp; Albert&rsquo;s at <strong>Walt Disney World&reg;</strong> Resort, to create a menu at <strong>Remy</strong> that features superior products and seasonal ingredients sourced from around the world.</p>
+
+					<p>With gourmet cuisine and a unique approach to wine service, in which your Clients are invited to meet with a sommelier to taste and pre-select their wines for the evening, <strong>Remy</strong> melds classic and contemporary styles into a sophisticated new dining concept. Dinner at <strong>Remy</strong> is a lavish and leisurely affair, starting with a signature chilled Taittinger Champagne cocktail made tableside, followed by eight to nine small courses. The restaurant offers two stellar wine lists: a special French list, with 200 vintages from most every region in France, and <strong>Remy</strong>&rsquo;s Vault, a separate and exclusive wine list with rare wines from all over the world.</p>
+
+					<p>Whether it&rsquo;s a special occasion or you just want to experience a menu curated by one of the world&rsquo;s top 10 chefs, be sure to add <strong>Remy</strong> to your itinerary the next time you&rsquo;re on board the <strong>Disney Fantasy</strong> or <strong>Disney Dream.</strong></p>
+
+					<p>All menu items and prices are subject to change without notice.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/ship-01-dining.jpg</tab_src>
+				<tab_caption><![CDATA[Dining]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+
+			<tab id="04">
+				<id><![CDATA[04]]></id>
+				<title><![CDATA[Activities]]></title>
+				<content><![CDATA[
+					<p>Behold Broadway-caliber musicals and fireworks at sea, celebrate at deck parties and watch new Disney movies in 3D. A wide variety of activities and experiences for the whole family include:</p>
+
+					<ul>
+						<li>Extravagant live shows and entertainment every night of your cruise</li>
+						<li>Unique deck parties starring favorite Disney Characters</li>
+						<li>Immersive kids clubs for every age with specially trained counselors and the longest complimentary hours at sea</li>
+						<li>Adults-only nightclubs and lounges</li>
+						<li>Themed dance parties, trivia, mixers and karaoke</li>
+						<li>Character meet-and-greets at designated onboard destinations</li>
+						<li>Fun-filled activities for every age&mdash;sun-up to well after sundown</li>
+						<li>First-run and classic Disney movies out on deck or in state-of-the-art theater spaces</li>
+						<li>Live music throughout the ship</li>
+					</ul>
+
+					<p>Splash it up in freshwater pools, aqua play areas and waterslides, or stay shipshape while out at sea thanks to onboard recreational centers. Onboard destinations include:<p>
+
+					<ul>
+						<li><em>Mickey&rsquo;s Pool</em> or <em>AquaLab</em>, where kids can soak up some soggy fun&mdash;home to a sparkling pool, a winding waterslide and wading pools</li>
+						<li><em>Goofy&rsquo;s Pool</em> or <em>Donald&rsquo;s Pool</em>, designed for families looking to participate in splash-tastic activities together</li>
+						<li><em>Quiet Cove Pool</em>, for Guests 18 years of age and older in search of a more serene swimming environment</li>
+						<li>Wild water coasters&mdash;<em>AquaDuck</em> or <em>AquaDunk</em>&mdash;that propel thrill seekers on an exhilarating journey through an acrylic tube over the side of the ship to an unforgettable splashdown</li>
+						<li>Fanciful water play areas and splash pads for little ones 3 years of age and under</li>
+						<li><em>Satellite Falls</em>, a relaxing adults-only splash pool with a cascading rain curtain on the <em>Disney Fantasy</em> and <em>Disney Dream</em></li>
+						<li>A fully-equipped fitness center, home to weight machines, cardiovascular equipment and numerous exercise classes</li>
+						<li>An open-air sports deck featuring basketball courts, virtual sports simulators and, on the <em>Disney Dream</em> and <em>Disney Fantasy</em>, miniature golf.</li>
+					</ul>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/ship-01-activities.jpg</tab_src>
+				<tab_caption><![CDATA[Activities]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+
+			<tab id="05">
+				<id><![CDATA[05]]></id>
+				<title><![CDATA[Family]]></title>
+				<content><![CDATA[
+					<p>A Disney cruise brings families together to create long-lasting memories with original, musical live shows, dazzling deck parties, incredible destinations like our private island and so much more.</p>
+
+					<h4>Enchanting Family Entertainment</h4>
+					<p>Behold Broadway-quality live shows, dance beneath fireworks at a Pirate-themed deck party and come face-to-face with popular Disney, Marvel and <em>Star Wars</em> characters.</p>
+
+					<h4>Onboard Accommodations</h4>
+					<p>Looking for a relaxing retreat or an extravagant suite? All staterooms feature innovative comforts and modern amenities for families looking to travel the high seas in high style. Staterooms are designed with your family in mind as privacy curtains, storage space and divided bathrooms with separate sinks in most staterooms make getting ready easier for everyone.</p>
+
+					<h4>Dining for Every Taste</h4>
+					<p>Savor artfully-prepared, gourmet specialties, abundant buffets and quick-service bites inside restaurants peppered with Disney magic&mdash;and delight in the convenience of 24-hour room service. Each onboard restaurant is fantastically themed and features food kids find irresistible, as well as friendly servers who take extra special care of little ones. With our convenient Dine and Play program, kids can enjoy their meals earlier and then be escorted by counselors to youth clubs while adults can continue to enjoy dinner at a leisurely pace. And, in addition to 3 lavishly designed Main Dining restaurants, we also offer charming casual buffets, quick-service eateries and convenient in-room dining.</p>
+
+					<h4>Pools & Waterslides</h4>
+					<p>Splash it up with the entire family in themed pools and at aqua play areas&mdash;and make waves riding twisting waterslides. Children can swim in <em>Mickey's Pool</em> or make a splash in <em>AquaLab</em>, while <strong>AquaDuck</strong> on the Disney Dream and the <strong>Disney Fantasy</strong> propels guests on a thrilling water coaster ride that includes a 4-deck drop.</p>
+
+					<h4>Our Private Island</h4>
+					<p>At Disney <strong>Castaway Cay</strong> exclusive to <strong>Disney Cruise Line</strong> Guests, you&rsquo;re invited to find your place in the sun at our expansive family beach, snorkel in sparkling lagoons, glide down waterslides and feast on a mouthwatering barbeque lunch.</p>
+
+					<h4>Youth Clubs</h4>
+					<p>Children of every age can find something to love at age-appropriate clubs hosted by specially trained Disney counselors. Kids can play alongside some of their favorite Disney, Marvel and <em>Star Wars</em> Characters, while tweens and teens can enjoy a near-endless range of activities, games and surprises designed just for them.</p>
+
+					<h4>Character Experiences</h4>
+					<p>Deck parties, kids clubs and designated autograph sessions are only a few of the opportunities to meet, greet, share hugs and snap pictures of some of your favorite Disney Characters.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/ship-01-family.jpg</tab_src>
+				<tab_caption><![CDATA[Family]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+
+			<tab id="06">
+				<id><![CDATA[06]]></id>
+				<title><![CDATA[Services]]></title>
+				<content><![CDATA[
+					<p>Creating unforgettable vacation experiences for our Guests is the primary motivation of our dedicated <strong>Disney Cruise Line</strong> crew. Year after year, we&rsquo;ve earned recognition as a leader by not only travel professionals and hospitality industry groups, but&mdash;most importantly&mdash;by Guests. Inspired by these achievements, we look forward to providing you with an extraordinary cruise vacation that&rsquo;s a dream come true for the entire family.</p>
+
+					<p><strong>Disney Cruise Line</strong> is proud to have won 3 major awards, naming us the best cruise line.<p>
+
+					<ul>
+						<li><em>Travel &amp; Leisure:</em> World's Best Awards 2019 &ndash; <strong>No. 1 Mega-Ship Ocean Cruise Line</strong></li>
+						<li><em>Newsweek</em> 2020 &ndash; <strong>No.1 in America&rsquo;s Best Companies for Customer Service</strong></li>
+						<li><em>Cond&eacute; Nast Traveler</em> 2019 Reader's Awards &ndash; <strong>#1 Top Large Cruise Line in the World</strong> (our eighth consecutive year winning this award)</li>
+					</ul>
+
+					<p><strong>Disney Cruise Line</strong> has received 4 separate awards recognizing us as the top cruise line for families.</p>
+
+					<ul>
+						<li><em>Cruise Critic Editors&rsquo;</em> Picks Awards 2019 &ndash; Best for Families</li>
+						<li><em>Cruise Critic Cruisers&rsquo;</em> Choice Awards 2019 &ndash; Disney Magic: Best Cruises for Families</li>
+						<li><em>US News &amp; World Report:</em> 2020 Best Cruises Ranking &ndash; Gold Badge Winner &ndash; #1 Best Cruise Lines for Families</li>
+						<li><em>Fodor&rsquo;s</em> Travel Awards 2019 &ndash; The Best Family Cruise</li>
+					</ul>
+
+					<p>Disney Cruise Line has also been honored with 3 coveted awards recognizing us as the top cruise line sailing the Caribbean.</p>
+
+					<ul>
+						<li><em>Cruise Critic Cruisers&rsquo;</em> Choice Destination Awards 2019 &ndash; <strong>Top Cruise Line in the Eastern Caribbean, Bahamas &amp; Bermuda</strong></li>
+						<li><em>Cruise Critic Cruisers&rsquo;</em> Choice Destination Awards 2019 &ndash; <strong>Top Cruise Line in the Western Caribbean &amp; Riviera Maya</strong></li>
+						<li><em>US News &amp; World Report:</em> 2020 Best Cruises Ranking &ndash; Gold Badge Winner &ndash; </strong>#1 Best Cruise Line in the Caribbean</strong></li>
+					<ul>
+
+					<p><strong>Disney Cruise Line</strong> sails to unforgettable destinations around the world, including tropical ports of call like our award-winning Disney Castaway Cay.</p>
+
+					<ul>
+						<li><em>Cruise Critic Cruisers&rsquo;</em> Choice Destination Awards 2019 &ndash; <strong>Top Cruise Line</strong> Private Island (our fourth consecutive year winning this award)</li>
+					</ul>
+
+					<p>Families choosing to sail with us experience a one-of-a-kind vacation that boasts something for everyone. Whether it&rsquo;s imaginatively themed play spaces overflowing with activities for the kids, exciting nightlife and intimate dining for the adults, or Broadway-style live shows and deck parties to bring everyone together at the end of the day, a Disney cruise is designed with your entire family in mind.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/ship-01-services.jpg</tab_src>
+				<tab_caption><![CDATA[Services]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+		</tab_group>
+
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/03/hero/ship-01.jpg</hero_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/ship-01.jpg</article_src>
+
+		<tile_color>005DAB</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	<!-- END: 2003 DCL -->
+</root>
