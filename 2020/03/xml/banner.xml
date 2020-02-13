@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+<!-- BEGIN: 2003 avl -->
+
+<element date="2003" id="banner-2003-avl">
+	<country><![CDATA[ca]]></country>
+	<tactic><![CDATA[banner]]></tactic>
+	<year><![CDATA[20]]></year>
+	<month><![CDATA[03]]></month>
+	<id_live><![CDATA[01]]></id_live>
+
+	<supplier><![CDATA[Avalon Waterways<sup>&reg;</sup>]]></supplier>
+	<directory><![CDATA[avl]]></directory>
+
+	<title><![CDATA[Don&rsquo;t Miss The Boat]]></title>
+	<intro><![CDATA[If you want to see more of the world, look no further than Avalon Waterways. Beyond the wall-to-wall, floor-to-ceiling windows is a world waiting to be discovered with Avalon's unmatched choice of included excursions, FlexDining,&reg; personal service and desirable amenities.]]></intro>
+	<offer><![CDATA[
+		Fly free from select Canadian gateways PLUS save $600 per couple on select 2020 Avalon Waterways Europe river cruises*
+	]]></offer>
+	<content><![CDATA[
+		<p>Who says you can&rsquo;t rise when you like, dine when you want, and explore as you wish? On an Avalon cruise, schedules give way to whims, leaving you the freedom to do exactly as you please, when you please. Plenty of included excursions are on every cruise, from in-depth sightseeing to local discoveries and active pursuits... whatever floats your boat. Sail with Avalon and one thing is certain&mdash;you&rsquo;re free to rock your style your way.</p>
+		<p>Whether you prefer to paddle, pedal, paint, puree or ponder your way through Europe, one thing is for sure. On an Avalon cruise, every day is an adventure and every adventure is up to you. Choose from extraordinary excursions and activities that speak to your passions and pursuits.  An onboard Adventure Center and Host will help bring it all to life. So turn viewing into doing and drift away on your custom adventure with Avalon.</p>
+	]]></content>
+
+	<terms id="banner-2003-avl">
+		<consumer><![CDATA[
+			*Book a select 2020 Avalon Waterways Europe river cruise to receive free round-trip economy class trans-Atlantic air from Calgary, Edmonton, Halifax, Montreal, Ottawa, Quebec City, Regina, Saskatoon, Toronto, Vancouver, Victoria, Winnipeg. Other gateway cities available for $199/person additional (inclusive of taxes/fees). Free air offer is based on lowest-priced economy class Flex airfare available for booking at time of reservation and scheduled to coincide with cruise itinerary; pre-assigned airline seats are limited and may not be available on all air segments. Quotes available through your travel advisor. Limited to new bookings for CANADA originating travellers and economy class Flex air tickets; must be booked &amp; under deposit between February 4 and April 6, 2020 for travel in 2020. A $550 non-refundable deposit is due at time of booking. Offer does not apply to instant purchase air and Groups. Offer is combinable with the Welcome Back Credit (if applicable) and $300pp land promo. Promotional discounts do not carry forward on voluntarily changed air bookings; other promotions at time of change may be available. Once ticketed, air reservations subject to change/cancellation penalties of between $300 per ticket and 100% of ticket value. Changes to ticketed air reservations (including itineraries involving free round-trip trans-Atlantic air) also subject to airfare differentials between originally ticketed air itinerary and re-ticketed air itinerary. Additional airline baggage fees may apply; speak with your travel advisor for details. Air schedules are available approximately 330 days prior to return travel date. Flight schedules, routings and air carriers are at the discretion of Globus family of brands.  Additional restrictions apply; see Travel Terms for details. Air tickets are non-commissionable. Offer may be withdrawn at any time. Consumers may choose to save $2600/couple instead of receiving Free Air offer. Call your travel agent for more information (restrictions apply).
+			<br><br>
+			**Book a select 2020 Avalon Waterways Europe river cruise to receive $300 off per person on the cruise/land or cruise only price. Booking must be made, under deposit, and discount applied between February 4, 2020 &ndash; April 6, 2020 for travel at select times in 2020. Not applicable to custom tours. Not applicable on TBA space. Discount will apply to individual members of groups adding a name and non-refundable per person deposit within the promo window. Offer reliant on space availability at time of booking and may be withdrawn at any time. Combinable with Free Air promotion (PRMYMH) and Welcome Back Credit only. Applies to new 2020 bookings only and offer will not be applied to pre-existing bookings. Full cancellation penalties will apply. Additional restrictions may apply; see Travel Terms &amp; Conditions for details. May be withdrawn at any time.
+		]]></consumer>
+		<agent><![CDATA[]]></agent>
+	</terms>
+
+	<products>
+		<!-- PRODUCT ONE -->
+		<product id="banner-2003-avl">
+			<title><![CDATA[Active &amp; Discovery on the Rhine]]></title>
+			<offer><![CDATA[]]></offer>
+			<description><![CDATA[
+				Explore the Rhine River from a unique perspective on Avalon Active &amp; Discovery river cruise. With Avalon Choice, you&rsquo;ll enjoy a wide variety of included excursions to match your interests and pace. Whether you&rsquo;re a history buff, a foodie, or an art lover, you&rsquo;ll find the inclusions that speak to you!
+			]]></description>
+
+			<cost><![CDATA[4,349]]></cost>
+			<taxes><![CDATA[included]]></taxes>
+			<departing><![CDATA[Jun 16, 2020]]></departing>
+			<duration><![CDATA[8 days]]></duration>
+			<pricing><![CDATA[Price is per person, double occupancy, on the departure date indicated, in cabin category E and includes all taxes and fees and the Avalon $300 per person discount.]]></pricing>
+			<currency><![CDATA[CAD]]></currency>
+
+			<ship><![CDATA[Avalon Expression]]></ship>
+			<category><![CDATA[Category E]]></category>
+			<embarkation><![CDATA[Amsterdam]]></embarkation>
+			<disembarkation><![CDATA[Frankfurt]]></disembarkation>
+
+			<img_hero><![CDATA[prod-avl-01-ca.jpg]]></img_hero>
+
+			<amenities_title><![CDATA[]]></amenities_title>
+			<amenities_desc><![CDATA[]]></amenities_desc>
+			<exclusives_title><![CDATA[]]></exclusives_title>
+			<exclusives_desc><![CDATA[]]></exclusives_desc>
+			<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+			<inclusions_desc><![CDATA[<ul>
+				<li>7-night cruise in an outside stateroom</li>
+				<li>Daily included port excursions</li>
+				<li>All meals included while on ship (including Captain&rsquo;s &amp; farewell dinners), complimentary beer and wine with dinner</li>
+			</ul]]></inclusions_desc>
+
+			<terms><![CDATA[]]></terms>
+			<img_map></img_map>
+		</product>
+
+		<!-- PRODUCT TWO -->
+		<product id="banner-2003-avl">
+			<title><![CDATA[Active &amp; Discovery on the Danube]]></title>
+			<offer><![CDATA[]]></offer>
+			<description><![CDATA[
+				Whether you&rsquo;re an art lover, a foodie, a history buff, or an energetic adventurer, your Active Discovery cruise on the Danube River invites you to experience culture and cuisine in creative ways that are perfect for you. With Avalon Choice, you can select the experiences that are perfect for your interests and pace&mdash;from Active to Discovery to Classic.
+			]]></description>
+
+			<cost><![CDATA[4,401]]></cost>
+			<taxes><![CDATA[included]]></taxes>
+			<departing><![CDATA[Oct 22, 2020]]></departing>
+			<duration><![CDATA[9 days]]></duration>
+			<pricing><![CDATA[Price is per person, double occupancy, on the departure date indicated, in cabin category E and includes all taxes and fees and the Avalon $300 per person discount.]]></pricing>
+			<currency><![CDATA[CAD]]></currency>
+
+			<ship><![CDATA[Avalon Illumination]]></ship>
+			<category><![CDATA[Category E]]></category>
+			<embarkation><![CDATA[Linz]]></embarkation>
+			<disembarkation><![CDATA[Budapest]]></disembarkation>
+
+			<img_hero><![CDATA[prod-avl-02-ca.jpg]]></img_hero>
+
+			<amenities_title><![CDATA[]]></amenities_title>
+			<amenities_desc><![CDATA[]]></amenities_desc>
+			<exclusives_title><![CDATA[]]></exclusives_title>
+			<exclusives_desc><![CDATA[]]></exclusives_desc>
+			<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+			<inclusions_desc><![CDATA[<ul>
+	<li>7-night cruise in an outside stateroom </li>
+	<li>1 night in a deluxe hotel in Budapest</li>
+	<li>Daily included port excursions</li>
+	<li>All meals included while on ship (including Captain&rsquo;s &amp; farewell dinners), complimentary beer and wine with dinner</li>
+</ul>]]></inclusions_desc>
+
+			<terms><![CDATA[]]></terms>
+			<img_map></img_map>
+		</product>
+
+		<!-- PRODUCT THREE -->
+		<product id="banner-2003-avl">
+			<title><![CDATA[Central European Experience]]></title>
+			<offer><![CDATA[]]></offer>
+			<description><![CDATA[
+				This river cruise through central Europe will take you from Remich to Nuremberg on the Moselle, Rhine, and Main Rivers.
+			]]></description>
+
+			<cost><![CDATA[4,227]]></cost>
+			<taxes><![CDATA[included]]></taxes>
+			<departing><![CDATA[Oct 14, 2020]]></departing>
+			<duration><![CDATA[8 days]]></duration>
+			<pricing><![CDATA[Price is per person, double occupancy, on the departure date indicated, in cabin category E and includes all taxes and fees and the Avalon $300 per person discount.]]></pricing>
+			<currency><![CDATA[CAD]]></currency>
+
+			<ship><![CDATA[Avalon Imagery II]]></ship>
+			<category><![CDATA[Category E]]></category>
+			<embarkation><![CDATA[Remich]]></embarkation>
+			<disembarkation><![CDATA[Nuremberg]]></disembarkation>
+
+			<img_hero><![CDATA[prod-avl-03-ca.jpg]]></img_hero>
+
+			<amenities_title><![CDATA[]]></amenities_title>
+			<amenities_desc><![CDATA[]]></amenities_desc>
+			<exclusives_title><![CDATA[]]></exclusives_title>
+			<exclusives_desc><![CDATA[]]></exclusives_desc>
+			<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+			<inclusions_desc><![CDATA[<ul>
+				<li>7-night cruise in an outside stateroom</li>
+				<li>Daily included port excursions</li>
+				<li>All meals included while on ship (including Captain&rsquo;s &amp; farewell dinners), complimentary beer and wine with dinner</li>
+			</ul>]]></inclusions_desc>
+
+			<terms><![CDATA[]]></terms>
+			<img_map></img_map>
+		</product>
+	</products>
+
+	<brandcolor>1F4679</brandcolor>
+	<iframe_height></iframe_height>
+	<id_ezine><![CDATA[banner-01]]></id_ezine>
+	<file><![CDATA[]]></file>
+</element>
+
+<!-- END: 2003 avl -->
+
+<!-- BEGIN: 2003 hal -->
+
+<element date="2003" id="banner-2003-hal">
+	<country><![CDATA[ca]]></country>
+	<tactic><![CDATA[banner]]></tactic>
+	<year><![CDATA[20]]></year>
+	<month><![CDATA[03]]></month>
+	<id_live><![CDATA[02]]></id_live>
+
+	<supplier><![CDATA[Holland America Line<sup>&reg;</sup>]]></supplier>
+	<directory><![CDATA[hal]]></directory>
+
+	<title><![CDATA[Savor the Journey with Holland America Line]]></title>
+	<intro><![CDATA[Encounter fascinating peoples, places and cultures the world over on a classic-style cruise.]]></intro>
+	<offer><![CDATA[
+		For a limited-time, book select sailings and receive exclusive amenities PLUS onboard spending money and more!
+	]]></offer>
+	<content><![CDATA[
+		<p>Renowned for its timeless style, exquisite appointments and superb service, Holland America Line is the premium cruise line for explorers, foodies and music lovers who want to pursue these passions on perfectly sized, refreshingly uncrowded ships with service that attends to every detail, every day.</p>
+	]]></content>
+
+	<terms id="banner-2003-hal">
+		<consumer><![CDATA[
+			* Fares are based on Promo LG. Featured fares are per person based on double occupancy, cruise or Land+Sea Journeys only. Fares are in Canadian dollars. All savings amounts are included in the fares shown. Taxes, Fees &amp; Port Expenses are included and range from CAD $425 to CAD $579. Subject to availability. For more information about stateroom categories and suite descriptions, and to view deck plans and for full terms and conditions applicable to your cruise, please refer to your travel advisor. Offers have limited space and may be modified or withdrawn without prior notice. Other restrictions may apply. Ships' Registry: The Netherlands.
+		]]></consumer>
+
+		<agent><![CDATA[]]></agent>
+	</terms>
+
+	<products>
+		<!-- PRODUCT ONE -->
+		<product id="banner-2003-hal">
+			<title><![CDATA[19-Day Inca Discovery]]></title>
+			<offer><![CDATA[<strong>Our Agency Exclusive:</strong> US$75 onboard spending money per stateroom.]]></offer>
+			<description><![CDATA[
+				Departing Los Angeles, stop in Manzanillo, Mexico, a sports fisherman&rsquo;s mecca. Visit Nicaragua&rsquo;s Spanish architectural gems. Retrace Darwin&rsquo;s steps on a day trip to the Galapagos.
+			]]></description>
+
+			<cost><![CDATA[3,479]]></cost>
+			<taxes><![CDATA[included]]></taxes>
+			<departing><![CDATA[Oct 11, 2020]]></departing>
+			<duration><![CDATA[19 days]]></duration>
+			<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+			<currency><![CDATA[CAD]]></currency>
+
+			<ship><![CDATA[Westerdam]]></ship>
+			<category><![CDATA[Category F, Ocean view]]></category>
+			<embarkation><![CDATA[Los Angeles]]></embarkation>
+			<disembarkation><![CDATA[Santiago]]></disembarkation>
+
+			<img_hero><![CDATA[prod-hal-01-ca.jpg]]></img_hero>
+
+			<amenities_title><![CDATA[]]></amenities_title>
+			<amenities_desc><![CDATA[]]></amenities_desc>
+			<exclusives_title><![CDATA[]]></exclusives_title>
+			<exclusives_desc><![CDATA[]]></exclusives_desc>
+			<inclusions_title><![CDATA[]]></inclusions_title>
+			<inclusions_desc><![CDATA[]]></inclusions_desc>
+
+			<terms><![CDATA[]]></terms>
+			<img_map></img_map>
+		</product>
+
+		<!-- PRODUCT TWO -->
+		<product id="banner-2003-hal">
+			<title><![CDATA[14-Day Northern Isles]]></title>
+			<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Up to US$50 onboard spending money per stateroom and one plate of chocolate dipped strawberries.]]></offer>
+			<description><![CDATA[
+				Depart Amsterdam and head to historic Scotland for an overnight in Edinburgh where you can attend the renowned Military Tattoo.
+			]]></description>
+
+			<cost><![CDATA[4,329]]></cost>
+			<taxes><![CDATA[included]]></taxes>
+			<departing><![CDATA[Aug 22, 2020]]></departing>
+			<duration><![CDATA[14 days]]></duration>
+			<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+			<currency><![CDATA[CAD]]></currency>
+
+			<ship><![CDATA[Rotterdam]]></ship>
+			<category><![CDATA[Category FF, Ocean View]]></category>
+			<embarkation><![CDATA[Roundtrip]]></embarkation>
+			<disembarkation><![CDATA[Rotterdam
+	]]></disembarkation>
+
+			<img_hero><![CDATA[prod-hal-02-ca.jpg]]></img_hero>
+
+			<amenities_title><![CDATA[]]></amenities_title>
+			<amenities_desc><![CDATA[]]></amenities_desc>
+			<exclusives_title><![CDATA[]]></exclusives_title>
+			<exclusives_desc><![CDATA[]]></exclusives_desc>
+			<inclusions_title><![CDATA[]]></inclusions_title>
+			<inclusions_desc><![CDATA[]]></inclusions_desc>
+
+			<terms><![CDATA[]]></terms>
+			<img_map></img_map>
+		</product>
+
+		<!-- PRODUCT THREE -->
+		<product id="banner-2003-hal">
+			<title><![CDATA[14-Day Great Alaskan Explorer]]></title>
+			<offer><![CDATA[<strong>Our Agency Exclusive:</strong> US$75 onboard spending money per stateroom]]></offer>
+			<description><![CDATA[
+				<em>Maasdam</em> showcases the world and being the only Holland America Line ship outfitted with inflatabl Zodiacs, on select port calls you can explore further than ever.
+			]]></description>
+
+			<cost><![CDATA[3,179]]></cost>
+			<taxes><![CDATA[included]]></taxes>
+			<departing><![CDATA[Sep 7, 2020]]></departing>
+			<duration><![CDATA[14 days]]></duration>
+			<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+			<currency><![CDATA[CAD]]></currency>
+
+			<ship><![CDATA[Maasdam]]></ship>
+			<category><![CDATA[Category F, Ocean view]]></category>
+			<embarkation><![CDATA[Roundtrip]]></embarkation>
+			<disembarkation><![CDATA[Vancouver]]></disembarkation>
+
+			<img_hero><![CDATA[prod-hal-03-ca.jpg]]></img_hero>
+
+			<amenities_title><![CDATA[]]></amenities_title>
+			<amenities_desc><![CDATA[]]></amenities_desc>
+			<exclusives_title><![CDATA[]]></exclusives_title>
+			<exclusives_desc><![CDATA[]]></exclusives_desc>
+			<inclusions_title><![CDATA[]]></inclusions_title>
+			<inclusions_desc><![CDATA[]]></inclusions_desc>
+
+			<terms><![CDATA[]]></terms>
+			<img_map></img_map>
+		</product>
+	</products>
+
+	<brandcolor>29417D</brandcolor>
+	<iframe_height></iframe_height>
+	<id_ezine><![CDATA[banner-02]]></id_ezine>
+	<file><![CDATA[]]></file>
+</element>
+<!-- END: 2003 hal -->
+
+<!-- BEGIN: 2003 win -->
+
+<element date="2003" id="banner-2003-win">
+	<country><![CDATA[ca]]></country>
+	<tactic><![CDATA[banner]]></tactic>
+	<year><![CDATA[20]]></year>
+	<month><![CDATA[03]]></month>
+	<id_live><![CDATA[03]]></id_live>
+
+	<supplier><![CDATA[Windstar<sup>&reg;<>/sup> Cruises]]></supplier>
+	<directory><![CDATA[win]]></directory>
+
+	<title><![CDATA[Take Everything You Know About Cruises and Throw It Out The Porthole.]]></title>
+	<intro><![CDATA[Experience a cruise that&rsquo;s 180 degrees from ordinary, on a journey that&rsquo;s as adventurous as it is inspiring. It&rsquo;s things done a little differently you won&rsquo;t find anywhere else at sea.]]></intro>
+	<offer><![CDATA[
+		Earn up to $200 Shipboard Credit per Stateroom or Suite
+	]]></offer>
+	<content><![CDATA[
+		<p>Banish clich&eacute;, toss aside regimen, steer clear of the ordinary. Windstar&rsquo;s perfectly sized ships make it possible to flip the script on cruising. Free yourself from crowds and indulge all your senses, especially your sense of wonder. Experience cultures in ways that are personal and authentic, with the power to change your perspective. With 148&ndash;350 guests, a Windstar ship is large enough to pamper, yet small enough to explore secluded coves and remote islands, and dock in the heart of charming villages and sparkling cities.</p>
+
+		<ul><strong>What Makes Windstar 180 Degrees from Ordinary?</strong>
+			<li>Leave the crowds and clich&eacute;s behind on small, elegant ships that carry fewer than 350 travelers.</li>
+			<li>Windstar&rsquo;s personalized and immersive approach brings you closer to each destination and every port.</li>
+			<li>An intimate and welcoming ambiance makes it easy to connect with fellow travelers and crew.</li>
+			<li>Taste the essence of local cultures with the Official Cruise Line of the James Beard Foundation.</li>
+			<li>Enjoy unfailingly attentive service with a guest to crew ratio of 1.5 to 1.</li>
+		</ul>
+	]]></content>
+
+	<terms id="banner-2003-win">
+		<consumer><![CDATA[
+			All fares mentioned are per person, in US dollars; cruise only, based on double occupancy in lowest category, and include non-discountable amounts. Suggested onboard gratuities are extra. Taxes, Fees &amp; Port Expenses are additional. Unless otherwise specified, Windstar is offering on select cruises a shipboard credit (SBC) in the amount of $100 per person, subject to a maximum of $200 per stateroom or suite. Single fares will earn a $100 SBC. Consult your travel advisor for promotional offer or discount combinability. Bookings are non-transferable; no name changes can be made nor can this offer be applied retroactively. Cancellation fees may apply, please see website for details. Certain restrictions apply. Fuel surcharges may be imposed or increased over time. Information contained herein is accurate at the time of publication and subject to change without notice. All terms and conditions apply. Cruise is provided subject to the terms and conditions of the Passage Contract. Offer expires on April 30, 2020. Ships' registry: Bahamas.
+		]]></consumer>
+
+		<agent><![CDATA[
+			We have a bonus commission opportunity going on through the end of March: <a href="https://advisorhub.windstarcruises.com/bonus-commission" target="_blank">https://advisorhub.windstarcruises.com/bonus-commission</a>
+		]]></agent>
+	</terms>
+
+	<products>
+		<!-- PRODUCT ONE -->
+		<product id="banner-2003-win">
+			<title><![CDATA[Classic Italy &amp; Dalmatian Coast]]></title>
+			<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Up to $200 Shipboard Credit per stateroom or suite.]]></offer>
+			<description><![CDATA[
+				Explore the shores of Italy, Croatia and Montenegro, discovering the charm of Venice, the magnificence of Rome, and the vast beauty of the Dalmatian Coast.
+			]]></description>
+
+			<cost><![CDATA[4,199]]></cost>
+			<taxes><![CDATA[162]]></taxes>
+			<departing><![CDATA[select dates from May 11 to Oct 17, 2020]]></departing>
+			<duration><![CDATA[8 or 9 days]]></duration>
+			<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+			<currency><![CDATA[USD]]></currency>
+
+			<ship><![CDATA[Wind Surf]]></ship>
+			<category><![CDATA[Ocean View stateroom]]></category>
+			<embarkation><![CDATA[Venice]]></embarkation>
+			<disembarkation><![CDATA[Rome (or Reverse)]]></disembarkation>
+
+			<img_hero><![CDATA[prod-win-01-ca.jpg]]></img_hero>
+
+			<amenities_title><![CDATA[]]></amenities_title>
+			<amenities_desc><![CDATA[]]></amenities_desc>
+			<exclusives_title><![CDATA[]]></exclusives_title>
+			<exclusives_desc><![CDATA[]]></exclusives_desc>
+			<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+			<inclusions_desc><![CDATA[<ul>
+				<li>Visit the Archaeological Museum in Split, the oldest in Croatia</li>
+				<li>Tour the Old City and medieval walls in Dubrovnik, fascinating UNESCO sites</li>
+				<li>Stroll the charming ancient cobblestone streets of Taormina, past Palazzo Corvaja, St. Augustine's Church and Torre dell'Orologio Clock Tower</li>
+			</ul>]]></inclusions_desc>
+
+			<terms><![CDATA[]]></terms>
+			<img_map></img_map>
+		</product>
+
+		<!-- PRODUCT TWO -->
+		<product id="banner-2003-win">
+			<title><![CDATA[Norwegian Fjord Spectacular]]></title>
+			<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Up to $200 Shipboard Credit per stateroom or suite.]]></offer>
+			<description><![CDATA[
+				This 10-day cruise combines the cultural intimacy exclusive to small port excursions with the rugged beauty of the fjords and glaciers of Norway. It&rsquo;s a journey of contrasts where futuristic innovations intermingle with artifacts and monuments from an ancient past.
+			]]></description>
+
+			<cost><![CDATA[2,999]]></cost>
+			<taxes><![CDATA[355]]></taxes>
+			<departing><![CDATA[Jul 30, 2020]]></departing>
+			<duration><![CDATA[10 days]]></duration>
+			<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+			<currency><![CDATA[USD]]></currency>
+
+			<ship><![CDATA[Wind Surf]]></ship>
+			<category><![CDATA[Ocean View stateroom]]></category>
+			<embarkation><![CDATA[Copenhagen]]></embarkation>
+			<disembarkation><![CDATA[Edinburgh]]></disembarkation>
+
+			<img_hero><![CDATA[prod-win-02-ca.jpg]]></img_hero>
+
+			<amenities_title><![CDATA[]]></amenities_title>
+			<amenities_desc><![CDATA[]></amenities_desc>
+			<exclusives_title><![CDATA[]]></exclusives_title>
+			<exclusives_desc><![CDATA[]]></exclusives_desc>
+			<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+			<inclusions_desc><![CDATA[<ul>
+				<li>See a range of extreme landscapes and amazing fjords like Lysefjord and Hardangarfjord</li>
+				<li>Visit the Birksdal Glacier in Olden</li>
+				<li>Find Bryggen, the colorful UNESCO site in Bergen, known at the gateway to the fjords</li>
+			</ul>]]></inclusions_desc>
+
+			<terms><![CDATA[]]></terms>
+			<img_map></img_map>
+		</product>
+
+		<!-- PRODUCT THREE -->
+		<product id="banner-2003-win">
+			<title><![CDATA[Ancient Wonders of Greece &amp; Ephesus]]></title>
+			<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Up to $200 Shipboard Credit per stateroom or suite.]]></offer>
+			<description><![CDATA[
+				Enjoy a cruise worthy of Greek gods as you visit the land of myth and legend on your own white chariot.
+			]]></description>
+
+			<cost><![CDATA[5,999]]></cost>
+			<taxes><![CDATA[170]]></taxes>
+			<departing><![CDATA[Sep 20, 2020 or Oct 07, 2020]]></departing>
+			<duration><![CDATA[10 days]]></duration>
+			<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+			<currency><![CDATA[USD]]></currency>
+
+			<ship><![CDATA[Star Legend]]></ship>
+			<category><![CDATA[Ocean View, Suite]]></category>
+			<embarkation><![CDATA[Roundtrip]]></embarkation>
+			<disembarkation><![CDATA[Athens]]></disembarkation>
+
+			<img_hero><![CDATA[prod-win-03-ca.jpg]]></img_hero>
+
+			<amenities_title><![CDATA[]]></amenities_title>
+			<amenities_desc><![CDATA[]></amenities_desc>
+			<exclusives_title><![CDATA[]]></exclusives_title>
+			<exclusives_desc><![CDATA[]]></exclusives_desc>
+			<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+			<inclusions_desc><![CDATA[<ul>
+				<li>Tour the Parthenon and the Acropolis in Athens, which are must-sees</li>
+				<li>Take advantage of late nights in Crete and Rhodes for an even better sense of the local flavor</li>
+				<li>Find the history surrounding you with at least 9 UNESCO World Heritage Sites in this region</li>
+			</ul>]]></inclusions_desc>
+
+			<terms><![CDATA[]]></terms>
+			<img_map></img_map>
+		</product>
+	</products>
+
+	<brandcolor>1D355E</brandcolor>
+	<iframe_height></iframe_height>
+	<id_ezine><![CDATA[banner-03]]></id_ezine>
+	<file><![CDATA[]]></file>
+</element>
+<!-- END: 2003 win -->
+
+</root>
