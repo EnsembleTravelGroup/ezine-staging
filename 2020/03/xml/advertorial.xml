@@ -52,24 +52,23 @@
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/03/hero/advertorial-01.jpg</hero_src>
 		<hero_caption><![CDATA[Fill Your Heart with &ldquo;Ama&rdquo;!]]></hero_caption>
 		<hero_credit><![CDATA[AmaWaterways]]></hero_credit>
-		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-01.jpg
-		</article_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-01.jpg</article_src>
 		<article_caption><![CDATA[Fill Your Heart with &ldquo;Ama&rdquo;!]]></article_caption>
 		<article_credit><![CDATA[AmaWaterways]]></article_credit>
 
 		<tile_color>A8CB17</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
-		
+
 		<tags>
 			<tag slug="xxx"><![CDATA[xxx]]></tag>
 			<tag slug="xxx"><![CDATA[xxx]]></tag>
 			<tag slug="xxx"><![CDATA[xxx]]></tag>
 			<tag slug="xxx"><![CDATA[xxx]]></tag>
 		</tags>
-		
+
 	</article>
-	
+
 <!-- END: 2003 ama -->
 
 <!-- BEGIN: 2003 tfg -->
@@ -138,15 +137,14 @@
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/03/hero/advertorial-02.jpg</hero_src>
 		<hero_caption><![CDATA[France: A Timeless Destination That Will Never Go Out Of Style]]></hero_caption>
 		<hero_credit><![CDATA[Trafalgar]]></hero_credit>
-		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-02.jpg
-		</article_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-02.jpg</article_src>
 		<article_caption><![CDATA[France: A Timeless Destination That Will Never Go Out Of Style]]></article_caption>
 		<article_credit><![CDATA[Trafalgar]]></article_credit>
 
 		<tile_color>A8CB17</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
-		
+
 		<tags>
 			<tag slug="xxx"><![CDATA[xxx]]></tag>
 			<tag slug="xxx"><![CDATA[xxx]]></tag>
@@ -155,7 +153,7 @@
 		</tags>
 
 	</article>
-	
+
 <!-- END: 2003 tfg -->
 
 <!-- BEGIN: 2003 hwi -->
@@ -185,7 +183,7 @@
 					&ldquo;Rejuvenating&rdquo; is a word often used to describe Kauai and its immersive natural beauty. The raw energy of the soaring cliffs along the emerald Napali Coast. The expansive vistas of the Waimea Canyon. And the soothing ripples of the Wailua River winding through forest. The northernmost and greenest of the Hawaiian Islands is a place to put down your phone and forget about your worries. Breathe deep. Unwind. And rediscover a special connection to nature on this beautiful, tropical island.
 				</figcaption>
 			</figure>
-			
+
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-03-02.jpg">
 				<figcaption>
@@ -193,7 +191,7 @@
 					This is where culture meets creativity. In the lively center of the Hawaiian Islands, luxury and leisure, excitement and adventure can all be found in just the right proportion to suit you. Oahu is famous for iconic Waikiki Beach, Pearl Harbor and the surfing mecca on the North Shore, but there&rsquo;s much more to this storied destination. From festivals that celebrate Hawaiian culture to major events at the pinnacle of sports and entertainment, there&rsquo;s always something to do. Even disappear, into the lush tropical beauty that abounds from mountain to ocean. Discover the next food trend before it goes global, from the up-and-coming chefs and mixologists staking Oahu&rsquo;s claim as a culinary capital. And schedule some free time on your itinerary, when you can go with the flow and soak in the buzz and energy of Oahu.
 				</figcaption>
 			</figure>
-			
+
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-03-03.jpg">
 				<figcaption>
@@ -201,7 +199,7 @@
 					Maui is where larger-than-life experiences meet small town charm. This is the best of both worlds, offering a unique blend of sophistication and simplicity.&nbsp;Taste the fresh bounty produced year-round by the farms and lush gardens surrounding the quaint communities of Upcountry Maui. Wind down your day at the exclusive Haleakala National Park to witness an epic sunset&nbsp;from the top of the world. Or simply lounge poolside at a luxurious resort, from Kapalua to Wailea. From friendly folks to picturesque landscapes, there&rsquo;s no end to the unique welcome you&rsquo;ll find on Maui.
 				</figcaption>
 			</figure>
-			
+
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-03-04.jpg">
 				<figcaption>
@@ -216,8 +214,7 @@
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/03/hero/advertorial-03.jpg</hero_src>
 		<hero_caption><![CDATA[The Hawaiian Islands]]></hero_caption>
 		<hero_credit><![CDATA[The Hawaiian Islands]]></hero_credit>
-		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-03.jpg
-		</article_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-03.jpg</article_src>
 		<article_caption><![CDATA[The Hawaiian Islands]]></article_caption>
 		<article_credit><![CDATA[The Hawaiian Islands]]></article_credit>
 
@@ -262,7 +259,7 @@
 					What&rsquo;s cooler than zipping around glittering icebergs or zooming past a raft of sea otters in a Zodiac? Taking the reins and steering the craft yourself! With help from a naturalist, kids will learn how to cruise through the water like a master navigator. When the lesson&rsquo;s complete they&rsquo;ll take home their official driver&rsquo;s license&mdash;now that&rsquo;s something they&rsquo;ll want to show and tell!
 				</figcaption>
 			</figure>
-			
+
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-04-02.jpg">
 				<figcaption>
@@ -270,7 +267,7 @@
 					Kids can work with a Lindblad-National Geographic certified photo instructor to experiment with time-lapse, slo-mo, and other cool video features on their smartphone as they head out into the field. Will they focus on soaring bald eagles with a six-foot wingspan or capture the thunderous spectacle of a calving glacier? Get a close-up of a giant bear track on the trail or pan across a river teeming with salmon? Using their observation skills and imagination they&rsquo;ll learn to tell a unique story of the wild wonders around them.
 				</figcaption>
 			</figure>
-			
+
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-04-03.jpg">
 				<figcaption>
@@ -278,7 +275,7 @@
 					Every kid receives an exclusively developed and designed Field Notebook to record their daily observations. They&rsquo;ll keep track of wildlife sightings, from breaching humpback whales to boisterous Stellar sea lions; and jot down stories, notes, and sketches as things inspire them on a hike, a kayak, or while observing from the ship&rsquo;s bow. Different activities earn them &ldquo;points&rdquo; all on their way to becoming a National Geographic Global Explorer.
 				</figcaption>
 			</figure>
-			
+
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-04-04.jpg">
 				<figcaption>
@@ -286,7 +283,7 @@
 					Plankton are a key source of food for whales, fish, and other large marine life who make their home in Alaska. Kids can head out in a Zodiac and help drop a special plankton net into the sea to gather up some specimens. Back on-board ship they&rsquo;ll examine their catch under a microscope and discover what makes these very important, free-floating organisms tick.
 				</figcaption>
 			</figure>
-			
+
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-04-05.jpg">
 				<figcaption>
@@ -294,7 +291,7 @@
 					Glaciers form in places like Alaska and Antarctica where more snow falls each winter than melts each summer. These enormous rivers of ice can be tricky to understand but kids will discover how they work in the most delicious way possible&mdash;by making ice cream sundaes!
 				</figcaption>
 			</figure>
-			
+
 			<p>Ready to plan the perfect Alaska adventure for the whole family? Contact your Travel Advisor and ask about Lindblad Expeditions and the National Geographic Global Explorers Program.</p>
 		]]></body>
 
@@ -303,8 +300,7 @@
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/03/hero/advertorial-04.jpg</hero_src>
 		<hero_caption><![CDATA[5 Awesome Alaska Activities for Kids &amp; Teens]]></hero_caption>
 		<hero_credit><![CDATA[Lindblad Expeditions]]></hero_credit>
-		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-04.jpg
-		</article_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-04.jpg</article_src>
 		<article_caption><![CDATA[5 Awesome Alaska Activities for Kids &amp; Teens]]></article_caption>
 		<article_credit><![CDATA[Lindblad Expeditions]]></article_credit>
 
@@ -377,7 +373,7 @@
 					<strong>Secrets Vallarta Bay Puerto Vallarta</strong> &ndash; The oceanfront resort is an all-adult, all-suites showcase just steps away from the art galleries, shopping and night life of &ldquo;El Malec&oacute;n,&rdquo; the area&rsquo;s famous boardwalk, and just 5 minutes from the scenic colonial city of Puerto Vallarta.
 				</figcaption>
 			</figure>
-			
+
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-05-##.jpg">
 				<figcaption>
@@ -387,7 +383,7 @@
 					<strong>Secrets Royal Beach Punta Cana</strong> &ndash; This all-adult, all-suite sanctuary is exactly what you&rsquo;ve been fantasizing about. A spectacular meandering pool winds its way through manicured gardens towards 700 yards of sugar white beach.
 				</figcaption>
 			</figure>
-			
+
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-05-03.jpg">
 				<figcaption>
@@ -397,7 +393,7 @@
 					<strong>Secrets Wild Orchid Montego Bay</strong> &ndash; One of two worlds that combine to create Secrets Montego Bay. Its contemporary design reflects the magic of the surrounding islands. You will also enjoy full access to its elegantly traditional &ldquo;other half&rdquo;.
 				</figcaption>
 			</figure>
-			
+
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-05-04.jpg">
 				<figcaption>
@@ -405,7 +401,7 @@
 					<strong>Secrets St. Martin Resort &amp; Spa</strong> &ndash; The modern design of the resort takes its inspiration from the island&rsquo;s radiant surroundings, steeped in Caribbean-European and French roots.
 				</figcaption>
 			</figure>
-			
+
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-05-05.jpg">
 				<figcaption>
@@ -413,7 +409,7 @@
 					<strong>Secrets Papagayo Costa Rica</strong> &ndash; Set on Papagayo Bay along the Pacific coast of Costa Rica, this resort sits on a black, volcanic sand beach, which when coupled with lush, mountainous surroundings provides a stunning backdrop for an intimate, relaxing and romantic getaway
 				</figcaption>
 			</figure>
-			
+
 			</p>ALL-ADULTS UNLIMITED-LUXURY<sup>&reg;</sup> HAVE IT ALL &mdash; ALL THE TIME.<p>
 		]]></body>
 
@@ -422,8 +418,7 @@
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/03/hero/advertorial-05.jpg</hero_src>
 		<hero_caption><![CDATA[Unlimited-Luxury<sup>&reg;</sup> for All-Adult Romance]]></hero_caption>
 		<hero_credit><![CDATA[Travel Impressions]]></hero_credit>
-		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-05.jpg
-		</article_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-05.jpg</article_src>
 		<article_caption><![CDATA[Unlimited-Luxury<sup>&reg;</sup> for All-Adult Romance]]></article_caption>
 		<article_credit><![CDATA[Travel Impressions]]></article_credit>
 
