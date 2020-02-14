@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+<!-- BEGIN: 2003 win -->
+
+	<article date="2003" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[March 2020]]></pub_date> <!-- March = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[03]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+
+		<author><![CDATA[Windstar]]></author>
+		<id_supplier><![CDATA[win]]></id_supplier>
+
+		<title><![CDATA[Windstar Cruises Signature Deck BBQ]]></title>
+		<teaser><![CDATA[Windstar]]></teaser>
+		<lead><![CDATA[
+			One of the highlights of a Windstar&rsquo;s cruise is the spectacular onboard barbecue. The attentive crew will serve an amazing meal of fresh local ingredients accompanied by entertainment under the stars.
+		]]></lead>
+		<body><![CDATA[
+		]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/LbtBWjAf9ls?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	
+<!-- END: 2003 win -->
+
+<!-- BEGIN: 2003 PRI -->
+	<article date="2003" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[March 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[03]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+
+		<author><![CDATA[Princess]]></author>
+		<id_supplier><![CDATA[pri]]></id_supplier>
+
+		<title><![CDATA[Explore the world together with Princess Cruises and an exclusive offer from your Travel Advisor.]]></title>
+		<teaser><![CDATA[Princess]]></teaser>
+		<lead><![CDATA[
+			No matter where you sail or in what stateroom, you can get all this included plus up to $85 onboard credit per stateroom on select voyages and $100 per person cruisetour cash on select cruisetours in Alaska compliments of your Travel Advisor.
+		]]></lead>
+		<body><![CDATA[
+			<p>Premier Beverage Package with tips: Enjoy everything from cocktails, beer and wine to specialty coffees, smoothies and bottled water.</p>
+
+			<p>Unlimited Wi-Fi: Video chat and text with family back home, stream your favorite shows and check email (but only if you want to).</p>
+
+			<p>Full gratuities paid to our crew on your behalf: Don&rsquo;t worry &ndash; we make sure the crew who takes care of you is taken care of too.</p>
+		]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/xASpArOiv6M?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+<!-- END: 2003 PRI -->
+
+</root>

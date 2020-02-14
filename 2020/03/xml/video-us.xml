@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<!-- BEGIN: 2003 AVL -->
+	<article date="2003" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[March 2020]]></pub_date>
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[03]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+
+		<author><![CDATA[Avalon]]></author>
+		<id_supplier><![CDATA[avl]]></id_supplier>
+
+		<title><![CDATA[Avalon Waterways &ndash; River Cruising Views]]></title>
+		<teaser><![CDATA[Avalon]]></teaser>
+		<lead><![CDATA[Avalon invites travelers to experience the views they deserve when sailing the world&rsquo;s rivers. Unlike other cruise ships, Avalon has designed its staterooms so beds face the window and the incredible sights river cruising is famous for. And in focusing on both space and views, Avalon did something else that&rsquo;s totally unique. Instead of offering travelers a small balcony, the Open-Air Balconies<sup>SM</sup>, in every Panorama Suite<sup>SM</sup>, make full use of the intended balcony experience &ndash; in any weather condition, in any season &ndash; without compromising room space. Avalon is the only river cruise company that&rsquo;s figured out how to give its cruisers everything they want &ndash; more space, indoor/outdoor living and huge views for miles.]]></lead>
+		<body><![CDATA[
+		]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/23rTfRLs7rg?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+<!-- END: 2003 AVL -->
+
+<!-- BEGIN: 2003 PRI -->
+	<article date="2003" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[March 2020]]></pub_date>
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[03]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+
+		<author><![CDATA[Princess]]></author>
+		<id_supplier><![CDATA[pri]]></id_supplier>
+
+		<title><![CDATA[Explore the world together with Princess Cruises and an exclusive offer from your Travel Advisor.]]></title>
+		<teaser><![CDATA[Princess]]></teaser>
+		<lead><![CDATA[]]></lead>
+		<body><![CDATA[
+			<p>No matter where you sail or in what stateroom, you can get all this included plus up to $85 onboard credit per stateroom on select voyages and $100 per person cruisetour cash on select cruisetours in Alaska compliments of your Travel Advisor.</p>
+
+			<p>Premier Beverage Package with tips: Enjoy everything from cocktails, beer and wine to specialty coffees, smoothies and bottled water.</p>
+
+			<p>Unlimited Wi-Fi: Video chat and text with family back home, stream your favorite shows and check email (but only if you want to).</p>
+
+			<p>Full gratuities paid to our crew on your behalf: Don&rsquo;t worry &ndash; we make sure the crew who takes care of you is taken care of too.</p>
+		]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/xASpArOiv6M?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+<!-- END: 2003 PRI -->
+
+<!-- BEGIN: 2003 YAL -->
+	<article date="2003" id="03">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[March 2020]]></pub_date>
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[03]]></dir_month>
+		<file_video><![CDATA[03]]></file_video>
+
+		<author><![CDATA[Ya'lla]]></author>
+		<id_supplier><![CDATA[yal]]></id_supplier>
+
+		<title><![CDATA[See the World at the Expo Dubai World Fair!]]></title>
+		<teaser><![CDATA[Ya'lla]]></teaser>
+		<lead><![CDATA[
+			An enticing preview of sights and experiences coming to the World Fair in Dubai October 20, 2020-April 10, 2021
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/kR2e06YK2V0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+<!-- END: 2003 YAL -->
+</root>
+
+</root>
