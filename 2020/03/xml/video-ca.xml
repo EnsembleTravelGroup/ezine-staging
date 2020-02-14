@@ -1,38 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
-<!-- BEGIN: 2003 win -->
-
-	<article date="2003" id="01">
-		<dir_name><![CDATA[video]]></dir_name>
-		<pub_date><![CDATA[March 2020]]></pub_date> <!-- March = Full month name (ie. January) -->
-		<dir_year><![CDATA[20]]></dir_year>
-		<dir_month><![CDATA[03]]></dir_month>
-		<file_video><![CDATA[01]]></file_video>
-
-		<author><![CDATA[Windstar]]></author>
-		<id_supplier><![CDATA[win]]></id_supplier>
-
-		<title><![CDATA[Windstar Cruises Signature Deck BBQ]]></title>
-		<teaser><![CDATA[Windstar]]></teaser>
-		<lead><![CDATA[
-			One of the highlights of a Windstar&rsquo;s cruise is the spectacular onboard barbecue. The attentive crew will serve an amazing meal of fresh local ingredients accompanied by entertainment under the stars.
-		]]></lead>
-		<body><![CDATA[
-		]]></body>
-		<embed><![CDATA[
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/LbtBWjAf9ls?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		]]></embed>
-
-		<tile_color>D2367D</tile_color>
-		<tile_class>opaque-100</tile_class>
-		<tile_new>none</tile_new>
-	</article>
-	
-<!-- END: 2003 win -->
-
 <!-- BEGIN: 2003 PRI -->
-	<article date="2003" id="02">
+	<article date="2003" id="01">
 		<dir_name><![CDATA[video]]></dir_name>
 		<pub_date><![CDATA[March 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
 		<dir_year><![CDATA[20]]></dir_year>
