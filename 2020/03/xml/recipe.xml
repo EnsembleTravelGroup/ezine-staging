@@ -15,7 +15,7 @@
 		<translator><![CDATA[]]></translator>
 		<cookbook><![CDATA[]]></cookbook>
 
-		<title><![CDATA[Sponge Cake]]></title>
+		<title><![CDATA[Baked Alaska]]></title>
 		<teaser><![CDATA[Cunard]]></teaser>
 		<lead><![CDATA[
 			<p>Afternoon tea with an Alaska twist. Both sweet and savory options incorporating Alaska&rsquo;s best recipes and dishes will be offered and paired with Alaska iced tea, champagne and, of course, tea along with the famous baked Alaska!</p>
@@ -24,7 +24,7 @@
 		<body><![CDATA[]]></body>
 
 		<item>
-			<title><![CDATA[Sponge Cake with Meringue]]></title>
+			<title><![CDATA[]]></title>
 			<ingredients><![CDATA[
 				<h4>Ingredients</h4>
 				<p><strong>For sponge cake:</strong></p>
@@ -58,7 +58,10 @@
 				<li>Once cool, place metal 1 &frac12;-2&rdquo; rings over the sponge cake and cut out circles.</li>
 				<li>Top with a small scoop of each ice cream or a large scoop of one for each cake, &ndash; up to you - smooth into a mound and top with a cherry.</li>
 				<li>Freeze until solid.</li>
-				<li>Merinque:  Preheat the oven to broil and place an oven rack 8&rdquo; from the top.</li>
+			</ol>
+			<p><strong>Meringue:</strong></p>
+			<ol>
+				<li>Preheat the oven to broil and place an oven rack 8&rdquo; from the top.</li>
 				<li>Whisk with whip attachment on medium speed, beat a small quantity of sugar, a tablespoon at a time, with the egg whites become soft peaks.</li>
 				<li>Meanwhile, boil the sugar and glucose with a little water to stop it burning. Take it to 118C/245F</li>
 				<li>Pour the syrup slowly over the whisking whites and then continue whisking until cold and thick.</li>
@@ -73,10 +76,10 @@
 		<sidebar><![CDATA[]]></sidebar>
 
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/03/hero/recipe-01.jpg</hero_src>
-		<hero_caption><![CDATA[Sponge Cake with Meringue]]></hero_caption>
+		<hero_caption><![CDATA[Baked Alaska]]></hero_caption>
 		<hero_credit><![CDATA[Cunard]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/recipe-01.jpg</article_src>
-		<article_caption><![CDATA[Sponge Cake with Meringue]]></article_caption>
+		<article_caption><![CDATA[Baked Alaska]]></article_caption>
 		<article_credit><![CDATA[Cunard]]></article_credit>
 
 		<tile_color>A8CB17</tile_color>

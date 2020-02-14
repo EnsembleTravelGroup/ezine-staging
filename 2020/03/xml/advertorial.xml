@@ -168,13 +168,13 @@
 		<author><![CDATA[The Hawaiian Islands]]></author>
 		<id_supplier><![CDATA[hwi]]></id_supplier>
 
-		<title><![CDATA[The Hawaiian Islands]]></title>
+		<title><![CDATA[Discover Hawaii]]></title>
 		<teaser><![CDATA[The Hawaiian Islands]]></teaser>
 		<lead><![CDATA[
-			Every island has a story. Get to know them at #LetHawaiiHappen.
+			Six Hawaiian Islands. Six unique experiences.
 		]]></lead>
 		<body><![CDATA[
-			<p>Six Hawaiian Islands. Six unique experiences. From crystal blue waters to&nbsp;stunning green cliffs and black sand beaches, Hawaii&rsquo;s wealth of natural beauty is the breathtaking&nbsp;backdrop for unforgettable experiences that reward those who delve a little deeper - into vibrant cultures full of welcoming aloha, a thriving food scene and thrilling outdoor adventures. There&rsquo;s so much more to Hawaii than what you&rsquo;ve heard about.</p>
+			<p>From crystal blue waters to&nbsp;stunning green cliffs and black sand beaches, Hawaii&rsquo;s wealth of natural beauty is the breathtaking&nbsp;backdrop for unforgettable experiences that reward those who delve a little deeper - into vibrant cultures full of welcoming aloha, a thriving food scene and thrilling outdoor adventures. There&rsquo;s so much more to Hawaii than what you&rsquo;ve heard about.</p>
 
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-03-01.jpg">
@@ -212,10 +212,10 @@
 		<body_2><![CDATA[]]></body_2>
 
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/03/hero/advertorial-03.jpg</hero_src>
-		<hero_caption><![CDATA[The Hawaiian Islands]]></hero_caption>
+		<hero_caption><![CDATA[Kauai]]></hero_caption>
 		<hero_credit><![CDATA[The Hawaiian Islands]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-03.jpg</article_src>
-		<article_caption><![CDATA[The Hawaiian Islands]]></article_caption>
+		<article_caption><![CDATA[Discover Hawaii]]></article_caption>
 		<article_credit><![CDATA[The Hawaiian Islands]]></article_credit>
 
 		<tile_color>A8CB17</tile_color>
@@ -316,7 +316,7 @@
 
 	<article date="2003" id="05">
 		<dir_name><![CDATA[advertorial]]></dir_name>
-		<pub_date><![CDATA[March 2020]]></pub_date> <!-- March = Full month name (ie. January) -->
+		<pub_date><![CDATA[March 2020]]></pub_date>
 		<dir_year><![CDATA[20]]></dir_year>
 		<dir_month><![CDATA[03]]></dir_month>
 		<id_article><![CDATA[05]]></id_article>
@@ -404,7 +404,7 @@
 				</figcaption>
 			</figure>
 
-			</p>ALL-ADULTS UNLIMITED-LUXURY<sup>&reg;</sup> HAVE IT ALL &mdash; ALL THE TIME.<p>
+			</p>ALL-ADULTS UNLIMITED-LUXURY<sup>&reg;</sup><br> HAVE IT ALL &mdash; ALL THE TIME.<p>
 		]]></body>
 
 		<body_2><![CDATA[]]></body_2>
