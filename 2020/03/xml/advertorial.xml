@@ -255,7 +255,7 @@
 			<figure class="article-tile">
 				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/03/article/advertorial-04-01.jpg">
 				<figcaption>
-					<h4>Earn a Zodiac Driver&Rsquo;S License</h4>
+					<h4>Earn a Zodiac Driver&rsquo;s License</h4>
 					What&rsquo;s cooler than zipping around glittering icebergs or zooming past a raft of sea otters in a Zodiac? Taking the reins and steering the craft yourself! With help from a naturalist, kids will learn how to cruise through the water like a master navigator. When the lesson&rsquo;s complete they&rsquo;ll take home their official driver&rsquo;s license&mdash;now that&rsquo;s something they&rsquo;ll want to show and tell!
 				</figcaption>
 			</figure>
@@ -308,12 +308,6 @@
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 
-		<tags>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-		</tags>
 	</article>
 
 <!-- END: 2003 lin -->
