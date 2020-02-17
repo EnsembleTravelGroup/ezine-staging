@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
- <!-- BEGIN: 2003 style -->
+<!-- BEGIN: 2003 style -->
 	<article date="2003">
 		<dir_name><![CDATA[style]]></dir_name>
 		<pub_date><![CDATA[March 2020]]></pub_date>
@@ -59,5 +59,5 @@
 			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
 		</tags>
 	</article>
-</root>
 <!-- END: 2003 style -->
+</root>
