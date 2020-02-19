@@ -341,7 +341,7 @@
 
 			<cost><![CDATA[4,199]]></cost>
 			<taxes><![CDATA[162]]></taxes>
-			<departing><![CDATA[select dates from May 11 to Oct 17, 2020]]></departing>
+			<departing><![CDATA[Select dates from May 11 to Oct 17, 2020]]></departing>
 			<duration><![CDATA[8 or 9 days]]></duration>
 			<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
 			<currency><![CDATA[USD]]></currency>
