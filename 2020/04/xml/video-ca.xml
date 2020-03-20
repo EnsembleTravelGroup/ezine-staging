@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- BEGIN: 2004 man -->
+	<article date="2004" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[April 2020]]></pub_date>
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[04]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+
+		<author><![CDATA[Manulife]]></author>
+		<id_supplier><![CDATA[man]]></id_supplier>
+
+		<title><![CDATA[Jane &ndash; Saved by Travel Insurance]]></title>
+		<teaser><![CDATA[Manulife]]></teaser>
+		<lead><![CDATA[Watch Jane tell her tale of what happened when things went wrong on her trip, and how Manulife was there to help.]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/jP8-vuKtTjA?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	<!-- END: 2004 man -->
+</root>
