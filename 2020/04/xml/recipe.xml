@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	​
+	<article date="2004" id="01">
+		<dir_name><![CDATA[recipe]]></dir_name>
+		<pub_date><![CDATA[April 2020]]></pub_date> <!-- April = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[04]]></dir_month>
+		<id_recipe><![CDATA[01]]></id_recipe>
+		​
+		<tab_class><![CDATA[active]]></tab_class>
+		​
+		<author><![CDATA[Terrilyn Kunopaski & Rebecca McCormick]]></author>
+		<id_supplier><![CDATA[logo-etg-c-pos]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		<cookbook><![CDATA[Ensemble Travel Group]]></cookbook>
+		​
+		<title><![CDATA[How Travel Advisors Are Elevating Your Culinary Experiences Abroad]]></title>
+		<teaser><![CDATA[Ensemble Travel Group]]></teaser>
+		<lead><![CDATA[
+			Want to make your palate sing on your next international adventure but without the stress of making it happen on your own? An increasing number of people are turning to their neighbourhood travel advisor to put the pieces together.
+		]]></lead>
+		<body><![CDATA[
+			<p>Successful travel advisors are like their counterparts in finance, business or sports: each professional leverages expertise to deliver the most value for their clients&rsquo;</p>
+			<p>investment of time and money. And current demands for unique culinary experiences provide exceptional opportunities for these experts to use their global connections and deep product expertise to elevate any itinerary. How exactly are these travel professionals ensuring your next trip abroad touches all the right taste buds? Let us count the ways.</p>
+			<h4>THEY MAKE THE RESERVATION; YOU JUST HAVE TO SHOW UP.</h4>
+			<p>If your travel advisor is customizing an itinerary especially for you, complete with all details covered but free from strict wake-up calls or departure times, let restaurant reservations be the thing to dictate when you go where. And they can help make that happen, too. Thanks to insider knowledge and a commitment to offering the best value to clients, travel advisors can ensure memorable dining experiences are part of any itinerary, no matter how hot the ticket. Understanding booking timelines and availability at top restaurants throughout popular locales means that they are helping their clients secure even the most difficult reservations, or at least putting in the time trying so you don&rsquo;t have to.</p>
+			<h4>THEY ADVOCATE FOR THE PROVERBIAL &lsquo;APPETIZERS&rsquo; AND &lsquo;DESSERT.&rsquo;</h4>
+			<p>A group departure need not begin and end with the scheduled dates and times, especially if your travel advisor should have anything to say about it. There is plenty to enjoy pre- and post-tour in order to further elevate any scheduled travel experience, with the options varying based on your destination &ndash; and travel advisors are helping their clients make the most of the opportunities at hand. Setting out on a river cruise in Amsterdam? Why not have your travel advisor recommend and book a beer and cheese experience prior to setting sail? Or, is your organized tour ending in Paris? Try spending a few days exploring a region that your tour didn&rsquo;t visit &ndash; travel advisors know what option will suit their clients best and these expertise are being leveraged at record rates.</p>
+			<h4>INTRODUCTIONS TO LOCALS ARE PART OF THEIR REPERTOIRE.</h4>
+			<p>Incorporating local dining experiences is in high-demand for travellers today but it&rsquo;s not always easy to find in destination connections who will jump on the chance to host you for dinner and cocktails in their home. Alas, travel advisors know the best companies with which to work when it comes to setting up clients with immersive dining experiences that not only offer outstanding food and drink, but also provide a true sense of place. Certain tour operators have clients dining with winemakers while exploring vineyards, spending evenings with multiple generations of the same family as they share the history of their property over a hearty meal, or learning how to play an instrument while throwing back a pint and a plate with local musicians.</p>
+			<h4>EPIC, ONCE-IN-A-LIFETIME DINING EXPERIENCES ARE ALWAYS ON THE TABLE.</h4>
+			<p>It&rsquo;s always a treat to discover your travel advisor has set you up on a tour that visits iconic sites like the Louvre or Vatican after typical closing time, free from other tourists. It's even better to discover when certain after-hours admissions come with some sort of culinary delight, whether hors d&rsquo;oeuvres, wine or full sit-down dinners. Once again, in-depth product knowledge comes into play as travel advisors get a sense of your interests and connect you with the experience that will best resonate. Perhaps it&rsquo;s a meal in a crowd-free art gallery with a dining tableset in front of centuries old artwork. Would you prefer a lunchtime picnic in a chateau? Equally possible. People understand now more than ever that their travel advisor is the right person to know in order to make great things happen.</p>
+			<h4>LOOKING FOR A THEME? THEY CAN DO THAT TOO.</h4>
+			<p>Are you a sucker for French wines? Big on beer? Want to immerse yourself in a new culture with a well-known chef? Whatever your interest, there&rsquo;s probably a trip made for you &ndash; and your travel advisor will be able to best determine exactly what and when that might be. From themed to specially-led crises and tours, the breadth of opportunities for amazing, immersive and memorable travel experiences is astounding &ndash; though for the average traveller, can be hard to find. This is why people are leaning on their travel advisors to play matchmaker &ndash; and coming home happy because of it.</p>
+		]]></body>
+		​
+		<item>
+			<title><![CDATA[]]></title>
+			<ingredients><![CDATA[
+			]]></ingredients>
+			​
+			<prep><![CDATA[
+			]]></prep>
+		</item>
+		​
+		<body_2><![CDATA[]]></body_2>
+		​
+		<sidebar><![CDATA[]]></sidebar>
+		​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/04/hero/recipe-01.jpg</hero_src>
+		<hero_caption><![CDATA[How Travel Advisors Are Elevating Your Culinary Experiences Abroad]]></hero_caption>
+		<hero_credit><![CDATA[Ensemble Travel Group]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/04/article/recipe-01.jpg</article_src>
+		<article_caption><![CDATA[How Travel Advisors Are Elevating Your Culinary Experiences Abroad]]></article_caption>
+		<article_credit><![CDATA[Ensemble Travel Group]]></article_credit>
+		​
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+
+</root>

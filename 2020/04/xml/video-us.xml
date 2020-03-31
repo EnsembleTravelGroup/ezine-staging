@@ -23,5 +23,52 @@
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 	</article>
-	<!-- END: 2004 HUR -->
+	
+	<article date="2004" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[April 2020]]></pub_date> <!-- April = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[04]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+		​
+		<author><![CDATA[American Society of Travel Advisors]]></author>
+		<id_supplier><![CDATA[ast]]></id_supplier>
+		​
+		<title><![CDATA[ASTA: "We'll Take You There"]]></title>
+		<teaser><![CDATA[American Society of Travel Advisors]]></teaser>
+		<lead><![CDATA[]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/JIlfhad35ZU?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+		​
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	
+	<article date="2004" id="03">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[April 2020]]></pub_date> <!-- April = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[04]]></dir_month>
+		<file_video><![CDATA[03]]></file_video>
+		​
+		<author><![CDATA[Carnival]]></author>
+		<id_supplier><![CDATA[car]]></id_supplier>
+		​
+		<title><![CDATA[WUATA Story: Top “Why Use A Travel Advisor” Reasons]]></title>
+		<teaser><![CDATA[Carnival]]></teaser>
+		<lead><![CDATA[
+			There are many benefits of booking with a travel agent. In this episode, travel advisors and their clients share their personal experiences and top WUATA reasons with Adolfo M. Perez, Carnival’s SVP of Global Sales & Trade Marketing.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/WiQetJsUQMw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+		​
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
 </root>
