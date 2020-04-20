@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2005">
+		<dir_name><![CDATA[style]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[May 2020]]></pub_date> <!-- May = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		​
+		<author><![CDATA[Martha Chapman]]></author>
+		<translator><![CDATA[]]></translator>
+		​
+		<title><![CDATA[Travelling Solo After COVID-19]]></title>
+		<teaser><![CDATA[
+			Discover your perfect travel companion.
+		]]></teaser>
+		<lead><![CDATA[
+			Many things in our lives have changed over the last few months. But one thing never will: our travel wishes are often influenced by our emotions. And after having gone through very emotional and uncertain times, traveling, whether close to home or further away, will still be a means to get away and reconnect with ourselves, with a renewed eagerness to see what&rsquo;s out there.
+		]]></lead>
+		<body><![CDATA[
+			<p>Imagine connecting with your perfect travelling companion: one who shares your taste in hotels, food, sightseeing and nightlife, with the same travel wish list and spirit of adventure (or not, depending on your mood). This perfect companion is yourself!</p>
+			<p>Solo travel has been booming as more of us discover the appeal, the freedom and the rewards of hitting the road on our own. Once the domain of &ldquo;spinsters&rdquo; and lonely souls, solo travelers now include a raft of people of all ages who are perfectly happy to go on their own, leaving spouses, relatives and friends at home. And after having been confined at home for weeks, some separate time away may be rewarding for all.</p>
+			<p>The benefits are many. Not only is your traveling companion guaranteed to share your interests, but you&rsquo;ll find being on your own is an amazing tonic to build self-confidence and resourcefulness. You are guaranteed to have encounters you&rsquo;d never have if you were traveling with a partner or friend as you make memorable connections with locals and your fellow travelers.</p>
+			<p>Plus, traveling solo gives you a chance to tread more lightly and be more conscious about your impact on the environment, the resources and the communities, as well as to help protect the local heritage of the places you visit.</p>
+			<p>Yet many of us &ndash; not surprisingly mostly women &ndash; are reluctant to travel on our own. We have concerns about safety, security, theft, what to do at night and even dining alone. Fear not: there are tons of resources brimming with tips on how to thrive on your own. Here are a few tips, culled from years of going solo &ndash; beginning from the time I was 15 years old and travelled to England on my own for school.</p>
+			<p>Perhaps the most important thing to emphasize is that on your first solo trip, you needn&rsquo;t head out on a three-month backpacking adventure through South America. Why not start with baby steps? Maybe a weekend away to a nearby town. An all-inclusive resort down south just might provide the combination of safety and sociability you need. Or join a group tour and start or end it with a few days on your own. Choosing a destination where English is the national language is a huge help.</p>
+			<p>Many solo travelers are concerned, not surprisingly, about being lonely. After all, you can hardly go up to a stranger in an unknown city and strike up a conversation, right? To avoid the loneliness trap, before you travel, see if you can connect with anyone in the destination. Your dentist has a sister living there? Why not arrange to meet for a cup of coffee? Love to sketch or cook or do yoga? Sign up for a class before you leave home. Not only will it instantly connect you with like-minded locals, but it will start to give shape to your days. Some countries even have free programs that will arrange a meeting with a local who shares your interests. For example, through a program like this on one trip in the Bahamas, I spent a lovely afternoon with a local lady sipping tea in her home and discussing life in our very different countries.</p>
+			<p>Another anti-loneliness cure is to take small group day tours. You can learn about graffiti on a walking tour of London&rsquo;s Camden neighborhood, shiver at the delightful creepiness of Mexico City&rsquo;s witchcraft market or learn to cook tajine in Morocco. All on affordable tours with just a handful of people and which last just a few hours.</p>
+			<p>It's true though, solo travel is not always easy.</p>
+			<p>There are some common-sense rules which apply to all travelers, including not being flashy in dress or with cash; traveling as lightly as possible; and learning a few words of the local language. On public transportation, including trains, choose a seat next to someone rather than one with an empty seat beside it, because you never know who might join you.</p>
+			<p>There will be challenges, including having to always lug your stuff by yourself and needing, at times, to figure things out on the fly. But the rewards can be tremendous. I remember, swaying with jetlag and culture shock, trying to sort out the Shanghai subway system, all 387 stops of it. But I did it. I found my hotel and walked into the lobby with a ridiculous grin on my face. &ldquo;You rock!&rdquo; I said to myself. And you know what? You can too!</p>
+			<p>If you&rsquo;ve always been tempted by solo travel but never dared trying it, take this time to research your options, and know our professional travel advisors are there to answer any questions you may have, before, during and after your travels.</p>​
+		]]></body>
+		​ ​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/05/hero/style.jpg</hero_src>
+		<hero_caption><![CDATA[Travelling Solo After COVID-19]]></hero_caption>
+		<hero_credit><![CDATA[Travel Style]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/05/article/style.jpg</article_src>
+		<article_caption><![CDATA[Travelling Solo After COVID-19]]></article_caption>
+		<article_credit><![CDATA[Travel Style]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/05/email/style.jpg</email_src>
+		​
+		<tile_color>00B9F2</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		​
+		<tags>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+		</tags>
+	</article>
+</root>
