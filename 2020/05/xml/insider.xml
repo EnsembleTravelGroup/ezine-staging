@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2005">
+		<dir_name><![CDATA[insider]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[May 2020]]></pub_date> <!-- May = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		
+		<author><![CDATA[Ya'lla Tours ]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Ya'lla Tours Presents: Protecting the Local Heritage of Historical Cultures]]></title>
+		<teaser><![CDATA[
+			Ya’lla Tours offers trips to nine different countries, which all feature UNESCO World Heritage Sites.
+		]]></teaser>
+		<lead><![CDATA[
+			Interested in exploring ancient cultures and their surrounding heritage? Communications Manager, Kyna Perry, provides insight to which destination might be best for you, how the nine destinations are preserving these landmarks, and how Ya’lla Tours can help you experience them.
+		]]></lead>
+		<body><![CDATA[
+			<p class="question"><strong>Q:</strong> Tell us a bit about Ya&rsquo;lla Tours and the products and services the company offers.</p>
+			<p>Ya&rsquo;lla Tours offers private, custom FIT and group touring to Egypt, Greece, Israel, Jordan, Morocco, Oman, Turkey, UAE and Cuba. We also offer some scheduled motor coach tours in several of our destinations. We specialize in cultural touring and most of our travelers benefit from the services of our exceptional, licensed tour guides.</p>
+			<p class="question"><strong>Q:</strong> For travelers looking to explore historical and ancient cultures, which destinations do you recommend?</p>
+			<p>All our destinations are rich in history. There are dozens of UNESCO World Heritage Sites across our nine countries. It&rsquo;s important to know the specific interests of travelers when recommending a destination. However, anyone interested in history and ancient culture should put Egypt at the top of their must-see list. The entire country is an open-air museum, with remains of the ancient civilization and later periods everywhere you look. Of all our destination countries, the past feels most present in Egypt.</p>
+			<p>For those interested in history from a heritage or spiritual perspective, I recommend Israel. Judaism, Christianity and Islam are all rooted in Israel, and everywhere you look, the land is steeped in the ancient, sacred stories.</p>
+			<p>Greece is an obvious choice for history buffs, but I would also recommend Turkey to anyone interested in ancient Greece. Some of the most important ancient Greek cities were located along the Aegean coast of what is today Anatolian, Turkey. Ephesus and Pergamum are two of the most extensively excavated. Greece and Turkey are also both important in Christian history.</p>
+			<p class="question"><strong>Q:</strong> What measures are taken to preserve and protect historical sites within those destinations?</p>
+			<p>Our destinations are all very protective of their historical sites for economic as well as cultural reasons. These destinations rely heavily on tourism and must balance preservation for posterity with the immediate economic needs of local populations. At the most popular sites, tourism may be the biggest threat to the site&rsquo;s endurance. On the other hand, besides supporting the local economy, tourism often provides funding for preservation.</p>
+			<p>Governments, non-profit and for-profit organizations, and international groups like UNESCO may set limitations on the numbers of visitors allowed into a site at a given time or over a period of time. They may limit or ban carbon emissions or flash photography near a site. They may offer educational programs for locals to explain how preservation will benefit them. Locals may be employed in preservation efforts, especially if they have lost income or been displaced due to those efforts.</p>
+			<p>One prodigious example of preservation is the rescue of the Abu Simbel temples in Egypt. The 3,000-year-old temples originally stood on the west bank of the Nile River in the far south of the country. With the construction of the Aswan High Dam in the 1960s, the site was flooded. The temples were saved by moving them block by block to higher ground on the shore of the newly created Lake Nasser.</p>
+			<p>Preservation means saving cultural heritage from destructive elements, but it also means reclaiming cultural heritage from centuries, even millennia, of neglect. Many of our most popular destination sites have yet to be uncovered to a large degree. Similarly, some sites consist of a jumble of ruins, indistinct to the average eye, awaiting restoration to their original state. The sprawling area of Ephesus currently open to tourists is only one tenth of the ancient city. Excavation and restoration will go on, perhaps for hundreds of years yet, all depending on the ebb and flow of funding.</p>
+			<p>As a tour operator, Ya&rsquo;lla participates in preservation primarily through education. We encourage the use of our licensed guides in general, but especially when itineraries include sensitive sites. Our guides relay the interesting historical details about a site, and paint the big picture about how the site fits into the local culture, and about its present and future value. Guides also play an important role in helping travelers comply with the preservation measures enforced at sites.</p>
+			<p>Through long-term relationships, we support local ground operators and other vendors, all stakeholders in the lasting appeal of their cultural heritage to the wider world.</p>
+			<p class="question"><strong>Q:</strong> What does Ya&rsquo;lla Tours do to promote the awareness of these important sites?</p>
+			<p>These important sites are our reason for being. To a large extent, the promotion of Ya&rsquo;lla is the promotion of the sites. In the programs we create for our travelers, in advisor education events, and in advertising and social media we&rsquo;re telling the story of the sites, why they mattered in the past, and why they matter now.</p>
+			<p class="question"><strong>Q:</strong> What makes a Ya&rsquo;lla Tours vacation unique?</p>
+			<p>Ya&rsquo;lla Tours prioritizes personal service. More often than not, we&rsquo;re selling custom programs designed in cooperation with a travel advisor and their client. It&rsquo;s a very hands-on process. The owner of Ya&rsquo;lla Tours was a tour guide in his native Israel and also in Egypt before opening Ya&rsquo;lla in 1993. His experience on the ground day-to-day with travelers has been a guiding principle of the company. We want our travelers well rested, comfortable, relaxed and ready to truly experience their destination. We build programs with carefully considered logistics, regularly monitored hotels, top-notch guides, and attentive local representatives available 24-7.</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/05/hero/insider.jpg</hero_src>
+		<hero_caption><![CDATA[Ya'lla Tours Presents: Protecting the Local Heritage of Historical Cultures]]></hero_caption>
+		<hero_credit><![CDATA[On Location]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/05/article/insider.jpg</article_src>
+		<article_caption><![CDATA[Ya'lla Tours Presents: Protecting the Local Heritage of Historical Cultures]]></article_caption>
+		<article_credit><![CDATA[On Location]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/05/email/insider.jpg</email_src>
+		
+		<tile_color>FA6900</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="middle-east-north-africa"><![CDATA[middle-east-north-africa]]></tag>
+			<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="art-architecture"><![CDATA[art-architecture]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="faith-religious"><![CDATA[faith-religious]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+		</tags>
+	</article>
+</root>
