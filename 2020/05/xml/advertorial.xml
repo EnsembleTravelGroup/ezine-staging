@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2005" id="01">
+		<dir_name><![CDATA[advertorial]]></dir_name>
+		<pub_date><![CDATA[May 2020]]></pub_date> <!-- May = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		<id_article><![CDATA[01]]></id_article>
+		
+		<author><![CDATA[AmaWaterways]]></author>
+		<id_supplier><![CDATA[amw]]></id_supplier>
+		
+		<title><![CDATA[An Unparalleled River Cruise Experience with AmaWaterways]]></title>
+		<teaser><![CDATA[AmaWaterways]]></teaser>
+		<lead><![CDATA[
+			Discover locally sourced food and wine, elegant ships, and a crew who goes above and beyond.
+		]]></lead>
+		<body><![CDATA[
+			<p>When cruising with AmaWaterways it isn&rsquo;t just about the wonderful places you&rsquo;ll go; it&rsquo;s very much about the people you&rsquo;ll meet. From fellow guests who are sure to become lifelong friends, to the genuinely warm and welcoming staff who go above and beyond to ensure each journey is as memorable as possible.</p>
+			<p>We invite you to explore the AmaWaterways experience, to find out what you could expect on one of their award-winning European river cruises.</p>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/05/article/advertorial-01-01.jpg">
+				<figcaption>
+					<h4>Incredible views and unparalleled comfort</h4>
+					When you embark on a river cruise, the views are everything. And there&rsquo;s nowhere better to experience the romance of Budapest illuminated at night, or the castle-laden views of the Rhine than from the comfort of your stateroom. AmaWaterways&rsquo; staterooms feature both a French balcony and a full outside balcony, allowing you to soak in the fresh air and postcard-worthy views. Or, if you want to experience the added luxury of traveling in a suite, upgrade and enjoy a larger sitting area, expansive bathrooms, and unrivaled balcony views. The suites aboard AmaWaterways&rsquo; award-winning fleet offer a truly memorable experience.
+				</figcaption>
+			</figure>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/05/article/advertorial-01-02.jpg">
+				<figcaption>
+					<h4>Exquisite regionally inspired cuisine</h4>
+					As a member of the prestigious international culinary society La Cha&icirc;ne des R&ocirc;tisseurs, AmaWaterways offers guests an unforgettable culinary experience enhanced by complimentary wines chosen by acclaimed European sommeliers. Indulge in exquisite regionally inspired cuisine lovingly prepared using only the freshest local and seasonal ingredients sourced from destinations visited ashore. Appetizers and handmade desserts are artfully presented &ndash; while delicious vegetarian, low sodium and gluten-free choices are also available. Guests can expect a one-of-a-kind dining experience, in which food is not merely sustenance &ndash; it&rsquo;s an unforgettable experience.
+				</figcaption>
+			</figure>
+			
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/05/article/advertorial-01-03.jpg">
+				<figcaption>
+					<h4>Carefully curated excursions</h4>
+					When traveling with AmaWaterways, you don&rsquo;t just pass through a destination &ndash; you experience it with all of your senses. Follow the routes of emperors and other legendary figures on creative and adventurous itineraries. Sailing along timeless rivers, through inspiring countrysides, historic capitals, and fairytale towns. Carefully curated excursions showcase the rich diversity of each city visited on your journey. Explore at your own pace on a small guided group excursion with a variety of activities to choose from.
+				</figcaption>
+			</figure>
+			
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/05/article/advertorial-01-04.jpg">
+				<figcaption>
+					<h4>Love, lots of love</h4>
+					&ldquo;Ama&rdquo; means love, and love is at the heart of everything they do. Onboard, AmaWaterways&rsquo; guests are considered family, and the staff works hard to exceed your expectations to create an unforgettable travel experience that you&rsquo;ll cherish forever.
+				</figcaption>
+			</figure>
+		]]></body>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/05/hero/advertorial-01.jpg</hero_src>
+		<hero_caption><![CDATA[An Unparalleled River Cruise Experience with AmaWaterways]]></hero_caption>
+		<hero_credit><![CDATA[AmaWaterways]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/05/article/advertorial-01.jpg</article_src>
+		<article_caption><![CDATA[An Unparalleled River Cruise Experience with AmaWaterways]]></article_caption>
+		<article_credit><![CDATA[AmaWaterways]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+		</tags>
+	</article>
+	
+	<article date="2005" id="02">
+		<dir_name><![CDATA[advertorial]]></dir_name>
+		<pub_date><![CDATA[May 2020]]></pub_date> <!-- May = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		<id_article><![CDATA[02]]></id_article>
+		
+		<author><![CDATA[Club Med]]></author>
+		<id_supplier><![CDATA[cmd]]></id_supplier>
+		
+		<title><![CDATA[Escape to an Unspoiled World]]></title>
+		<teaser><![CDATA[Club Med]]></teaser>
+		<lead><![CDATA[
+			Discover Michès, the new hidden gem of the Dominican Republic made unique by its untouched beauty.
+		]]></lead>
+		<body><![CDATA[
+			<p>Continuing its 68-year-long legacy of pioneering destinations worldwide, last December Club Med opened the company&rsquo;s first project in the Caribbean in 25 years.</p>
+			<p>The new concept divides the resort into four boutique hotels so that all guests can enjoy a holiday tailored to their needs and desires. Club Med Mich&egrave;s Playa Esmeralda offers adult-only spaces, children&rsquo;s clubs for kids aged 4 to 17, and a variety of land and water sports for those looking for an active escape.</p>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/05/article/advertorial-02-01.jpg">
+			</figure>
+			
+			<h4>Your gateway to paradise</h4>
+			<p>This region&rsquo;s unmatched beauty cannot be missed. Located 95 km from Punta Cana International Airport, Mich&egrave;s can easily be reached by driving along a scenic highway offering soaring views of the mountains. This hidden paradise features miles of untouched, tranquil coastline.<br /><br /> Local wonders provide opportunities for guests to discover new breathtaking sights and activities, such as Laguna Lim&oacute;n, a nature reserve with stunning waterfalls; Saman&aacute; Bay and its protected islands with native flora and wildlife; and Monta&ntilde;a Redonda, a round mountain with a 360-degree view of the luscious landscape, known for its photo-famous swing.</p>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/05/article/advertorial-02-02.jpg">
+			</figure>
+			
+			<h4>Eco-chic luxury at its best</h4>
+			<p>The architecture and spirit of this 37-hectare complex was inspired by the local culture, created to enhance the destination and provide an exceptional eco-friendly luxury experience.<br /><br /> When you arrive at the resort, it&rsquo;s clear that sustainability is at the heart of everything. Some of the responsible initiatives include the elimination of single-use plastics at the resort, and the coffee and cacao products being sourced from local farmers. Even employee uniforms are created out of recycled plastic bottles, with more than 200,000+ bottles recycled for the initiative.</p>
+			
+			<h4>A place that fosters well-being</h4>
+			<p>Club Med is known for its activities and entertainment, and Club Med Mich&egrave;s Playa Esmeralda is no different. Here, guests can take part in more than 25 different activities such as fitness classes, tennis, pickleball, archery, indoor climbing, circus activities, kayaking, snorkeling, aqua fitness, team sports, dance classes, running, yoga classes, and more!</p>
+			
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/05/article/advertorial-02-03.jpg">
+			</figure>
+			
+			<p>Club Med Mich&egrave;s Playa Esmeralda was made for wellness. Guests can enjoy the scenic treetop wellness canopy, oceanfront meditation classes and five different types of yoga classes: family yoga, gravity yoga, acro-yoga, aqua yoga and paddle yoga. The resort also hosts active experiences you can&rsquo;t find anywhere else, such as electric surfboarding, hobie eclipse (a stand-up pedal board), treetop yoga, and family paddle boarding.<br /><br /> Cinq Mondes Spa at Club Med Mich&egrave;s Playa Esmeralda offers a beauty salon along with single and double treatment rooms, reflexology, hydrotherapy treatments, hot and cold plunge baths, a steam room and sauna.</p>
+			<p>Be ready to discover an unexplored land of unprecedented natural beauty. Get a preview of Club Med Mich&egrave;s Playa Esmeralda <a href="https://www.youtube.com/watch?v=1y74mTX1W_U" target="_blank">here</a>.</p>
+		]]></body>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/05/hero/advertorial-02.jpg</hero_src>
+		<hero_caption><![CDATA[Escape to an Unspoiled World]]></hero_caption>
+		<hero_credit><![CDATA[Club Med]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/05/article/advertorial-02.jpg</article_src>
+		<article_caption><![CDATA[Escape to an Unspoiled World]]></article_caption>
+		<article_credit><![CDATA[Club Med]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+		</tags>
+	</article>
+</root>
