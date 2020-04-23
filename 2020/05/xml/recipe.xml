@@ -12,27 +12,60 @@
 		<author><![CDATA[Holland America Line]]></author>
 		<id_supplier><![CDATA[hal]]></id_supplier>
 		<translator><![CDATA[]]></translator>
-		<cookbook><![CDATA[servingPortion]]></cookbook>
+		<cookbook><![CDATA[]]></cookbook>
 		
-		<title><![CDATA[recipeTitle]]></title>
+		<title><![CDATA[Wild Mushroom Filling and Brown Butter & Pine Nut Sauce]]></title>
 		<teaser><![CDATA[Holland America Line]]></teaser>
 		<lead><![CDATA[
-			recipeLead
+			Interested in experiencing America’s Test Kitchen? You can with Holland America Line, which is hosting specially themed cruises alongside editors, authors and special guest experts. In the meantime, why not test your own skills with this Holland America recipe, from America’s Test Kitchen to yours!
 		]]></lead>
 		<body><![CDATA[]]></body>
 		
 		<item>
 			<title><![CDATA[]]></title>
 			<ingredients><![CDATA[
-				<h4>Ingredients</h4> <!-- Ingrédients -->
+				<h4>Wild Mushroom Filling</h4> <!-- Ingrédients -->
+				<p>Makes about 2 1&frasl;2 cups. <strong>NOTE</strong>: Reserve the porcini soaking liquid for soups or rice dishes.</p>
 				<ul>
+					<li>1 ounce dried porcini mushroom</li>
+					<li>2 tablespoons olive oil</li>
+					<li>2 garlic cloves, minced</li>
+					<li>10 ounces fresh domestic mushrooms or fresh wild mushrooms, cleaned and minced</li>
+					<li>1&frasl;4 cup minced fresh parsley</li>
+					<li>Salt and pepper</li>
+					<li>1 cup ricotta cheese</li>
+					<li>1&frasl;3 cup grated Parmesan cheese</li>
+					<li>1 egg yolk</li>
+				</ul>
 				
+				<hr/>
+				
+				<h4>Brown Butter & Pine Nut Sauce</h4>
+				<ul>
+					<li>1&frasl;2 cup pine nuts</li>
+					<li>8 tablespoons butter</li>
+					<li>Salt</li>
+					<li>1&frasl;4 cup minced fresh parsley</li>
+					<li>Grated Parmesan cheese</li>
 				</ul>
 			]]></ingredients>
 			
 			<prep><![CDATA[
-				<h4>Preparation</h4> <!-- Préparation -->
-				<p></p>
+				<h4>Wild Mushroom Filling</h4> <!-- Préparation -->
+				<p>Makes about 1 cup</p>
+				<ol>
+					<li>Cover porcini with boiling water and soak 30 minutes. Drain and reserve liquid for another use. Mince porcini and set aside.</li>
+					<li>Heat oil in 10-inch skillet over medium heat until shimmering. Add garlic and cook until golden, about 2 minutes. Add fresh mushrooms and cook until wilted, about 4 minutes. Stir in parsley, porcini, 1&frasl;4 teaspoon salt and 1&frasl;8 teaspoon pepper and cook until liquid evaporates, about 2 minutes.</li>
+					<li>Off heat, stir in ricotta, Parmesan and egg yolk. Season with salt and pepper to taste; set aside. Filling can be covered and refrigerated overnight.</li>
+				</ol>
+				
+				<hr/>
+				
+				<h4>Brown Butter & Pine Nut Sauce</h4>
+				<ol>
+					<li>Adjust oven rack to middle position and heat oven to 325 degrees. Toast nuts on rimmed baking sheet until golden and fragrant, about 5 minutes; set aside.</li>
+					<li>Melt butter in 10-inch skillet over medium heat and cook, swirling constantly, until butter turns golden brown, about 5 minutes. Stir in reserved nuts, parsley and 1&frasl;2 teaspoon salt. Toss with pasta and serve with grated Parmesan cheese.</li>
+				</ol>
 			]]></prep>
 		</item>
 		
@@ -41,10 +74,10 @@
 		<sidebar><![CDATA[]]></sidebar>
 		
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/05/hero/recipe-01.jpg</hero_src>
-		<hero_caption><![CDATA[recipeTitle]]></hero_caption>
+		<hero_caption><![CDATA[Wild Mushroom Filling and Brown Butter & Pine Nut Sauce]]></hero_caption>
 		<hero_credit><![CDATA[Holland America Line]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/05/article/recipe-01.jpg</article_src>
-		<article_caption><![CDATA[recipeTitle]]></article_caption>
+		<article_caption><![CDATA[Wild Mushroom Filling and Brown Butter & Pine Nut Sauce]]></article_caption>
 		<article_credit><![CDATA[Holland America Line]]></article_credit>
 		
 		<tile_color>A8CB17</tile_color>
@@ -64,12 +97,12 @@
 		<author><![CDATA[Oceania Cruises]]></author>
 		<id_supplier><![CDATA[ocn]]></id_supplier>
 		<translator><![CDATA[]]></translator>
-		<cookbook><![CDATA[servingPortion]]></cookbook>
+		<cookbook><![CDATA[Serves 2]]></cookbook>
 		
-		<title><![CDATA[recipeTitle]]></title>
+		<title><![CDATA[Seared scallops with pecan brown butter]]></title>
 		<teaser><![CDATA[Oceania Cruises]]></teaser>
 		<lead><![CDATA[
-			recipeLead
+			As the Executive Chef & Director of Culinary Enrichment for Oceania Cruises, Chef Kathryn Kelly has evolved the way travellers have come to understand global cuisines while exploring the world by sea. Here’s one of her recipes to try at home!
 		]]></lead>
 		<body><![CDATA[]]></body>
 		
@@ -78,13 +111,21 @@
 			<ingredients><![CDATA[
 				<h4>Ingredients</h4> <!-- Ingrédients -->
 				<ul>
-				
+					<li>6 dry diver scallops, room temperature</li>
+					<li>2 to 3 tablespoons clarified butter</li>
+					<li>2 tablespoons butter cubed</li>
+					<li>&frac14; cup crushed pecans</li>
+					<li>4 ounces jumbo lump crab meat</li>
+					<li>6 parsley leaves</li>
+					<li>4 lemon wedges</li>
 				</ul>
 			]]></ingredients>
 			
 			<prep><![CDATA[
 				<h4>Preparation</h4> <!-- Préparation -->
-				<p></p>
+				<p>Pat the scallops very dry. In a large saut&eacute; pan over high heat, warm enough clarified butter to generously coat the bottom of the pan. When the pan is searing hot, use tongs to carefully place the scallops in the pan. Sear the scallops to a caramel color, flip and sear the other side to a caramel color, noting that the second side will take less time.</p>
+				<p>Transfer the scallops to a plate and reserve warm. Decrease the heat to medium-high and add the cubed butter to the pan. Heat until the butter begins to brown and then add the pecans. Toast the</p>
+				<p>pecans until golden brown and then add the crab meat and warm through. Divide the scallops between 2 plates, top each with pecans and crab meat and drizzle with any butter remaining in the pan. Squeeze 1 lemon wedge over each serving, garnish each scallop with 1 parsley leaf and finish each plate with a remaining lemon wedge.</p>
 			]]></prep>
 		</item>
 		
@@ -93,10 +134,10 @@
 		<sidebar><![CDATA[]]></sidebar>
 		
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/05/hero/recipe-02.jpg</hero_src>
-		<hero_caption><![CDATA[recipeTitle]]></hero_caption>
+		<hero_caption><![CDATA[Seared scallops with pecan brown butter]]></hero_caption>
 		<hero_credit><![CDATA[Oceania Cruises]]></hero_credit>
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/05/article/recipe-02.jpg</article_src>
-		<article_caption><![CDATA[recipeTitle]]></article_caption>
+		<article_caption><![CDATA[Seared scallops with pecan brown butter]]></article_caption>
 		<article_credit><![CDATA[Oceania Cruises]]></article_credit>
 		
 		<tile_color>A8CB17</tile_color>
