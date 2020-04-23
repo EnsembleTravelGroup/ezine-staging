@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-	
 	<section date="2005">
 		<issue_date><![CDATA[May 2020]]></issue_date>
 		<pub_date><![CDATA[April 29, 2020]]></pub_date>
 		
-		<heading><![CDATA[Virtual Exploration - from Your Backyard and Beyond]]></heading>
-		<title><![CDATA[Use a Travel Advisor]]></title>
+		<heading><![CDATA[Virtual Exploration]]></heading>
+		<title><![CDATA[Virtual Exploration - from Your Backyard and Beyond]]></title>
 		<author></author>
 		<translator><![CDATA[]]></translator>
 		<lead><![CDATA[
@@ -17,8 +16,8 @@
 		]]></body>
 		
 		<hero_src>https://www.ensembletravel.ca/im/ezine/img/20/05/hero/index.jpg</hero_src>
-		<hero_caption><![CDATA[Virtual Exploration - from Your Backyard and Beyond]]></hero_caption>
-		<hero_credit><![CDATA[Use a Travel Advisor]]></hero_credit>
+		<hero_caption><![CDATA[Virtual Exploration]]></hero_caption>
+		<hero_credit><![CDATA[Virtual Exploration - from Your Backyard and Beyond]]></hero_credit>
 		<color>295c4e</color>
 	</section>
 </root>
