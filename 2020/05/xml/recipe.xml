@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2005" id="01">
+		<dir_name><![CDATA[recipe]]></dir_name>
+		<pub_date><![CDATA[May 2020]]></pub_date> <!-- May = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		<id_recipe><![CDATA[01]]></id_recipe>
+		
+		<tab_class><![CDATA[active]]></tab_class>
+		
+		<author><![CDATA[Holland America Line]]></author>
+		<id_supplier><![CDATA[hal]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		<cookbook><![CDATA[servingPortion]]></cookbook>
+		
+		<title><![CDATA[recipeTitle]]></title>
+		<teaser><![CDATA[Holland America Line]]></teaser>
+		<lead><![CDATA[
+			recipeLead
+		]]></lead>
+		<body><![CDATA[]]></body>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<ingredients><![CDATA[
+				<h4>Ingredients</h4> <!-- Ingrédients -->
+				<ul>
+				
+				</ul>
+			]]></ingredients>
+			
+			<prep><![CDATA[
+				<h4>Preparation</h4> <!-- Préparation -->
+				<p></p>
+			]]></prep>
+		</item>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<sidebar><![CDATA[]]></sidebar>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/05/hero/recipe-01.jpg</hero_src>
+		<hero_caption><![CDATA[recipeTitle]]></hero_caption>
+		<hero_credit><![CDATA[Holland America Line]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/05/article/recipe-01.jpg</article_src>
+		<article_caption><![CDATA[recipeTitle]]></article_caption>
+		<article_credit><![CDATA[Holland America Line]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	
+	<article date="2005" id="02">
+		<dir_name><![CDATA[recipe]]></dir_name>
+		<pub_date><![CDATA[May 2020]]></pub_date> <!-- May = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		<id_recipe><![CDATA[02]]></id_recipe>
+		
+		<tab_class><![CDATA[active]]></tab_class>
+		
+		<author><![CDATA[Oceania Cruises]]></author>
+		<id_supplier><![CDATA[ocn]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		<cookbook><![CDATA[servingPortion]]></cookbook>
+		
+		<title><![CDATA[recipeTitle]]></title>
+		<teaser><![CDATA[Oceania Cruises]]></teaser>
+		<lead><![CDATA[
+			recipeLead
+		]]></lead>
+		<body><![CDATA[]]></body>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<ingredients><![CDATA[
+				<h4>Ingredients</h4> <!-- Ingrédients -->
+				<ul>
+				
+				</ul>
+			]]></ingredients>
+			
+			<prep><![CDATA[
+				<h4>Preparation</h4> <!-- Préparation -->
+				<p></p>
+			]]></prep>
+		</item>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<sidebar><![CDATA[]]></sidebar>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/05/hero/recipe-02.jpg</hero_src>
+		<hero_caption><![CDATA[recipeTitle]]></hero_caption>
+		<hero_credit><![CDATA[Oceania Cruises]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/05/article/recipe-02.jpg</article_src>
+		<article_caption><![CDATA[recipeTitle]]></article_caption>
+		<article_credit><![CDATA[Oceania Cruises]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>
