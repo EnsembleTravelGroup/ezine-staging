@@ -24,7 +24,8 @@
 		<item>
 			<title><![CDATA[]]></title>
 			<ingredients><![CDATA[
-				<h4>Wild Mushroom Filling</h4> <!-- Ingrédients -->
+				<h2>Ingredients</h2>
+				<h5>Wild Mushroom Filling</h5> <!-- Ingrédients -->
 				<p>Makes about 2 1&frasl;2 cups. <strong>NOTE</strong>: Reserve the porcini soaking liquid for soups or rice dishes.</p>
 				<ul>
 					<li>1 ounce dried porcini mushroom</li>
@@ -38,9 +39,9 @@
 					<li>1 egg yolk</li>
 				</ul>
 				
-				<hr/>
+				<br/>
 				
-				<h4>Brown Butter & Pine Nut Sauce</h4>
+				<h5>Brown Butter & Pine Nut Sauce</h5>
 				<ul>
 					<li>1&frasl;2 cup pine nuts</li>
 					<li>8 tablespoons butter</li>
@@ -51,7 +52,8 @@
 			]]></ingredients>
 			
 			<prep><![CDATA[
-				<h4>Wild Mushroom Filling</h4> <!-- Préparation -->
+				<h2>Preparation</h2>
+				<h5>Wild Mushroom Filling</h5> <!-- Préparation -->
 				<p>Makes about 1 cup</p>
 				<ol>
 					<li>Cover porcini with boiling water and soak 30 minutes. Drain and reserve liquid for another use. Mince porcini and set aside.</li>
@@ -59,9 +61,9 @@
 					<li>Off heat, stir in ricotta, Parmesan and egg yolk. Season with salt and pepper to taste; set aside. Filling can be covered and refrigerated overnight.</li>
 				</ol>
 				
-				<hr/>
+				<br/>
 				
-				<h4>Brown Butter & Pine Nut Sauce</h4>
+				<h5>Brown Butter & Pine Nut Sauce</h5>
 				<ol>
 					<li>Adjust oven rack to middle position and heat oven to 325 degrees. Toast nuts on rimmed baking sheet until golden and fragrant, about 5 minutes; set aside.</li>
 					<li>Melt butter in 10-inch skillet over medium heat and cook, swirling constantly, until butter turns golden brown, about 5 minutes. Stir in reserved nuts, parsley and 1&frasl;2 teaspoon salt. Toss with pasta and serve with grated Parmesan cheese.</li>
