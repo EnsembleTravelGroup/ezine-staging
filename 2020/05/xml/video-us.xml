@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2005" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[May 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+		
+		<author><![CDATA[G Adventures]]></author>
+		<id_supplier><![CDATA[gad]]></id_supplier>
+		
+		<title><![CDATA[Stay home. Stay kind. Stay connected.]]></title>
+		<teaser><![CDATA[G Adventures]]></teaser>
+		<lead><![CDATA[
+			Travel teaches us that we’re stronger when we come together. And that’s never been more true.
+		]]></lead>
+		<body><![CDATA[
+			<p>G Adventures can’t wait to share our big, beautiful world with you again. Our world deserves more you.</p>
+		]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/g5m9QzrFMqc?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	
+	<article date="2005" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[May 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+		
+		<author><![CDATA[Globus Family of Brands]]></author>
+		<id_supplier><![CDATA[gfb]]></id_supplier>
+		
+		<title><![CDATA[Dreaming Doesn't Stop]]></title>
+		<teaser><![CDATA[Globus Family of Brands]]></teaser>
+		<lead><![CDATA[
+			We may have been temporarily relegated to armchair travelers, but we are still travelers!
+		]]></lead>
+		<body><![CDATA[
+			<p>Like the geysers of Yellowstone and the peaks of the Andes, we will rise – and the world will shine. Until the day comes when the Globus Family of Brands can resume the joy of being your global guide, keep dreaming. We certainly are.</p>
+		]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/2-l6OttmJfc?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	
+	<article date="2005" id="03">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[May 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[05]]></dir_month>
+		<file_video><![CDATA[03]]></file_video>
+		
+		<author><![CDATA[Ya’lla World]]></author>
+		<id_supplier><![CDATA[yal]]></id_supplier>
+		
+		<title><![CDATA[Welcome to the Ya’lla World!]]></title>
+		<teaser><![CDATA[Ya’lla World]]></teaser>
+		<lead><![CDATA[
+			An enticing glimpse of the wonders of Ya’lla World - Cuba, Egypt, Greece, Israel Jordan, Morocco, Oman, Turkey and UAE
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/dm9aYNdrOcY?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>
