@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	​
+	<article date="2006" id="01">
+		<dir_name><![CDATA[recipe]]></dir_name>
+		<pub_date><![CDATA[June 2020]]></pub_date> <!-- June = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		<id_recipe><![CDATA[01]]></id_recipe>
+		​
+		<tab_class><![CDATA[active]]></tab_class>
+		​
+		<author><![CDATA[Oceania Cruises]]></author>
+		<id_supplier><![CDATA[ocn]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		<cookbook><![CDATA[]]></cookbook>
+		​
+		<title><![CDATA[Jacques' Rotisserie Chicken]]></title>
+		<teaser><![CDATA[Oceania Cruises]]></teaser>
+		<lead><![CDATA[
+			Inspired by legendary Master Chef Jacques P&eacute;pin, the cuisine of Oceania Cruises is renowned as the finest at sea and rivals Michelin-starred restaurants ashore. The commitment to cuisine shines in the artisanal ingredients and an array of gourmet restaurants, but truly comes to life with the passionate chef who craft each recipe from the heart. Oceania Cruises shares Master Chef Jacques P&eacute;pin's signature rotisserie chicken recipe.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		​
+		<item>
+			<title><![CDATA[]]></title>
+			<ingredients><![CDATA[
+				<h4>Ingredients</h4> <!-- Ingrédients -->
+				<ul>
+					<li>1 whole chicken, 4&frac12; to 5 pounds, trimmed of excess fat</li>
+					<li>Canola oil</li>
+					<li>Fleur de sel</li>
+				</ul>
+				
+				<h4>Seasoning Blend:</h4>
+				<ul>
+					<li>2 bay leaves</li>
+					<li>2 tablespoons dried thyme</li>
+					<li>1 tablespoon plus 1 teaspoon dried rosemary</li>
+					<li>1 tablespoon plus 1 teaspoon dried sage</li>
+					<li>1&frac12; teaspoons dried basil</li>
+					<li>1 teaspoon dried oregano</li>
+					<li>&frac14; cup kosher salt</li>
+					<li>2 tablespoons sweet paprika</li>
+					<li>1 teaspoon ground ginger</li>
+					<li>&frac34; teaspoon ground coriander</li>
+					<li>&frac34; teaspoon ground mace</li>
+					<li>&frac12; teaspoon ground white pepper</li>
+					<li>&frac12; teaspoon ground cloves</li>
+					<li>&frac14; teaspoon ground cardamom</li>
+				</ul>
+			]]></ingredients>
+			​
+			<prep><![CDATA[
+				<h4>For the Seasoning Blend</h4>
+				<p>In a spice grinder, combine the bay leaves, thyme, rosemary, sage, basil, and oregano and grind to a coarse powder. Transfer the ground mixture to a small bowl and stir in the salt, paprika, ginger, coriander, mace, white pepper, cloves, and cardamom.</p>
+				<h4>For the Chicken</h4>
+				<p>Rotisserie and grill set-up will vary depending on the manufacturer, so follow the instructions provided with your equipment. For a grill that has a separate burner or infrared heating element for the rotisserie, preheat that area to medium-high and preheat the grill under the rotisserie to medium.</p>
+				<p>Place the chicken on a work surface and place a long piece of kitchen twine under the wings. Bring the twine up around the chicken and tie, securing the wings against the bird. Tie the drumsticks together with a separate piece of twine. Trussing the chicken will help it cook more evenly.</p>
+				<h4>To Season and Cook the Chicken</h4>
+				<p>Rub the chicken with an even coating of the seasoning blend. You won&rsquo;t need all of it. Store the remainder in an airtight container at room temperature for future use. Lightly dab the surface of the seasoned chicken with canola oil to help the spice blend adhere.</p>
+				<p>Secure the chicken to the rotisserie rod using the prongs provided. Cook, adjusting the heat as needed to keep the chicken skin from becoming too dark as the meat cooks. The chicken is done when a kitchen thermometer inserted into the meatiest part of the thigh without touching the bone registers 165&deg;F, about 1&frac12; hours.</p>
+				<h4>To Serve</h4>
+				<p>Remove the chicken from the rotisserie and let rest for 10 minutes. Cut into serving pieces and arrange on a platter. Sprinkle with fleur de sel.&nbsp;</p>
+			]]></prep>
+		</item>
+		​
+		<body_2><![CDATA[]]></body_2>
+		​
+		<sidebar><![CDATA[]]></sidebar>
+		​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/06/hero/recipe-01.jpg</hero_src>
+		<hero_caption><![CDATA[Jacques' Rotisserie Chicken]]></hero_caption>
+		<hero_credit><![CDATA[Oceania Cruises]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/06/article/recipe-01.jpg</article_src>
+		<article_caption><![CDATA[Jacques' Rotisserie Chicken]]></article_caption>
+		<article_credit><![CDATA[Oceania Cruises]]></article_credit>
+		​
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+
+</root>
