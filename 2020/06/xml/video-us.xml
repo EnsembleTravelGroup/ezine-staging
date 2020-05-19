@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	​
+	<!--
+		* Links for YouTube thumbnail images *
+		https://img.youtube.com/vi/youtubeID/0.jpg
+		https://img.youtube.com/vi/youtubeID/maxresdefault.jpg
+	-->
+	​
+	<article date="2006" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[June 2020]]></pub_date> <!-- June = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+		​
+		<author><![CDATA[Paradisus by Melia]]></author>
+		<id_supplier><![CDATA[amr]]></id_supplier>
+		​
+		<title><![CDATA[Bring the Taste of Paradise Home with Paradisus by Melia]]></title>
+		<teaser><![CDATA[Paradisus by Melia]]></teaser>
+		<lead><![CDATA[
+			Enjoy a Foodie Moment with Paradisus by Melia’s talented Chef Felipe Quezada, who will teach you how to make a delicious BBQ from the comfort of your own home.
+		]]></lead>
+		<body><![CDATA[
+		
+		]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/lbxKpURyVZE?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+		​
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	​
+</root>
