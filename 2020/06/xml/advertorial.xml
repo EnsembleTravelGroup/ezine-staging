@@ -59,19 +59,56 @@
 		<tile_color>A8CB17</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
+	​</article>
+	
+	<article date="2006" id="02">
+		<dir_name><![CDATA[advertorial]]></dir_name>
+		<pub_date><![CDATA[June 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		<id_article><![CDATA[02]]></id_article>
 		​
-		<tags>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-		</tags>
+		<author><![CDATA[Insight Vacations]]></author>
+		<id_supplier><![CDATA[ins]]></id_supplier>
+		​
+		<title><![CDATA[Discover Insight Vacations new series of trips created for women, by women]]></title>
+		<teaser><![CDATA[Insight Vacations]]></teaser>
+		<lead><![CDATA[
+			Cast aside your inhibitions and indulge your wanderlust on journeys that will connect you with other cultures, communities and companions.
+		]]></lead>
+		<body><![CDATA[
+			<p>Insight Vacations is launching the first trip in our new series, Wander Women journeys. Join a diverse group of women travellers from all over the world on journeys that will immerse you in the local culture through unique Insight Experiences that reflect a wide range of interests.</p>
+			<h4>#MakeTravelMatter</h4>
+			<p>Did you know that the tourism industry supports empowering women all around the world? From community initiatives to small enterprises, collectives, and local businesses, tourism offers women the opportunity for economic advancement and self-sustainability. It also connects people all over the world with unique experiences that show us the perspectives of different cultures.</p>
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/06/article/advertorial-02-01.jpg">
+			</figure>
+			
+			<p>Our proud female leadership team at Insight Vacations has worked to create itineraries that inspire women to travel together, enjoy unique experiences, and empower local women and their communities through sustainable tourism.</p>
+			<h4>Discover our first wander women trip</h4>
+			<p>For women travelers in search of new experiences, this soul-enriching journey inspires you to discover the beauty of India in the company of other women travelers from around the world.</p>
+			<p>Explore India&rsquo;s majestic forts, monuments, and temples, its bustling bazaars filled with exquisite crafts, the beautiful landscapes and natural reserves, and above all else, the people and culture that make this place so special.</p>
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/06/article/advertorial-02-02.jpg">
+			</figure>
+
+			<p>On this journey, you&rsquo;ll appreciate the ancient traditions and modern innovations as we reveal India to you from the perspective of local people, including many inspiring women who are leaders in their communities.</p>
+			<p>As a founding member of the non-profit TreadRight Foundation, Insight Vacations is committed to supporting the people, planet, and wildlife through responsible and mindful tourism practices.</p>
+			<p>It&rsquo;s easy to travel sustainably. Are you willing to join us in our mission to #MakeTravelMatter? <a href="https://youtu.be/mkBQMdPebwY" target="_blank">Get a preview</a></p>
+		]]></body>
+		​
+		<body_2><![CDATA[]]></body_2>
+		​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/06/hero/advertorial-02.jpg</hero_src>
+		<hero_caption><![CDATA[Discover Insight Vacations new series of trips created for women, by women]]></hero_caption>
+		<hero_credit><![CDATA[Insight Vacations]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/06/article/advertorial-02.jpg</article_src>
+		<article_caption><![CDATA[Discover Insight Vacations new series of trips created for women, by women]]></article_caption>
+		<article_credit><![CDATA[Insight Vacations]]></article_credit>
+		​
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
 	</article>
 	​
 </root>
