@@ -80,5 +80,66 @@
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 	</article>
-
+	
+	<article date="2006" id="02">
+		<dir_name><![CDATA[recipe]]></dir_name>
+		<pub_date><![CDATA[June 2020]]></pub_date> <!-- June = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		<id_recipe><![CDATA[02]]></id_recipe>
+		​
+		<tab_class><![CDATA[]]></tab_class>
+		​
+		<author><![CDATA[Regent Seven Seas]]></author>
+		<id_supplier><![CDATA[reg]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		<cookbook><![CDATA[]]></cookbook>
+		​
+		<title><![CDATA[Aperol Spritz]]></title>
+		<teaser><![CDATA[Regent Seven Seas]]></teaser>
+		<lead><![CDATA[
+			Gianlucca and the bar team aboard Seven Seas Explorer® have prepared a lovely summer cocktail, an Aperol Spritz, especially for you. Watch as they work together to craft the perfect version of this cocktail, followed by a surprise appearance by one of Regent’s favorite crew members!
+		]]></lead>
+		<body><![CDATA[
+			<div class="videoWrapper" style="padding-bottom: 45%;">
+				<figure>
+					<iframe width="853" height="480" src="https://www.youtube.com/embed/UB7Q9dv4PFQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				</figure>
+			</div>
+		]]></body>
+		​
+		<item>
+			<title><![CDATA[]]></title>
+			<ingredients><![CDATA[
+			<h4>Ingredients</h4> <!-- Ingrédients -->
+			<ul>
+				<li>2 ounces Aperol</li>
+				<li>3 ounces of prosecco, freshly opened</li>
+				<li>1 ounce soda or sparkling water</li>
+				<li>1 orange slice</li>
+			</ul>
+			]]></ingredients>
+			​
+			<prep><![CDATA[
+			<h4>Preparation</h4> <!-- Préparation -->
+			<p>Pour the Aperol and fresh prosecco into a wine glass filled with ice.</p>
+			<p>Top with sparkling or soda water and garnish with an orange slice.</p>
+			]]></prep>
+		</item>
+		​
+		<body_2><![CDATA[]]></body_2>
+		​
+		<sidebar><![CDATA[]]></sidebar>
+		​
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/06/hero/recipe-02.jpg</hero_src>
+		<hero_caption><![CDATA[Aperol Spritz]]></hero_caption>
+		<hero_credit><![CDATA[Regent Seven Seas]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/06/article/recipe-02.jpg</article_src>
+		<article_caption><![CDATA[Aperol Spritz]]></article_caption>
+		<article_credit><![CDATA[Regent Seven Seas]]></article_credit>
+		​
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
 </root>
