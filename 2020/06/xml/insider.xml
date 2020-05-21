@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2006">
+		<dir_name><![CDATA[insider]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[June 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		
+		<author><![CDATA[Ensemble Travel]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Club Med Presents Virtual and Domestic Family Experiences]]></title>
+		<teaser><![CDATA[
+			Dreaming of a summer vacation that’s a bit closer to home?
+		]]></teaser>
+		<lead><![CDATA[
+			Dreaming of a summer vacation that’s a bit closer to home? We caught up with Vikki Knudsen, Director of National Accounts, eDistribution and MICE, on the virtual and domestic experiences you can have with Club Med.
+		]]></lead>
+		<body><![CDATA[
+			<p class="question"><strong>Q:</strong> During this time, what kind of virtual experiences is Club Med offering?</p>
+			<p>We can&rsquo;t wait to welcome you and your clients back to our resorts but, in the meantime, we wanted to bring Club Med to you! Club Med at Home is our new activity series featuring resort-inspired recipes, workouts, games, and more for you to participate in with loved ones. Have you always wanted to bring our famous Sandpiper Bay white-chocolate bread home with you? Are you still thinking about that fantastic workout you had at Club Med Punta Cana? Now, you can experience all your favorite resort activities from home!</p>
+			<p class="question"><strong>Q:</strong> What at-home activities has Club Med created for kids?</p>
+			<p>Club Med at Home makes kids feel as if they&rsquo;re at one of our resorts&rsquo; top-rated Children&rsquo;s Clubs! Your little ones can get creative with arts and crafts, test their skills with games and challenges, and take family game night to the next level with Club Med charades, pictionary, and more.</p>
+			<p class="question"><strong>Q:</strong> Are there any Club Med at Home activities for adults?</p>
+			<p>Absolutely! We know just how to help parents relax and unwind as if they&rsquo;re beachside at one of our Caribbean resorts. Check out our happy hour recipes on how to make our resorts&rsquo; signature cocktails, such as La Bruja from Club Med Ixtapa Pacific, curated playlists for when you want to turn things up or wind down, and workouts that can be done anywhere.</p>
+			<p class="question"><strong>Q:</strong> Tell us a bit about Club Med&rsquo;s North American properties and what makes them unique.</p>
+			<p>Club Med&rsquo;s North American resorts are designed with the family in mind! Families can enjoy time together through our new Amazing Family Program and more than 50 sports and activities. Plus, kids can have their own adventures in the resorts&rsquo; top-rated Children Clubs, while parents relax in our adult-exclusive pools and relaxation spaces.</p>
+			<p>Each resort also offers unique activities only available through Club Med, including but not limited to: an acrobatic playground at Club Med CREACTIVE by Cirque du Soleil in Punta Cana, Secret Chocolate Room at Mich&egrave;s Playa Esmeralda, Aguamarina Family Oasis at Canc&uacute;n Yucat&aacute;n, and private sport lessons with top-ranked coaches at Sandpiper Bay.</p>
+			<p>I invite you to take virtual tours of our North America resorts here:</p>
+			<ul>
+				<li><a href="https://youtu.be/sHPNFLR2ocY" target="_blank">Punta Cana, Dominican Republic</a></li>
+				<li><a href="https://youtu.be/EZ0VqbnfSck" target="_blank">Canc&uacute;n Yucat&aacute;n, Mexico</a></li>
+				<li><a href="https://youtu.be/tARO42-uDsg" target="_blank">Sandpiper Bay, Florida</a></li>
+				<li><a href="https://youtu.be/GhWPjyDI2q8" target="_blank">Turkoise, Turks &amp; Caicos</a></li>
+				<li><a href="https://youtu.be/2U8qfwXYFSc" target="_blank">Columbus Isle, Bahamas</a></li>
+				<li><a href="https://youtu.be/1y74mTX1W_U" target="_blank">Mich&egrave;s Playa Esmeralda, Dominican Republic</a></li>
+				<li><a href="https://youtu.be/efZ7lWej1YQ" target="_blank">Ixtapa Pacific, Mexico</a></li>
+				<li><a href="https://youtu.be/B2ufnvxoq1M" target="_blank">Buccaneer&rsquo;s Creek, Martinique &ndash; French Caribbean</a></li>
+			</ul>
+			<p class="question"><strong>Q:</strong> Which North American property do you recommend most for a family vacation right now?</p>
+			<p>We understand domestic travel is currently at the top of many travelers&rsquo; minds, so Club Med is thrilled to welcome you to Sandpiper Bay, Florida&rsquo;s best all-inclusive family resort, reopening June 12, 2020. Conveniently located between Miami and Orlando, Sandpiper Bay is designed to keep the entire family entertained with activities while reconnecting with each other. The resort offers endless activities and sports to choose from including tennis, golf, pickleball, soccer and beach volleyball, as well as an onsite 18-hole golf course. This close-to-home getaway is perfect for clients ready to go on their next family vacation.</p>
+			<p class="question"><strong>Q:</strong> Describe a Club Med stay in one word.</p>
+			<p>Happiness.</p>
+			
+			<br/>
+			
+			<p>Pictured above: Club Med Sandpiper Bay, FL (reopening June 12, 2020)</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/06/hero/insider.jpg</hero_src>
+		<hero_caption><![CDATA[Club Med Presents Virtual and Domestic Family Experiences]]></hero_caption>
+		<hero_credit><![CDATA[On Location]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/06/article/insider.jpg</article_src>
+		<article_caption><![CDATA[Club Med Presents Virtual and Domestic Family Experiences]]></article_caption>
+		<article_credit><![CDATA[On Location]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/06/email/insider.jpg</email_src>
+		
+		<tile_color>FA6900</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="luxury-hotels-resorts"><![CDATA[luxury-hotels-resorts]]></tag>
+			<tag slug="all-inclusive"><![CDATA[all-inclusive]]></tag>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+		</tags>
+	</article>
+</root>
