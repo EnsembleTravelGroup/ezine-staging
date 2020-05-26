@@ -33,5 +33,30 @@
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 	</article>
+	
+	<article date="2006" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[June 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+		
+		<author><![CDATA[Silversea]]></author>
+		<id_supplier><![CDATA[sil]]></id_supplier>
+		
+		<title><![CDATA[Silversea Cruises Shares the First Glimpse of Silver Origin Underway]]></title>
+		<teaser><![CDATA[Silversea]]></teaser>
+		<lead><![CDATA[
+			Be inspired by the first ever preview of Silversea's Silver Origin, the most elegant ship ever to sail the Galapagos.
+		]]></lead>
+		<body><![CDATA[ ]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/d6fxufcSzoE?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
 	​
 </root>
