@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	
+	<article date="2006" id="index"> <!-- use 'index' for spotlight/insider/index/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[topten]]></dir_name> <!-- usually 'index' OR 'advertorial' -->
+		<pub_date><![CDATA[June 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		<id_article><![CDATA[index]]></id_article>
+		
+		<author><![CDATA[Isabelle Labrosse and Alexa Wheeler]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<id_supplier><![CDATA[spacer]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/index/cruising) -->
+		
+		<title><![CDATA[6 North American Small Towns for a Perfect Summer Road Trip]]></title>
+		<teaser><![CDATA[
+			Cute towns and road trips, a match made in heaven.
+		]]></teaser>
+		<lead><![CDATA[
+			Even if travel restrictions are loosened and destinations start opening up again, there&rsquo;s no doubt our summer vacation plans will need to be reshaped in one way or another.
+		]]></lead>
+		<body><![CDATA[
+			<p>As many travelers set their sights on uncrowded, local and outdoorsy locations this summer, we&rsquo;ve rounded up some of the best small towns to visit with surrounding areas that provide for perfect summer road trips.</p>
+		]]></body>
+		
+		<gallery>
+			<img>
+				<title><![CDATA[Whitehorse and the South Klondike Highway, Yukon]]></title>
+				<content><![CDATA[One of Canada&rsquo;s best-kept secrets, Whitehorse is the place for anyone seeking space, peace and quiet. The &ldquo;Wilderness City&rdquo; offers amazing outdoor adventure possibilities, wildlife all around, plenty to eat and drink &hellip; plus many wide-open, traffic-free roads. Easily accessible from town, the South Klondike Highway rolls through the stunning scenery and quaint villages of the Yukon&rsquo;s Southern Lakes region, and its rich Gold Rush history makes it a highly memorable drive for travelers. Going south from Whitehorse, there are many photo opportunities along the way, like the beautiful Emerald Lake, known for its intense blue-green hue, as well as the one-square-mile Carcross Desert, often referred to as the world&rsquo;s smallest desert, formed during the last Ice Age. And when you add in First Nation culture, arts and crafts, and friendly people, you have the perfect recipe for a road trip to remember.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/06/article/topten-index-01.jpg]]></src>
+				<position>0</position>
+				<class>active</class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Sedona and the Red Rock Scenic Byway, Arizona]]></title>
+				<content><![CDATA[Just 110 miles north of Phoenix and a few hours south of the Grand Canyon, Sedona is perfectly suited for those looking to truly explore the unique terrain North America has to offer. But you won&rsquo;t have to venture far to immerse yourself into Red Rock Country. For a taste of Native American culture, visit the Tlaquepaque Arts and Crafts Village. Then, hop on the Red Rock Scenic Byway for stunning view you&rsquo;ll want to capture with a camera. Popular stops along the way include Cathedral Rock, Chapel of the Holy Cross, Little Horse Trail, and Bell Rock Vista and Pathway. Near the city, you can hike Airport Mesa, a scenic loop trail with sweeping panoramas of the famous red rocks, and you&rsquo;ll also find Oak Creek Canyon northeast of Sedona and Devil&rsquo;s Bridge to the northwest. For another unique and worthwhile experience, consider taking in Red Rock Country at sunrise from a bird&rsquo;s eye view &ndash; a hot air balloon. Or, take in the night sky and go on an Evening Sky Tour where you&rsquo;ll stargaze like never before.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/06/article/topten-index-02.jpg]]></src>
+				<position>1</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Kelowna and the Okanagan Corridor, British Columbia]]></title>
+				<content><![CDATA[Thanks to perfect soil and climate conditions that make it possible to grow a wide range of grape varietals, British Columbia&rsquo;s Okanagan Valley boasts 120 wineries ranging from world-class producers to family-run vineyards. And with an average of over 2,000 hours of sunshine every year, Kelowna, the valley&rsquo;s hub, is a city with small-town vibes ideal for sipping vino and adventuring. Stay for a few days to indulge in the multitude of urban wineries, breweries, and local foodie options, and be sure to spend some time exploring the great outdoors, as well &ndash; a must is biking at Myra Canyon, a section of the Kettle Valley Rail Trail passing over 18 trestle bridges and going through two tunnels. Then, head south on Highway 97 for a scenic drive along the Okanagan Lake towards Oliver, proclaimed Canada&rsquo;s wine capital, and the desert town of Osoyoos. A backdrop of rolling vineyards, sun-soaked mountains and glistering lakes awaits.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/06/article/topten-index-03.jpg]]></src>
+				<position>2</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Fredericksburg and Highway 290, Texas]]></title>
+				<content><![CDATA[Deep in the heart of Texas lies Fredericksburg, a quintessential Texas town known for its wineries and German heritage. With proximity to both Austin and San Antonio, it has become a domestic destination for local Texans and visitors alike. With over 50 wineries and tasting rooms in Fredericksburg and its surrounding area, you can spend the day sipping vino. Or, you can stroll down the picturesque Main Street stopping off at the several German restaurants, biergartens and bakeries. And, if visiting in the summer, make sure to pick up fresh peaches from a road-side stand. For an incredible outdoor hike, visit Enchanted Rock, the largest pink granite monadnock in the United States. Arrive early, and pack water and sunscreen in preparation for the Texas heat. If you&rsquo;re spending the weekend in the area, head east on Highway 290. You&rsquo;ll have to meander off the main route to reach some hidden gems, but it&rsquo;s worth it. Visit Hamilton Pool Preserve, a natural swimming hole and waterfall and, for the adventurous at heart, dive into the deep blue waters of Jacob&rsquo;s Well if you dare. And, if sightseeing on a Saturday, stop off at Wimberley for the Wimberley Market Days.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/06/article/topten-index-04.jpg]]></src>
+				<position>3</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Tadoussac and the Whale Route, Quebec]]></title>
+				<content><![CDATA[The charming village of Tadoussac &ndash; population 800 &ndash; is the gateway to Quebec&rsquo;s remote C&ocirc;te-Nord (North Shore). Located at the confluence of the Saguenay and St. Lawrence rivers, the village is claimed to be one of the best places in the world for whale watching. If you want to take the experience up a notch, embark on a multi-day, coast-hugging road trip along the less-traveled, 546-mile Whale Route, stretching from Tadoussac to Kegashka where the road (literally) ends. Whether from a zodiac or directly from the land, you&rsquo;ll get a chance to see the mighty blows of one of 13 whale species found in the St. Lawrence Estuary. This epic drive also leads you through the diverse Manicouagan-Uapishka World Biosphere Reserve, and offers opportunities to learn about the region&rsquo;s ornithology, mycology and geology, especially at Mingan Archipelago Marine Park Reserve, where you&rsquo;ll find the country&rsquo;s greatest concentration of eroded monoliths, dating back millions of years.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/06/article/topten-index-05.jpg]]></src>
+				<position>4</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Asheville and the Blue Ridge Parkway, North Carolina]]></title>
+				<content><![CDATA[Asheville, North Carolina may be one of the most underrated U.S. destinations considering all it has to offer visitors. Known for its beer scene, Asheville was named Beer City USA in 2009 and has held onto its title almost every year since. With more breweries per capita than any other U.S. city, it&rsquo;s the perfect beer-cation. But for those who aren&rsquo;t looking to enjoy a pint (or two), Asheville also offers the unique Asheville Urban Trail that visitors can follow to learn about the city&rsquo;s history, the Biltmore Estate (also known as America&rsquo;s largest home) with an accompanying inn, gardens and winery, and the stunning Blue Ridge Mountains. For an outdoor adventure, hop onto the Blue Ridge Parkway, take it slow, and enjoy the breathtaking views. The road is quite long, but you can hit many of the sights between Asheville and Blowing Rock, including several waterfalls. Make sure to stop at the overlooks to take in the views! You can also stop off at the Linn Cove Viaduct and go hiking underneath it to get an up-close look at its engineering. And, if there&rsquo;s time, drive up Mount Mitchell, the highest peak in mainland eastern North America. All of this can be done in a day&rsquo;s time with Asheville as your home base.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/06/article/topten-index-06.jpg]]></src>
+				<position>5</position>
+				<class></class>
+			</img>
+		</gallery>
+		
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/06/hero/topten-index.jpg]]></hero_src>
+		<hero_caption><![CDATA[6 North American Small Towns for a Perfect Summer Road Trip]]></hero_caption>
+		<hero_credit><![CDATA[Ensemble Travel]]></hero_credit>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/06/article/topten-index.jpg]]></article_src>
+		<article_caption><![CDATA[6 North American Small Towns for a Perfect Summer Road Trip]]></article_caption>
+		<article_credit><![CDATA[Ensemble Travel]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/06/email/topten-index.jpg</email_src>
+		
+		<tile_color>FFC500</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Top Ten:FFC500, Cruising:00B9F2, Advertorial:A8CB17 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="food-wine"><![CDATA[food-wine]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="hiking-trekking"><![CDATA[hiking-trekking]]></tag>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+		</tags>
+	</article>
+</root>
