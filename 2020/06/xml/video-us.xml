@@ -33,5 +33,32 @@
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 	</article>
+	
+	<article date="2006" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[June 2020]]></pub_date> <!-- June = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[06]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+		​
+		<author><![CDATA[Le Boat]]></author>
+		<id_supplier><![CDATA[ltb]]></id_supplier>
+		​
+		<title><![CDATA[Canada is Calling... Consider a Vacation That is Closer to Home with Le Boat]]></title>
+		<teaser><![CDATA[Le Boat]]></teaser>
+		<lead><![CDATA[
+			Consider a luxury private boat rental vacation with Le Boat on the UNESCO World Heritage Rideau Canal, just next door in Ontario Canada. No previous boating experience or license required!
+		]]></lead>
+		<body><![CDATA[
+			<p>Le Boat offers the opportunity to get away from your home and into your home on the water. It's a personal space for you and your family or close friends with everything you need for a comfortable stay on board.</p>
+		]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/yg6Yo3WQ__E?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+		​
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
 	​
 </root>
