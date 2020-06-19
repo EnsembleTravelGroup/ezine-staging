@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2007">
+		<dir_name><![CDATA[spotlight]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[July 2020]]></pub_date> <!-- July = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[07]]></dir_month>
+		
+		<author><![CDATA[Los Cabos]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Los Cabos Awaits Your Return]]></title>
+		<teaser><![CDATA[
+			The way we travel might have changed, but Los Cabos’ unique experiences remain the same.
+		]]></teaser>
+		<lead><![CDATA[
+			Located on the southernmost tip of Baja California, Mexico, and considered one of the world&acute;s most inspiring destinations, Los Cabos is a hot spot year round. From the hot and wild summer to the fresh and vibrant winter, there isn&rsquo;t a season when this unique destination isn&rsquo;t amazing.
+		]]></lead>
+		<body><![CDATA[
+			<p>It almost seems unfair that one destination conformed by two towns (Cabo San Lucas and San Jose del Cabo) boasts so many incredible attractions: stunning blue flag beaches, perfect weather, remarkable biodiversity, delicious gastronomy, sophisticated accommodations, world-class night clubs, and spectacular tours along the marvelous peninsula.</p>
+			<p>Los Cabos just announced a Five-Phase approach to reopening beginning June 1<sup>st</sup>. The way we travel might have changed, but Los Cabos&rsquo; unique experiences remain the same. The goal of the phased reopening is to systematically allow companies to resume activities while protecting the health and safety of the community and travelers, and limiting the resurgence of new COVID-19 cases.</p>
+			<p>The tourism board also confirmed that 62 percent of the hotel inventory will resume operations while international airlines like Alaska Airlines, American Airlines, Southwest, and Delta have already announced their return to the destination. If you haven&rsquo;t been here before, or even if you have and are dreaming about returning, here are some of the many reasons you&rsquo;ll fall in love with this stretch of paradise. <a href="https://www.youtube.com/watch?v=6-Ppqrir1Jk" target="_blank">Los Cabos awaits your return</a>.</p>
+			<h4>Blue Flag Beaches</h4>
+			<p>There are 19 beaches worthy of this distinction &ndash; no wonder Los Cabos ranks as the top destination in Mexico for visitors! When you see a Blue Flag flying, you know a beach or marina is clean and accessible, has great water quality, meets high safety standards, and is working hard to protect local shorelines and ecosystems. Along the rocky cliffs lie a great deal of bays, luxurious resorts, and soft sandy beaches. The water tonalities cover all shades of blue, from navy to turquoise, and green. When you drive along the corridor from San Jose del Cabo to Cabo San Lucas, the color palette is something else!</p>
+			<h4>The Arch of Cabo San Lucas</h4>
+			<p>The distinctive landmark of Cabo San Lucas is the rugged taffy-colored rock formation that erupts from the sea at the tip of the Baja Peninsula, where the Pacific Ocean meets the Sea of Cortez. Also known as Land's End, The Arch is a popular tourist attraction and the central focus of countless vacation photos. A visit to Land's End is undoubtedly one of the most popular things to do in Cabo San Lucas. Getting there is easy, and you can view the iconic golden arch from your boat. Some might call it the &ldquo;land&acute;s end,&rdquo; but for us, it&rsquo;s just the beginning of your next unforgettable adventure.</p>
+			<h4>Whale Watching Tours</h4>
+			<p>Whale season in Los Cabos occurs from December to April. Getting close to their habitat is an unparalleled experience you&rsquo;ll talk about for years to come. Imagine being on the front row admiring their colossal size and extraordinary longevity. Environmental protection, non-invasive tour protocols, as well as support of both local and worldwide conservation are of great concern for every tour operator in the Cabo San Lucas bay. Please follow the instructions of your guide and enjoy this unrivaled spectacle.&nbsp;</p>
+			<h4>Scuba Diving and Snorkeling</h4>
+			<p>Speaking of amazing sea life, the Sea of Cortez in Los Cabos has a huge variety of sea flora including one of the most beautiful coral reefs in the world.&nbsp;Don&acute;t forget to partake in scuba diving and snorkeling lessons, but make sure to keep conservational rules in mind so we can preserve the reservoir for generations to come. Operators are eager to help you find the best possible tour, so go ahead and plan your trip now.</p>
+			<h4>San Jose del Cabo</h4>
+			<p>San Jose del Cabo&acute;s downtown main plaza and its distinctive architecture has become an Art District where you can find art crafts from all over the world, but mainly Mexican art and local creations. It&acute;s also a hot spot for shopping and dining. This adorable town has an interesting variety of bohemian and artistic restaurants, cafes and galleries. From November to June, it hosts the Art Walk, an event that takes you on a stunning stroll around the picturesque streets and charming stores of San Jose del Cabo. Its world-class marina, stunning gold-sand beaches, famous surf spots, and wildlife make this town a must see on your next vacation.</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/07/hero/spotlight.jpg</hero_src>
+		<hero_caption><![CDATA[Los Cabos Awaits Your Return]]></hero_caption>
+		<hero_credit><![CDATA[Destination Spotlight]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/07/article/spotlight.jpg</article_src>
+		<article_caption><![CDATA[Los Cabos Awaits Your Return]]></article_caption>
+		<article_credit><![CDATA[Destination Spotlight]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/07/email/spotlight.jpg</email_src>
+		
+		<tile_color>C8232C</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="art-architecture"><![CDATA[art-architecture]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="honeymoons"><![CDATA[honeymoons]]></tag>
+			<tag slug="safari-wildlife"><![CDATA[safari-wildlife]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+		</tags>
+	</article>
+</root>
