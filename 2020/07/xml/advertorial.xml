@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2007" id="01">
+		<dir_name><![CDATA[advertorial]]></dir_name>
+		<pub_date><![CDATA[July 2020]]></pub_date> <!-- July = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[07]]></dir_month>
+		<id_article><![CDATA[01]]></id_article>
+		
+		<author><![CDATA[Club Med]]></author>
+		<id_supplier><![CDATA[cmd]]></id_supplier>
+		
+		<title><![CDATA[Let's Escape Again ]]></title>
+		<teaser><![CDATA[Club Med]]></teaser>
+		<lead><![CDATA[
+			Club Med, pioneer of the all-inclusive concept, is ready to welcome you back for a safe and unforgettable getaway.
+		]]></lead>
+		<body><![CDATA[
+			<p>Over the last few months, Club Med has taken major steps to prepare for the anticipated return of travel, from new safety protocols to booking policies designed with you in mind. As their resorts begin to reopen, they are more ready than ever for you to enjoy your dream vacation at some of the world&rsquo;s most stunning destinations.</p>
+			
+			<h4>They&rsquo;re Ready When You Are</h4>
+			<p>All their North American resorts are scheduled to reopen in 2020 on the following dates, led by Club Med Sandpiper Bay, Florida&rsquo;s successful reopening June 12, 2020:</p>
+			<ul>
+				<li>Now Open: Club Med Sandpiper Bay, Florida</li>
+				<li>July 1, 2020: Club Med Canc&uacute;n Yucat&aacute;n, Mexico</li>
+				<li>August 1, 2020: Club Med Turkoise, Turks &amp; Caicos</li>
+				<li>October 17, 2020:
+					<ul>
+						<li>Club Med Punta Cana, D.R.</li>
+						<li>Club Med Caravelle, Guadeloupe</li>
+					</ul>
+				</li>
+				<li>December 5, 2020: Club Med Mich&egrave;s Playa Esmeralda, D.R.</li>
+				<li>December 12, 2020:
+					<ul>
+						<li>Club Med Ixtapa Pacific, Mexico</li>
+						<li>Club Med Buccaneer's Creek, Martinique</li>
+						<li>Club Med Columbus Isle, Bahamas</li>
+					</ul>
+				</li>
+			</ul>
+			
+			<h4>Keeping You &amp; Their Staff Safe Together</h4>
+			<p>As you start to plan your getaways again, your safety remains Club Med&rsquo;s top priority. That is why they are thrilled to announce <em>Safe Together</em>, a new series of hygiene &amp; safety measures that were created by an International Scientific Committee comprised of a specialized team of doctors and professors. These measures are being implemented worldwide in all resorts and include, but are not limited to, the following changes:</p>
+			<ul>
+				<li>Capped capacity at 70%</li>
+				<li>Face-masks &amp; gloves worn by staff</li>
+				<li>Floor markings to reinforce social distancing</li>
+				<li>Temperature checks upon check-in</li>
+				<li>Increased schedules for the deep cleaning of accommodations, public spaces and equipment</li>
+			</ul>
+			
+			<h4>Travel &amp; Book with Peace of Mind</h4>
+			<p>Club Med also knows just how important it is for you to have complete flexibility on your travel plans, which is why Club Med offers <em>free cancellations up to 15 days prior to departure</em>, issuing full refund on the land portion of your stay.</p>
+			<p>Plus, through Club Med&rsquo;s <em>Best Rate Guarantee</em>, guests who find a lower price in the future on their same travel dates will receive a Future Travel Credit for a value equal to the price difference that can be used toward their next booking.</p>
+			
+			<h4>All-Inclusive Amenities, Unforgettable Experiences</h4>
+			<p>From the moment you begin your Club Med vacation, everything is taken care of, from airport transfers to more than 25 on-site sports &amp; activities. That&rsquo;s only the beginning too &ndash; each resort is also home to various gourmet cuisine options, premium open bars, and live entertainment for families, couples, and adventure-seekers alike to enjoy at their leisure.</p>
+			<p>Guests can also take their vacations to the next level by trying out new experiences only available through Club Med, from channeling their inner acrobat at CREACTIVE by Cirque du Soleil, a circus playground at Club Med Punta Cana, to enjoying the ultimate pool day at the new Aguamarina Family Oasis at Club Med Canc&uacute;n Yucat&aacute;n.</p>
+			<p>For more information, contact your travel advisor.</p>
+		]]></body>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/07/hero/advertorial-01.jpg</hero_src>
+		<hero_caption><![CDATA[Let's Escape Again ]]></hero_caption>
+		<hero_credit><![CDATA[Club Med]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/07/article/advertorial-01.jpg
+		</article_src>
+		<article_caption><![CDATA[Let's Escape Again ]]></article_caption>
+		<article_credit><![CDATA[Club Med]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+		</tags>
+	</article>
+</root>
