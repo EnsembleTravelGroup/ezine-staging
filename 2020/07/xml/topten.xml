@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2007" id="index"> <!-- use 'index' for spotlight/insider/topten/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[topten]]></dir_name> <!-- usually 'topten' OR 'advertorial' -->
+		<pub_date><![CDATA[July 2020]]></pub_date> <!-- July = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[07]]></dir_month>
+		<id_article><![CDATA[index]]></id_article>
+		
+		<author><![CDATA[Whitney Kruger]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<id_supplier><![CDATA[spacer]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/topten/cruising) -->
+		
+		<title><![CDATA[10 Villas Reopening in Mexico and the Caribbean]]></title>
+		<teaser><![CDATA[
+			They’re ready to welcome you back!
+		]]></teaser>
+		<lead><![CDATA[
+			As countries start their slow reopenings, our wanderlust and desire to venture beyond our immediate neighborhoods will grow, too. Yet, we still must be hyper-conscious of the current situation. With enhanced safety and health measures, thoroughly trained cleaning staff, distanced group arrivals, sanitization packages and more, renting a villa is an ideal option to enjoy an intimate vacation with your family, safely away from the crowds. Here are 10 luxurious villas in Mexico and the Caribbean where you’ll enjoy not only the sun and the beach, but also relaxation and peace of mind.
+		]]></lead>
+		<body><![CDATA[
+			<p>For more information about the various cleanliness and safety protocols, or to book a stay at one of these villas, contact your Ensemble travel advisor who is always there for you &ndash; before, during and after your travels.</p>
+		]]></body>
+		
+		<gallery>
+			<img>
+				<title><![CDATA[Rio Chico, Jamaica]]></title>
+				<content><![CDATA[Rio Chico is a magnificent 14-acre oceanfront estate with a staff of 12. Here, the rich character of The Riviera is married to the superb service of Colonial Jamaica. Just west of Ocho Rios on Jamaica&rsquo;s renowned north coast, Rio Chico&rsquo;s guest list includes diplomats, industrialists and celebrities from around the world. Active enthusiasts will enjoy a half basketball court, tennis court, and an on-site private gym. Explore two private beaches, three freshwater swimming pools, and a breathtaking series of waterfalls and rivers that join the beautiful Caribbean Sea.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/07/article/topten-index-01.jpg]]></src>
+				<position>0</position>
+				<class>active</class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Promiseas, Jamaica]]></title>
+				<content><![CDATA[Newly completed and exceptional in every way, Promiseas consists of two 4-bedroom contemporary villas located on a fabulous private sandy cove with views of the Caribbean Sea. Enjoy world-class service from the staff including chef, housekeepers and butlers. Dive into one of your two infinity-edge pools. Exercise at your private gym or rejuvenate at your private space in an underground cave featuring a massage deck and a hot tub. Even better? End the day with a tantalizing treat from your personal chef as you dine oceanside.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/07/article/topten-index-02.jpg]]></src>
+				<position>1</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Yarari Royale, Dominican Republic]]></title>
+				<content><![CDATA[Discover a new concept of luxury, where good taste, relaxation, fitness, modernism and minimalism are blended in such a way, you will have a unique experience: the Yarari Royale. As you enter through the main entrance, a high ceiling with a gentle breeze coming from the garden welcomes you to a large foyer sprinkled with subtle modern touches and governed by a minimalistic outlook. After a long beach day, the outdoor pool is the ideal break to cool off, or simply keep your shape in the most advanced home gym in the Caribbean.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/07/article/topten-index-03.jpg]]></src>
+				<position>2</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Casa Fryzer, Los Cabos]]></title>
+				<content><![CDATA[From a lofty vantage point atop Villas del Mar, Casa Fryzer is one of the most unique homes in Los Cabos. The sheer size of the contoured infinity swimming pool with a swim-up bar and inset lounging areas is simply astounding. Little could be as soothing as a well-deserved soak in the outdoor hot tub perched at the edge of the cliff. Indoors, you&rsquo;ll find a home theater, wine cellar, office with a pool table, and an ocean-view fitness room. Six dreamy bedrooms accommodate up to twelve guests and children are welcome.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/07/article/topten-index-04.jpg]]></src>
+				<position>3</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Casa Luna Escondida, Los Cabos]]></title>
+				<content><![CDATA[Situated in one of Mexico&rsquo;s most desirable destinations, Casa Luna Escondida is staffed with its own house manager, butler and chef. Encompassing 12,000 square feet of interior living space over four levels, it offers ten bedrooms, all with en-suite bathrooms, dressing areas, and private terraces. In addition to the spectacular pool with shallow shaded lounging areas, two of the guest casitas also have their own private plunge pool. This exceptional home has been decorated with style and sophistication in a neutral palette sure to provide the backdrop for a spectacular Cabo vacation.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/07/article/topten-index-05.jpg]]></src>
+				<position>4</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Casa del Mar, Riviera Maya]]></title>
+				<content><![CDATA[Set on an idyllic white sand beach, Villa Casa del Mar is an 11,915 square foot paradise with six bedrooms, six full bathrooms, a kids&rsquo; playhouse and gym, and a dedicated staff. Casually elegant, the Italian marble, mahogany furniture and tasteful d&eacute;cor will enhance any vacation. The oversized private pool and outdoor Jacuzzi, set in lush gardens, make an ideal tropical lounge where guests can unwind enjoying an exclusive experience. Perfect for a sunrise breakfast, lazy afternoon lounging or pre-dinner cocktails, the outdoor living area completes the perfect getaway.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/07/article/topten-index-06.jpg]]></src>
+				<position>5</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Villa Tartaruga &ndash; Arrecife 15, Dominican Republic]]></title>
+				<content><![CDATA[Like a Picasso masterpiece, the main entrance takes you through a corridor next to a crystal-clear pond and rounded white columns while discovering the cubic facade that takes you to the main foyer of this splendid two-story villa. The villa has a full gym with Technogym equipment, dumbbells and more. After your training session, the massage room offers all you need to relax and recover strength. For those who are not big sports fans, the property also has a unique 12-seat cinema to watch your favorite movie while enjoying popcorn.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/07/article/topten-index-07.jpg]]></src>
+				<position>6</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Casa Palma at Casa de Campo, Dominican Republic]]></title>
+				<content><![CDATA[Facing the world-famous Teeth of the Dog golf course and the Caribbean Sea, this magnificent house, designed by the best architectural team in Casa de Campo, breaks records in terms of elegance and charm. The villa opens to a very long, elegant pool and gazebo, displaying breathtaking views, a modern art collection, and a state-of-the-art kitchen. Enjoy the ultimate luxury living from the comforts of your own expansive villa nestled along the stunning Caribbean coastline.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/07/article/topten-index-08.jpg]]></src>
+				<position>7</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Frankfort on the Beach, Jamaica]]></title>
+				<content><![CDATA[Formerly a 17th-century fortress and now restored as a remarkable home on a private Caribbean beach, Frankfort on the Beach is one of the most desirable properties in Jamaica. Floor-to-ceiling bookcases divide the ground floor into two sections: one, an elegant inside dining space and dimly lit bar; the other, a comfy living room, television, music and gaming area. The beach is soft, the swimming water is wonderful, and the staff may surprise you with a torchlight beach feast.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/07/article/topten-index-09.jpg]]></src>
+				<position>8</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Canoe Cove on the Beach, Jamaica]]></title>
+				<content><![CDATA[Canoe Cove encourages a relaxed, unfussy vacation with an abundance of sporty options balanced with as much relaxation as anyone could want. The location is amazing. The service is excellent. The villa itself is stylish without pretense or overstatement, uncluttered and totally livable. Inside, textures of exotic woods establish a grounded, organic ambience as backdrop against stylish furnishings. The extended beach is approximately 1,000 feet long, and the uninterrupted view extends all the way to the horizon.]]></content>				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/07/article/topten-index-10.jpg]]></src>
+				<position>9</position>
+				<class></class>
+			</img>
+		</gallery>
+		
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/07/hero/topten-index.jpg]]></hero_src>
+		<hero_caption><![CDATA[10 Villas Reopening in Mexico and the Caribbean]]></hero_caption>
+		<hero_credit><![CDATA[Top Ten]]></hero_credit>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/07/article/topten-index.jpg]]></article_src>
+		<article_caption><![CDATA[10 Villas Reopening in Mexico and the Caribbean]]></article_caption>
+		<article_credit><![CDATA[Top Ten]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/07/email/topten-index.jpg</email_src>
+		
+		<tile_color>FFC500</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="caribbean"><![CDATA[caribbean]]></tag>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="all-inclusive"><![CDATA[all-inclusive]]></tag>
+			<tag slug="luxury-hotels-resorts"><![CDATA[luxury-hotels-resorts]]></tag>
+			<tag slug="villas"><![CDATA[villas]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="honeymoons"><![CDATA[honeymoons]]></tag>
+		</tags>
+	</article>
+</root>
