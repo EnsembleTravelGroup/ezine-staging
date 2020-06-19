@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!--
+		* Links for YouTube thumbnail images *
+		https://img.youtube.com/vi/youtubeID/0.jpg
+		https://img.youtube.com/vi/youtubeID/maxresdefault.jpg
+	-->
+	
+	<article date="2007" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[July 2020]]></pub_date> <!-- July = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[07]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+		
+		<author><![CDATA[Paradisus by Meliá]]></author>
+		<id_supplier><![CDATA[pbm]]></id_supplier>
+		
+		<title><![CDATA[Embrace Your Nature]]></title>
+		<teaser><![CDATA[Paradisus by Meliá]]></teaser>
+		<lead><![CDATA[
+			Escape with this breathtaking collection of nature’s retreats by Paradisus by Meliá, luxury resorts faithful to the vibrant culture and the natural beauty of its destination.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/LGbfC7ByPsU?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	
+	<article date="2007" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[July 2020]]></pub_date> <!-- July = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[07]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+		
+		<author><![CDATA[supplierName]]></author>
+		<id_supplier><![CDATA[supplierID]]></id_supplier>
+		
+		<title><![CDATA[videoTitle]]></title>
+		<teaser><![CDATA[supplierName]]></teaser>
+		<lead><![CDATA[
+			videoLead
+		]]></lead>
+		<body><![CDATA[
+			<p></p>
+		]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/youtubeID?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+			
+			<iframe src="https://player.vimeo.com/video/vimeoID?color=ed1940&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+
+</root>
