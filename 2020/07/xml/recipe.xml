@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2007" id="01">
+		<dir_name><![CDATA[recipe]]></dir_name>
+		<pub_date><![CDATA[July 2020]]></pub_date> <!-- July = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[07]]></dir_month>
+		<id_recipe><![CDATA[01]]></id_recipe>
+		
+		<tab_class><![CDATA[active]]></tab_class>
+		
+		<author><![CDATA[Club Med Punta Cana]]></author>
+		<id_supplier><![CDATA[cmd]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		<cookbook><![CDATA[]]></cookbook>
+		
+		<title><![CDATA[How to Prepare a Dominican Ceviche]]></title>
+		<teaser><![CDATA[Club Med Punta Cana]]></teaser>
+		<lead><![CDATA[
+			Ceviche is a seafood dish typically made from fresh raw fish cured in citrus juices, such as lemon or lime, and spices. It’s super easy to make at home, just follow along with Junior, Chef at Indigo Beach Lounge Restaurant in Club Med Punta Cana!
+		]]></lead>
+		<body><![CDATA[
+			<div class="videoWrapper" style="padding-bottom: 45%;">
+				<figure>
+					<iframe width="853" height="480" src="https://www.youtube.com/embed/cHMz4oXFQA8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				</figure>
+			</div>
+		]]></body>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<ingredients><![CDATA[
+				<h4>Ingredients</h4> <!-- Ingrédients -->
+				<ul>
+					<li>White Fish (in this recipe he&rsquo;s using Mahi Mahi)</li>
+					<li>Limes</li>
+					<li>Coriander or Cilantro</li>
+					<li>Red bell peppers</li>
+					<li>Red onions</li>
+					<li>Plantain chips (optional)</li>
+					<li>Passion fruit (optional)</li>
+					<li>Red pepper sauce (optional)</li>
+				</ul>
+			]]></ingredients>
+			
+			<prep><![CDATA[
+				<h4>Preparation</h4> <!-- Préparation -->
+				<ol>
+					<li>Cut fish into thin slices</li>
+					<li>Marinate fish in lime juice</li>
+					<li>Top with chopped red bell peppers, thinly sliced red onions and coriander/cilantro</li>
+					<li>Optional: Add plantain chips for a little crunch and passion fruit for a Dominican touch, and roasted bell pepper sauce mixed with some vinegar to complete the dish</li>
+				</ol>
+			]]></prep>
+		</item>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<sidebar><![CDATA[]]></sidebar>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/07/hero/recipe-01.jpg</hero_src>
+		<hero_caption><![CDATA[How to Prepare a Dominican Ceviche]]></hero_caption>
+		<hero_credit><![CDATA[Club Med Punta Cana]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/07/article/recipe-01.jpg</article_src>
+		<article_caption><![CDATA[How to Prepare a Dominican Ceviche]]></article_caption>
+		<article_credit><![CDATA[Club Med Punta Cana]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>
