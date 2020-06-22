@@ -38,21 +38,17 @@
 		<dir_month><![CDATA[07]]></dir_month>
 		<file_video><![CDATA[02]]></file_video>
 		
-		<author><![CDATA[supplierName]]></author>
-		<id_supplier><![CDATA[supplierID]]></id_supplier>
+		<author><![CDATA[Ya'lla World]]></author>
+		<id_supplier><![CDATA[yal]]></id_supplier>
 		
-		<title><![CDATA[videoTitle]]></title>
-		<teaser><![CDATA[supplierName]]></teaser>
+		<title><![CDATA[Welcome to the Ya’lla World!]]></title>
+		<teaser><![CDATA[Ya'lla World]]></teaser>
 		<lead><![CDATA[
-			videoLead
+			An enticing glimpse of the wonders of Ya’lla World - Cuba, Egypt, Greece, Israel Jordan, Morocco, Oman, Turkey and UAE.
 		]]></lead>
-		<body><![CDATA[
-			<p></p>
-		]]></body>
+		<body><![CDATA[ ]]></body>
 		<embed><![CDATA[
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/youtubeID?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-			
-			<iframe src="https://player.vimeo.com/video/vimeoID?color=ed1940&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/dm9aYNdrOcY?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 		]]></embed>
 		
 		<tile_color>D2367D</tile_color>
