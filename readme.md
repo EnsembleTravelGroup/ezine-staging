@@ -10,4 +10,3 @@
 
 **Contact**
 - Email: `todd@ensembletravel.ca`
-- Slack: `@todd`
