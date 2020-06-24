@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<element date="2007" id="banner-2007-ocn">
+		<country><![CDATA[ca]]></country>
+		<tactic><![CDATA[banner]]></tactic>
+		<year><![CDATA[20]]></year>
+		<month><![CDATA[07]]></month>
+		<id_live><![CDATA[01]]></id_live>
+		
+		<supplier><![CDATA[Oceania Cruises]]></supplier>
+		<directory><![CDATA[ocn]]></directory>
+		
+		<title><![CDATA[Dream. Plan. Discover.]]></title>
+		<intro><![CDATA[Dream. Plan. Discover.]]></intro>
+		<offer><![CDATA[
+			With the Ultimate Sale, explore the world at truly unrivaled savings. These historic price reductions are on top of the already phenomenal value represented by Oceania Cruises&rsquo; popular <em>OLife Choice</em> package, which includes Roundtrip Airfare*, a FREE amenity of your choice and much more!
+		]]></offer>
+		<content><![CDATA[
+			<p>Now is a great time to plan your dream adventure with new lower fares and Oceania Cruises’ best price guarantee. Reserve your accommodations with confidence.</p>
+			<p>Each Oceania Cruises voyage is an invitation to discover your next travel story and reignite your passions. Experience faraway places that you have always dreamed of. Encounter new ways of looking at the world and travel to the far corners of the globe. Savor your experience with imaginative insider tours that immerse you in the heart of the destination&rsquo;s culinary and cultural traditions.</p>
+			<p>Thousands of reasons &ndash; one passion. There are as many reasons to travel as there are travelers in this world. It&rsquo;s your turn to embrace your passion for travel with Oceania Cruises.</p>
+		]]></content>
+		
+		<terms id="banner-2007-ocn">
+			<consumer><![CDATA[
+				*Offers and fares are subject to change on 7/31/20. Contact your Travel Advisor for current pricing. All fares are per person in Canadian dollars, valid for residents of United States and Canada, based on double occupancy (unless otherwise noted), for new bookings only and may be withdrawn at any time. Premium Economy Air Upgrade is only available when air is purchased through Oceania Cruises. It applies to intercontinental flights only and is priced per person, each way, on select voyages from select gateways, open to all categories for Europe embark and disembark ports only and based on availability. Not all amenities will be available on all carriers. Free Internet amenity does not include streaming and includes one login per stateroom, except Owner&rsquo;s, Vista &amp; Oceania Suites, which receive two logins per suite. <em>OLife Choice</em> amenities are per stateroom, based on double occupancy and subject to change. <em>OLife Choice</em> free shore excursions vary by voyage and exclude Oceania Select, Oceania Exclusive, Executive Collection, Food &amp; Wine Trails, Wellness Discovery Tours by Aquamar, Go Local, and Culinary Discovery Tours. Voyages up to 9 days receive 4 free shore excursions; 10-13 days receive 6 free shore excursions; 14+ days receive 8 free shore excursions. If shore excursion amenity is selected, all excursions must be chosen at least 14 days prior to sailing. <em>OLife Choice</em> beverage package amenity is House Select. Guests in the same stateroom must choose the same <em>OLife Choice</em> amenity, and amenity must be chosen by final payment. Not all promotions are combinable. 2 for 1, <em>OLife Choice</em> and Cruise-Only Fares are based on published Full Brochure Fares; such fares may not have resulted in actual sales in all suite and stateroom categories and do not include optional charges as detailed in the Guest Ticket Contract. Cruise-Only Fares do not include <em>OLife Choice</em> amenities or airfare. All Fares include government fees &amp; taxes. &ldquo;Airfare&rdquo; does not include ground transfers, and offer applies to coach, roundtrip flights only from the following airports: ATL, BOS, CLT, DCA, DEN, DFW, DTW, EWR, IAH, IAD, JFK, LAX, LGA, MCO, MDW, MIA, ORD, PHL, PHX, SAN, SAV, SEA, SFO, TPA, YOW, YUL, YVR, YYZ. Oceania Cruises reserves the right to assign gateways based on availability for JFK, LGA and MIA. Gateways are subject to change at any time. Airfare is available from all other U.S. and Canadian gateways for an additional charge. &ldquo;Airfare&rdquo; includes all airline fees, surcharges and government taxes. Airline-imposed personal charges such as baggage fees may apply. Oceania Cruises reserves the right to correct errors or omissions and to change any and all fares, fees, promotions and surcharges at any time. Ships&rsquo; Registry: Marshall Islands.
+			]]></consumer>
+			
+			<agent><![CDATA[]]></agent>
+		</terms>
+		
+		<products>
+			<!-- PRODUCT ONE -->
+			<product id="banner-2007-ocn">
+				<title><![CDATA[Eastern Allure]]></title>
+				<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Canadian Residents receive 10% savings]]></offer>
+				<description><![CDATA[
+					Cruise past soaring 21st-century skylines sprinkled with forward-looking architecture and sail to quaint ports of call that provide a window into daily life in alluring Asia. During this enlightening journey, you’ll witness the remarkable rebirth of effulgent Vietnam and enjoy multiple stops in the dynastic lands of Japan and China.
+				]]></description>
+				
+				<cost><![CDATA[8,215]]></cost>
+				<taxes><![CDATA[]]></taxes>
+				<departing><![CDATA[May 1, 2021]]></departing>
+				<duration><![CDATA[18 Days]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[CAD]]></currency>
+				
+				<ship><![CDATA[Nautica]]></ship>
+				<category><![CDATA[Veranda]]></category>
+				<embarkation><![CDATA[Tokyo]]></embarkation>
+				<disembarkation><![CDATA[Singapore]]></disembarkation>
+				
+				<img_hero><![CDATA[prod-ocn-01-ca.jpg]]></img_hero>
+				
+				<amenities_title><![CDATA[Amenities]]></amenities_title>
+				<amenities_desc><![CDATA[  ]]></amenities_desc>
+				<exclusives_title><![CDATA[Exclusives]]></exclusives_title>
+				<exclusives_desc><![CDATA[  ]]></exclusives_desc>
+				<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+				<inclusions_desc><![CDATA[  ]]></inclusions_desc>
+				
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+			
+			<!-- PRODUCT TWO -->
+			<product id="banner-2007-ocn">
+				<title><![CDATA[Colossal Antiquities]]></title>
+				<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Canadian Residents receive 10% savings]]></offer>
+				<description><![CDATA[
+					A Voyage for the Ages: Uncover priceless treasures of antiquity on this enlightening journey from the soaring minarets of Istanbul and the medieval fortifications of picture-perfect Dubrovnik to the sun-dappled streets of chic Taormina and the imposing grandeur of Rome.
+				]]></description>
+				
+				<cost><![CDATA[7,785]]></cost>
+				<taxes><![CDATA[]]></taxes>
+				<departing><![CDATA[May 18, 2021]]></departing>
+				<duration><![CDATA[15 Days]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[CAD]]></currency>
+				
+				<ship><![CDATA[Insignia]]></ship>
+				<category><![CDATA[Veranda]]></category>
+				<embarkation><![CDATA[Istanbul ]]></embarkation>
+				<disembarkation><![CDATA[Barcelona ]]></disembarkation>
+				​
+				<img_hero><![CDATA[prod-ocn-02-ca.jpg]]></img_hero>
+				​
+				<amenities_title><![CDATA[Amenities]]></amenities_title>
+				<amenities_desc><![CDATA[  ]]></amenities_desc>
+				<exclusives_title><![CDATA[Exclusives]]></exclusives_title>
+				<exclusives_desc><![CDATA[  ]]></exclusives_desc>
+				<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+				<inclusions_desc><![CDATA[  ]]></inclusions_desc>
+				
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+			
+			<!-- PRODUCT THREE -->
+			<product id="banner-2007-ocn">
+				<title><![CDATA[Glorious Shores]]></title>
+				<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Canadian Residents receive 10% savings]]></offer>
+				<description><![CDATA[
+					An Emperor’s Perspective: Contemplate centuries of illustrious European history, from Majorca’s ancient dolmens to Florence’s extraordinary Duomo and Corsica’s fascinating Napoleonic legacy, with blissful respites in the fabulously chic atmospheres of Toulon and Portofino.
+				]]></description>
+				
+				<cost><![CDATA[7,699]]></cost>
+				<taxes><![CDATA[]]></taxes>
+				<departing><![CDATA[Jun 10, 2021]]></departing>
+				<duration><![CDATA[7 Days]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[CAD]]></currency>
+				
+				<ship><![CDATA[Riviera ]]></ship>
+				<category><![CDATA[Veranda]]></category>
+				<embarkation><![CDATA[Monte Carlo ]]></embarkation>
+				<disembarkation><![CDATA[Rome ]]></disembarkation>
+				
+				<img_hero><![CDATA[prod-ocn-03-ca.jpg]]></img_hero>
+				
+				<amenities_title><![CDATA[Amenities]]></amenities_title>
+				<amenities_desc><![CDATA[  ]]></amenities_desc>
+				<exclusives_title><![CDATA[Exclusives]]></exclusives_title>
+				<exclusives_desc><![CDATA[  ]]></exclusives_desc>
+				<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+				<inclusions_desc><![CDATA[  ]]></inclusions_desc>
+				
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+		</products>
+		
+		<brandcolor>HEXColor</brandcolor>
+		<iframe_height></iframe_height>
+		<id_ezine><![CDATA[banner-01]]></id_ezine>
+		<file><![CDATA[]]></file>
+	</element>
+</root>
