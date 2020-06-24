@@ -10,8 +10,8 @@
 		<supplier><![CDATA[Oceania Cruises]]></supplier>
 		<directory><![CDATA[ocn]]></directory>
 		
-		<title><![CDATA[Dream. Plan. Discover.]]></title>
-		<intro><![CDATA[Dream. Plan. Discover.]]></intro>
+		<title><![CDATA[Reserve your accommodations with confidence.]]></title>
+		<intro><![CDATA[Reserve your accommodations with confidence.]]></intro>
 		<offer><![CDATA[
 			With the Ultimate Sale, explore the world at truly unrivaled savings. These historic price reductions are on top of the already phenomenal value represented by Oceania Cruises&rsquo; popular <em>OLife Choice</em> package, which includes Roundtrip Airfare*, a FREE amenity of your choice and much more! <br/>
 			<br/>
@@ -43,7 +43,7 @@
 				<taxes><![CDATA[]]></taxes>
 				<departing><![CDATA[May 1, 2021]]></departing>
 				<duration><![CDATA[18 Days]]></duration>
-				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<pricing><![CDATA[Price is per person based on double occupancy. Price subject to change and availability; please contact us for details.]]></pricing>
 				<currency><![CDATA[CAD]]></currency>
 				
 				<ship><![CDATA[Nautica]]></ship>
@@ -76,7 +76,7 @@
 				<taxes><![CDATA[]]></taxes>
 				<departing><![CDATA[May 18, 2021]]></departing>
 				<duration><![CDATA[15 Days]]></duration>
-				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<pricing><![CDATA[Price is per person based on double occupancy. Price subject to change and availability; please contact us for details.]]></pricing>
 				<currency><![CDATA[CAD]]></currency>
 				
 				<ship><![CDATA[Insignia]]></ship>
@@ -109,7 +109,7 @@
 				<taxes><![CDATA[]]></taxes>
 				<departing><![CDATA[Jun 10, 2021]]></departing>
 				<duration><![CDATA[7 Days]]></duration>
-				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<pricing><![CDATA[Price is per person based on double occupancy. Price subject to change and availability; please contact us for details.]]></pricing>
 				<currency><![CDATA[CAD]]></currency>
 				
 				<ship><![CDATA[Riviera ]]></ship>
