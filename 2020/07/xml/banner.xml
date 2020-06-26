@@ -34,7 +34,7 @@
 			<!-- PRODUCT ONE -->
 			<product id="banner-2007-ocn">
 				<title><![CDATA[Eastern Allure]]></title>
-				<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Canadian Residents receive 10% savings]]></offer>
+				<offer><![CDATA[<strong>Our Agency Exclusive:</strong> FREE Pre-paid Gratuities. Also Canadian Residents receive 10% savings.]]></offer>
 				<description><![CDATA[
 					Cruise past soaring 21st-century skylines sprinkled with forward-looking architecture and sail to quaint ports of call that provide a window into daily life in alluring Asia. During this enlightening journey, you’ll witness the remarkable rebirth of effulgent Vietnam and enjoy multiple stops in the dynastic lands of Japan and China.
 				]]></description>
@@ -43,7 +43,7 @@
 				<taxes><![CDATA[]]></taxes>
 				<departing><![CDATA[May 1, 2021]]></departing>
 				<duration><![CDATA[18 Days]]></duration>
-				<pricing><![CDATA[Price is per person based on double occupancy. Price subject to change and availability; please contact us for details.]]></pricing>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
 				<currency><![CDATA[CAD]]></currency>
 				
 				<ship><![CDATA[Nautica]]></ship>
@@ -67,7 +67,7 @@
 			<!-- PRODUCT TWO -->
 			<product id="banner-2007-ocn">
 				<title><![CDATA[Colossal Antiquities]]></title>
-				<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Canadian Residents receive 10% savings]]></offer>
+				<offer><![CDATA[<strong>Our Agency Exclusive:</strong> FREE Pre-paid Gratuities. Also Canadian Residents receive 10% savings.]]></offer>
 				<description><![CDATA[
 					A Voyage for the Ages: Uncover priceless treasures of antiquity on this enlightening journey from the soaring minarets of Istanbul and the medieval fortifications of picture-perfect Dubrovnik to the sun-dappled streets of chic Taormina and the imposing grandeur of Rome.
 				]]></description>
@@ -76,7 +76,7 @@
 				<taxes><![CDATA[]]></taxes>
 				<departing><![CDATA[May 18, 2021]]></departing>
 				<duration><![CDATA[15 Days]]></duration>
-				<pricing><![CDATA[Price is per person based on double occupancy. Price subject to change and availability; please contact us for details.]]></pricing>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
 				<currency><![CDATA[CAD]]></currency>
 				
 				<ship><![CDATA[Insignia]]></ship>
@@ -100,16 +100,16 @@
 			<!-- PRODUCT THREE -->
 			<product id="banner-2007-ocn">
 				<title><![CDATA[Glorious Shores]]></title>
-				<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Canadian Residents receive 10% savings]]></offer>
+				<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Hosted sailing includes complimentary shore excursion, traveller cocktail party, and company of a gracious onboard host. Also Canadian Residents receive 10% savings.]]></offer>
 				<description><![CDATA[
 					An Emperor’s Perspective: Contemplate centuries of illustrious European history, from Majorca’s ancient dolmens to Florence’s extraordinary Duomo and Corsica’s fascinating Napoleonic legacy, with blissful respites in the fabulously chic atmospheres of Toulon and Portofino.
 				]]></description>
 				
-				<cost><![CDATA[7,699]]></cost>
+				<cost><![CDATA[4,410]]></cost>
 				<taxes><![CDATA[]]></taxes>
 				<departing><![CDATA[Jun 10, 2021]]></departing>
 				<duration><![CDATA[7 Days]]></duration>
-				<pricing><![CDATA[Price is per person based on double occupancy. Price subject to change and availability; please contact us for details.]]></pricing>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
 				<currency><![CDATA[CAD]]></currency>
 				
 				<ship><![CDATA[Riviera ]]></ship>
