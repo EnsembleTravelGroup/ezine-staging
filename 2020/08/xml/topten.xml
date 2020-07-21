@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	
+	<article date="YYMM" id="articleID"> <!-- use 'index' for spotlight/insider/topten/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[articleSection]]></dir_name> <!-- usually 'topten' OR 'advertorial' -->
+		<pub_date><![CDATA[Mmm 20YY]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[YY]]></dir_year>
+		<dir_month><![CDATA[MM]]></dir_month>
+		<id_article><![CDATA[articleID]]></id_article>
+		
+		<author><![CDATA[supplierName]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<id_supplier><![CDATA[supplierID]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/topten/cruising) -->
+		
+		<title><![CDATA[articleTitle]]></title>
+		<teaser><![CDATA[
+			articleTeaser
+		]]></teaser>
+		<lead><![CDATA[
+			articleLead
+		]]></lead>
+		<body><![CDATA[
+			<p>articleIntro</p>
+		]]></body>
+		
+		<gallery>
+			<img>
+				<title><![CDATA[slideTitle]]></title>
+				<content><![CDATA[slideContent]]></content>
+				<caption><![CDATA[slideCaption]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-01.jpg]]></src>
+				<position>0</position>
+				<class>active</class>
+			</img>
+			
+			<img>
+				<title><![CDATA[slideTitle]]></title>
+				<content><![CDATA[slideContent]]></content>
+				<caption><![CDATA[slideCaption]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-02.jpg]]></src>
+				<position>1</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[slideTitle]]></title>
+				<content><![CDATA[slideContent]]></content>
+				<caption><![CDATA[slideCaption]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-03.jpg]]></src>
+				<position>2</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[slideTitle]]></title>
+				<content><![CDATA[slideContent]]></content>
+				<caption><![CDATA[slideCaption]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-04.jpg]]></src>
+				<position>3</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[slideTitle]]></title>
+				<content><![CDATA[slideContent]]></content>
+				<caption><![CDATA[slideCaption]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-05.jpg]]></src>
+				<position>4</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[slideTitle]]></title>
+				<content><![CDATA[slideContent]]></content>
+				<caption><![CDATA[slideCaption]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-06.jpg]]></src>
+				<position>5</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[slideTitle]]></title>
+				<content><![CDATA[slideContent]]></content>
+				<caption><![CDATA[slideCaption]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-07.jpg]]></src>
+				<position>6</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[slideTitle]]></title>
+				<content><![CDATA[slideContent]]></content>
+				<caption><![CDATA[slideCaption]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-08.jpg]]></src>
+				<position>7</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[slideTitle]]></title>
+				<content><![CDATA[slideContent]]></content>
+				<caption><![CDATA[slideCaption]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-09.jpg]]></src>
+				<position>8</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[slideTitle]]></title>
+				<content><![CDATA[slideContent]]></content>
+				<caption><![CDATA[slideCaption]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-10.jpg]]></src>
+				<position>9</position>
+				<class></class>
+			</img>
+		</gallery>
+		
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/hero/articleSection-articleID.jpg]]></hero_src>
+		<hero_caption><![CDATA[articleTitle]]></hero_caption>
+		<hero_credit><![CDATA[supplierName]]></hero_credit>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID.jpg]]></article_src>
+		<article_caption><![CDATA[articleTitle]]></article_caption>
+		<article_credit><![CDATA[supplierName]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/email/articleSection-articleID.jpg</email_src>
+		
+		<tile_color>FFC500</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Top Ten:FFC500, Cruising:00B9F2, Advertorial:A8CB17 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+		</tags>
+	</article>
+</root>
