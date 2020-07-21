@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2008" id="01">
+		<dir_name><![CDATA[recipe]]></dir_name>
+		<pub_date><![CDATA[August 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[08]]></dir_month>
+		<id_recipe><![CDATA[01]]></id_recipe>
+		
+		<tab_class><![CDATA[active]]></tab_class>
+		
+		<author><![CDATA[Regent Seven Seas Cruises®]]></author>
+		<id_supplier><![CDATA[reg]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		<cookbook><![CDATA[Makes 1 cup]]></cookbook>
+		
+		<title><![CDATA[Pesto allo Genovese]]></title>
+		<teaser><![CDATA[Regent Seven Seas Cruises®]]></teaser>
+		<lead><![CDATA[
+			Explore the flavors of Pesto alla Genovese, a classic dish originating from the Liguria region of Italy with Chef Instructor Noelle of Regent Seven Seas Cruises’ Culinary Arts Kitchen. Discover the perfect pairings of freshly grated Parmesan cheese, buttery pine nuts and aromatic basil leaves used to create this easy recipe that brings the flavors of Italy to your kitchen.
+		]]></lead>
+		<body><![CDATA[
+			<br/>
+			<div class="videoWrapper" style="padding-bottom: 45%;">
+				<figure>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/G11rWmzYxTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</figure>
+			</div>
+			<br/>
+		]]></body>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<ingredients><![CDATA[
+				<h4>Ingredients</h4> <!-- Ingrédients -->
+				<ul>
+					<li>4 cups packed basil leaves</li>
+					<li>&frac12; cup freshly grated</li>
+					<li>Parmigiano-Reggiano</li>
+					<li>1&frac12; tablespoons toasted</li>
+					<li>pine nuts</li>
+					<li>4 cloves garlic</li>
+					<li>3 tablespoons extra virgin</li>
+					<li>olive oil</li>
+				</ul>
+			]]></ingredients>
+			
+			<prep><![CDATA[
+				<h4>Preparation</h4> <!-- Préparation -->
+				<p>In a food processor, pulse the basil until coarsely chopped. Add the cheese, pine nuts, garlic and olive oil and process until smooth. If making ahead of time, transfer to a small storage container and cover with plastic wrap, pressing the plastic onto the surface of the pesto to prevent browning.</p>
+			]]></prep>
+		</item>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<sidebar><![CDATA[]]></sidebar>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/08/hero/recipe-01.jpg</hero_src>
+		<hero_caption><![CDATA[Pesto allo Genovese]]></hero_caption>
+		<hero_credit><![CDATA[Regent Seven Seas Cruises®]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/08/article/recipe-01.jpg</article_src>
+		<article_caption><![CDATA[Pesto allo Genovese]]></article_caption>
+		<article_credit><![CDATA[Regent Seven Seas Cruises®]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>
