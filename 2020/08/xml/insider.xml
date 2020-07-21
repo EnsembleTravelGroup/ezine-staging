@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2008">
+		<dir_name><![CDATA[insider]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[August 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[08]]></dir_month>
+		
+		<author><![CDATA[Ensemble Travel]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Endless Summer with Apple Vacations]]></title>
+		<teaser><![CDATA[
+			It’s never too late to put your feet in the sand and soak up the sun.
+		]]></teaser>
+		<lead><![CDATA[
+			We caught up with Scott Wiseman, Senior Vice President and General Manager, Travel Agent Brands ALG Vacations to discuss beach-side options with Apple Vacations.
+		]]></lead>
+		<body><![CDATA[
+			<p class="question"><strong>Q:</strong> Tell us a bit about Apple Vacations and the products and services you offer.</p>
+			<p>Apple Vacations has been a leader for vacations to Mexico and the Caribbean for over 50 years, representing half a century of travel to that region, as the world&rsquo;s largest tour operator to Mexico and the nation&rsquo;s leader to Dominican Republic. Apple Vacations drives demand by offering Exclusive Nonstop Vacation Flight routes from select U.S. gateways to its most popular destinations in Mexico, the Caribbean and Costa Rica. As sun-and-sand specialists, available offerings also include the Hawaiian Islands, Panama, and most recently, beach destinations in the United States, South Pacific, Belize and Europe.</p>
+			<p class="question"><strong>Q:</strong> Which types of travelers does Apple Vacations cater to?</p>
+			<p>Apple Vacations caters to leisure travelers of any age looking for great value without sacrificing friendly, reliable service. Families, friends, couples, and groups have all come to rely on this brand for great deals to fantastic destinations.</p>
+			<p class="question"><strong>Q:</strong> For travelers looking to relax beachside in late summer / early fall, which destinations do you recommend?</p>
+			<p>Mexico and the Caribbean are perennial favorites, of course, even in the late summer and early fall. Typically, as school break ends, you&rsquo;ll see the crowds of peak season start to dissipate, giving those who want to squeeze one last vacation in plenty of availability to do so at competitive rates. For those who want to stay stateside, we highly recommend Florida and California, with tickets available to the most popular theme parks. And, of course, there&rsquo;s always Hawaii for those who want something extraordinary without having to leave the U.S.</p>
+			<p class="question"><strong>Q:</strong> Which North American destinations do you offer trips to?</p>
+			<p>If it has an amazing beach, chances are we offer trips there! We are proud to be in most of the major countries across the Caribbean, plus some of the more exclusive, smaller ones, too. Dominican Republic and Jamaica lead the way, but the Bahamas, St. Martin/Sint Maarten, the U.S. Virgin Islands, Cura&ccedil;ao and Aruba are also very popular. For those who want to explore some hidden-away Caribbean gems with even more exotic flair, Apple Vacations offers a vast array of choices.</p>
+			<p>And obviously, we have a very strong presence in Mexico and Central America. Most popular is Cancun and the Riviera Maya region, but don&rsquo;t forget about Cozumel, Los Cabos, Puerto Vallarta, Ixtapa, Huatulco, and more; as well as Costa Rica, Panama and Belize in Central America.</p>
+			<p class="question"><strong>Q:</strong> Are you promoting any special deals right now?</p>
+			<p>Being that Apple Vacations is a national leader for value, we <em>always</em> have &ldquo;special deals&rdquo; going on! I recommend agents and travelers keep an eye out for our Steal of a Deal program, which is refreshed every two weeks with the most rock-bottom rates, some of which are completely unprecedented.</p>
+			<p>We also partner to promote supplier brand specials, such as AMResorts&rsquo; current Travel Freely offer. This is a great way for guests to score a free night, free room category upgrade to be confirmed at check-in, free in-room welcome amenity, free night certificate for a return stay, and for the family-friendly brands, even free stays for kids.</p>
+			<p class="question"><strong>Q:</strong> What makes an Apple Vacations trip unique?</p>
+			<p>There are several things that make booking with Apple Vacations a great choice. For example:</p>
+			<ul>
+				<li>Transfers Included: Whether you book an air-inclusive or hotel-only vacation package, Apple Vacations includes round-trip transfers between the destination airport and hotel in Mexico, Central America and most Caribbean Islands.</li>
+				<li>Exclusive Non-Stop Vacation Flights: These routes are designed to maximize guests&rsquo; time during peak beach hours, and are filled exclusively with other vacationers ready to kick back and relax.</li>
+				<li>Our brand provides exclusive product like Square Deals, our best value vacation packages, and more value/complimentary upgrades with Exceptional Values exclusive to ALG Vacations.</li>
+				<li>Golden Apple standards: Our customers rate the hotels they stay at upon their return, so you have real testimonials to vouch for the experience. Golden Apple hotels are Apple Vacationers' favorites, based on post-vacation survey results. In fact, Apple Vacations is the only vacation company to rate hotels solely on the feedback of customers.</li>
+				<li>A friendly face in a faraway place: In Mexico, the Caribbean, Central America and Hawaii, professional Resort Representatives from Amstar DMC and other independent destination management companies are there for our customers throughout their entire trip. In most destinations, they&rsquo;ll meet our customers at the airport, guide them to their hotel transfer and host welcome briefings to acquaint them with their destination and ensure they have the resources and information they need to make the most of their stay.</li>
+				<li>Travel Protection Plus: With the ability to Cancel for Any Reason with three tiers for refund options, a Price Guarantee and high-quality post-departure travel insurance, we offer peace of mind at reasonable prices and with extraordinary coverage.</li>
+			</ul>
+			<p class="small">Image Credit: Dreams Brand Resorts, AMResorts</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/08/hero/insider.jpg</hero_src>
+		<hero_caption><![CDATA[Endless Summer with Apple Vacations]]></hero_caption>
+		<hero_credit><![CDATA[On Location]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/08/article/insider.jpg</article_src>
+		<article_caption><![CDATA[Endless Summer with Apple Vacations]]></article_caption>
+		<article_credit><![CDATA[On Location]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/08/email/insider.jpg</email_src>
+		
+		<tile_color>FA6900</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="caribbean"><![CDATA[caribbean]]></tag>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="central-america"><![CDATA[central-america]]></tag>
+			<tag slug="all-inclusive"><![CDATA[all-inclusive]]></tag>
+			<tag slug="luxury-hotels-resorts"><![CDATA[luxury-hotels-resorts]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="honeymoons"><![CDATA[honeymoons]]></tag>
+		</tags>
+	</article>
+</root>
