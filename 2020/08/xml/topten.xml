@@ -1,128 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	
-	<article date="YYMM" id="articleID"> <!-- use 'index' for spotlight/insider/topten/cruising or '##' for advertorial -->
-		<dir_name><![CDATA[articleSection]]></dir_name> <!-- usually 'topten' OR 'advertorial' -->
-		<pub_date><![CDATA[Mmm 20YY]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
-		<dir_year><![CDATA[YY]]></dir_year>
-		<dir_month><![CDATA[MM]]></dir_month>
-		<id_article><![CDATA[articleID]]></id_article>
+	<article date="2008" id="index"> <!-- use 'index' for spotlight/insider/topten/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[topten]]></dir_name> <!-- usually 'topten' OR 'advertorial' -->
+		<pub_date><![CDATA[August 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[08]]></dir_month>
+		<id_article><![CDATA[index]]></id_article>
 		
-		<author><![CDATA[supplierName]]></author>
+		<author><![CDATA[Ensemble Travel]]></author>
 		<translator><![CDATA[]]></translator>
 		
-		<id_supplier><![CDATA[supplierID]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/topten/cruising) -->
+		<id_supplier><![CDATA[spacer]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/topten/cruising) -->
 		
-		<title><![CDATA[articleTitle]]></title>
+		<title><![CDATA[5 Caribbean Islands to Visit This Summer]]></title>
 		<teaser><![CDATA[
-			articleTeaser
+			Extend your summer vacation with a Caribbean adventure.
 		]]></teaser>
 		<lead><![CDATA[
-			articleLead
+			As we approach the midst of summer and the world begins its gradual reopening, it’s only natural for us to not want the feeling of long sunny days and outdoor bliss to end. Luckily, the neighboring islands of the Caribbean have begun opening their doors for visitors and are offering a responsible option to continue sunbathing on bright sandy beaches and swimming in crystal waters for days to come. Extend your summer by considering a visit to one of these Caribbean islands:
 		]]></lead>
 		<body><![CDATA[
-			<p>articleIntro</p>
+			<p><strong>Disclaimer:</strong> At the time this article was written, all featured islands were open to both American and Canadian citizens. Please note that each country featured has its own Covid-19 preventative measures and travel requirements in place which are subject to change frequently. We recommend doing additional research before booking your trip. For more information, contact your travel advisor.</p>
 		]]></body>
 		
 		<gallery>
 			<img>
-				<title><![CDATA[slideTitle]]></title>
-				<content><![CDATA[slideContent]]></content>
-				<caption><![CDATA[slideCaption]]></caption>
-				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-01.jpg]]></src>
+				<title><![CDATA[Aruba]]></title>
+				<content><![CDATA[From <a href="https://www.aruba.com/us" target="_blank">www.aruba.com</a>:<br />Aruba&rsquo;s sunny shores are welcoming visitors once again! Aruba&rsquo;s diligent reopening will take place in phases, monitored closely by the Government of Aruba and the Department of Public Health. And, as of July 10th, it is permitting visitors from both Canada and the United States. After months of sheltering in place, we know it is important for you to reconnect with nature and refresh your mind, body and soul &mdash; Aruba offers this in abundance. Aruba&rsquo;s Arikok National Park makes up over 20% of the island, and there are biking and hiking trails through towering cacti, miles of dramatic coastline to explore, as well as secluded coves and beaches. Also, Aruba&rsquo;s white-sand beaches and clear waters are some of the most beautiful and pristine in the world. With a variety of expansive beaches all over the island, you can find your perfect spot while also practicing safe social distancing.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/08/article/topten-index-01.jpg]]></src>
 				<position>0</position>
 				<class>active</class>
 			</img>
 			
 			<img>
-				<title><![CDATA[slideTitle]]></title>
-				<content><![CDATA[slideContent]]></content>
-				<caption><![CDATA[slideCaption]]></caption>
-				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-02.jpg]]></src>
+				<title><![CDATA[Jamaica]]></title>
+				<content><![CDATA[From <a href="http://www.visitjamaica.com/" target="_blank">www.visitjamaica.com</a>:<br />The beat of reggae. The searing smell of jerk over the fire. The swizzle of rum in your glass. On June 15, the Jamaican borders reopened to visitors and you can once again feel the rhythm of Jamaica. The island has designated a Resilient Corridor, which runs from Negril along the north coast to Portland, as well as a second Resilient Corridor in the Kingston Business District, which will be open to business travelers. From powdery white-sand beaches to rugged cliff edges and magical black-sand coastlines, you&rsquo;ll find plenty of beach options. Or, go beyond and experience activities that speak to your interests while walking in step to the beat of the island. Will you climb to the top of Dunn&rsquo;s River Falls or hike the Blue Mountains at sunrise? Take a dive into some of the best Jamaican activities and explore the possibilities for yourself.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/08/article/topten-index-02.jpg]]></src>
 				<position>1</position>
 				<class></class>
 			</img>
 			
 			<img>
-				<title><![CDATA[slideTitle]]></title>
-				<content><![CDATA[slideContent]]></content>
-				<caption><![CDATA[slideCaption]]></caption>
-				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-03.jpg]]></src>
+				<title><![CDATA[Puerto Rico]]></title>
+				<content><![CDATA[From <a href="https://www.discoverpuertorico.com/" target="_blank">www.discoverpuertorico.com</a>:<br />With its formal reopening on July 15th, Puerto Rico is excited to welcome you to paradise with additional implemented measures to further safeguard residents and visitors. Puerto Rico is a place where the Old World is mashed up with the new on an island that is small in size but offers an immense bounty of one-of-a-kind experiences. Rich history and culture, exceptional food, pristine beaches, majestic mountains, relaxation, adventure &mdash; all packed into one sun-kissed Caribbean paradise. Plan a soul-refreshing escape to an enchanted rainforest park and be immersed in nature with a visit to El Yunque National Forest. You can visit for a hike on one of its many trails, bathe in natural pools beneath waterfalls, or just relax and enjoy the scenery. To guarantee the safety and health of visitors and the Forest Service employees, visitors must wear a facemask at all times and reserve the visit in advance.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/08/article/topten-index-03.jpg]]></src>
 				<position>2</position>
 				<class></class>
 			</img>
 			
 			<img>
-				<title><![CDATA[slideTitle]]></title>
-				<content><![CDATA[slideContent]]></content>
-				<caption><![CDATA[slideCaption]]></caption>
-				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-04.jpg]]></src>
+				<title><![CDATA[Antigua and Barbuda]]></title>
+				<content><![CDATA[From <a href="https://visitantiguabarbuda.com/" target="_blank">www.visitantiguabarbuda.com</a>:<br />On June 1st, sister islands Antigua and Barbuda welcomed back travelers, and we think their white sands and turquoise seas are the perfect remedy for the 2020 blues. With 365 beaches around Antigua and Barbuda, you will be sure to discover the best one to help you unwind and find your perfect space in the sun. There are also many trails and tracks available for exploration. Most of the popular hikes lead to one or another of the island&rsquo;s many hilltop fortifications such as Fort George or Fort Barrington, to scenic views such as Signal Hill, or secluded beaches like Rendezvous Bay. Pick the one that suits your needs and take to the hills for this incredible and uplifting experience.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/08/article/topten-index-04.jpg]]></src>
 				<position>3</position>
 				<class></class>
 			</img>
 			
 			<img>
-				<title><![CDATA[slideTitle]]></title>
-				<content><![CDATA[slideContent]]></content>
-				<caption><![CDATA[slideCaption]]></caption>
-				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-05.jpg]]></src>
+				<title><![CDATA[Bermuda]]></title>
+				<content><![CDATA[From <a href="http://www.gotobermuda.com" target="_blank">http://www.gotobermuda.com</a>:<br />Pristine pink-sand beaches and wide-open natural spaces are once again within easy reach. Bermuda is open and welcoming visitors back to the island as of July 1, 2020. Savor everything from fresh ocean breezes to fresh island fare and get lost in the Bermuda way of life. Walk lush forest trails, swim in idyllic turquoise grottoes and explore subterranean caves in Blue Hole Park, a 12-acre East End nature reserve locally known as Tom Moore&rsquo;s Jungle. Head to Miles Market for a basket filled with the likes of curried chicken salad sandwiches and cookies and then picnic in one of the many parks. The lush Botanical Gardens stars 36 acres of trees and blossoms with plenty of places to lounge &ndash; and dine &ndash; on the grass. Or, travel to the serene Bermuda Arboretum offering 22 acres of gorgeous open space, with shady trails, ornamental bridges and peaceful meadows.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/08/article/topten-index-05.jpg]]></src>
 				<position>4</position>
-				<class></class>
-			</img>
-			
-			<img>
-				<title><![CDATA[slideTitle]]></title>
-				<content><![CDATA[slideContent]]></content>
-				<caption><![CDATA[slideCaption]]></caption>
-				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-06.jpg]]></src>
-				<position>5</position>
-				<class></class>
-			</img>
-			
-			<img>
-				<title><![CDATA[slideTitle]]></title>
-				<content><![CDATA[slideContent]]></content>
-				<caption><![CDATA[slideCaption]]></caption>
-				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-07.jpg]]></src>
-				<position>6</position>
-				<class></class>
-			</img>
-			
-			<img>
-				<title><![CDATA[slideTitle]]></title>
-				<content><![CDATA[slideContent]]></content>
-				<caption><![CDATA[slideCaption]]></caption>
-				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-08.jpg]]></src>
-				<position>7</position>
-				<class></class>
-			</img>
-			
-			<img>
-				<title><![CDATA[slideTitle]]></title>
-				<content><![CDATA[slideContent]]></content>
-				<caption><![CDATA[slideCaption]]></caption>
-				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-09.jpg]]></src>
-				<position>8</position>
-				<class></class>
-			</img>
-			
-			<img>
-				<title><![CDATA[slideTitle]]></title>
-				<content><![CDATA[slideContent]]></content>
-				<caption><![CDATA[slideCaption]]></caption>
-				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID-10.jpg]]></src>
-				<position>9</position>
 				<class></class>
 			</img>
 		</gallery>
 		
-		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/hero/articleSection-articleID.jpg]]></hero_src>
-		<hero_caption><![CDATA[articleTitle]]></hero_caption>
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/08/hero/topten-index.jpg]]></hero_src>
+		<hero_caption><![CDATA[5 Caribbean Islands to Visit This Summer]]></hero_caption>
 		<hero_credit><![CDATA[supplierName]]></hero_credit>
-		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/YY/MM/article/articleSection-articleID.jpg]]></article_src>
-		<article_caption><![CDATA[articleTitle]]></article_caption>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/08/article/topten-index.jpg]]></article_src>
+		<article_caption><![CDATA[5 Caribbean Islands to Visit This Summer]]></article_caption>
 		<article_credit><![CDATA[supplierName]]></article_credit>
-		<email_src>https://www.ensembletravel.com/assets/img/ezine/YY/MM/email/articleSection-articleID.jpg</email_src>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/08/email/topten-index.jpg</email_src>
 		
 		<tile_color>FFC500</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Top Ten:FFC500, Cruising:00B9F2, Advertorial:A8CB17 -->
 		<tile_class>opaque-100</tile_class>
