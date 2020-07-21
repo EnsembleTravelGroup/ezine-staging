@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<section date="2008">
+		<issue_date><![CDATA[August 2020]]></issue_date>
+		<pub_date><![CDATA[July 29, 2020]]></pub_date>
+		
+		<heading><![CDATA[Endless Summer]]></heading>
+		<title><![CDATA[]]></title>
+		<author></author>
+		<translator><![CDATA[]]></translator>
+		<lead><![CDATA[
+			Summer: It’s an annual rite of passage we all look forward to. Warm breezes, bright rays, sandy beaches, longer days – after months of closed-toe shoes and winter jackets, the glory of summer is long awaited.&nbsp;
+		]]></lead>
+		<body><![CDATA[
+			This year, things have looked a bit different, but that doesn’t mean summer is lost. As travel restrictions are lifted and the world slowly begins to reopen, more travel options are becoming available just in time for the end of summer and early fall. If you’re ready to pack your bags, it isn’t too late – just throw in a towel, some sunscreen, and a positive attitude, and you’ll be soaking up the summer sun in no time!
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.ca/im/ezine/img/20/08/hero/index.jpg</hero_src>
+		<hero_caption><![CDATA[Endless Summer]]></hero_caption>
+		<hero_credit><![CDATA[]]></hero_credit>
+		<color>d9480f</color>
+	</section>
+</root>
