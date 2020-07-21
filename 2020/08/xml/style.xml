@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2008">
+		<dir_name><![CDATA[style]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[August 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[08]]></dir_month>
+		
+		<author><![CDATA[Alexa Wheeler]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[The Benefits of Going Boutique]]></title>
+		<teaser><![CDATA[
+			Avoid the masses and enjoy the perks of a boutique hotel experience instead.
+		]]></teaser>
+		<lead><![CDATA[
+			As the world slowly reopens, it&rsquo;s only natural to ask yourself, &ldquo;Where to next?&rdquo; But as soon as your destination is chosen, the next question in line is, &ldquo;But where will we stay?&rdquo; With social distancing regulations still in place and an endless amount of contradicting information on what&rsquo;s considered &ldquo;safe,&rdquo; the last thing you want for your long-awaited vacation is to feel anxious the entire time you&rsquo;re away.<br /><br />The solution? Go boutique.
+		]]></lead>
+		<body><![CDATA[
+			<p>Here&rsquo;s why:</p>
+			<h4>You&rsquo;ll enjoy a smaller, more intimate and personalized experience.</h4>
+			<p>From the moment you check in at a boutique hotel, you&rsquo;ll feel as if you&rsquo;re the only people on the property. While visiting London back in December, I stayed at The Milestone Hotel and Residences, a Red Carnation Hotel (RCH) property, and my boutique experience was exceptional. No detail was overlooked &mdash; the doorman welcomed me by name, I received a personal tour to get acquainted with the property, my luggage was delivered to my room accompanied by tea, biscuits and a welcome note, and every staff member I passed greeted me with a cheery hello (in a lovely British accent, of course).</p>
+			<p>Yes, other people were staying at the hotel; but, aside from friendly interactions in the bar and tea parlor, it hardly felt like it. Insight on where to visit? The staff knew just where I should go based on my preferences. Recommendations on where to eat? They knew the tastiest local joints. Advice on the best option for getting back to the airport? They knew the answer. It didn&rsquo;t matter how busy they were, I was a priority. They humanized my experience and went above and beyond to make sure I had an incredible stay.</p>
+			<h4>It&rsquo;s conducive to social distancing.</h4>
+			<p>Choosing to stay at a smaller boutique property means you&rsquo;ll naturally interact with fewer people. Less rooms means less guests, and less guests means less staff which, in turn, means you&rsquo;ll come into contact with far less people than at a resort or larger chain hotel. It&rsquo;s the next best option to renting out a private vacation home.</p>
+			<p>However, one perk to choosing a boutique hotel versus a private vacation home is that you can guarantee proper sanitation, health and safety requirements are being met. Every hotel brand, both large and small, are implementing new rollouts to ensure your visit to their property is as safe as possible. From curbside or online check-in and hand sanitizing stations, to branded PPE (personal protective equipment) and limited capacities, business as usual has a new &ldquo;norm,&rdquo; but it&rsquo;s all for the safety of you, their guests and priority.</p>
+			<p>For example, the RCH group has stated, &ldquo;We have adopted the health and hygiene global standardized protocols from the WTTC. These protocols take into account World Health Organization (WHO) and the US&rsquo; Centers for Disease Control and Prevention (CDC) guidelines with a focus on health, safety and physical distancing guidance which travelers will need and expect.&rdquo; RCH&rsquo;s specific protocols include the option to check-in/out and pre-pay online, a PPE amenity bag for each guest, daily linen/towel changes, industry-leading cleaning protocols with particular attention to high-touch items, the elimination of buffet breakfasts, socially-distanced seating in lobbies, bars and restaurants, and more.</p>
+			<h4>You&rsquo;ll have access to unique wellness amenities unavailable to the masses.</h4>
+			<p>After months of quarantine, you&rsquo;re most likely looking for one of two things: adventure or relaxation. If an escape from the recent increase of stress and anxiety is the route you&rsquo;re interested in, a boutique hotel stay is the vacation you should book next.</p>
+			<p>&ldquo;Boutique&rdquo; and &ldquo;wellness&rdquo; typically go hand in hand. &ldquo;Boutique&rdquo; isn&rsquo;t for everyone which means boutique brands focus on specialized experiences, such as wellness. As health and wellness popularized over recent years, larger brands have attempted to capitalize on the movement. But what might be seen as a trend to those brands, is seen as second nature to boutique properties who embraced the wellness shift years ago.</p>
+			<p>The RCH collection is a great example of a brand who embraces wellness in its entirety. With the goal for each hotel to nourish the mind, body and soul, an RCH property is the perfect place to embark on your wellness journey. Visit The Rubens at The Palace and Hotel 41 where a Living Wall improves the air quality with 10,000 herbaceous plants. Book a stay at the Ashford Castle with access to abundant outdoor adventures and rejuvenating spa treatments from resident experts. Or, take a longer flight to Africa and enjoy one of the RCH South African hotels and spas which feature B|Africa, the RCH signature product range blending natural and indigenous elements with eco-friendly product technologies.</p>
+			<p>With the new socially distanced travel reality, boutique hotel brands are poised for a renaissance. Their popularity didn&rsquo;t necessarily decrease over recent years, but in a COVID-19 world, more and more travelers will be searching for the exact benefits only boutique hotels can offer. It&rsquo;s the perfect solution &mdash; conducive to our &ldquo;new norm&rdquo; while simultaneously providing intimacy, personalization, and an escape from it all.</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/08/hero/style.jpg</hero_src>
+		<hero_caption><![CDATA[The Benefits of Going Boutique]]></hero_caption>
+		<hero_credit><![CDATA[Travel Style]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/08/article/style.jpg</article_src>
+		<article_caption><![CDATA[The Benefits of Going Boutique]]></article_caption>
+		<article_credit><![CDATA[Travel Style]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/08/email/style.jpg</email_src>
+		
+		<tile_color>00B9F2</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="luxury-hotels-resorts"><![CDATA[luxury-hotels-resorts]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="honeymoons"><![CDATA[honeymoons]]></tag>
+			<tag slug="spawellness"><![CDATA[spawellness]]></tag>
+		</tags>
+	</article>
+</root>
