@@ -73,14 +73,75 @@
 		
 		<tags>
 			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
+		</tags>
+	</article>
+	
+	<article date="2008" id="02">
+		<dir_name><![CDATA[advertorial]]></dir_name>
+		<pub_date><![CDATA[August 2020]]></pub_date> <!-- August = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[08]]></dir_month>
+		<id_article><![CDATA[02]]></id_article>
+		
+		<author><![CDATA[Transat]]></author>
+		<id_supplier><![CDATA[trh]]></id_supplier>
+		
+		<title><![CDATA[Transat's Traveller Care]]></title>
+		<teaser><![CDATA[Transat]]></teaser>
+		<lead><![CDATA[
+			Enhanced health measures and a new comprehensive practical guide for a simple and safe travel experience.
+		]]></lead>
+		<body><![CDATA[
+			<p>As it prepared to gradually resume operations on July 23, 2020, Transat has been committed to providing a simple and safe travel experience at every step. To that end, it invites travellers to familiarize themselves with the health and safety measures of its&nbsp;<em>Traveller Care</em>&nbsp;program, which are regularly updated in compliance with recommendations issued by regulatory authorities. It has also assembled a new comprehensive practical guide full of tips to help travellers prepare for their trips and travel with peace of mind.</p>
+			<p>&ldquo;We know that travelling in the age of COVID-19 raises all sorts of questions and concerns that can hinder the traveller,&rdquo; says Annick Gu&eacute;rard, Chief Operating Officer of Transat. &ldquo;Therefore, as part of our health and safety program, we are giving easy access to all the resources and information needed to simplify the planning of a trip, reinforcing our status as a leader in leisure travel.&rdquo;</p>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/08/article/advertorial-02-01.jpg">
+			</figure>
+			<h4>A practical guide to facilitate the travel experience</h4>
+			<p>It can be difficult for travellers and travel agents to navigate all the changes and recommendations resulting from COVID-19. To help them prepare for trips and familiarize themselves with the new practices to adopt, Transat presents a guide as a practical tool.</p>
+			<p>Through a series of tips and a recap of the health measures to follow, the guide answers the most common questions travellers might have, including what to check before departure, how to ensure that check-in and boarding go smoothly, what to do if they are denied boarding, how to limit contact, and what new procedures to respect at destination.</p>
+			<p>The guide is available now on&nbsp;<a href="https://www.airtransat.com/en-CA/travel-information/traveller-care-practical-guide?_ga=2.119108425.115350342.1595344983-1678981736.1595344983"><strong>Transat&rsquo;s website</strong></a>.</p>
+
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/08/article/advertorial-02-02.jpg">
+			</figure>
+			<h4>Updates to the&nbsp;<em>Traveller Care</em>&nbsp;health and safety program</h4>
+			<p>Transat assiduously follows the recommendations of regulatory authorities and adjusts its health measures accordingly to ensure the safety of its customers and employees. Travellers and travel agents are encouraged to regularly check&nbsp;<a href="https://www.airtransat.com/en-CA/travel-information/traveller-care?_ga=2.119108425.115350342.1595344983-1678981736.1595344983"><strong>the&nbsp;<em>Traveller Care</em>&nbsp;web page</strong></a>&nbsp;for the latest updates.</p>
+			<p>Here is a reminder of the measures that will be put in place:</p>
+			<ul>
+				<li><strong>At the airport</strong>: Among the new measures implemented at the airport, passengers will be asked health-related questions, their temperature will be taken, and counters and self-service kiosks will be regularly disinfected.</li>
+				<li><strong>On board</strong>: All necessary precautions will be taken to provide a safe inflight experience. Frequently touched cabin surfaces will be thoroughly cleaned with hospital-grade disinfectant before each flight, and the aircraft will be thoroughly cleaned with an electrostatic disinfectant sprayer every 24 hours. Passengers will receive a complimentary Traveller Care kit (including a face covering, gloves, hand sanitizer and disinfecting wipes). Passengers and crew will be required to wear face coverings throughout the flight. And the inflight service will be revised to reduce handling and contact.</li>
+			</ul>
+			<p>In addition, on board all aircraft, reliable HEPA (High Efficiency Particulate Air) filters will eliminate 99.995% of small particles, such as bacteria and viruses, refreshing cabin air every three minutes.</p>
+			<ul>
+				<li><strong>At destination</strong>: Reinforced preventive measures during transfers and excursions will be put in place for customers who have purchased a South or Europe package. In addition, Transat&rsquo;s hotel partners will be implementing rigorous health and safety protocols so that travellers can enjoy their vacations with complete peace of mind. To provide support at destination, Transat representatives will be available at all times, by phone or via the Air Transat app.&nbsp;</li>
+			</ul>
+			<h4>Traveller Care at a glance</h4>
+			<p>Discover Transat&rsquo;s health and safety program summarized in this short video.</p>
+			<br/>
+			<div class="videoWrapper" style="padding-bottom: 45%;">
+				<figure>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/tnkjrSgu9GU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</figure>
+			</div>
+		]]></body>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/08/hero/advertorial-02.jpg</hero_src>
+		<hero_caption><![CDATA[Transat's Traveller Care]]></hero_caption>
+		<hero_credit><![CDATA[Transat]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/08/article/advertorial-02.jpg
+		</article_src>
+		<article_caption><![CDATA[Transat's Traveller Care]]></article_caption>
+		<article_credit><![CDATA[Transat]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
 			<tag slug="xxx"><![CDATA[xxx]]></tag>
 		</tags>
 	</article>
