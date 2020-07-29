@@ -30,5 +30,30 @@
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 	</article>
+	
+	<article date="2008" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[August 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[08]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+		
+		<author><![CDATA[Daios Cove ]]></author>
+		<id_supplier><![CDATA[dcv]]></id_supplier>
+		
+		<title><![CDATA[Under the Cretan Sun]]></title>
+		<teaser><![CDATA[Daios Cove ]]></teaser>
+		<lead><![CDATA[
+			Nestled on the hillside of a private cove with clear waters and a secluded sandy beach, Daios Cove is the ideal hideaway for the holiday experience we all want to get back to our refreshed state.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/_1DvPTNicbc?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
 
 </root>
