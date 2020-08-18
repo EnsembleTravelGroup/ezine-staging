@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2009" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[September 2020]]></pub_date>
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[09]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+		
+		<author><![CDATA[Celebrity Cruises®]]></author>
+		<id_supplier><![CDATA[cel]]></id_supplier>
+		
+		<title><![CDATA[We Can't Wait to Welcome You On Board Again]]></title>
+		<teaser><![CDATA[Celebrity Cruises®]]></teaser>
+		<lead><![CDATA[
+			Just like you, we’re dreaming of seeing new shorelines on the horizon. Experiencing new cultures and savoring new flavors. Meeting people far and wide and realizing we aren’t so different after all. And the moment these dreams can become reality, Celebrity will be ready to welcome you back. Until then, the world is changing, and they’re changing with it. They’re taking every step to ensure you and the crew stay healthy and safe when you set sail. That’s Celebrity’s top priority—so that enjoying your vacation can be yours.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/g5hLPMvTVAo?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>

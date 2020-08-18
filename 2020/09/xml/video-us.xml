@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2009" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[September 2020]]></pub_date> <!-- September = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[09]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+		
+		<author><![CDATA[American Queen™ Steamboat Company]]></author>
+		<id_supplier><![CDATA[aqs]]></id_supplier>
+		
+		<title><![CDATA[Come Home to the Heart of America]]></title>
+		<teaser><![CDATA[American Queen™ Steamboat Company]]></teaser>
+		<lead><![CDATA[
+			Come celebrate America. All of America. From the storied currents of the Mississippi to the vast horizons of the Pacific Northwest, her vistas never fail to inspire. From the quaint river towns of along the Ohio to the majestic wilderness that surrounds the Columbia and Snake, her natural beauty is astounding. From the gentle breezes cruising on the Tennessee to the sparkling blue of Gulf in New Orleans, her waters are warm with welcome. And within easy reach of your own backyard there’s a graceful paddlewheeler waiting to take you there.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/yfjih9w817Y?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>

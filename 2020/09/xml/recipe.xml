@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2009" id="01">
+		<dir_name><![CDATA[recipe]]></dir_name>
+		<pub_date><![CDATA[September 2020]]></pub_date> <!-- September = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[09]]></dir_month>
+		<id_recipe><![CDATA[01]]></id_recipe>
+		
+		<tab_class><![CDATA[active]]></tab_class>
+		
+		<author><![CDATA[Oceania Cruises]]></author>
+		<id_supplier><![CDATA[ocn]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		<cookbook><![CDATA[Serves 6]]></cookbook>
+		
+		<title><![CDATA[New England Clam Chowder]]></title>
+		<teaser><![CDATA[Oceania Cruises]]></teaser>
+		<lead><![CDATA[
+			Nothing pairs better with crisp fall days than a bowl of steaming New England clam chowder. Dating back to 1836 at the Union Oyster House in Boston, this famous chowder is pure comfort in a bowl.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<ingredients><![CDATA[
+				<h4>Ingredients</h4> <!-- Ingrédients -->
+				<ul>
+					<li>7 pounds clams, preferably cherrystone, soaked and scrubbed</li>
+					<li>4 cups water</li>
+					<li>4 ounces bacon, cut into &frac12;-inch pieces</li>
+					<li>2 tablespoons butter</li>
+					<li>2 thyme sprigs</li>
+					<li>1 bay leaf</li>
+					<li>1 yellow onion, diced</li>
+					<li>1 stalk celery, diced</li>
+					<li>Kosher salt and freshly ground black pepper</li>
+					<li>2 tablespoons all-purpose flour</li>
+					<li>1&frac12; pounds waxy potatoes, peeled and cut into &frac34;-inch pieces</li>
+					<li>2 cups heavy cream</li>
+					<li>2 tablespoons dry sherry</li>
+					<li>Chopped chives, for garnish</li>
+				</ul>
+			]]></ingredients>
+			
+			<prep><![CDATA[
+				<h4>Preparation</h4> <!-- Préparation -->
+				<p>In a large stockpot over medium-high heat, combine the clams and water and bring to a simmer. Cover and steam until the clams open, about 10 minutes.</p>
+				<p>Using a slotted spoon, transfer the clams to a work surface and remove the meat from the open shells, discarding any shells that did not open. Coarsely chop the meat and reserve. Strain the stock through a fine mesh strainer lined with cheesecloth into a large bowl. Add water if needed to make 6 cups of stock. Reserve.</p>
+				<p>Rinse and dry the stockpot and place over medium heat. Add the bacon and cook until the fat is rendered and the bacon is crisp, about 8 to 10 minutes. Transfer onto paper towels to drain.</p>
+				<p>Increase the heat to medium-high and add the butter, thyme, bay leaf, onion and celery. Season to taste with salt and pepper. Cook, stirring occasionally, until the vegetables soften, about 8 to 10 minutes. Stir in the flour and cook for 2 more minutes. Slowly stir in the stock. Add the potatoes and bring to a boil. Decrease the heat to medium and cook until the potatoes are tender, about 20 minutes.</p>
+				<p>Add the clam meat and cream and cook until warmed through, about 5 minutes. Discard the thyme and bay leaf. Stir in the sherry and season with additional salt and pepper if needed. Serve in bowls topped with the bacon and chives.</p>
+			]]></prep>
+		</item>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<sidebar><![CDATA[]]></sidebar>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/09/hero/recipe-01.jpg</hero_src>
+		<hero_caption><![CDATA[New England Clam Chowder]]></hero_caption>
+		<hero_credit><![CDATA[Oceania Cruises]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/09/article/recipe-01.jpg</article_src>
+		<article_caption><![CDATA[New England Clam Chowder]]></article_caption>
+		<article_credit><![CDATA[Oceania Cruises]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>

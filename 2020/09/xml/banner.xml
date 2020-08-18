@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<element date="2009" id="banner-2009-reg">
+		<country><![CDATA[ca]]></country>
+		<tactic><![CDATA[banner]]></tactic>
+		<year><![CDATA[20]]></year>
+		<month><![CDATA[09]]></month>
+		<id_live><![CDATA[01]]></id_live>
+		
+		<supplier><![CDATA[Regent Seven Seas Cruises]]></supplier>
+		<directory><![CDATA[reg]]></directory>
+		
+		<title><![CDATA[Essential Europe]]></title>
+		<intro><![CDATA[Essential Europe]]></intro>
+		<offer><![CDATA[
+			Canadian residents are invited to enjoy special savings on select voyages offering Canadian Dollars at Par pricing for An Unrivaled Experience® on the world's most luxurious fleet.
+		]]></offer>
+		<content><![CDATA[
+			<p>To their valued guest, Regent Seven Seas Cruises&reg; remains ever grateful to your loyalty and support as they look toward the brighter days ahead. They are planning to implement new health and safety measures as they continue to work closely with the U.S. Centers of Disease Control and federal governments - both here and abroad - in the development of protocols that go above and beyond industry standards to ensure the safest possible environment for their guests and crew alike.&nbsp;</p>
+			<p>Their steadfast commitment to the well-being of all travelers and onboard teams sailing with Regent Seven Seas Cruises&reg; remains firm. Regent Seven Seas Cruises&reg; won't stop until they are confident that they've done everything within their power to provide and experience that is unrivaled on all fronts, delivering you the best possible luxury cruise vacation.</p>
+			<p>Regent Seven Seas Cruises&reg; looks forward to setting sail together again and can't wait to welcome you back aboard your home away from home - when the time is right for you.</p>
+		]]></content>
+		
+		<terms id="banner-2009-reg">
+			<consumer><![CDATA[
+				*All fares are per person in Canadian dollars, valid for residents of Canada, based on double occupancy, for new bookings only and may be increased or withdrawn at any time. Not all promotions are combinable. 2-for-1 Fares are based on published Full Brochure Fares; such fares may not have resulted in actual sales in all suite categories and do not include optional charges as detailed in the Guest Ticket Contract. Fares include additional Bonus Savings. FREE Roundtrip Business Class Air includes ground transfers and applies to intercontinental flights only from the following airports: YUL, YVR, YYZ. Airfare is available from all other U.S. and Canadian gateways for an additional charge. All airline fees, surcharges and government taxes are included; however, airline-imposed personal charges such as baggage fees may apply. Custom Air arrangements may be made 270 days prior to sailing (custom air fees apply). FREE Business Class Air applies to intercontinental flights only and FREE Air applies to domestic flights only. Canada at Par Offer: Canadian dollars at par applies to new bookings on Penthouse and below categories on select voyages only made from July 1, 2020 through September 30, 2020 and is available to Canadian residents only. Cancels and rebooks will not be permitted, and bookings will be vetted for eligibility. Offer is not combinable with Upgrade offers, single specials, other promotions or group pricing, but is combinable with group amenities and will count toward Tour Conductor Credits. Certain restrictions may apply. Ships&rsquo; Registry: Marshall Islands &amp; Bahamas. &copy;2020 Regent Seven Seas Cruises
+			]]></consumer>
+			
+			<agent><![CDATA[]]></agent>
+		</terms>
+		
+		<products>
+			<!-- PRODUCT ONE -->
+			<product id="banner-2009-reg">
+				<title><![CDATA[Royal Aegean]]></title>
+				<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Shipboard Credit of $200 USD per cabin from Sept 1 – Sept 30, 2022]]></offer>
+				<description><![CDATA[]]></description>
+				
+				<cost><![CDATA[8,249]]></cost>
+				<taxes><![CDATA[]]></taxes>
+				<departing><![CDATA[May 11, 2021]]></departing>
+				<duration><![CDATA[7 Nights]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[CAD]]></currency>
+				
+				<ship><![CDATA[Seven Seas Voyager®]]></ship>
+				<category><![CDATA[G-Deluxe Veranda Suite]]></category>
+				<embarkation><![CDATA[Athens]]></embarkation>
+				<disembarkation><![CDATA[Istanbul]]></disembarkation>
+				
+				<img_hero><![CDATA[prod-reg-01-ca.jpg]]></img_hero>
+				
+				<amenities_title><![CDATA[Ports of Call]]></amenities_title>
+				<amenities_desc><![CDATA[
+					Athens (Piraeus), Greece; Mykonos, Greece; Santorini, Greece; Rhodes, Greece; Kusadasi, Turkey; Mytilini (Lesbos), Greece; Istanbul, Turkey
+				]]></amenities_desc>
+				<exclusives_title><![CDATA[]]></exclusives_title>
+				<exclusives_desc><![CDATA[  ]]></exclusives_desc>
+				<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+				<inclusions_desc><![CDATA[
+					<ul>
+						<li>2-FOR-1 All-Inclusive Fares</li>
+						<li>FREE Business Class Air* on All Intercontinental Flights</li>
+						<li>FREE Transfers Between Airport and Ship</li>
+						<li>FREE Unlimited Shore Excursions</li>
+						<li>FREE Unlimited Beverages Including Fine Wines and Premium Spirits</li>
+						<li>FREE Open Bars and Lounges Plus In-Suite Mini-Bar Replenished Daily</li>
+						<li>FREE Pre-Paid Gratuities</li>
+						<li>FREE Specialty Restaurants</li>
+						<li>FREE Unlimited WiFi</li>
+					</ul>
+					<p><strong>Concierge Suites and Higher Include:</strong> FREE 1-Night Pre-Cruise Hotel Package and more</p>
+					<p><strong>Penthouse Suites and Higher Include:</strong> FREE Personal Butler and more</p>
+				]]></inclusions_desc>
+				
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+			
+			<!-- PRODUCT TWO -->
+			<product id="banner-2009-reg">
+				<title><![CDATA[Beauty of the Balearic]]></title>
+				<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Hosted sailing includes complimentary shore excursion, traveller cocktail party, and company of a gracious onboard host]]></offer>
+				<description><![CDATA[]]></description>
+				
+				<cost><![CDATA[8,399]]></cost>
+				<taxes><![CDATA[]]></taxes>
+				<departing><![CDATA[Jul 29, 2021]]></departing>
+				<duration><![CDATA[7 Nights]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[CAD]]></currency>
+				
+				<ship><![CDATA[Seven Seas Mariner®]]></ship>
+				<category><![CDATA[H-Deluxe Veranda Suite]]></category>
+				<embarkation><![CDATA[Monte Carlo]]></embarkation>
+				<disembarkation><![CDATA[Barcelona]]></disembarkation>
+				
+				<img_hero><![CDATA[prod-reg-02-ca.jpg]]></img_hero>
+				
+				<amenities_title><![CDATA[Ports of Call]]></amenities_title>
+				<amenities_desc><![CDATA[Monte Carlo, Monaco; Saint-Tropez, France; Portofino, Italy; Tuscany (Livorno), Italy; Ajaccio (Corsica), France; Mahon (Minorca), Spain; Ibiza, Spain; Barcelona, Spain]]></amenities_desc>
+				<exclusives_title><![CDATA[Exclusives]]></exclusives_title>
+				<exclusives_desc><![CDATA[  ]]></exclusives_desc>
+				<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+				<inclusions_desc><![CDATA[
+					<ul>
+						<li>2-FOR-1 All-Inclusive Fares</li>
+						<li>FREE Business Class Air* on All Intercontinental Flights</li>
+						<li>FREE Transfers Between Airport and Ship</li>
+						<li>FREE Unlimited Shore Excursions</li>
+						<li>FREE Unlimited Beverages Including Fine Wines and Premium Spirits</li>
+						<li>FREE Open Bars and Lounges Plus In-Suite Mini-Bar Replenished Daily</li>
+						<li>FREE Pre-Paid Gratuities</li>
+						<li>FREE Specialty Restaurants</li>
+						<li>FREE Unlimited WiFi</li>
+					</ul>
+					<p><strong>Concierge Suites and Higher Include:</strong> FREE 1-Night Pre-Cruise Hotel Package and more</p>
+					<p><strong>Penthouse Suites and Higher Include:</strong> FREE Personal Butler and more</p>
+				]]></inclusions_desc>
+				
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+			
+			<!-- PRODUCT THREE -->
+			<product id="banner-2009-reg">
+				<title><![CDATA[Riviera Discovery ]]></title>
+				<offer><![CDATA[<strong>Our Agency Exclusive:</strong> Shipboard Credit of $200 USD per cabin from Sept 1 – Sept 30, 2022]]></offer>
+				<description><![CDATA[]]></description>
+				
+				<cost><![CDATA[7,999]]></cost>
+				<taxes><![CDATA[]]></taxes>
+				<departing><![CDATA[Sep 1, 2021]]></departing>
+				<duration><![CDATA[7 Nights]]></duration>
+				<pricing><![CDATA[Price is per person based on double occupancy.]]></pricing>
+				<currency><![CDATA[CAD]]></currency>
+				
+				<ship><![CDATA[Seven Seas Mariner®]]></ship>
+				<category><![CDATA[H – Deluxe Veranda Suite ]]></category>
+				<embarkation><![CDATA[Monte Carlo]]></embarkation>
+				<disembarkation><![CDATA[Venice]]></disembarkation>
+				
+				<img_hero><![CDATA[prod-reg-03-ca.jpg]]></img_hero>
+				
+				<amenities_title><![CDATA[Ports of Call]]></amenities_title>
+				<amenities_desc><![CDATA[Monte Carlo, Monaco; Rome (Civitavecchia), Italy; Sorrento/Capri, Italy; Cruising the Strait of Messina; Taormina (Sicily), Italy; Corfu, Greece; Kotor, Montenegro; Split, Croatia; Venice, Italy]]></amenities_desc>
+				<exclusives_title><![CDATA[Exclusives]]></exclusives_title>
+				<exclusives_desc><![CDATA[  ]]></exclusives_desc>
+				<inclusions_title><![CDATA[Inclusions]]></inclusions_title>
+				<inclusions_desc><![CDATA[
+					<ul>
+						<li>2-FOR-1 All-Inclusive Fares</li>
+						<li>FREE Business Class Air* on All Intercontinental Flights</li>
+						<li>FREE Transfers Between Airport and Ship</li>
+						<li>FREE Unlimited Shore Excursions</li>
+						<li>FREE Unlimited Beverages Including Fine Wines and Premium Spirits</li>
+						<li>FREE Open Bars and Lounges Plus In-Suite Mini-Bar Replenished Daily</li>
+						<li>FREE Pre-Paid Gratuities</li>
+						<li>FREE Specialty Restaurants</li>
+						<li>FREE Unlimited WiFi</li>
+					</ul>
+					<p><strong>Concierge Suites and Higher Include:</strong> FREE 1-Night Pre-Cruise Hotel Package and more</p>
+					<p><strong>Penthouse Suites and Higher Include:</strong> FREE Personal Butler and more</p>
+				]]></inclusions_desc>
+				
+				<terms><![CDATA[]]></terms>
+				<img_map></img_map>
+			</product>
+		</products>
+		
+		<brandcolor>HEXColor</brandcolor>
+		<iframe_height></iframe_height>
+		<id_ezine><![CDATA[banner-01]]></id_ezine>
+		<file><![CDATA[]]></file>
+	</element>
+</root>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2009" id="01">
+		<dir_name><![CDATA[ship]]></dir_name>
+		<pub_date><![CDATA[September 2020]]></pub_date> <!-- September = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[09]]></dir_month>
+		<file_ship><![CDATA[01]]></file_ship>
+		
+		<tab_class><![CDATA[active]]></tab_class> <!-- If there's more than one ship showcase, only the first showcase has the 'active' class -->
+		
+		<author><![CDATA[Hurtigruten]]></author>
+		<id_supplier><![CDATA[hur]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[The World's First Hybrid Electric-Powered Expedition Cruise Ships]]></title>
+		<teaser><![CDATA[
+			As the world leader in expedition cruises, Hurtigruten has come a long way since first getting its start on the Norwegian coast 127 years ago.
+		]]></teaser>
+		<lead><![CDATA[
+			As the world leader in expedition cruises, Hurtigruten has come a long way since first getting its start on the Norwegian coast 127 years ago.
+		]]></lead>
+		<body><![CDATA[
+			<p>With the launch of the world&rsquo;s first custom-built hybrid electric-powered expedition ships, MS Roald Amundsen and MS Fridtjof Nansen, Hurtigruten leads the way in innovative technology for green and clean exploration to some of the most remote and spectacular coastlines on Earth.</p>
+			<p>Each vessel is equipped with large battery packs, feature innovative green technology, and use electric propulsion to reduce fuel emissions by 20% &mdash;allowing guests to sail more quietly than ever before. These expedition ships are truly the first of their kind and take environmentally conscious expedition cruising to a new level.</p>
+			<p>All of this, and premium surroundings&mdash;the ships&rsquo; interiors tastefully incorporate natural Scandinavian materials, such as granite, oak, birch, and wool. They also come packed with amenities: an infinity pool, two hot tubs, three spectacular restaurants, all outside cabins&mdash;half of which have private balconies. The list truly goes on, as there is also an interactive Science Center, where guests and crew alike can meet to foster a deeper understanding of the areas Hurtigruten explores. The expedition team on board is comprised of experts in their field&mdash;ornithologists, biologists, geologists, historians, photographers, and more who love to share their knowledge with curious, like-minded travelers.</p>
+			<p>Hurtigruten has a great responsibility, which is incorporated into its mission to provide safe, unique, active, and sustainable travel experiences that create lifelong memories. To ensure the guests of tomorrow have the same travel experiences as the guests of today, they work hard to minimize the impact of their operations and promote sustainable innovation in the destinations they visit, by: supporting local communities; ensuring responsible consumption and production with the global partners they collaborate with; urgently combating climate change; and conserving the use of the oceans, seas, and marine resources for sustainable development.</p>
+			<p>In fact, Hurtigruten was the first major travel company to remove single-use plastic from all their ships, restaurants and hotels. These areas are where Hurtigruten believes it can have the most positive impact as a cruise-ship industry leader and on society as a whole, both now and in the future.</p>
+			<p>Between the diverse selection of exciting expeditions, purpose-built hybrid electric-powered expedition ships, and their continued passion and dedication toward sustainable travel, any expedition with Hurtigruten is a truly authentic, immersive, and educational experience.</p>
+			<p><strong>Programs and Services</strong></p>
+			<p>Hurtigruten provides authentic and immersive experiences for travelers seeking to connect with their inner explorer. As the largest cruise operator in polar waters, and with over 125 years of know-how, Hurtigruten offers expedition cruises to some of the world&rsquo;s most pristine and remote destinations, including Antarctica, Arctic Canada and the Northwest Passage, Greenland, Iceland, Norway, Svalbard, and more. Hurtigruten&rsquo;s fleet consists of 16 expedition ships, custom-built for adventure travel. In 2019 and 2020, two new groundbreaking ships were launched: MS Roald Amundsen and MS Fridtjof Nansen are the most advanced and environmentally friendly expedition vessels at sea, as well as the world&rsquo;s first hybrid electric&ndash;powered cruise ships. Hurtigruten is an industry leader in sustainability, with a deep commitment to improving the marine environments we call home.&nbsp;</p>
+			<p><strong>Destinations</strong></p>
+			<p>Alaska, Antarctica, Arctic Traverse, British Isles, Caribbean and Central America, Europe, Greenland, Iceland, North America, Norway, Northwest Passage &amp; Canada, South America, and Svalbard.</p>
+		]]></body>
+		
+		<tab_group id_supplier="hur">
+			<tab id="01">
+				<id><![CDATA[01]]></id>
+				<title><![CDATA[The Ship]]></title> <!-- Le navire -->
+				<content><![CDATA[
+					<p>Welcome to the future of sustainable expedition cruising. Hurtigruten has designed every element of its new hybrid electric-powered ships, MS Roald Amundsen and MS Fridtjof Nansen, to enhance your voyage and create a warm and informal atmosphere. Join Hurtigruten in premium onboard surroundings as you explore some of the most beautiful places on Earth.</p>
+					<h2>Your Home Away from Home</h2>
+					<h4>Informal and Engaged</h4>
+					<p>Life on board a Hurtigruten expedition cruise is famously relaxed. This atmosphere is reflected in the casual dress code, where there&rsquo;s no need to change for dinner. The helpful and knowledgeable Expedition Teams love to share their experiences, and make it a point to be available throughout the journey to welcome your questions. You&rsquo;ll discover that striking up conversations with your fellow explorers feels as natural as the landscapes around you. We find that Hurtigruten crew and guests all share a love of the natural world and a strong sense of community.</p>
+					<h4>Stunning Views and Good Company</h4>
+					<p>The Explorer lounge and bar with floor-to-ceiling windows and deep armchairs offers magnificent views of the scenery. This is also a social hub of the ship, where you can always find a stimulating chat to join. The Explorer lounge and bar serves a tempting range of snacks, pastries and refreshments throughout the day.</p>
+					<h4>Choose Active or Relaxing Sea Days</h4>
+					<p>Sea days are great for participating in lectures to learn about the area you&rsquo;re exploring. Be edutained in the Science Center by taking part in projects, study samples taken on your journey, read about the destinations in the library or get guidance on photography from our professional photographer on board. But sea days are also about relaxation. Enjoy finding one of the many cozy nooks around the ship to relax, read or simply admire the spectacular landscapes. Their new ships have hot tubs, a pool, sauna, gym and a Wellness Center. Feel free to soak tired muscles, work out or take an invigorating stroll on deck and breathe in the fresh sea air.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/09/article/ship-01-ship.jpg</tab_src>
+				<tab_caption><![CDATA[The Ship]]></tab_caption>
+				<class><![CDATA[active]]></class> <!-- The first tab has the 'active' class -->
+			</tab>
+			
+			<tab id="02">
+				<id><![CDATA[02]]></id>
+				<title><![CDATA[Accommodations]]></title> <!-- Hébergement -->
+				<content><![CDATA[
+					<p>All the suites and cabins feature fine Scandinavian materials and provide premium comfort for a great night’s sleep after a day of exploration. All cabins and suites are outside for excellent views.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/09/article/ship-01-accommodations.jpg</tab_src>
+				<tab_caption><![CDATA[Accommodations]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="03">
+				<id><![CDATA[03]]></id>
+				<title><![CDATA[Dining]]></title> <!-- Gastronomie -->
+				<content><![CDATA[
+					<p>A Hurtigruten cruise is a journey for all your senses. Their chefs create superb dining from sustainable local and regionally-sourced produce, adding a delicious dimension to your travel.</p>
+					<p>To tantalize your taste buds, the team of talented onboard chefs create sumptuous multi-course meals. Whether you choose to dine in the main onboard restaurant or upscale to the &agrave; la carte fine dining option, you&rsquo;ll find the cuisine varied, inspired, and downright delicious.</p>
+					<h4>Cultural Cuisine</h4>
+					<p>Exploration is about opening our minds to new customs, our eyes to new landscapes, and, yes, our mouths to new tastes. Hurtigruten&rsquo;s chefs may utilize unique herbs and spices or adopt traditional cooking techniques from the area, all to add authentic, local gastronomy to the meals they prepare for you on board. You can also expect some favorite Norwegian recipes on the menu, handed down through generations and a fitting homage to their long sea-faring heritage.</p>
+					<h4>Local Flavors</h4>
+					<p>The chefs craft dishes that reflect the cuisine of the region you are sailing in, immersing you in the culture even more.</p>
+					<h4>Plant-based</h4>
+					<p>A range of tasty plant-based dishes are integrated as essential options into all of the menus.</p>
+					<h4>Regional Suppliers</h4>
+					<p>Sourcing food along the way helps to cut down the energy needed to transport ingredients and has the added benefit of supporting local small-scale suppliers.</p>
+					<h4>Inspirational Lectures</h4>
+					<p>The Expedition Team deliver themed lectures on how food and sustainability go hand in hand and often organize tasting sessions out on deck and during landings.</p>
+					<h4>Tasty Excursions</h4>
+					<p>Join excursions to nearby farms, fisheries, or vineyards, each offering a fascinating foray into the culinary customs of the region.</p>
+					<p>Choose from the following exciting options:</p>
+					<ul>
+						<li><strong>Aune</strong> &ndash; The main dining room: Aune draws its name from a family of ship chandlers in Troms&oslash;, who supplied some of the great polar explorers as they headed into the wilderness.</li>
+						<li><strong>Lindstrom</strong> &ndash; Fine dining: Adolf Lindstr&oslash;m served as Roald Amundsen&rsquo;s chef on polar expeditions. In his honor, they&rsquo;ve created a quality restaurant serving gourmet cuisine.</li>
+						<li><strong>Fredheim</strong> &ndash; Casual dining: Fredheim is named after a famed trapper&rsquo;s cabin in the Norwegian territory of Svalbard, not far from the North Pole.</li>
+						<li><strong>Explorer Lounge &amp; Bar</strong> - Enjoy a snack or savor a drink after a long day of exploration. Enormous panorama windows surround three sides of the bar, giving you amazing views of the stunning nature.</li>
+					</ul>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/09/article/ship-01-dining.jpg</tab_src>
+				<tab_caption><![CDATA[Dining]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="04">
+				<id><![CDATA[04]]></id>
+				<title><![CDATA[Activities]]></title> <!-- Activités -->
+				<content><![CDATA[
+					<p>An expedition with Hurtigruten is more than exciting. It is also an opportunity to gain a deeper understanding of the world through the included Explorer science activities:</p>
+					<ul>
+						<li>A comprehensive and interesting lecture program. Interact with the Expedition Team in the advanced Science Center to enhance your expedition experience with first-hand knowledge. Get insights into the places you visit from guest lecturers and scientists.
+							<ul>
+								<li><strong>Examples of Lecture Topics:</strong>
+									<ul>
+										<li>Oceanography and geology</li>
+										<li>Sea ice and glaciers</li>
+										<li>Exploration history and storytelling</li>
+										<li>Climate change</li>
+										<li>Sustainability</li>
+										<li>Wildlife</li>
+										<li>Earth science</li>
+										<li>Culture</li>
+										<li>Photography</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li>Be part of Citizen Science Projects where you are offered the chance to contribute to science and understanding. Take part in research and activities performed for scientific organizations around the world.</li>
+						<li>Learn how to ensure your safety during landings and guarantee the smallest possible footprint in the pristine environments you visit.</li>
+						<li>Join in on briefings before each landing, making you aware of any potential risks and of protocols regarding local wildlife.</li>
+						<li>Learn how to make the most out of your camera equipment in photography workshops.</li>
+					</ul>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/09/article/ship-01-activities.jpg</tab_src>
+				<tab_caption><![CDATA[Activities]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="06">
+				<id><![CDATA[06]]></id>
+				<title><![CDATA[Services]]></title> <!-- Services -->
+				<content><![CDATA[
+					<p>A Hurtigruten expedition cruise features superb onboard facilities designed to help you stay active and rejuvenate for the next</p>
+					<p>day&rsquo;s adventures in the Wellness Center. Aboard their new hybrid powered ships, you can work out in the indoor gym and indulge</p>
+					<p>in luxurious spa treatments as you explore.</p>
+					<h2>Stay in Shape &ndash; Inside and Out</h2>
+					<h4>Training with Scenery</h4>
+					<p>Tone up in the indoor gym, featuring rowing machines, fitness bikes, training stations, and free weights. Or enjoy the outdoor gym and the outdoor running track where you can work out in fresh air while watching beautiful scenery glide by. In warm waters, many of the voyages will offer daily yoga, tai chi, and meditation classes with a professional instructor on the outdoor decks, providing an opportunity for an inner journey as well.</p>
+					<h2>A Well of Recreational Possibilities</h2>
+					<p>Hurtigruten&rsquo;s expedition cruises are dedicated to satisfying all your senses. In the Wellness Center, you will find highly trained therapists ready to welcome you to a wide variety of relaxing services and treatments, designed to help you recover, relax and rejuvenate.</p>
+					<h4>Rejuvenate and Refresh</h4>
+					<p>After an exciting day of exploration or during a peaceful day at sea, there&rsquo;s nothing like indulging in a relaxing massage or treatment. Let the well-trained therapists welcome you to a luxurious and healthful experience, such as an aromatherapy body massage, a tension release treatment for your arms and feet, or the specially created Hurtigruten Signature treatment.</p>
+					<h4>Sauna</h4>
+					<p>The elegant onboard sauna features panoramic windows.</p>
+					<h2>Indulge yourself in spectacular waters</h2>
+					<p>Swim, soak, and truly relax among some of the most sublime scenery on Earth. Soak in the infinity pool or in one of two hot tubs, offering amazing views of glaciers, icebergs and wildlife.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/09/article/ship-01-services.jpg</tab_src>
+				<tab_caption><![CDATA[Services]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+		</tab_group>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/09/hero/ship-01.jpg</hero_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/09/article/ship-01.jpg</article_src>
+		
+		<tile_color>005DAB</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>
