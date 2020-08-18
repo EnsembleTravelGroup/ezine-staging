@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2009" id="01">
+		<dir_name><![CDATA[advertorial]]></dir_name>
+		<pub_date><![CDATA[September 2020]]></pub_date> <!-- September = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[09]]></dir_month>
+		<id_article><![CDATA[01]]></id_article>
+		
+		<author><![CDATA[The Travel Corporation]]></author>
+		<id_supplier><![CDATA[ttc]]></id_supplier>
+		
+		<title><![CDATA[Peace of Mind Promise]]></title>
+		<teaser><![CDATA[The Travel Corporation]]></teaser>
+		<lead><![CDATA[
+			We want you to feel you confident in your future vacation plans with us. Set your mind at ease with our Peace of Mind Promise to you. Learn about our financial strength and our plans for addressing COVID-19 on the road, on the water and in our hotels.
+		]]></lead>
+		<body><![CDATA[
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/09/article/advertorial-01-01.jpg">
+			</figure>
+			<p>Dear Traveler,</p>
+			<p>Thank you for choosing us for your future vacation. On behalf of all of&nbsp;<strong>The Travel Corporation&rsquo;s</strong>&nbsp;(TTC) 40 award-winning travel and hospitality brands that are owned and led by my family, I want to help you feel fully confident in investing your future travel arrangements and monies with us, despite these uncertain times.</p>
+			<p>We recognize that in these challenging times, many travel companies are under severe financial strain and this is causing understandable concern among travelers, including some of our guests. TTC is a global business and 2020 marks a very special year for us; our first hundred years in business, always run by the same family now across four generations. Over the century, we have built and nurtured an outstanding reputation for innovative travel experiences, superb service, warm hospitality and great value.</p>
+			<p>We have learned to always conduct our business conservatively and today are fully accredited in all the countries we do business in. Being private, we usually do not release information regarding our financial position, but these aren&rsquo;t usual times. I&rsquo;d like to personally reassure you of TTC&rsquo;s current financial strength and future longevity. To bring you peace of mind that goes beyond our commitment to a great vacation, I&rsquo;m sharing some tangible financial information with you, so that you know that your monies are safe too.</p>
+			<p>Within our group of TTC brands is&nbsp;<strong>Red Carnation Hotels</strong>, (<strong>just named the 4th Top Hotel Brand in the World by Travel &amp; Leisure magazine &ndash; July 2020</strong>) which owns 14 spectacular properties, situated in prime locations around the world. Red Carnations Hotels is audited by the international accountancy firm Mazars, which confirms that the Company has unencumbered fixed assets in excess of US$300,000,000 at 31 December, 2019. We share this solely to give you reassurance and comfort in knowing that TTC is highly solvent. May this therefore give you, our clients and future guests, the confidence that your monies for future travel are safe with TTC and its brands. This is a commitment that many other travel companies are unfortunately unable to provide to you at this time.</p>
+			<p>Please also be assured that your health and wellbeing is at the forefront of everything we are doing right now, to prepare for when we can all begin to responsibly travel again. Our global team has worked with various global organizations such as WTTC, CLIA and taken recommendations distributed by The WHO and CDC to develop and implement the most stringent new protocols to help ensure your wellbeing and health when you go on vacation with us again. Also, as an industry first, our brands;&nbsp;<strong>Trafalgar</strong>,&nbsp;<strong>Insight Vacations</strong>&nbsp;and&nbsp;<strong>Luxury Gold</strong>&nbsp;have created and implemented a new position on their trips, a&nbsp;<strong>Wellbeing Director </strong>who will help make certain all necessary protocols are followed and ensured. Please visit our brand websites for more information.&nbsp;</p>
+			<p><strong>TTC</strong>&nbsp;&amp; our&nbsp;<strong>TreadRight Foundation</strong>&nbsp;remain dedicated to responsibly and sustainably connect travelers to the places we go, when we can begin exploring this incredible world again. As a passionate traveler myself, I can&rsquo;t wait to go on vacation again with my wife (we celebrate our 25th anniversary this year) and three children too.</p>
+			<p>On behalf of my family, our board of directors and all of our incredible team members around the world, please stay safe and we look forward to welcoming you on your future travel adventure, when the time is right.</p>
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/09/article/advertorial-01-02.jpg">
+			</figure>
+			<p>Brett Tollman<br>
+			Chief Executive – TTC</p>
+		]]></body>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/09/hero/advertorial-01.jpg</hero_src>
+		<hero_caption><![CDATA[Peace of Mind Promise]]></hero_caption>
+		<hero_credit><![CDATA[The Travel Corporation]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/09/article/advertorial-01.jpg
+		</article_src>
+		<article_caption><![CDATA[Peace of Mind Promise]]></article_caption>
+		<article_credit><![CDATA[The Travel Corporation]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+		</tags>
+	</article>
+</root>
