@@ -39,7 +39,7 @@
 				<title><![CDATA[The Ship]]></title> <!-- Le navire -->
 				<content><![CDATA[
 					<p>Welcome to the future of sustainable expedition cruising. Hurtigruten has designed every element of its new hybrid electric-powered ships, MS Roald Amundsen and MS Fridtjof Nansen, to enhance your voyage and create a warm and informal atmosphere. Join Hurtigruten in premium onboard surroundings as you explore some of the most beautiful places on Earth.</p>
-					<h2>Your Home Away from Home</h2>
+					<h3>Your Home Away from Home</h3>
 					<h4>Informal and Engaged</h4>
 					<p>Life on board a Hurtigruten expedition cruise is famously relaxed. This atmosphere is reflected in the casual dress code, where there&rsquo;s no need to change for dinner. The helpful and knowledgeable Expedition Teams love to share their experiences, and make it a point to be available throughout the journey to welcome your questions. You&rsquo;ll discover that striking up conversations with your fellow explorers feels as natural as the landscapes around you. We find that Hurtigruten crew and guests all share a love of the natural world and a strong sense of community.</p>
 					<h4>Stunning Views and Good Company</h4>
@@ -132,19 +132,17 @@
 				<id><![CDATA[06]]></id>
 				<title><![CDATA[Services]]></title> <!-- Services -->
 				<content><![CDATA[
-					<p>A Hurtigruten expedition cruise features superb onboard facilities designed to help you stay active and rejuvenate for the next</p>
-					<p>day&rsquo;s adventures in the Wellness Center. Aboard their new hybrid powered ships, you can work out in the indoor gym and indulge</p>
-					<p>in luxurious spa treatments as you explore.</p>
-					<h2>Stay in Shape &ndash; Inside and Out</h2>
+					<p>A Hurtigruten expedition cruise features superb onboard facilities designed to help you stay active and rejuvenate for the next day&rsquo;s adventures in the Wellness Center. Aboard their new hybrid powered ships, you can work out in the indoor gym and indulge in luxurious spa treatments as you explore.</p>
+					<h3>Stay in Shape &ndash; Inside and Out</h3>
 					<h4>Training with Scenery</h4>
 					<p>Tone up in the indoor gym, featuring rowing machines, fitness bikes, training stations, and free weights. Or enjoy the outdoor gym and the outdoor running track where you can work out in fresh air while watching beautiful scenery glide by. In warm waters, many of the voyages will offer daily yoga, tai chi, and meditation classes with a professional instructor on the outdoor decks, providing an opportunity for an inner journey as well.</p>
-					<h2>A Well of Recreational Possibilities</h2>
+					<h3>A Well of Recreational Possibilities</h3>
 					<p>Hurtigruten&rsquo;s expedition cruises are dedicated to satisfying all your senses. In the Wellness Center, you will find highly trained therapists ready to welcome you to a wide variety of relaxing services and treatments, designed to help you recover, relax and rejuvenate.</p>
 					<h4>Rejuvenate and Refresh</h4>
 					<p>After an exciting day of exploration or during a peaceful day at sea, there&rsquo;s nothing like indulging in a relaxing massage or treatment. Let the well-trained therapists welcome you to a luxurious and healthful experience, such as an aromatherapy body massage, a tension release treatment for your arms and feet, or the specially created Hurtigruten Signature treatment.</p>
 					<h4>Sauna</h4>
 					<p>The elegant onboard sauna features panoramic windows.</p>
-					<h2>Indulge yourself in spectacular waters</h2>
+					<h3>Indulge yourself in spectacular waters</h3>
 					<p>Swim, soak, and truly relax among some of the most sublime scenery on Earth. Soak in the infinity pool or in one of two hot tubs, offering amazing views of glaciers, icebergs and wildlife.</p>
 				]]></content>
 				<tab_src>https://www.ensembletravel.com/assets/img/ezine/20/09/article/ship-01-services.jpg</tab_src>
