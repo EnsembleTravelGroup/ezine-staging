@@ -24,4 +24,29 @@
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 	</article>
+	
+	<article date="2009" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[September 2020]]></pub_date>
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[09]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+		
+		<author><![CDATA[Sunwing]]></author>
+		<id_supplier><![CDATA[snw]]></id_supplier>
+		
+		<title><![CDATA[Introducing Safe with Sunwing]]></title>
+		<teaser><![CDATA[Sunwing]]></teaser>
+		<lead><![CDATA[
+			The ‘Safe with Sunwing’ commitment ensures the health and safety of Sunwing’s customers and employees throughout the entire vacation experience, so you can travel safe from takeoff to touchdown. They’re with you every step of the way, ensuring your travel safety from the moment you check-in at the airport to your flight, your airport transfer, your resort stay and your journey home. Safe travels!
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/p4M0HhcG_7A?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
 </root>
