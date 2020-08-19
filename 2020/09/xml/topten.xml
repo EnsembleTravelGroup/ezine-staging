@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	
+	<article date="2009" id="index"> <!-- use 'index' for spotlight/insider/topten/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[topten]]></dir_name> <!-- usually 'topten' OR 'advertorial' -->
+		<pub_date><![CDATA[September 2020]]></pub_date> <!-- September = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[09]]></dir_month>
+		<id_article><![CDATA[index]]></id_article>
+		
+		<author><![CDATA[Ensemble Travel Group]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<id_supplier><![CDATA[spacer]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/topten/cruising) -->
+		
+		<title><![CDATA[6 North American Destinations for a Winter Vacation]]></title>
+		<teaser><![CDATA[
+			Winter is calling you.
+		]]></teaser>
+		<lead><![CDATA[
+			Winter is coming, and it’s time to embrace it. Cold weather doesn’t have to mean hibernation, so check out these winter wonderlands in your own backyard. Whether you’re seeking adventure on the slopes or relaxation while cozying up by a fireplace, there’s a destination just for you.
+		]]></lead>
+		<body><![CDATA[
+			<p><strong>Disclaimer:</strong></p> Please note that each state/province featured has its own Covid-19 preventative measures and travel requirements in place which are subject to change frequently. We recommend doing additional research before booking your trip. For more information, contact your travel advisor.</p>
+		]]></body>
+		
+		<gallery>
+			<img>
+				<title><![CDATA[Banff National Park, Alberta]]></title>
+				<content><![CDATA[Banff and Lake Louise come alive during winter and are full of magical moments. Those moments of pure joy, wonder and discovery: they’re the ones that really matter. The feeling you have as you sit bundled under a blanket next to your best friends, heads tilted back and gazing in awe at the Northern Lights dancing in the crystal-clear sky. The catch in your breath as you drive into town and see for the first time the majestic mountains that seem to burst straight from the ground. Watching snowflakes float gently to the ground and anticipating how fun the skiing will be tomorrow. Gliding across a frozen lake, friends rushing by, you feel the tranquility of the mountains around you. The cold crisp air gliding across your face, the momentum of sled dogs building, the exhilaration in your body soaring. These moments are the ones you’ll remember forever in Banff and Lake Louise.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/09/article/topten-index-01.jpg]]></src>
+				<position>0</position>
+				<class>active</class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Lake Tahoe, California/Nevada]]></title>
+				<content><![CDATA[Blue as topaz and encircled by majestic peaks, the massive Lake Tahoe straddles the California-Nevada border and is a bucket list essential. If winter is your season, Tahoe has you covered with more than a dozen alpine resorts. Carve it up at the heavy-hitters or skip over to smaller, more intimate ski hills. The fluffy white stuff usually starts falling in late November, and in some years, the spring melt holds off until June. Even if you don’t ski or board, Tahoe’s non-skiing activities make snow days fun: zip lines, inner tube runs, scenic gondola rides, ice-skating rinks, snowshoe and snowmobiling trails, and a party-like atmosphere on and off the slopes.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/09/article/topten-index-02.jpg]]></src>
+				<position>1</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Quebec City, Quebec]]></title>
+				<content><![CDATA[As soon as the first snowflakes fall, Québec City gets into its winter groove. From late November to late March, the region is one giant playground while Old Québec dazzles with its enchanting blanket of snow. Grab your hat and mittens and experience the best of winter: it's time to tackle winter like a local! Marvel at the splendor of the only ice hotel in North America, Hôtel de Glace. Stroll through the winter wonderland of Old Québec. Try cross-country skiing in the heart of town or in the most beautiful sceneries. Discover the magnificent skating rinks all over the city. Snowshoe through snow-capped forests less than 30 minutes from downtown. Go dogsledding through stunning winter scenery. After an adventurous snowmobile ride, have a seat by the fireplace at the chalet with a nice glass of wine. So, bundle up because there’s no shortage of warm-hearted fun in Québec City.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/09/article/topten-index-03.jpg]]></src>
+				<position>2</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Taos, New Mexico]]></title>
+				<content><![CDATA[Rich culture, clean air, beautiful landscapes, plenty of outdoor adventure, and friendly hospitality have long attracted travelers to Taos. Known for its beauty, thriving arts scene, Native culture, rejuvenating spas, and delectable culinary scene, you’ll soon find there’s no shortage of fun and adventure to be had all year long.  Looking to experience more of this beautiful region? Drive along the Enchanted Circle, an 85-mile US Forest Scenic Byway connecting Taos and Questa with the resort communities of Red River, Eagle Nest, and Angel Fire.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/09/article/topten-index-04.jpg]]></src>
+				<position>3</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Whitehorse, Yukon]]></title>
+				<content><![CDATA[If you think winter is the time to retreat indoors with the heat cranked up high, think again. Grab a dogsled, snowmobile or pair of skis — just be sure to grab them with gloves on. In Whitehorse, winter is the longest season, spanning five months from November until the end of March. It may be dark, cold and snowy, but you’ll soon find out why that makes Yukon winters all the better. Where else can you ski through a nature reserve, mush across a glistening lake, and slowly watch your hair freeze as you soak in a hot spring, all in one day? Here’s a hint — it starts with “Y” and ends with “ukon”. The long dark months are also the perfect ingredient for one of the most amazing, natural phenomena of the world — the aurora borealis. Prepare to gaze up in awe as greens, purples and pinks embrace in a lightshow that rivals a choreographed intergalactic laser battle.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/09/article/topten-index-05.jpg]]></src>
+				<position>4</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[White Mountains, New Hampshire]]></title>
+				<content><![CDATA[From majestic mountains and miles of hiking trails, to year-round outdoor adventures like ATVing, downhill skiing, and snowshoeing, you’ll be able enjoy time in the White Mountains all year round. If you’re looking to get your hike on, New Hampshire has 161 miles cutting through the White Mountain National Forrest, and the Appalachian Trail provides unparalleled views along the Presidential Range. The White Mountains are also home to some of 48 peaks that exceed 4,000 feet, and seasoned hikers can enjoy a challenging trek up Mount Washington! If you’re seeking a more leisurely experience, cruise down one of the White Mountain’s many scenic drives and enjoy panoramic fall foliage from the comfort of your car. We recommend the breathtaking Kancamagus Highway, or the state’s historic Cog Railway.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/09/article/topten-index-06.jpg]]></src>
+				<position>5</position>
+				<class></class>
+			</img>
+		</gallery>
+		
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/09/hero/topten-index.jpg]]></hero_src>
+		<hero_caption><![CDATA[6 North American Destinations for a Winter Vacation]]></hero_caption>
+		<hero_credit><![CDATA[Ensemble Travel Group]]></hero_credit>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/09/article/topten-index.jpg]]></article_src>
+		<article_caption><![CDATA[6 North American Destinations for a Winter Vacation]]></article_caption>
+		<article_credit><![CDATA[Ensemble Travel Group]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/09/email/topten-index.jpg</email_src>
+		
+		<tile_color>FFC500</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Top Ten:FFC500, Cruising:00B9F2, Advertorial:A8CB17 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="hiking-trekking"><![CDATA[hiking-trekking]]></tag>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+		</tags>
+	</article>
+</root>

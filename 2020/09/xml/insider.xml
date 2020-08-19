@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2009">
+		<dir_name><![CDATA[insider]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[September 2020]]></pub_date> <!-- September = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[09]]></dir_month>
+		
+		<author><![CDATA[G Adventures]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Find Your Winter Playground with G Adventures]]></title>
+		<teaser><![CDATA[
+			Find the perfect winter itinerary for you!
+		]]></teaser>
+		<lead><![CDATA[
+			We caught up with Dave Llewellyn, Trade Marketing Specialist at G Adventures, to find out what G Adventures is all about and which of their itineraries are perfect for winter adventurers.
+		]]></lead>
+		<body><![CDATA[
+			<p class="question"><strong>Q:</strong> Tell us a bit about G Adventures and the products and services you offer.</p>
+			<p>At G Adventures, we&rsquo;re all about small groups and intimate experiences. For 30 years, we&rsquo;ve been bringing like-minded travelers from around the world on our trips, and they consistently tell their friends about us and come back for more. Why? Flexible itineraries, freedom to explore, smaller groups, safety and peace of mind, and local guides who show you your destination in a way you&rsquo;d miss if traveling any other way. Similarly to how &ldquo;Adventure Travel&rdquo; means something different to everyone (i.e. trying a new food for one person, or skydiving for another), &ldquo;Adventure Travel&rdquo; also comes in different forms depending on where in the world you are and what experiences exist. With that said, there are a few pillars we base our tours off:</p>
+			<ul>
+			<li>Locally based tour leaders (CEOS) - We call our tour leaders &ldquo;CEOs&rdquo; and they are locally based, meaning they know the area you&rsquo;re exploring like the back of their well-traveled hand.</li>
+			<li>Culturally immersive local experiences - We believe you should travel like you live in the destination you&rsquo;re visiting. We aim for connections, charm and local flair. Why? Because you get the authentic experience of the country, and your money stays where it should: supporting the local economy, and the places and people that make your trip so special. You can read more about how we creative positive impacts <a href="https://www.gadventures.com/about-us/responsible-travel/">here</a>.</li>
+			</ul>
+			<p>As mentioned, Adventure Travel can mean many different things, and we have a wide selection of tours to match that, from bucket list hikes to Machu Picchu on the Inca Trail, to sailing trips in sunny destinations like Thailand and Greece, to tours that cater to history buffs who want to see things a little differently in Italy, to Local Living tours that allow you to unpack once and really get to know one destination well.</p>
+			<p class="question"><strong>Q:</strong> Which types of travelers does G Adventures cater to?</p>
+			<p>G Adventures caters to travelers that want something a little different; travellers with open minds who are looking to enjoy authentic experiences that make our world so beautiful. We&rsquo;re looking for travelers who appreciate the beauty of the big attractions like Petra in Jordan, or Angkor Wat in Cambodia, but that also want to get off the beaten path and experience something different at the same time. Lastly, we want to build a community of travelers that wants to be part of something bigger when they see the world, learning about local cultures, creating a positive impact, and sharing themselves with the communities we visit.</p>
+			<p class="question"><strong>Q:</strong> What are the most popular winter destinations you offer tours to?</p>
+			<p>While we have plenty of tours that take place in the winter months based on seasonality, the most popular &ldquo;winter adventure&rdquo; destinations we have would be Iceland and Norway.</p>
+			<p class="question"><strong>Q:</strong> Is there a specific itinerary you would recommend for winter adventures?</p>
+			<p>I would say our short and sweet five-day Iceland Northern Lights and Golden Circle itinerary would definitely be top of the list. Everyone always talks about how &ldquo;otherworldly&rdquo; Iceland feels, and that feeling is heightened in the winter when the Northern Lights are present, the air is cool and crisp, and you can participate in amazing experiences like glacier hiking, exploring lava caves, and hanging out in hot springs. This trip is also part of our Travel with Confidence PLUS Collection which means it uses exclusively private transportation, has a maximum group size of 12 people, and gives travelers more personal space, among other things, to ensure our tours are safely operated.</p>
+			<p class="question"><strong>Q:</strong> For wildlife buffs who want an unforgettable winter experience, is there another itinerary you&rsquo;d recommend?</p>
+			<p>For those who are looking for incredible winter wildlife experiences and want to tick something amazing off their bucket list, I would definitely recommend planning ahead and looking at our 2021 Expedition Cruising itineraries. With a small ship of approximately 130 people, there&rsquo;s no better way to get up close to some of the amazing wildlife Antarctica and the Arctic have to offer. Whether you&rsquo;re going to Antarctica for leopard seals, penguins and orcas, or to the Norwegian Arctic for polar bears, arctic birds, and walruses, the opportunities are endless and will surely stay with you forever!</p>
+			<p class="question"><strong>Q:</strong> What are some of the things G Adventures is doing to ensure travelers are safe on tour?</p>
+			<p>Even before we heard the words &ldquo;social distancing,&rdquo; we&rsquo;ve been doing small group tours of 10-to-12-ish people staying in small, carefully selected hotels for a more intimate experience with the destinations we visit. So, keeping groups sizes small is nothing new to us. On top of that, we are highly encouraging travelers to &ldquo;Book Their Bubble&rdquo; with G Adventures by booking a trip exclusively with their family and friends in a private group.</p>
+			<p>For more information, contact your Ensemble travel advisor.</p>
+			<p class="small">Image Credit: G Adventures</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/09/hero/insider.jpg</hero_src>
+		<hero_caption><![CDATA[Find Your Winter Playground with G Adventures]]></hero_caption>
+		<hero_credit><![CDATA[On Location]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/09/article/insider.jpg</article_src>
+		<article_caption><![CDATA[Find Your Winter Playground with G Adventures]]></article_caption>
+		<article_credit><![CDATA[On Location]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/09/email/insider.jpg</email_src>
+		
+		<tile_color>FA6900</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+		</tags>
+	</article>
+</root>
