@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2009">
+		<dir_name><![CDATA[style]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[September 2020]]></pub_date> <!-- September = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[09]]></dir_month>
+		
+		<author><![CDATA[articleAuthor]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[articleTitle]]></title>
+		<teaser><![CDATA[
+			articleTeaser
+		]]></teaser>
+		<lead><![CDATA[
+			articleLead
+		]]></lead>
+		<body><![CDATA[
+			<p>Content...</p>
+
+		]]></body>
+		
+		<!-- <p class="question"><strong>Q:</strong> -->
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/09/hero/style.jpg</hero_src>
+		<hero_caption><![CDATA[articleTitle]]></hero_caption>
+		<hero_credit><![CDATA[sectionTitle]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/09/article/style.jpg</article_src>
+		<article_caption><![CDATA[articleTitle]]></article_caption>
+		<article_credit><![CDATA[sectionTitle]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/09/email/style.jpg</email_src>
+		
+		<tile_color>00B9F2</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+		</tags>
+	</article>
+</root>
