@@ -6,46 +6,50 @@
 		<dir_year><![CDATA[20]]></dir_year>
 		<dir_month><![CDATA[09]]></dir_month>
 		
-		<author><![CDATA[articleAuthor]]></author>
+		<author><![CDATA[Hotel Rangá]]></author>
 		<translator><![CDATA[]]></translator>
 		
-		<title><![CDATA[articleTitle]]></title>
+		<title><![CDATA[Discover the Northern Lights and Your Star-Gazing Paradise]]></title>
 		<teaser><![CDATA[
-			articleTeaser
+			Don’t miss your chance to see the Aurora.
 		]]></teaser>
 		<lead><![CDATA[
-			articleLead
+			Hotel Rang&aacute;, Southern Iceland&acute;s idyllic countryside retreat, is the ideal location for adventuring through the country&acute;s myriad of natural wonders, from its highlands and hot springs to its waterfalls, black sand beaches and volcanoes. In addition to its prime position to catch the Northern Lights, an advanced, on-site observatory also makes this lux lodge one of the best places to stargaze on the island. The hotel offers cozy rooms, including continent-themed suites, gourmet dining at the acclaimed Rang&aacute; Restaurant and geothermally heated hot tubs for starlit soaking after a day spent exploring the iconic land of fire &amp; ice. Family-owned and operated for two decades, Hotel Rang&aacute; is as one-of-a-kind as Iceland itself.
 		]]></lead>
 		<body><![CDATA[
-			<p>Content...</p>
+			<h4>Northern Lights</h4>
+			<p>The Northern Lights, also known as the Aurora Borealis, have become Hotel Rang&aacute;&acute;s trademark attraction. The hotel is in a geographical region that has very favorable conditions for viewing the Northern Lights. Hotel Rang&aacute;&acute;s prime location in a rural area means that light pollution is not an issue during the winter months. By turning off all external lights, there are optimal conditions to view the dazzling night sky. Although there is never any guarantee of seeing this wonderful natural phenomenon, the hotel is one of the best places in Iceland to experience the Northern Lights. Diverse services are offered for those who want to gaze at the renowned Aurora. This includes a wake-up call so that guests do not to miss seeing the lights should they appear, cozy snow suits and blankets to help guests stay warm during the beautiful display and custom-made benches to rest upon while watching the lights. The best time for viewing the lights is from September through April.&nbsp;</p>
+			
+			<br>
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/09/article/style-01.jpg">
+			</figure>
+			<br>
 
+			<h4>Stargazing</h4>
+			<p>Discover the night sky like you have never seen it before. Imagine gazing into the shimmering night sky and sharing an intimate evening with the universe. The Hotel Rang&aacute; stargazing observatory is by far the most advanced in Iceland&mdash;it houses two high quality astronomical telescopes as well as a roll off roof. To stargaze we need clear skies with no chance of high clouds or rain, and the observatory is open when the forecast shows that the sky will remain clear for several hours. In addition, we also bring an expert local astronomer to guide our guests on a tour of the beautiful night sky. Tours are offered from September to April when the forecast shows clear skies. During summer months the observatory is open upon request.</p>
+			<p>To plan your trip to Iceland&rsquo;s Hotel Rang&aacute;, contact your Ensemble travel advisor.</p>
+			<p class="small">Image Credits: Hotel Rang&aacute;</p>
 		]]></body>
 		
-		<!-- <p class="question"><strong>Q:</strong> -->
-		
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/09/hero/style.jpg</hero_src>
-		<hero_caption><![CDATA[articleTitle]]></hero_caption>
-		<hero_credit><![CDATA[sectionTitle]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<hero_caption><![CDATA[Discover the Northern Lights and Your Star-Gazing Paradise]]></hero_caption>
+		<hero_credit><![CDATA[Travel Style]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/09/article/style.jpg</article_src>
-		<article_caption><![CDATA[articleTitle]]></article_caption>
-		<article_credit><![CDATA[sectionTitle]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_caption><![CDATA[Discover the Northern Lights and Your Star-Gazing Paradise]]></article_caption>
+		<article_credit><![CDATA[Travel Style]]></article_credit> <!--Spotlight, Insider, Travel Style -->
 		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/09/email/style.jpg</email_src>
 		
-		<tile_color>00B9F2</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_color>00B9F2</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 		
 		<tags>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="europe"><![CDATA[europe]]></tag>
 		</tags>
 	</article>
 </root>
