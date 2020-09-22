@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2010">
+		<dir_name><![CDATA[spotlight]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[October 2020]]></pub_date> <!-- October = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[10]]></dir_month>
+		
+		<author><![CDATA[Mariellen Ward (Adapted by Ensemble Travel)]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Walking on the Wild Side in Costa Rica]]></title>
+		<teaser><![CDATA[
+			A two-week trip is all it takes to discover a nature lover’s dream destination.
+		]]></teaser>
+		<lead><![CDATA[
+			I’m walking on the wild side in Costa Rica’s most remote and unspoiled national park. The jungle trail is a bit slippery with moisture from the surrounding rainforest, and it’s surprisingly dark. Sunlight filters through the thick canopy, creating dappled splotches on the verdant forest floor. Yet somehow our guide sees Costa Rica’s most dangerous venomous snake, the fer-de-lance, coiled up beside the path asleep. He says the snake is digesting and, therefore, not dangerous at that moment, much to our relief.
+		]]></lead>
+		<body><![CDATA[
+			<p>We continue walking to a waterfall and take our hiking boots off to splash among the black rocks. We are in Corcovado National Park, the most biologically intense place on earth in terms of biodiversity, according to National Geographic. It comprises 13 major ecosystems, including mangrove swamps, a highland cloud forest, and the last old growth rainforest on the Pacific coast of Central America. Corcovado is also home to some of Costa Rica&rsquo;s endangered species such as jaguars, three-toed sloths, Baird&rsquo;s tapirs, and red-backed squirrel monkeys.</p>
+			<p>As we reach the end of our hike, on the beach, we see scarlet macaws swooping among the palm trees, their massive red plumage a feast for the eyes. A boat picks us up to take us back to our tiny resort, far from the reach of roads and electricity. The boat stops as close to the beach as possible and we jump out. There isn&rsquo;t even a wharf.</p>
+			<p>The next day, we travel 12.5 miles across the ocean to Isla del Ca&ntilde;o Biological Reserve. Mysterious Isla del Ca&ntilde;o is a protected island with artifacts dating to pre-Colombian times &ndash; though all the indigenous graves were long ago plundered by pirates for the gold objects they once contained. We hike up to the highest point for a commanding view of the hilly island and the turquoise sea that surrounds it, filled with coral reefs and an enormous number of marine animals. On the way to the beach to go snorkeling, we see lizards, known as Jesus Christ lizards, skimming across the surface of a river as if they are walking on water.</p>
+			<p>After snorkelling among a myriad of colorful fish, we head back across the water to our resort in Bah&iacute;a Drake. We see flying fish and a school of dolphins, and I catch a yellow fin tuna. The tuna is served for dinner as sashimi, and I feel I am having the best day of my life.</p>
+			<p>After a few days in the Osa Peninsula, we travel back to what seems like civilization to begin exploring the central and northern parts of the country. Our first stop is Arenal Volcano National Park within a few hours&rsquo; drive of the capital, San Jose. The volcano last erupted in 1968; it&rsquo;s still active but carefully monitored, and there is a lot of geothermal activity resulting in natural hot springs and even a hot water river.</p>
+			<p>Hiking up the side of the volcano, our guide spots a green pit viper hidden among the trees, as well as many spectacular butterflies, including the huge blue morpho butterfly. Eventually, we come out onto the hardened, black lava fields and must be careful of the jagged rocks. The volcano itself is shrouded in clouds, giving the scene a kind of primeval <em>Jurassic Park</em> look and feel.</p>
+			<p>Finally, our last stop of the trip is to hike the Monteverde Cloud Forest, an ethereal place shrouded in mist. More than eight miles of trails wind through this unique ecosystem. We see a very large stick insect, completely camouflaged among the tree branches, clouds of hummingbirds, and a few of the many species of glorious orchids that grow abundantly in Costa Rica.</p>
+			<p>On my last morning in Costa Rica, I open my eyes and see the trees outside are filled with white-headed capuchin monkeys. They are playing in the trees, swinging from branch to branch, and calling loudly to each other, which they often do at dawn. I feel I am in a natural paradise surrounded by the sights, sounds, and smells of the dense tropical rainforest. My trip was a great introduction to the natural beauty of Costa Rica, which the Central American country has gone to great lengths to protect. And seeing those monkeys was a magical way to end my trip to paradise.</p>
+			<p>This article was written by Mariellen Ward and reproduced from the <em>Ensemble Vacances</em> magazine.</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/10/hero/spotlight.jpg</hero_src>
+		<hero_caption><![CDATA[Walking on the Wild Side in Costa Rica]]></hero_caption>
+		<hero_credit><![CDATA[Destination Spotlight]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/10/article/spotlight.jpg</article_src>
+		<article_caption><![CDATA[Walking on the Wild Side in Costa Rica]]></article_caption>
+		<article_credit><![CDATA[Destination Spotlight]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/10/email/spotlight.jpg</email_src>
+		
+		<tile_color>C8232C</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="central-america"><![CDATA[central-america]]></tag>
+			<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+			<tag slug="hiking-trekking"><![CDATA[hiking-trekking]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="safari-wildlife"><![CDATA[safari-wildlife]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+		</tags>
+	</article>
+</root>
