@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	
+	<article date="2010" id="index"> <!-- use 'index' for spotlight/insider/topten/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[topten]]></dir_name> <!-- usually 'topten' OR 'advertorial' -->
+		<pub_date><![CDATA[October 2020]]></pub_date> <!-- October = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[10]]></dir_month>
+		<id_article><![CDATA[index]]></id_article>
+		
+		<author><![CDATA[Ensemble Travel Group]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<id_supplier><![CDATA[spacer]]></id_supplier>
+		
+		<title><![CDATA[6 Things to Consider when Purchasing Travel Insurance]]></title>
+		<teaser><![CDATA[
+			Here are travel insurance tips from travel insurance professionals.
+		]]></teaser>
+		<lead><![CDATA[
+			articleLead
+		]]></lead>
+		<body><![CDATA[
+			<p>articleIntro</p>
+		]]></body>
+		
+		<gallery>
+			<img>
+				<title><![CDATA[Consider purchasing a Trip Cancellation and Interruption Plan.]]></title>
+				<content><![CDATA[Manulife said trip cancellation and interruption are the most common travel insurance claims. It can be easy to overlook this coverage and just go with emergency medical insurance, but it&rsquo;s important to keep it in mind. It can save you thousands of dollars if you must cancel an expensive trip.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/10/article/topten-index-01.jpg]]></src>
+				<position>0</position>
+				<class>active</class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Protect yourself on journeys both near and far.]]></title>
+				<content><![CDATA[<a href="http://www.agentmaxonline.com/customer" target="_blank">Allianz Travel Insurance</a> added that even if
+	you&rsquo;re traveling relatively close to home, you&rsquo;ll want expert help in an emergency &mdash; and Allianz Travel Insurance includes access to an award-winning assistance team that&rsquo;s available around the clock. Depending on your plan, you may also have primary medical benefits to protect you whether you&rsquo;re 100 or 1,000 miles from home &mdash; helping you avoid deductibles and co-pays, plus substantial emergency transportation fees. It&rsquo;s important to remember most health insurance plans (including Medicare and Medicaid) won&rsquo;t cover you outside your country. Plus, you can get reimbursed for nonrefundable cancellations if you or someone named on your plan becomes ill with COVID-19 before or during your trip.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/10/article/topten-index-02.jpg]]></src>
+				<position>1</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Your credit card coverage might not cover all your needs.]]></title>
+				<content><![CDATA[Manulife mentioned many people assume their credit card&rsquo;s travel insurance is enough but be sure to read the fine print. Some credit cards have age limits for medical coverage, or they may offer trip interruption but not trip cancellation prior to departure.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/10/article/topten-index-03.jpg]]></src>
+				<position>2</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Purchase travel insurance early to get the most protection out of your plan.]]></title>
+				<content><![CDATA[<a href="http://www.agentmaxonline.com/customer" target="_blank">Allianz Travel Insurance</a> said
+	it&rsquo;s a good idea to purchase travel insurance at the time of your initial trip deposit to receive the longest possible window of protection. This is particularly important when your plan offers a pre-existing condition exclusion waiver. You&rsquo;ll want to be sure you purchase your plan within the specified timeframe to meet criteria for this added benefit.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/10/article/topten-index-04.jpg]]></src>
+				<position>3</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Make sure the insurance you purchase has 24/7 multilingual assistance.]]></title>
+				<content><![CDATA[Manulife noted you will want to be able to reach your travel insurance provider at any time of day. Additionally, they should be able to communicate with hospital staff in any language.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/10/article/topten-index-05.jpg]]></src>
+				<position>4</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Plan for unexpected emergencies in your extended family.]]></title>
+				<content><![CDATA[<a href="http://www.agentmaxonline.com/customer" target="_blank">Allianz Travel Insurance</a> plans include more
+	family members under covered reasons than you might think. For example, if your employed, live-in caregiver gets sick and can&rsquo;t care for your children while you&rsquo;re away, and one of your plan&rsquo;s covered reasons is &ldquo;illness of a family member,&rdquo; you could cancel or cut your trip short and cite this as a covered reason for your claim. Check with your travel advisor for a full list of who&rsquo;s considered family under covered reasons.]]></content>				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/10/article/topten-index-06.jpg]]></src>
+				<position>5</position>
+				<class></class>
+			</img>
+		</gallery>
+		
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/10/hero/topten-index.jpg]]></hero_src>
+		<hero_caption><![CDATA[6 Things to Consider when Purchasing Travel Insurance]]></hero_caption>
+		<hero_credit><![CDATA[Ensemble Travel Group]]></hero_credit>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/10/article/topten-index.jpg]]></article_src>
+		<article_caption><![CDATA[6 Things to Consider when Purchasing Travel Insurance]]></article_caption>
+		<article_credit><![CDATA[Ensemble Travel Group]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/10/email/topten-index.jpg</email_src>
+		
+		<tile_color>FFC500</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+		</tags>
+	</article>
+</root>
