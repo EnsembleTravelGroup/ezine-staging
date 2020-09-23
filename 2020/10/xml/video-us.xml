@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!--
+		* Links for YouTube thumbnail images *
+		https://img.youtube.com/vi/23rTfRLs7rg/0.jpg
+		https://img.youtube.com/vi/23rTfRLs7rg/maxresdefault.jpg
+	-->
+	
+	<article date="2010" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[October 2020]]></pub_date> <!-- October = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[10]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+		
+		<author><![CDATA[Avalon Waterways]]></author>
+		<id_supplier><![CDATA[avl]]></id_supplier>
+		
+		<title><![CDATA[Avalon Waterways – River Cruising Views]]></title>
+		<teaser><![CDATA[Avalon Waterways]]></teaser>
+		<lead><![CDATA[
+			Avalon Waterways offers travelers a unique point-of-view: One where the view is the whole point. They’ve designed their Panorama Suites so beds face the window and the incredible sights river cruising is famous for.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/23rTfRLs7rg?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+
+</root>

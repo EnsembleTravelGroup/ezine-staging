@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!--
+		* Links for YouTube thumbnail images *
+		https://img.youtube.com/vi/RuSuKUqPbI8/0.jpg
+		https://img.youtube.com/vi/RuSuKUqPbI8/maxresdefault.jpg
+	-->
+	
+	<article date="2010" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[October 2020]]></pub_date> <!-- October = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[10]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+		
+		<author><![CDATA[Manulife]]></author>
+		<id_supplier><![CDATA[man]]></id_supplier>
+		
+		<title><![CDATA[Alycia - Saved by Travel Insurance]]></title>
+		<teaser><![CDATA[Manulife]]></teaser>
+		<lead><![CDATA[
+			Alycia tells her tale of what happened when things went wrong on a trip and how Manulife was there to help.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/RuSuKUqPbI8?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+
+</root>
