@@ -30,5 +30,32 @@
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 	</article>
+	
+	<article date="2010" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[October 2020]]></pub_date> <!-- October = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[10]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+		
+		<author><![CDATA[Club Med]]></author>
+		<id_supplier><![CDATA[cmd]]></id_supplier>
+		
+		<title><![CDATA[Club Med | Let's Travel Again]]></title>
+		<teaser><![CDATA[Club Med]]></teaser>
+		<lead><![CDATA[
+			Club Med is Ready When You Are
+		]]></lead>
+		<body><![CDATA[
+			<p>Club Med’s top-rated all-inclusive resorts are reopening in time to provide with safe and unforgettable experiences. Let’s Travel Again!</p>
+		]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/esaIapOjVyQ?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
 
 </root>
