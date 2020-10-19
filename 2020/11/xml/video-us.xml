@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2011" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[November 2020]]></pub_date> <!-- November = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[11]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+		
+		<author><![CDATA[Celebrity Cruises]]></author>
+		<id_supplier><![CDATA[cel]]></id_supplier>
+		
+		<title><![CDATA[The Retreat. All Suites. All Exclusive. All Included.]]></title>
+		<teaser><![CDATA[Celebrity Cruises]]></teaser>
+		<lead><![CDATA[
+			So Much More Than a Suite
+		]]></lead>
+		<body><![CDATA[
+			<p>The Retreat includes stunning accommodations, a private restaurant, and an exclusive lounge and sundeck that rival any high-end resort.</p>
+		]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/ru_wiiW--GU?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+
+</root>
