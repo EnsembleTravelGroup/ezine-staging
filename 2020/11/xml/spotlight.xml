@@ -103,10 +103,10 @@
 		
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/11/hero/spotlight.jpg</hero_src>
 		<hero_caption><![CDATA[Riviera Maya - A Destination of Healing Experiences]]></hero_caption>
-		<hero_credit><![CDATA[sectionTitle]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<hero_credit><![CDATA[Destination Spotlight]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/11/article/spotlight.jpg</article_src>
 		<article_caption><![CDATA[Riviera Maya - A Destination of Healing Experiences]]></article_caption>
-		<article_credit><![CDATA[sectionTitle]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_credit><![CDATA[Destination Spotlight]]></article_credit> <!--Spotlight, Insider, Travel Style -->
 		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/11/email/spotlight.jpg</email_src>
 		
 		<tile_color>C8232C</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->

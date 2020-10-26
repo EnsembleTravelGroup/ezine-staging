@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2011">
+		<dir_name><![CDATA[style]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[November 2020]]></pub_date> <!-- November = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[11]]></dir_month>
+		
+		<author><![CDATA[ALG Vacations]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Sun, Sand and Safety]]></title>
+		<teaser><![CDATA[
+			All-Inclusives Are Leading the Way to Healthier Travel.
+		]]></teaser>
+		<lead><![CDATA[
+			It’s a typical day on a tropical beach somewhere in the Caribbean, or perhaps Mexico. The breezes are cool, the ocean is warm, and the hours are languorous. Butlers carry cocktails to waiting guests who are happy to accept them. Farther inland, children play at a kids’ club and teens chat over games. Diners travel around the world without ever leaving the resort, sampling hibachi, ceviche, and the delectable, edible works of art offered up as dessert. In the spa, tranquil, almost-hypnotic music casts a spell of quieting relaxation — a rare moment of genuine peace.
+		]]></lead>
+		<body><![CDATA[
+			<p>No, it&rsquo;s not a flashback to the days before COVID-19 (seven months or more like 100 years ago). It&rsquo;s a portrait of the <em>present,</em> at an all-inclusive resort.</p>
+			<p>On the beach, the loungers are spaced widely apart. The staff all wear masks and carry hand sanitizer. At the kids and teens clubs, temperatures are checked, and new protocols are explained (most memorably at Iberostar Hotels &amp; Resorts&rsquo; Star Camp, where a &ldquo;medic superhero&rdquo; unriddles social distancing). In restaurants, menus are posted to digital boards and accessible by phone, buffets have been reimagined, and new individual takeaway portions have been introduced. Meanwhile, at the spa, beds are disinfected before and after each use, and amenities are sanitized and sealed.</p>
+			<p>With over 70 years of evolution behind the all-inclusive, it&rsquo;s unsurprising that when we found ourselves facing a history-making pandemic, these hotels were some of the quickest to act, pivoting without pause to become pacesetters in health and hygiene.</p>
+			<p>Adapting rapidly, premier all-inclusive brands from across the globe partnered with world-class organizations to establish broad-gauge guidelines for safety, sanitation, and quality &hellip; and give us all hope that vacationing can be safe once again.</p>
+			
+			<h4>Spick-and-Span from Top to Bottom</h4>
+			<p>When you go to an all-inclusive, you expect the beach to be pristine. Now, new cleaning practices are making every inch of hotel grounds as unblemished as the sands they sit on. Constant disinfecting of common areas? Check. Air purification and water systems testing? Check. Strict requirements for suppliers dropping off products? Check. If it&rsquo;s in any way part of your experience or a staff function, it&rsquo;s been scrutinized and sanitized.</p>
+			
+			<h4>New Standards, Same Mission</h4>
+			<p>For all these changes, however, the heart of an all-inclusive stay remains the same. The luxury is still there &mdash; but more innovative. The recreation is still there &mdash; but safer. The selection is still there<em> &mdash; </em>but with a focus on hygiene. Because, even though new sanitation requirements are rigorous, they&rsquo;re also unobtrusive. Whether staying at a RIU hotel or a Blue Diamond resort, a Bahia Principe property or a Palladium one, you&rsquo;ll continue to get that vacation feeling you&rsquo;ve always known. Plus, with reduced occupancy, getaways feel more private and services more personalized, actually enhancing your experience.</p>
+			
+			<h4>Far-Reaching Value</h4>
+			<p>One of the greatest things about all-inclusives has always been their value. When you stay at one, everything &mdash; room, food, drinks, entertainment &mdash; is rolled up into one price, meaning you never have to worry about a budget. Before the pandemic, hotels were busily adding even more to that list: spa treatments, excursions, cultural experiences. Now, more than ever, you can unwind and let go. And that&rsquo;s the true value of these resorts. Because, when you don&rsquo;t need to leave the property, you can relax <em>like normal &mdash; </em>no worrying about unknown protocols or uncontrolled crowds.</p>
+			
+			<h4>A Trip You Can Trust</h4>
+			<p>From Cristal International Standards<sup>&reg;</sup> to Ecolab, brands like AMResorts, Karisma Hotels &amp; Resorts, and the all-inclusive Hard Rock Hotels have teamed up with some of the biggest names in safety certification. To make it easy for you and your travel advisor to keep track of the latest verifications, Apple Vacations and Travel Impressions have introduced TripTrust&trade;, a new program which gives an easily identifiable badge to hotels &mdash; all 2,000 of them &mdash; that have reported exacting sanitation standards. With just one glance, you can rest assured your resort is taking every precaution.</p>
+			<p>This era of new health awareness isn&rsquo;t ending any time soon. But, thankfully, with all-inclusive hotels helping lead the way, neither is travel.&nbsp;</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/11/hero/style.jpg</hero_src>
+		<hero_caption><![CDATA[Sun, Sand and Safety]]></hero_caption>
+		<hero_credit><![CDATA[Travel Style]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/11/article/style.jpg</article_src>
+		<article_caption><![CDATA[Sun, Sand and Safety]]></article_caption>
+		<article_credit><![CDATA[Travel Style]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/11/email/style.jpg</email_src>
+		
+		<tile_color>00B9F2</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="caribbean"><![CDATA[caribbean]]></tag>
+			<tag slug="all-inclusive"><![CDATA[all-inclusive]]></tag>
+			<tag slug="luxury-hotels-resorts"><![CDATA[luxury-hotels-resorts]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+		</tags>
+	</article>
+</root>
