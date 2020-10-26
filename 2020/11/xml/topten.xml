@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	
+	<article date="2011" id="index"> <!-- use 'index' for spotlight/insider/topten/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[topten]]></dir_name> <!-- usually 'topten' OR 'advertorial' -->
+		<pub_date><![CDATA[November 2020]]></pub_date> <!-- November = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[11]]></dir_month>
+		<id_article><![CDATA[index]]></id_article>
+		
+		<author><![CDATA[Club Med]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<id_supplier><![CDATA[spacer]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/topten/cruising) -->
+		
+		<title><![CDATA[Top 5 Reasons Why You Need an All-Inclusive Vacation]]></title>
+		<teaser><![CDATA[
+			Take those hard-earned vacation days with total peace of mind.
+		]]></teaser>
+		<lead><![CDATA[
+			Vacations are meant to be the ultimate de-stressors, designed to refresh and rejuvenate so you can return to reality with a new perspective. Now, more than ever, we all need to disconnect from daily life and treat ourselves with a worry-free vacation to reconnect with our loved ones.
+		]]></lead>
+		<body><![CDATA[
+			<p>However, planning a vacation in the current context can be stressful. Where can I go? Will I be able to take part in activities once I arrive? What will be open? And, what if the government restrictions evolve and I cannot travel anymore?</p>
+			<p>We believe you should be able to take your hard-earned vacation days as soon as you are ready to travel again without going through intense and stressful planning. That&rsquo;s where Club Med steps in! Since 1950, we have mastered the art of all-inclusive vacations and take all the guesswork away. All you have to do is contact your travel advisor, pick your Club Med destination, pack your bags, and get ready to relax and renew.</p>
+			<p><strong>Here are the top five reasons why you need an all-inclusive vacation:</strong></p>
+		]]></body>
+		
+		<gallery>
+			<img>
+				<title><![CDATA[You can choose a destination with total peace of mind.]]></title>
+				<content><![CDATA[Club Med ensures your stay will be as safe as it is unforgettable! We have gathered a committee of doctors and professors within the scientific community and worked alongside government agencies to create our <strong>&ldquo;Safe Together&rdquo; program</strong>: a set of hygiene and safety protocols guaranteeing your safety in each of our resorts worldwide. In addition to that, we offer<strong> Free Emergency Medical Assistance</strong>, covering our guests traveling before April 30, 2021 for emergency expenses during their stay, including those related to COVID-19.<br /> We have successfully reopened, with all those measures in place, our Sandpiper Bay resort in June and our European Mountain resorts in July. In October, two of our most emblematic sunny resorts in Mexico and the Caribbean also reopened their doors: Club Med Cancun and Club Med Punta Cana.<br /> Finally, if you don&rsquo;t feel comfortable traveling, <strong>you can always cancel your stay at Club Med up to 15 days prior to departure*</strong> and receive a full refund of your package, for stays before July 2, 2021.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/11/article/topten-index-01.jpg]]></src>
+				<position>0</position>
+				<class>active</class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Endless activities for the whole family — it’s all included!]]></title>
+				<content><![CDATA[One key element about Club Med is the priority placed on having an active family vacation. With 60 different sports activities to choose from, including archery, beach volleyball and soccer, circus activities, dance, golf, kayaking, paddle boarding, pilates, snorkeling, yoga and much more, you will keep the family healthy and moving. And, with Club Med, everything is on site and included with your stay!<br />So, what&rsquo;s our favorite activity? The amazing CREACTIVE playground in Club Med Punta Cana, inspired by Cirque du Soleil. It features more than 25 recreational acrobatic and artistic activities for adults and children alike, including high bungee, mask painting, double flying trapeze, aerial silk, tightrope and trampolines. Expert staff trained by both Club Med and Cirque du Soleil are there every step of the way to safely ensure you are the star of the circus.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/11/article/topten-index-02.jpg]]></src>
+				<position>1</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Gourmet dining: a place where restaurants are ALWAYS open (and safe)!]]></title>
+				<content><![CDATA[The best part about all-inclusive resorts is the unlimited food and beverage options. At Club Med, forget about restaurant closures, picky eaters, and overpriced meals &ndash; you will enjoy delicious gourmet cuisine and endless meal options. Internationally trained chefs will prepare your breakfasts, lunches and dinners, and all the in-between snacks your heart desires are available. Plus, all safety measures have been implemented to keep you safe (social distancing, individual portions, mandatory mask wearing, etc.), so you can dine with complete peace of mind.<br />The bonus? Bars are open all day long and it&rsquo;s all inclusive! It&rsquo;s time to chill by the pool with a cocktail in hand, don&rsquo;t you agree?]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/11/article/topten-index-03.jpg]]></src>
+				<position>2</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Your children will experience endless activities (and you will finally get some alone time).]]></title>
+				<content><![CDATA[After months of being stuck at home and struggling to keep your kids busy &hellip; imagine a place where childcare is included, and your kids can experience new activities every day.<br />At Club Med, it&rsquo;s a dream come true. Various activities and facilities are created and adapted for children of different age groups, ranging from four months to 17 years of age, and are included with your stay. From flying on a trapeze to starring in their own shows to even becoming &ldquo;mini chefs,&rdquo; kids have more than enough activities to keep them busy throughout their entire vacation. And, all the necessary safety precautions have been put into place to keep your little ones safe, too.<br />Note: Kids under four stay for free, while four- to 15-year-olds receive 30 to 50% off their stay during most of the year.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/11/article/topten-index-04.jpg]]></src>
+				<position>3</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[You will finally be able to gather back together as family or friends.]]></title>
+				<content><![CDATA[We have been waiting so long to be back together once again, and Club Med is that safe heaven where you can gather as a family or with your friends and rediscover the joy of being together.<br>It’s a place where you can disconnect from daily life and reconnect with your loved ones.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/11/article/topten-index-05.jpg]]></src>
+				<position>4</position>
+				<class></class>
+			</img>
+		</gallery>
+		
+		<body_2><![CDATA[
+			<p>Image credit: Club Med</p>
+		
+			<p style="font-size: 80%;">* For new bookings made between May 18, 2020 and December 31, 2020 on any Club Med resort worldwide, you can modify or cancel for free and receive a full refund on your package (land and air portions) if your flights were booked with Air Canada, Air Transat or Westjet: Up to 15 days prior to departure for stays on and prior to July 2nd, 2021 (100% charge if 14 or less). Up to 61 days prior to departure for specific 2020 2021 Holiday weeks, including Christmas 2020, New Year’s 2020, Spring Break 2021, and stays starting July 3rd, 2021 (25% charge if cancellation between 60 & 31 days. 50% charge if cancellation between 30 & 15 days. 100% if 14 or less). Up to 91 days prior to departure for 2021 Holiday weeks (including but not limited to Thanksgiving, Christmas 2021, New Year’s 2021 and other weeks) (100% charge if 91 or less). Refund excludes membership fees and optional insurance. All refunds will go back on the same form of payment. If the cancelled booking was paid using a future travel credit, the refund will be issued as a credit for future travel to be used prior to the expiration date of the original future travel credit. If your flights were not booked with Air Canada, Air Transat or Westjet, the air portion will follow the airlines’ policy in effect.</p>
+		]]></body_2>
+		
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/11/hero/topten-index.jpg]]></hero_src>
+		<hero_caption><![CDATA[Top 5 Reasons Why You Need an All-Inclusive Vacation]]></hero_caption>
+		<hero_credit><![CDATA[Club Med]]></hero_credit>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/11/article/topten-index.jpg]]></article_src>
+		<article_caption><![CDATA[Top 5 Reasons Why You Need an All-Inclusive Vacation]]></article_caption>
+		<article_credit><![CDATA[Club Med]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/11/email/topten-index.jpg</email_src>
+		
+		<tile_color>FFC500</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Top Ten:FFC500, Cruising:00B9F2, Advertorial:A8CB17 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="caribbean"><![CDATA[caribbean]]></tag>
+			<tag slug="all-inclusive"><![CDATA[all-inclusive]]></tag>
+			<tag slug="luxury-hotels-resorts"><![CDATA[luxury-hotels-resorts]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+		</tags>
+	</article>
+</root>
