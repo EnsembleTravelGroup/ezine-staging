@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2012" id="01">
+		<dir_name><![CDATA[advertorial]]></dir_name>
+		<pub_date><![CDATA[December 2020]]></pub_date> <!-- December = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+		<id_article><![CDATA[01]]></id_article>
+		
+		<author><![CDATA[Globus Cosmos]]></author>
+		<id_supplier><![CDATA[gcs]]></id_supplier>
+		
+		<title><![CDATA[Small Groups. Big Experiences... Worldwide!]]></title>
+		<teaser><![CDATA[Globus Cosmos]]></teaser>
+		<lead><![CDATA[
+			Globus and Cosmos Expand "Small-Group Discovery" Option On Europe & North America Tours for 2021
+		]]></lead>
+		<body><![CDATA[
+			<p>When we explore the world, we share experiences with wayfarers from across the globe. When travelers choose Globus or Cosmos, they&rsquo;re choosing to travel the globe with a small group of like-minded travelers: People who stick together from start-to-finish. Now more than ever, there&rsquo;s great comfort &ndash; and extraordinary confidence &ndash; in that choice.</p>
+			<p>And, in 2021, <strong>Globus </strong>and <strong>Cosmos </strong>are making their group experiences even smaller with <strong>SMALL-GROUP DISCOVERY </strong>tours available &ndash; for the first time &ndash; on all itineraries<sup>* </sup>in <strong>North America and Europe</strong>. Both touring brands also offer Small-Group Discoveries on all departures through <strong>Central &amp; South America, Asia, Africa</strong> and select departures in the <strong>South Pacific.</strong></p>
+			
+			<br>
+			
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/12/article/advertorial-01-01.jpg">
+			</figure>
+			
+			<br>
+			
+			<p>&ldquo;With an average of just 24 guests per departure, in 2021, Small-Group Discovery vacations in Europe and North America are available on every tour. These special departures promise room to roam, while getting up-close and personal to fascinating places anywhere &ndash; and everywhere &ndash; worldwide,&rdquo; said Steve Born, chief marketing officer for the Globus family of brands. &ldquo;Whether they&rsquo;re traversing the trails of Machu Picchu, taking a game-drive through Kenya, strolling under canopies of orange blossoms in Japan, standing in the shadow of ruins in Rome or enjoying the great outdoors in America&rsquo;s National Parks, travelers will be in good company, thanks to our Small-Group Discoveries.&rdquo;</p>
+			<p>And travelers are assured they will be in good hands on a Globus and Cosmos tour. When travelers choose a Globus or Cosmos tour, today and every day, they can say &lsquo;goodbye&rsquo; to worry. &ldquo;We provide our travelers peace-of-mind with the help and expertise of Tour Directors, local drivers and on-the-ground travel experts in destinations across the globe,&rdquo; says Scott Nesbit chief executive officer of the Globus family of brands. &ldquo;With help from our Global Health &amp; Safety Team, we are also dedicated to providing travelers a safe, stress-free getaway. And in doing that, we leave them free to have fun: Enjoying off-the-beaten-path discoveries, engaging in customs and traditions and indulging in new cuisines.&rdquo;</p>
+			<p><strong><em>Deal alert! Book your 2021 Globus Europe or North America vacation by January 25, 2021 and save 10% off the land price!</em></strong></p>
+			<p>For more information, please contact your preferred Travel Advisor.</p>
+			<p>To learn about Globus Health and Safety, please view the <a href="https://www.globusjourneys.ca/user/e-brochures/Travel-With-Confidence/viewer/desktop/index.html" target="_blank">Travel With Confidence</a>&nbsp;e-brochure.</p>
+		]]></body>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/12/hero/advertorial-01.jpg</hero_src>
+		<hero_caption><![CDATA[Small Groups. Big Experiences... Worldwide!]]></hero_caption>
+		<hero_credit><![CDATA[Globus Cosmos]]></hero_credit>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/12/article/advertorial-01.jpg
+		</article_src>
+		<article_caption><![CDATA[Small Groups. Big Experiences... Worldwide!]]></article_caption>
+		<article_credit><![CDATA[Globus Cosmos]]></article_credit>
+		
+		<tile_color>A8CB17</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+		</tags>
+	</article>
+</root>
