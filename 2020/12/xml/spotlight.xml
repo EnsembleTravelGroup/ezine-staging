@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2012">
+		<dir_name><![CDATA[spotlight]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[December 2020]]></pub_date> <!-- December = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+		
+		<author><![CDATA[GoHawaii.com]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Sit Back, Relax, and Enjoy the Ride]]></title>
+		<teaser><![CDATA[
+			Explore some of Hawaii&rsquo;s most scenic drives.
+		]]></teaser>
+		<lead><![CDATA[
+			Heading out for a drive around any of the Hawaiian Islands hardly qualifies as a “road trip” in U.S. mainland terms. Even considering a spin around the 4,028-square-mile Hawaii Island, the largest of the Hawaiian Islands, can average about four hours.
+		]]></lead>
+		<body><![CDATA[
+			<p>Though, regardless of the time or distance you’ll travel, a mini road-trip in Hawaii is a great way to enjoy the beauty of the Islands while spending quality time with your loved ones. After all, life’s not about the destination, but the journey. So, sit back, relax, and enjoy the ride on some of the Islands’ most scenic drives:</p>
+			
+			<h4>Kuhio Highway&nbsp;(Kauai)</h4>
+			<p>Lush beauty abounds on Kauai, and any drive on the island is a sight to be seen. But a cruise down Kuhio Highway will take you along the coast from the island&rsquo;s southeastern shore to the northern region of Hanalei. You&rsquo;ll see exactly why the island has become the backdrop for so many Hollywood films.</p>
+			<h4>North Shore&nbsp;(Oahu)</h4>
+			<p>A trip to the &ldquo;country&rdquo; as locals would say is a &ldquo;must do&rdquo; on Oahu. While there are several routes to get there, hop on the H3 freeway for grand views of the lush green Koolau Mountains. Continue north on Kamehameha Highway and keep an eye on the shoreline (located just steps from your car) for views of Mokolii Island near Kualoa and the white sand beaches along the way.</p>
+			<h4>Hana Highway&nbsp;(Maui)</h4>
+			<p>The 52-mile road to Hana is known as much for its scenic tropical views and waterfalls as it is for its twists and hairpin turns. Beyond Hana are the beautiful Pools of Oheo, the perfect reward after a long drive on Maui.</p>
+			<h4>Hamakua Heritage Corridor&nbsp;(Hawaii Island)</h4>
+			<p>Take in the breathtaking sights of Hawaii Island&rsquo;s natural landscape as you drive along sea cliffs, through lush valleys and tropical rainforests, up the Hamakua Coast. Begin north of Hilo on Hawaii Belt Road and venture off to the Onomea Scenic Drive, followed by stops at Akaka Falls State Park, Laupahoehoe Point, and Honokaa town. End your drive at the Waipio Valley lookout for a rewarding view of the lush landscape, beautiful waterfalls, and a stunning black sand beach.</p>
+
+			<!-- Embedded YouTube Video -->
+			<div class="videoWrapper" style="padding-bottom: 45%;">
+				<figure>
+					<iframe width="853" height="480" src="https://www.youtube.com/embed/BaKXfaeLgjw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				</figure>
+			</div>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/12/hero/spotlight.jpg</hero_src>
+		<hero_caption><![CDATA[Sit Back, Relax, and Enjoy the Ride]]></hero_caption>
+		<hero_credit><![CDATA[Destination Spotlight]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/12/article/spotlight.jpg</article_src>
+		<article_caption><![CDATA[Sit Back, Relax, and Enjoy the Ride]]></article_caption>
+		<article_credit><![CDATA[Destination Spotlight]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/12/email/spotlight.jpg</email_src>
+		
+		<tile_color>C8232C</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+		</tags>
+	</article>
+</root>
