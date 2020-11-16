@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!--
+		* Links for YouTube thumbnail images *
+		https://img.youtube.com/vi/youtubeID/0.jpg
+		https://img.youtube.com/vi/youtubeID/maxresdefault.jpg
+	-->
+	
+	<article date="2012" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[December 2020]]></pub_date> <!-- December = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+		
+		<author><![CDATA[CIE Tours]]></author>
+		<id_supplier><![CDATA[cie]]></id_supplier>
+		
+		<title><![CDATA[The CIE Tours Difference]]></title>
+		<teaser><![CDATA[CIE Tours]]></teaser>
+		<lead><![CDATA[
+			CIE Tours has been the premier tour operator for Ireland and Britain vacations, with a 95% customer satisfaction rating earning a reputation for excellence rooted in its signature Irish hospitality since 1932. Their outstanding local tour directors are the heart and soul of any CIE Tours vacation.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/gsNYVGJRfWw?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	
+	<article date="2012" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[December 2020]]></pub_date> <!-- December = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+		
+		<author><![CDATA[supplierName]]></author>
+		<id_supplier><![CDATA[supplierID]]></id_supplier>
+		
+		<title><![CDATA[videoTitle]]></title>
+		<teaser><![CDATA[supplierName]]></teaser>
+		<lead><![CDATA[
+			videoLead
+		]]></lead>
+		<body><![CDATA[
+			<p></p>
+		]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/youtubeID?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			
+			<iframe src="https://player.vimeo.com/video/vimeoID?color=ed1940&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>
