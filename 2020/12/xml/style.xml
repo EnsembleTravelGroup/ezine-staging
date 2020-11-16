@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2012">
+		<dir_name><![CDATA[style]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[December 2020]]></pub_date> <!-- December = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+		
+		<author><![CDATA[Nancy Hellmrich and Robin Cherry (Adapted by Ensemble Travel Group)]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Remote Work, Caribbean Style]]></title>
+		<teaser><![CDATA[
+			WFH doesn't mean you have to actually stay home.
+		]]></teaser>
+		<lead><![CDATA[
+			For decades, we&rsquo;ve had to accept the fact that bosses like to watch us work. Now, in perhaps the greatest workplace experiment since cubicles were invented, we&rsquo;re getting irrefutable proof that remote workers are (surprise) happier and more productive than their communal-workspace-dependent counterparts.
+		]]></lead>
+		<body><![CDATA[
+			<p>After spending half a year proving to the world that we can work successfully from home, we&rsquo;re starting to venture out into the wild. And we&rsquo;re looking to seasoned digital nomads to show us the way. Wait, I know what you&rsquo;re thinking &mdash; Bali! But according to the hip and happening digital nomad community, Bali was &ldquo;so last year&rdquo; three years ago. Which is fine with us because, as of July 2020, you can get your work on in a tropical locale much closer to home.</p>
+			
+			<figure class="article-tile">
+				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/20/12/article/style-01.jpg">
+			</figure>
+			
+			<p>Just a short flight away, hotels and resorts throughout the Caribbean are opening their freshly sanitized doors like they&rsquo;re Elsa from Frozen welcoming remote workers with open arms. Let&rsquo;s start with Barbados, shall we? Barbados wants you to work from their beaches. Seriously. They&rsquo;ve launched a massive ad campaign about work visas designed specifically for digital nomads that last up to 12 months.</p>
+			<p>Assuming Barbados is a big hit, don&rsquo;t be surprised if the rest of the Caribbean follows suit. Deep and meaningful health and safety protocols make these sun-drenched isles the perfect locale for working getaways with enviable Zoom backdrops and safe, al fresco dining. Some destinations require wellness tests prior to arrival, so check with your travel advisor for details.</p>
+			<br>
+			<h4>Don&rsquo;t Mind if I Do</h4>
+			<p><strong>Colony Club </strong>(St. James, Barbados) is a pristine retreat along the island&rsquo;s Platinum West Coast where you can dine on healthy cuisine, relax, and focus. Here, 96 freshly renovated rooms offer modern amenities, elegant wood furnishings, and private balconies. Got time before your next meeting? Tap into complimentary water sports, fitness classes, and island tours. Or, hop on a water-taxi to one of the resort&rsquo;s sister properties.</p>
+			<br>
+			<h4>Don&rsquo;t Stress About the Internet Connection</h4>
+			<p>Worried you may get to your destination and not be able to connect? Don&rsquo;t worry &ndash; we have a list of some of the best places to stay throughout the Caribbean that are known for their reliable wi-fi.</p>
+			<ul>
+				<li><strong>Jamaica Inn</strong> &ndash; Jamaica</li>
+				<li><strong>Cheval Blanc</strong> &ndash; St. Barth</li>
+				<li><strong>Jade Mountain</strong> &ndash; St. Lucia</li>
+				<li><strong>Ritz Carlton</strong> &ndash; Grand Cayman</li>
+				<li>The Palms &ndash; Turks &amp; Caicos</li>
+			</ul>
+			<p>So, what are you waiting for? It&rsquo;s time to sit back, relax, connect to wi-fi, and stare out at a beautiful backdrop all while working &ldquo;from home.&rdquo;</p>
+		]]></body>
+		
+		<!-- <p class="question"><strong>Q:</strong> -->
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/12/hero/style.jpg</hero_src>
+		<hero_caption><![CDATA[Remote Work, Caribbean Style]]></hero_caption>
+		<hero_credit><![CDATA[sectionTitle]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/12/article/style.jpg</article_src>
+		<article_caption><![CDATA[Remote Work, Caribbean Style]]></article_caption>
+		<article_credit><![CDATA[sectionTitle]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/12/email/style.jpg</email_src>
+		
+		<tile_color>HEXColor</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="xxx"><![CDATA[xxx]]></tag>
+		</tags>
+	</article>
+</root>
