@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!--
+		* Links for YouTube thumbnail images *
+		https://img.youtube.com/vi/youtubeID/0.jpg
+		https://img.youtube.com/vi/youtubeID/maxresdefault.jpg
+	-->
+	
+	<article date="2012" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[December 2020]]></pub_date> <!-- December = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+		
+		<author><![CDATA[Club Med]]></author>
+		<id_supplier><![CDATA[cmd]]></id_supplier>
+		
+		<title><![CDATA[More Room to Roam and Reconnect in Paradise]]></title>
+		<teaser><![CDATA[Club Med]]></teaser>
+		<lead><![CDATA[
+			Relax and unwind at Club Med’s spacious all-inclusive resorts: surrounded by nature, spread across an average of 50 acres and operating at limited capacity.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/_o-qal_6CGo?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	
+	<article date="2012" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[December 2020]]></pub_date> <!-- December = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+		
+		<author><![CDATA[Manulife]]></author>
+		<id_supplier><![CDATA[man]]></id_supplier>
+		
+		<title><![CDATA[Introducing the Manulife COVID-19 PANDEMIC Travel Plan]]></title>
+		<teaser><![CDATA[Manulife]]></teaser>
+		<lead><![CDATA[
+			For some Canadians, travel is essential; as is coverage for unforeseen events. That’s why Manulife is pleased to introduce the COVID-19 Pandemic Travel Plan for travelling Canadians.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/sYWmKUHc2IM?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>
