@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<section date="2012">
+		<issue_date><![CDATA[December 2020]]></issue_date>
+		<pub_date><![CDATA[November 25, 2020]]></pub_date>
+		
+		<heading><![CDATA[Book Your Bucket List]]></heading>
+		<title><![CDATA[]]></title>
+		<author></author>
+		<translator><![CDATA[]]></translator>
+		<lead><![CDATA[
+			If there has ever been a time to book a once-in-a-lifetime trip, the time is now. Gone are the days of saying &ldquo;I&rsquo;ll get to it eventually. I&rsquo;ll make it there one day.&rdquo; After months of being stuck indoors, cancelled plans, and an influx of stress and anxiety, it&rsquo;s time to say goodbye to 2020 and hello to your bucket list!&nbsp;
+		]]></lead>
+		<body><![CDATA[
+			Are you dreaming of sipping wine in the Tuscan countryside? Adventuring off into the African Serengeti? Gasping at the utter beauty of the Aurora Borealis? Hiking into the depths of the Grand Canyon? Exploring the peaks of the Andes on your way to Machu Picchu? Relaxing on the beaches of a faraway island? Seeing a Wonder of the World like the Taj Mahal or Great Wall of China? Sailing the seven seas? No matter what&rsquo;s on your bucket list, it&rsquo;s time to add a check (or two)!<br>
+			<br>
+			Are you ready to make your dreams come true?
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.ca/im/ezine/img/20/12/hero/index.jpg</hero_src>
+		<hero_caption><![CDATA[Book Your Bucket List]]></hero_caption>
+		<hero_credit><![CDATA[]]></hero_credit>
+		<color>5f3dc4</color>
+	</section>
+</root>
