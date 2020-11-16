@@ -38,21 +38,17 @@
 		<dir_month><![CDATA[12]]></dir_month>
 		<file_video><![CDATA[02]]></file_video>
 		
-		<author><![CDATA[supplierName]]></author>
-		<id_supplier><![CDATA[supplierID]]></id_supplier>
+		<author><![CDATA[Royal Caribbean]]></author>
+		<id_supplier><![CDATA[rci]]></id_supplier>
 		
-		<title><![CDATA[videoTitle]]></title>
-		<teaser><![CDATA[supplierName]]></teaser>
+		<title><![CDATA[Royal Caribbean Seeker Spotlight: Perfect Day at CocoCay]]></title>
+		<teaser><![CDATA[Royal Caribbean]]></teaser>
 		<lead><![CDATA[
-			videoLead
+			Follow Nic Morley as he explores Perfect Day at CocoCay. Conquer the tallest waterslide in North America or snap a shot from 450 feet up in a helium balloon – only on Royal Caribbean.
 		]]></lead>
-		<body><![CDATA[
-			<p></p>
-		]]></body>
+		<body><![CDATA[]]></body>
 		<embed><![CDATA[
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/youtubeID?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			
-			<iframe src="https://player.vimeo.com/video/vimeoID?color=ed1940&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/8WOO34QNBoQ?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		]]></embed>
 		
 		<tile_color>D2367D</tile_color>
