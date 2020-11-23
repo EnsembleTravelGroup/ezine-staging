@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	
+	<article date="2012" id="index"> <!-- use 'index' for spotlight/insider/topten/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[topten]]></dir_name> <!-- usually 'topten' OR 'advertorial' -->
+		<pub_date><![CDATA[December 2020]]></pub_date> <!-- December = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+		<id_article><![CDATA[index]]></id_article>
+		
+		<author><![CDATA[Silversea Cruises]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<id_supplier><![CDATA[sil]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/topten/cruising) -->
+		
+		<title><![CDATA[10 Reason Why You Should Consider an Expedition Voyage]]></title>
+		<teaser><![CDATA[
+			Discover new corners of the world with fewer people and space to roam.
+		]]></teaser>
+		<lead><![CDATA[
+			When the time is right to venture out again, we are betting a lot of people will prefer more exclusive experiences with fewer people and a lot of space to roam. Trips that highlight the outdoors and less crowded destinations will be a top priority for most globetrotters as we gradually return to a world where traveling is a part of our lives. One travel style that has all of this going for you is expedition cruising.
+		]]></lead>
+		<body><![CDATA[
+			<p>The beauty of expedition cruising is that you get to travel with a maximum of 250 other travelers and, most of the time, it will be fewer passengers than that. The ships are smaller so they can navigate hard-to-reach areas and bring you closer to the untamed beauty of the world. Despite sailing on a more intimate ship, you’ll still get to enjoy ample spaces to relax on your own or public areas to enjoy the company of your fellow explorers. Expedition travel is all about discovering new corners of the world and appreciating its nature and wildlife. That means the onboard activities tend to follow suit and take place in a calmer environment, which is alluring to people who are not into the busy traditional cruise scene.</p>
+		]]></body>
+		
+		<gallery>
+			<img>
+				<title><![CDATA[Switch Busy Piazzas for Serene Trails]]></title>
+				<content><![CDATA[In most of the remote Expedition destinations, you will be surrounded by nothing but nature. Vast landscapes and bountiful wildlife will be all you see for miles. You can choose your own pace and select a hiking excursion or take it easy on a beach stroll. The most important thing is that you will have with you just your Expedition expert guide and a group of no more than nine guests with you &ndash; a perfect plan for those who prefer a quiet setting these days.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/12/article/topten-index-01.jpg]]></src>
+				<position>0</position>
+				<class>active</class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Don&rsquo;t Sacrifice Cocktail Hour]]></title>
+				<content><![CDATA[It is still 5 o&rsquo;clock somewhere when you are at sea, no matter how remote and far from the equator you get. Just because Expedition voyages are considered a more active vacation experience, that does not mean you need to give up on your libations and time spent with friends over drinks, hour d'oeuvres, and conversations.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/12/article/topten-index-02.jpg]]></src>
+				<position>1</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Swap Busy Schedules for Time for Yourself]]></title>
+				<content><![CDATA[Being away from everything and almost everyone gives you the perfect opportunity to unwind and destress. At times, you might forgo an outing with the Expedition team, only to sit and relax with a book and an artisanal coffee or tea. You can also choose to pamper yourself and schedule a massage at the spa. Whatever relaxation means to you, we are sure you&rsquo;ll find the perfect spot on the ship to do just so.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/12/article/topten-index-03.jpg]]></src>
+				<position>2</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Substitute Traffic Jams with Animal Crossings]]></title>
+				<content><![CDATA[Zodiacs are the means of transportation in expedition cruising. They take you closer to where wildlife is or bring you to shore for in-land exploration. The beauty of this mode of transportation is the fact that you are traveling with a small group, which allows for quick embarkation and disembarkation of these vessels. With a maximum of 10 guests always accompanied by a guide, you get to spend more time ashore and closer to nature.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/12/article/topten-index-04.jpg]]></src>
+				<position>3</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Redefine Dining with a View]]></title>
+				<content><![CDATA[Yes, a restaurant with a view of the Eiffel tower is spectacular, but have you thought about dining with a glacier or a remote Pacific island as your backdrop? When you embark on an expedition journey, you get to dine every day in a new magnificent setting. Whether you see nothing but the sea for miles or you get to enjoy your fare surrounded by cliffs carved by Mother Nature, we are sure the scenery will be a feast for your senses.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/12/article/topten-index-05.jpg]]></src>
+				<position>4</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Trade Guided Tours for One-on-One Talks&nbsp;]]></title>
+				<content><![CDATA[Instead of joining a big group in a museum with headsets that often don&rsquo;t work, on an expedition voyage, you get to spend quality time with the Expedition team members. They often have different fields of expertise, and you can talk to them one-on-one throughout the voyage. They are there to interact with you and ensure your experience in the destination is as deep and meaningful as you want it to be.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/12/article/topten-index-06.jpg]]></src>
+				<position>5</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Learn from Unique Experiences]]></title>
+				<content><![CDATA[We often say Expeditions are a voyage of discovery because most people grow a sense of appreciation for everything they get to experience in these voyages, things that many don&rsquo;t get to experience their entire lives. At the end of each day, you and your fellow travelers will gather at the theater to talk about the incredible sights and activities you&rsquo;ve done that day and plan for the next day of adventures. And, the Expedition team is always there to teach you something new and give you insights on everything your eyes just witnessed.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/12/article/topten-index-07.jpg]]></src>
+				<position>6</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[You Don&rsquo;t Need to Compromise in Comfort]]></title>
+				<content><![CDATA[People sometimes still view expedition voyages as a rugged and uncomfortable experience. Although you can still get as down and dirty when you go ashore as the Expedition pioneers did back in the day, when you return to the ship, you are greeted by a staff who&rsquo;s there to anticipate all your needs, and you get to retreat to your suite with the similar comforts you would have at home.&nbsp;]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/12/article/topten-index-08.jpg]]></src>
+				<position>7</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[You Can Still be a Foodie]]></title>
+				<content><![CDATA[Being in remote regions does not mean you need to sacrifice your palate. We dare to say it actually gives you the excuse to indulge. After all, you will be actively exploring your destination every day. Although most guests prefer a lighter fare for lunch since there is much to see and do throughout the day, at nighttime, they get to relax with a glass a wine and a five-course meal befitting of any star-studded restaurant in town.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/12/article/topten-index-09.jpg]]></src>
+				<position>8</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Replace Glasses for Binoculars]]></title>
+				<content><![CDATA[Put away your blue lenses as you won&rsquo;t be spending much time looking at screens, but you will want to keep your in-suite binoculars handy as you never know when a beautiful show will happen right in front of your eyes. From whale breechings to dolphin pods swimming past the ship and unbelievable polar bears teaching their cubs the lays of the land, you should be prepared to witness the most spectacular moments on your expedition voyage.]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/12/article/topten-index-10.jpg]]></src>
+				<position>9</position>
+				<class></class>
+			</img>
+		</gallery>
+		
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/12/hero/topten-index.jpg]]></hero_src>
+		<hero_caption><![CDATA[10 Reason Why You Should Consider an Expedition Voyage]]></hero_caption>
+		<hero_credit><![CDATA[Silversea Cruises]]></hero_credit>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/12/article/topten-index.jpg]]></article_src>
+		<article_caption><![CDATA[10 Reason Why You Should Consider an Expedition Voyage]]></article_caption>
+		<article_credit><![CDATA[Silversea Cruises]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/12/email/topten-index.jpg</email_src>
+		
+		<tile_color>FFC500</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="ocean-cruising"><![CDATA[ocean-cruising]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="safari-wildlife"><![CDATA[safari-wildlife]]></tag>
+		</tags>
+	</article>
+</root>
