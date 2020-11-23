@@ -55,4 +55,29 @@
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 	</article>
+	
+	<article date="2012" id="03">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[December 2020]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[20]]></dir_year>
+		<dir_month><![CDATA[12]]></dir_month>
+		<file_video><![CDATA[03]]></file_video>
+		
+		<author><![CDATA[ALG Vacations]]></author>
+		<id_supplier><![CDATA[alg]]></id_supplier>
+		
+		<title><![CDATA[Experience What Limelife Is All About]]></title>
+		<teaser><![CDATA[ALG Vacations]]></teaser>
+		<lead><![CDATA[
+			Melt your worries away at the brand new Margaritaville Island Reserve Riviera Cancun, where your hardest decision is frozen or on the rocks.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/eQAI_UHHpvU?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
 </root>
