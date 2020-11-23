@@ -13,7 +13,7 @@
 		
 		<id_supplier><![CDATA[sil]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/topten/cruising) -->
 		
-		<title><![CDATA[10 Reason Why You Should Consider an Expedition Voyage]]></title>
+		<title><![CDATA[10 Reasons Why You Should Consider an Expedition Voyage]]></title>
 		<teaser><![CDATA[
 			Discover new corners of the world with fewer people and space to roam.
 		]]></teaser>
@@ -111,10 +111,10 @@
 		]]></body_2>
 		
 		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/12/hero/topten-index.jpg]]></hero_src>
-		<hero_caption><![CDATA[10 Reason Why You Should Consider an Expedition Voyage]]></hero_caption>
+		<hero_caption><![CDATA[10 Reasons Why You Should Consider an Expedition Voyage]]></hero_caption>
 		<hero_credit><![CDATA[Silversea Cruises]]></hero_credit>
 		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/20/12/article/topten-index.jpg]]></article_src>
-		<article_caption><![CDATA[10 Reason Why You Should Consider an Expedition Voyage]]></article_caption>
+		<article_caption><![CDATA[10 Reasons Why You Should Consider an Expedition Voyage]]></article_caption>
 		<article_credit><![CDATA[Silversea Cruises]]></article_credit>
 		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/12/email/topten-index.jpg</email_src>
 		
