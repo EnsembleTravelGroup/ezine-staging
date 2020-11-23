@@ -41,31 +41,24 @@
 			<p>So, what are you waiting for? It&rsquo;s time to sit back, relax, connect to wi-fi, and stare out at a beautiful backdrop all while working &ldquo;from home.&rdquo;</p>
 		]]></body>
 		
-		<!-- <p class="question"><strong>Q:</strong> -->
-		
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/20/12/hero/style.jpg</hero_src>
 		<hero_caption><![CDATA[Remote Work, Caribbean Style]]></hero_caption>
-		<hero_credit><![CDATA[sectionTitle]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<hero_credit><![CDATA[Travel Style]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
 		<article_src>https://www.ensembletravel.com/assets/img/ezine/20/12/article/style.jpg</article_src>
 		<article_caption><![CDATA[Remote Work, Caribbean Style]]></article_caption>
-		<article_credit><![CDATA[sectionTitle]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_credit><![CDATA[Travel Style]]></article_credit> <!--Spotlight, Insider, Travel Style -->
 		<email_src>https://www.ensembletravel.com/assets/img/ezine/20/12/email/style.jpg</email_src>
 		
-		<tile_color>HEXColor</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_color>00B9F2</tile_color>
 		<tile_class>opaque-100</tile_class>
 		<tile_new>none</tile_new>
 		
 		<tags>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
-			<tag slug="xxx"><![CDATA[xxx]]></tag>
+			<tag slug="caribbean"><![CDATA[caribbean]]></tag>
+			<tag slug="all-inclusive"><![CDATA[all-inclusive]]></tag>
+			<tag slug="luxury-hotels-resorts"><![CDATA[luxury-hotels-resorts]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
 		</tags>
 	</article>
 </root>
