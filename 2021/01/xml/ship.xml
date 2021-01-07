@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2101" id="01">
+		<dir_name><![CDATA[ship]]></dir_name>
+		<pub_date><![CDATA[January 2021]]></pub_date> <!-- January = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[01]]></dir_month>
+		<file_ship><![CDATA[01]]></file_ship>
+		
+		<tab_class><![CDATA[active]]></tab_class> <!-- If there's more than one ship showcase, only the first showcase has the 'active' class -->
+		
+		<author><![CDATA[Regent Seven Seas Cruises®]]></author>
+		<id_supplier><![CDATA[reg]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[A Space for Every Experience, Personal Space on Board]]></title>
+		<teaser><![CDATA[
+			You always have an abundance of space on board each of Regent Seven Seas Cruises&rsquo; perfectly sized, luxury ships.
+		]]></teaser>
+		<lead><![CDATA[
+			Sprawling suites, multiple dining options and spacious social areas means there are no crowds and no waiting.
+		]]></lead>
+		<body><![CDATA[
+			<p>The luxury of personal space is central to the promise of An Unrivaled Experience&reg; with Regent Seven Seas Cruises&reg;. It provides the extravagant freedom guests need to explore and relax to the fullest. As the preeminent luxury ocean cruise line, Regent Seven Seas Cruises&reg; prides themselves in offering some of the largest balconies and most spacious suites at sea. Their wide range of specialty restaurants, al fresco and in-suite dining options, exquisite lounges, bars and expansive spaces are perfect to rest and celebrate in, knowing there is never a queue or crowd, and every imaginable amenity is included.</p>
+			<p>Join Regent Seven Seas Cruises&reg; and discover how &mdash; with their unrivaled space at sea &mdash; they will exceed your loftiest expectations of comfort and personalized service for a truly unforgettable experience aboard The World&rsquo;s Most Luxurious Fleet&trade;.</p>
+			<p>The world is waiting. Start your journey with Regent.</p>
+		]]></body>
+		
+		<tab_group id_supplier="reg">
+			<tab id="01">
+				<id><![CDATA[01]]></id>
+				<title><![CDATA[The Ship]]></title> <!-- Le navire -->
+				<content><![CDATA[
+					<p>Bringing you the best in all-inclusive luxury begins with bringing you the most luxurious ships. Their award-winning fleet delivers style and class, from bow to stern, throughout every region of the world. Regent Seven Seas Cruises® invites you to come aboard and experience your new home away from home.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/01/article/ship-01-ship.jpg</tab_src>
+				<tab_caption><![CDATA[The Ship]]></tab_caption>
+				<class><![CDATA[active]]></class> <!-- The first tab has the 'active' class -->
+			</tab>
+			
+			<tab id="02">
+				<id><![CDATA[02]]></id>
+				<title><![CDATA[Accommodations]]></title> <!-- Hébergement -->
+				<content><![CDATA[
+					<p>Experience a new level of comfort in your new home away from home. Their suites bring you the best in sumptuous living, from 300 to over 4,000 square feet, adorned with the finest d&eacute;cor and best-in-class amenities.</p>
+					<p>Step into your elegant suite and discover comforts and amenities that rival the finest hotels and resorts around the globe. Every suite across their five ships delivers incredible ocean views &mdash; 98% of which are enjoyed in the solace of a private balcony. They also include a separate sitting area, the heavenly comfort of their Elite Slumber&trade; beds, spacious closets, an interactive flat-screen TV with complimentary movies on demand, an included minibar stocked daily with your preferences, 24-hour room service and many other prime amenities inviting you to settle in, relax and enjoy your journey.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/01/article/ship-01-accommodations.jpg</tab_src>
+				<tab_caption><![CDATA[Accommodations]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="03">
+				<id><![CDATA[03]]></id>
+				<title><![CDATA[Dining]]></title> <!-- Gastronomie -->
+				<content><![CDATA[
+					<p>The detail attended to and the artistry displayed in every meal echoes the excellence achieved aboard Seven Seas Splendor&trade;. The chefs will amaze you as they put their hearts and souls into creating each masterpiece of epicurean delight.</p>
+					<p>Exquisite dining experiences are the highlight of your voyage. Join Regent Seven Seas Cruises&reg; at any of their elegant restaurants. Delight your palate in superb menus that feature French, Italian, Pan-Asian, and steakhouse fare, each accompanied by the exquisite wine lists. Or, whenever the mood strikes, simply place your order from the extensive in-suite menu, 24 hours a day.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/01/article/ship-01-dining.jpg</tab_src>
+				<tab_caption><![CDATA[Dining]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="04">
+				<id><![CDATA[04]]></id>
+				<title><![CDATA[Activities]]></title> <!-- Activités -->
+				<content><![CDATA[
+					<p>Luxury cruising with Regent Seven Seas Cruises&reg; is the perfect way to experience the world in comfort and safety. Breathtaking landscapes, captivating cultures and much more await you via thousands of FREE Unlimited Shore Excursions across the globe.</p>
+					<p>You&rsquo;ll find time spent on board the ship to be just as enriching as time ashore. Relax by the pool, compete in a friendly game of trivia or bocce ball, indulge in treats at afternoon tea and gain insight from an expert lecturer.</p>
+					<p>Evenings on board are filled with music and fun. Enjoy a rousing cabaret show, test your luck at the Casino, step onto the stage for karaoke or simply find a quiet place on deck to revel in the symphony of stars.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/01/article/ship-01-activities.jpg</tab_src>
+				<tab_caption><![CDATA[Activities]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="06">
+				<id><![CDATA[06]]></id>
+				<title><![CDATA[Services]]></title> <!-- Services -->
+				<content><![CDATA[
+					<p>A PERSONAL TOUCH</p>
+					<p>The outstanding attendants and butlers will maintain your suite just the way you like it, ensuring a fresh, warm and comfortable home is awaiting your return each day. The direction of the maître d&rsquo;, the expertise of the chef, the guidance of the sommelier and the attentiveness of the wait staff will make each dining experience feel like a symphony of refined flavors and impeccable service. The officers pride themselves in providing a safe and smooth voyage and should you desire anything &ldquo;off the menu,&rdquo; the concierge staff awaits you, desiring to fulfill your every request.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/01/article/ship-01-services.jpg</tab_src>
+				<tab_caption><![CDATA[Services]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+		</tab_group>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/01/hero/ship-01.jpg</hero_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/01/article/ship-01.jpg</article_src>
+		
+		<tile_color>005DAB</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>
