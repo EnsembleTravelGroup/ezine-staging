@@ -45,23 +45,6 @@
 			<p>&dagger; Celebrity Suites and Sky Suites: additional fees apply for mini bar items.</p>
 			<p>&ddagger; Available on Celebrity Edge Series ships only.</p>
 			<p>Image Credit: Celebrity Cruises</p>
-
-			<!-- Full width image tile -->
-			<figure class="article-tile">
-				<img class="img-responsive" src="https://www.ensembletravel.com/assets/img/ezine/21/01/article/style-##.jpg">
-				<figcaption>
-					<h4>tileHeading</h4>
-					tileContent
-				</figcaption>
-			</figure>
-
-			<!-- Embedded YouTube Video -->
-			<div class="videoWrapper" style="padding-bottom: 45%;">
-				<figure>
-					<iframe width="853" height="480" src="https://www.youtube.com/embed/youtubeID?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-				</figure>
-			</div>
-
 		]]></body>
 		
 		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/01/hero/style.jpg</hero_src>
