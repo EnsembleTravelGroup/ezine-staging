@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2101" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[January 2021]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[01]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+		
+		<author><![CDATA[Seabourn]]></author>
+		<id_supplier><![CDATA[sea]]></id_supplier>
+		
+		<title><![CDATA[Extraordinary Expeditions - Seabourn Venture]]></title>
+		<teaser><![CDATA[Seabourn]]></teaser>
+		<lead><![CDATA[
+			This video showcases our full array of luxuriously appointed ocean-front suites and elegant public spaces throughout our new purpose-built ultra-luxury ship, Seabourn Venture.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe src="https://player.vimeo.com/video/499327053?color=ed1940&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>
