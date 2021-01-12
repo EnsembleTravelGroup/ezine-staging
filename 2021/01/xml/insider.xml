@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2101">
+		<dir_name><![CDATA[insider]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[January 2021]]></pub_date> <!-- January = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[01]]></dir_month>
+		
+		<author><![CDATA[articleAuthor]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[New Year, New Ways to Travel with ALG Vacations]]></title>
+		<teaser><![CDATA[
+			Travel with confidence time after time, trip after trip.
+		]]></teaser>
+		<lead><![CDATA[
+			It&rsquo;s a new year and we&rsquo;re ready for new beginnings! We caught up with Scott Wiseman, Senior Vice President and General Manager, Travel Agent Brands ALG Vacations&trade;, who updated us on ALG Vacations&rsquo; new products and offerings.
+		]]></lead>
+		<body><![CDATA[
+			<p class="question"><strong>Q:</strong> Tell us a bit about ALG Vacations&trade; and the products and services the company offers.</p>
+			<p>All of us at ALG Vacations&trade; are proud to have set ourselves apart this year as the organization that can put everything aside to put advisors and customers first. Our brands include trusted and prestigious names: Travel Impressions, Apple Vacations, Funjet Vacations, Blue Sky Tours, United Vacations, and Southwest Vacations. Together, we provide complete vacation packages that deliver high value to consumers and innumerable rewards to our travel advisor partners.</p>
+			<p class="question"><strong>Q:</strong> Are there any new products or offerings available when booking with ALG in 2021?</p>
+			<p>We are excited to have consolidated our individual brand exclusive traveler benefits programs into one comprehensive, straightforward collection for 2021. Exceptional Values, Insider Circle Perks, Partner Privileges, and Hotel Exclusive Benefits, formerly under brands like Travel Impressions and Apple Vacations, are now all united under the umbrella of ALGV&rsquo;s Exclusive Perks program! What is provided is a clearer view of all the bonuses travel advisors can score for their customers, as they will be able to provide amenities and experiences that OTAs and hotel-direct can&rsquo;t compete with.</p>
+			<p>And, of course, we always have new promotions coming out. From Pause to Play is our latest, and we&rsquo;re making it even more attractive than ever for customers to push that button with their advisors. This promotion includes instant air credit, hundreds of dollars of savings on top of hotel rates discounted by as much as 70%, AND &mdash; for the first time &mdash; <em>double</em> the hotel discounts for bookings that are paid in full.</p>
+			<p><em>For North American travelers looking to stay closer to home, what domestic options do you provide?</em></p>
+			<p>We actually have a lot of great options for those who want to stay stateside, especially through Travel Impressions and Apple Vacations who both have strong histories of domestic travel. Las Vegas has been tremendously popular this year, and Florida, California, and Arizona have also captured travelers&rsquo; attention. Additionally, many travelers are making their Hawaii vacation dreams finally come true, with unprecedented rates that make doing it right affordable.</p>
+			<p>And, of course, as travelers remain cautious and responsibly socially distanced, The Villa Experience by Travel Impressions has been great for families who want to get away but stay within their bubble of safety. These professionally managed properties are available across the U.S. as well as internationally, and they provide a perfect solution.</p>
+			<p><em>How have your offerings changed in response to the pandemic?</em></p>
+			<p>If there was one value we really emphasized with 2020&rsquo;s challenges, it was that we do it TOGETHER. How that translated into our business practices and offerings was that we shifted and adapted dynamically to the needs of our travel partners as they reported in. They demanded flexibility and leniency for their customers, championing travelers every step of the way. As a result, our policies have never been more flexible, and we continue to update them to shift to market demands. For instance, we&rsquo;ve waived our brand change fees and brand cancel fees for new bookings well into the future, and we even launched a new three-tier, three-option Travel Protection Plus plan &mdash; all of which still provides the assurance of Cancel for Any Reason, which many of our competitors have discontinued. With different refund options and price brackets, which are also set on a sliding scale, we made confidence affordable, and we will continue to make adjustments like these to support our industry.</p>
+			<p class="question"><strong>Q:</strong> What can travelers expect when it comes to ALGV&rsquo;s change and cancellation policies?</p>
+			<p>They can expect &hellip; nothing! Literally! Third-party hotel and airline penalties may still apply, but we&rsquo;ve eliminated our brand change and cancellation fees, as I&rsquo;d mentioned, to better support new bookings. This was a bold policy change, we know, but we feel that anything we can do to help boost consumer confidence and advisor success is worth it. This was an expansion on a promotional policy that first removed first-instance sched air and ENVF package change fees, and having seen the efficacy of that, we felt compelled to make it bigger and better in thanks for our partners&rsquo; support throughout this difficult year.</p>
+			<p class="question"><strong>Q:</strong> BONUS: Why should travelers choose to travel with ALG Vacations&trade;?</p>
+			<p>Because our family of brands &mdash; particularly Travel Impressions and Apple Vacations &mdash; have been trusted and true for, collectively, over 150 years. No one knows as intimately or is as experienced in packaged travel to Mexico, the Caribbean, and Hawaii, and has the kind of vertically integrated structure that protects their vacation experience like ours does. Together, with our values and advisors-first approach, we&rsquo;re a company that strives to do the right thing, looking out for advisors and their clients time after time, trip after trip.</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/01/hero/insider.jpg</hero_src>
+		<hero_caption><![CDATA[New Year, New Ways to Travel with ALG Vacations]]></hero_caption>
+		<hero_credit><![CDATA[On Location]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/01/article/insider.jpg</article_src>
+		<article_caption><![CDATA[New Year, New Ways to Travel with ALG Vacations]]></article_caption>
+		<article_credit><![CDATA[On Location]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/01/email/insider.jpg</email_src>
+		
+		<tile_color>FA6900</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="all-inclusive"><![CDATA[all-inclusive]]></tag>
+			<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+			<tag slug="villas"><![CDATA[villas]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+		</tags>
+	</article>
+</root>
