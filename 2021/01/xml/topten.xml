@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	
+	<article date="2101" id="index"> <!-- use 'index' for spotlight/insider/topten/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[topten]]></dir_name> <!-- usually 'topten' OR 'advertorial' -->
+		<pub_date><![CDATA[January 2021]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[01]]></dir_month>
+		<id_article><![CDATA[index]]></id_article>
+		
+		<author><![CDATA[Hurtigruten]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<id_supplier><![CDATA[hur]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/topten/cruising) -->
+		
+		<title><![CDATA[Six Reasons to Cruise Sustainably]]></title>
+		<teaser><![CDATA[
+			Activism and adventure - set sail on an all-in-one expedition cruise.
+		]]></teaser>
+		<lead><![CDATA[
+			Hurtigruten is committed to sustainability while also doing everything we can to protect the vulnerable, fragile environments and communities in which we sail.  Here are six concrete benefits to cruising sustainably while showcasing how Hurtigruten is committed to offering the most environmentally conscious expedition cruises on Earth. Learn more by contacting your Ensemble travel advisor.
+		]]></lead>
+		<body><![CDATA[
+			<p>articleIntro</p>
+		]]></body>
+		
+		<gallery>
+			<img>
+				<title><![CDATA[Reduce Fuel Emissions]]></title>
+				<content><![CDATA[Climate change is real. Hurtigruten has responded to this crisis by investing in green technology and cleaner fuel, setting a new standard in environmentally conscious cruising. We aim to achieve emission-free operations within 20 years. We introduced the world&rsquo;s first hybrid electric&ndash;powered cruise ships, referred to by a Cruise Critic reviewer as &ldquo;the Prius of the Sea.&rdquo; With Rolls-Royce engines that run in conjunction with battery packs, emissions are cut by 20%. Hurtigruten is also the first cruise line to power ships with liquified natural gas (LNG) and liquified biogas (LBG). LBG is fossil-free, renewable, and produced from organic waste, including waste matter from local fisheries, reducing CO2 emissions by more than 35%. This is a major departure from the rest of the cruise industry, which primarily uses heavy fuel oil (HFO). We banned HFO on our ships a decade ago, and we are currently advocating for a worldwide ban.]]></content>
+				<caption><![CDATA[Image Credit: Hybrid electric ship receiving power on shore &copy; Eivind Senneset/Hurtigruten/Bergen Havn]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/01/article/topten-index-01.jpg]]></src>
+				<position>0</position>
+				<class>active</class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Enhance Local Communities]]></title>
+				<content><![CDATA[The way our ships impact the destinations we visit isn&rsquo;t an afterthought at Hurtigruten. We ask ourselves the hard questions: What kind of impact do we have on local communities? Do we only take, or do we add value? At Hurtigruten, we give back by sourcing products and services from local suppliers, such as hiring local tour operators and sourcing food from local farms and fisheries. We are dedicated to creating a positive impact on the local communities, and we are contributing to the welfare of communities along our routes. By offering our guests insight into the culture of the communities we visit, we practice the importance of cultural exchange and mutual respect and understanding. Through the Hurtigruten Foundation, we also help financially support local projects in the areas we explore.]]></content>
+				<caption><![CDATA[Image Credit: Musical artist in Greenland, &copy; Andrea Klaussner/Hurtigruten]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/01/article/topten-index-02.jpg]]></src>
+				<position>1</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Protect Vulnerable Wildlife and Ecosystems]]></title>
+				<content><![CDATA[All of Hurtigruten&rsquo;s cruises are dedicated to protecting and preserving vulnerable wildlife and ecosystems, and we always observe wildlife at an appropriate distance to preserve natural behavior and in no way disturb the wildlife. Hurtigruten encourages cooperation throughout the travel industry. As members of the International Association of Antarctic Tour Operators (IAATO) and a founding member of the Association of Arctic Expedition Cruise Operators (AECO), we advocate, promote, and uphold safe and environmentally responsible travel. In the Arctic, this includes adhering to strict wildlife guidelines aimed to protect walrus, seals, birds, and cetaceans (whales, dolphins and porpoises), and visiting small Arctic communities in a dignified and respectful manner.  In Antarctica, we adhere to guidelines designed to protect the vulnerable Antarctic ecosystem and wildlife including its renowned penguins, seals, elephant seals, whales, and so much more, and all visitors must abide by the Antarctic Treaty and its Protocol on Environmental Protection.]]></content>
+				<caption><![CDATA[Image Credit: Seal in Antarctica &copy; Gian-Rico Willy/Hurtigruten]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/01/article/topten-index-03.jpg]]></src>
+				<position>2</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Minimize Plastic Waste for Healthier Oceans and Wildlife]]></title>
+				<content><![CDATA[Plastic pollution is the biggest threat to our oceans&rsquo; health, wreaking havoc on marine wildlife and marine ecosystems. Hurtigruten was the first major cruise line in the world to ban all single-use plastic from its entire fleet of ships. Everything from straws to drink&shy;ing cups has been replaced with envi&shy;ronmentally friendly alternatives made of biodegradable paper and other sustainable materials. On the other end of the spectrum, Hurtigruten has a long history of engaging our guests in beach clean-ups, since so much of the Earth&rsquo;s pollution ends up on beaches due to sea currents. Much more important than the unsightliness of garbage on beaches is the danger this causes for wildlife, where birds and other animals may eat the plastic or get caught in fishnets or ropes. We use every landing as an opportunity to contribute to a cleaner and healthier environment and help protect vulnerable wildlife and ecosystems. ]]></content>
+				<caption><![CDATA[Image Credit: Beach cleaning at Svalbard &copy; Genna Roland/Hurtigruten]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/01/article/topten-index-04.jpg]]></src>
+				<position>3</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Help Fight Mass Tourism]]></title>
+				<content><![CDATA[Hurtigruten has called for a stop to mass tourism in pristine areas, specifically in the regions we explore, including the Norwegian fjords, Antarctica, and some locations in the Arctic. We work for stricter regulations, such as size limitations on cruise ships and restricting the number of guests allowed on shore. We believe that expedition travel success should not be measured by the number of tourists, but by the lightness of the footprint we leave behind, how we give back to the communities we visit, and the quality of the guest experience.]]></content>
+				<caption><![CDATA[Image Credit: Tourists in Norway &copy; Thomas Lorenz/Hurtigruten]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/01/article/topten-index-05.jpg]]></src>
+				<position>4</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Activism Through Education]]></title>
+				<content><![CDATA[At Hurtigruten, we believe in science, and activism through education. Our ships are the perfect place for rediscovering the joy of learning. Expert Expedition Team members are specially selected to accompany each cruise to provide meaningful context, such as the history, culture, glaciology, geology, or wildlife of a destination, as well as its environmental challenges. Each ships&rsquo; Science Center has state-of-the-art microscopes, we coordinate Citizen Science projects that contribute to current scientific research around the world, and we partner with organizations such as the Arctic Marine Ecosystem Research Network (ARCTOS) to help their research. Guests can even meet with scientists as they conduct collaborative science sessions on board and ashore on select cruises. Our goal is to educate our guests and create ambassadors who return home to champion the protection of our planet&rsquo;s most fragile ecosystems.]]></content>
+				<caption><![CDATA[Image Credit: Expedition Team member giving a lecture in the Science Center &copy; Oscar Farrera/Hurtigruten]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/01/article/topten-index-06.jpg]]></src>
+				<position>5</position>
+				<class></class>
+			</img>
+		</gallery>
+		
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/01/hero/topten-index.jpg]]></hero_src>
+		<hero_caption><![CDATA[Six Reasons to Cruise Sustainably]]></hero_caption>
+		<hero_credit><![CDATA[Hurtigruten]]></hero_credit>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/01/article/topten-index.jpg]]></article_src>
+		<article_caption><![CDATA[Six Reasons to Cruise Sustainably]]></article_caption>
+		<article_credit><![CDATA[Hurtigruten]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/01/email/topten-index.jpg</email_src>
+		
+		<tile_color>FFC500</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Top Ten:FFC500, Cruising:00B9F2, Advertorial:A8CB17 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="antarctic"><![CDATA[antarctic]]></tag>
+			<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+			<tag slug="ocean-cruising"><![CDATA[ocean-cruising]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="safari-wildlife"><![CDATA[safari-wildlife]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+			<tag slug="voluntourism"><![CDATA[voluntourism]]></tag>
+		</tags>
+	</article>
+</root>
