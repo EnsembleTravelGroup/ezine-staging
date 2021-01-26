@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2102" id="01">
+		<dir_name><![CDATA[ship]]></dir_name>
+		<pub_date><![CDATA[February 2021]]></pub_date> <!-- February = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[02]]></dir_month>
+		<file_ship><![CDATA[01]]></file_ship>
+		
+		<tab_class><![CDATA[active]]></tab_class> <!-- If there's more than one ship showcase, only the first showcase has the 'active' class -->
+		
+		<author><![CDATA[Seabourn]]></author>
+		<id_supplier><![CDATA[sea]]></id_supplier>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Get Set For An Ultra-Luxury Expedition Experience Like No Other]]></title>
+		<teaser><![CDATA[
+			Extraordinary experiences, esteemed experts, ultra-luxury amenities, and state-of-the-art technology: Seabourn Venture raises the bar in its class.
+		]]></teaser>
+		<lead><![CDATA[]]></lead>
+		<body><![CDATA[
+			<p>State-of-the-art technology and ultra-luxury: here are just some of the elements that set us apart.</p>
+			<ol>
+			<li>Purpose-built expedition ships, PC6 ice-strengthened hull, with advanced maneuvering technology for superior stability, safety and comfort</li>
+			<li>World-class Expedition Team, delivering immersive experiences </li>
+			<li>All veranda, allocean-front suites luxuriously appointed </li>
+			<li>Handcrafted itineraries developed for the expedition traveler to the most coveted and familiar remote destinations in the world</li>
+			<li>Intimate ships with a private club atmosphere</li>
+			<li>Intuitive, personalized service provided by staff passionate about exceeding guests expectations</li>
+			<li>Inclusive expedition experiences with Zodiacs, mountain and ebikes, scuba diving and snorkeling </li>
+			<li>Optional expedition experiences with kayaks and custom-built, 6-guest submarines giving the option to extend your expedition further for greater ocean exploration**</li>
+			<li>Welcome Champagne and complimentary in-suite bar stocked with your preferences </li>
+			<li>Open bridge policy*, hosted by members of the Expedition Team providing firsthand access to the ship&rsquo;s command center and officers navigating your journey</li>
+			<li>World-class dining venues are all complimentary, dine where, when and with whom you wish </li>
+			<li>Tipping is neither required, nor expected </li>
+			<li>Complimentary premium spirits and fine wines available on board at all times </li>
+			<li>Meticulous and purposeful adventurers&rsquo; resort at sea designed for the luxury traveler with unique attributes and spaces to enhance your experience</li>
+			<li>Spa &amp; Wellness with Dr. Andrew Weil, featuring an exclusive mindful living program**</li>
+			<li>Committed to environmental stewardship and sustainability </li>
+			</ol>
+			<p>*At the Captain&rsquo;s discretion </p>
+			<p><strong>**</strong> Optional programs, for additional charge </p>
+		]]></body>
+		
+		<tab_group id_supplier="sea">
+			<tab id="01">
+				<id><![CDATA[01]]></id>
+				<title><![CDATA[The Ship]]></title> <!-- Le navire -->
+				<content><![CDATA[
+					<p>Seabourn&rsquo;s true ultra-luxury purpose-built ships are outfitted with the latest technology for exceptional stability, safety and comfort in all climates and conditions.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/02/article/ship-01-ship.jpg</tab_src>
+				<tab_caption><![CDATA[The Ship]]></tab_caption>
+				<class><![CDATA[active]]></class> <!-- The first tab has the 'active' class -->
+			</tab>
+			
+			<tab id="02">
+				<id><![CDATA[02]]></id>
+				<title><![CDATA[Accommodations]]></title> <!-- Hébergement -->
+				<content><![CDATA[
+					<p>The ship&rsquo;s 132 guest suites are exactly what you would expect from a five-star luxury resort at sea. Each has a private veranda, minibar and refrigerator refilled daily, an in-suite bar, luxurious baths with custom Molton Brown amenities, an interactive entertainment system, Seabourn-exclusive Swarovski® binoculars, and a personal suite stewardess to ensure everything is as you wish. Each suite will also have a built-in heated jacket wardrobe, where guests can grab a warm coat before heading out on a cool morning or hang their wet outdoor parkas and other gear to dry quickly once they return from adventures off the ship.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/02/article/ship-01-accommodations.jpg</tab_src>
+				<tab_caption><![CDATA[Accommodations]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="03">
+				<id><![CDATA[03]]></id>
+				<title><![CDATA[Dining]]></title> <!-- Gastronomie -->
+				<content><![CDATA[
+					<p>A way to come together and reflect on shared experiences, Seabourn&rsquo;s meals are meant to be memorable as well as flexible: dine when, where and with whom you wish in any of the 8 areas, from a full-service dinner to a casual al fresco breakfast. And all guests get complimentary beverages, wine and spirits throughout the trip, including inventive craft cocktails developed by master mixologist Brian Van Flandern.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/02/article/ship-01-dining.jpg</tab_src>
+				<tab_caption><![CDATA[Dining]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="04">
+				<id><![CDATA[04]]></id>
+				<title><![CDATA[Activities]]></title> <!-- Activités -->
+				<content><![CDATA[
+					<p>Seabourn Venture will provide Seabourn&rsquo;s widest range of expedition activities yet, operated and escorted by a knowledgeable, world-class 26-person expedition team of scientists, scholars, naturalists and more.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/02/article/ship-01-activities.jpg</tab_src>
+				<tab_caption><![CDATA[Activities]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+			
+			<tab id="06">
+				<id><![CDATA[06]]></id>
+				<title><![CDATA[Services]]></title> <!-- Services -->
+				<content><![CDATA[
+					<p>The quality of service you&rsquo;ll enjoy on Seabourn is exceptionally sincere – you will feel the discernable difference between being simply catered to, and being truly cared for.</p>
+				]]></content>
+				<tab_src>https://www.ensembletravel.com/assets/img/ezine/21/02/article/ship-01-services.jpg</tab_src>
+				<tab_caption><![CDATA[Services]]></tab_caption>
+				<class><![CDATA[]]></class>
+			</tab>
+		</tab_group>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/02/hero/ship-01.jpg</hero_src>
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/02/article/ship-01.jpg</article_src>
+		
+		<tile_color>005DAB</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+</root>
