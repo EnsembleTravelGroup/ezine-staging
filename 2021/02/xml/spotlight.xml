@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2102">
+		<dir_name><![CDATA[spotlight]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[February 2021]]></pub_date> <!-- February = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[02]]></dir_month>
+		
+		<author><![CDATA[Ensemble Travel Group (adapted from Travel Alaska)]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Alaska: The Wildest of "Why's"]]></title>
+		<teaser><![CDATA[
+			Forever change your perspective of the world by visiting America’s wilderness.
+		]]></teaser>
+		<lead><![CDATA[
+			Delving into new cultures, testing our own limits, getting some well-deserved R&amp;R &ndash; reasons for traveling are as diverse as travelers are. Yet, why we travel is often closely related to the places we&rsquo;re dreaming of. And, Alaska, with its rich historic and cultural heritage, and magnificent fauna and jaw-dropping landscapes, is the stuff of dreams. But beyond its immense natural beauty, Alaska is bound to fulfil even the wildest of &lsquo;why&rsquo;s,&rsquo; whether you&rsquo;re aspiring to escape the urban whirlwind and immerse yourself in unspoiled wilderness, open your mind through local encounters, or pioneer a whole new path in your life.
+		]]></lead>
+		<body><![CDATA[
+			<p>For returning travelers and first-timers alike, Alaska is a place of natural and cultural wonders. The 500-mile strip that defines the lower corner of the state consists of a long net of remote islands, fjords and waterways lacing together Ketchikan and Prince of Wales Island to the south, with Haines and Skagway to the north. The region is an endlessly fascinating network of marine mammal habitat, bird rookeries, rich old-growth forests, glaciers, tiny ancient fishing villages and modern towns. This splendor prompted 19th-century naturalist John Muir to declare his trip through Southeast waters &ldquo;pure wildness.&rdquo;</p>
+			<p>The waterways are an excellent way to explore Alaska&rsquo;s Panhandle and experience both its culture and nature. Over 70,000 people live along the Inside Passage, among them a large Alaska Native population (Tlingit, Haida, Tsimshian). Seaside communities in the Southeast offer a glimpse into the life of both urban and rural Alaska. You can explore the shops, restaurants and museums in Juneau, the state capital, or wander among charming historic homes weathered by saltwater and sea winds in smaller communities like Petersburg and Sitka.</p>
+			<p>The network of waterways is integral to life in the region. The marine highway connects over 30 communities in Alaska, and many residents know the region from top to bottom. Alan Chaffen, who grew up in Haines, recommends traveling the waters of the Southeast to anyone. &ldquo;There&rsquo;s a way of life you see, and it&rsquo;s all set in this amazing place,&rdquo; he said. &ldquo;I&rsquo;m always telling people they need to see it.&rdquo;</p>
+			<p>The natural formations and vegetation in Southeast Alaska are equally impressive. A temperate, maritime climate feeds forested shorelines, carpeted moss, giant wild ferns, towering spruce trees and countless waterfalls cascading down rocky mountainsides. It&rsquo;s home to major attractions such as Glacier Bay National Park and Preserve, Misty Fjords National Monument, Admiralty Island National Monument, Mendenhall Glacier in Juneau, LeConte Glacier near Petersburg, and the Stikine River near Wrangell.</p>
+			<p>So, it&rsquo;s easy to see why Alaska&rsquo;s Inside Passage is one of the most popular cruise ship destinations in the world. The journey takes travelers through a rich tapestry of rivers, fjords, waterfalls, tidal pools and expansive straits. Along the way, the network of waterways provides access to local communities as well as miles of pristine coastline, glaciers and vast populations of porpoises, whales, sea birds, seals, sea lions, otters and eagles.</p>
+			<p>Ships range in size and luxury and allow travelers to combine the luxuries of a hotel with the adventure of a trip through America&rsquo;s most spectacular wilderness. Accommodation types are just as diverse. Options for cruising amenities range from casual to formal; it just depends on the experience you&rsquo;re looking for on your next Alaska getaway.</p>
+			<p>From Vancouver, British Columbia, itineraries include stops at various ports of call where passengers spend the day flightseeing, fishing, gold panning, hiking, and touring Alaskan Native cultural attractions. The truly adventurous can even hop on a sea kayak to explore the silent coves and tiny islands that pepper thousands of miles of the pristine coastal water. There is no greater scenic advantage than the perspective offered from sitting behind the paddle of a sea kayak.</p>
+			<p>And, that&rsquo;s exactly what you&rsquo;ll find in Alaska: natural and cultural experiences that will forever change your perspective on the world. When you&rsquo;re ready, contact your Ensemble travel advisor to discuss your &lsquo;why&rsquo; and start planning your next transformative adventure.</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/02/hero/spotlight.jpg</hero_src>
+		<hero_caption><![CDATA[Alaska: The Wildest of "Why's"]]></hero_caption>
+		<hero_credit><![CDATA[Destination Spotlight]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/02/article/spotlight.jpg</article_src>
+		<article_caption><![CDATA[Alaska: The Wildest of "Why's"]]></article_caption>
+		<article_credit><![CDATA[Destination Spotlight]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/02/email/spotlight.jpg</email_src>
+		
+		<tile_color>C8232C</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="safari-wildlife"><![CDATA[safari-wildlife]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+		</tags>
+	</article>
+</root>
