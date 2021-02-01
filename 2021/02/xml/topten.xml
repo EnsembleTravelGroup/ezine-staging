@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2102" id="index"> <!-- use 'index' for spotlight/insider/index/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[topten]]></dir_name> <!-- usually 'index' OR 'advertorial' -->
+		<pub_date><![CDATA[February 2021]]></pub_date> <!-- February = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[02]]></dir_month>
+		<id_article><![CDATA[index]]></id_article>
+		
+		<author><![CDATA[Ensemble Travel Group]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<id_supplier><![CDATA[spacer]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/index/cruising) -->
+		
+		<title><![CDATA[9 Reasons Why Travel Advisors Travel]]></title>
+		<teaser><![CDATA[
+			What’s your travel 'why'?
+		]]></teaser>
+		<lead><![CDATA[
+			Travel is so much more than simply being a tourist. Yes, taking a photo in front of the Eiffel Tower is cool, but what made you want to go to France in the first place? Perhaps you&rsquo;ve dreamed of visiting the country your grandparents were from or, maybe, you took a French history course in college and promised yourself one day you would finally visit. Whatever that reason is, it&rsquo;s your &lsquo;why&rsquo; &hellip; and we all have one. We asked the individuals closest to travel &ndash; travel advisors &ndash; what their travel &lsquo;why&rsquo;s&rsquo; are, and warning: their answers may have you yearning to travel even more than before!
+		]]></lead>
+		<body><![CDATA[]]></body>
+		
+		<gallery>
+			<img>
+				<title><![CDATA[To Become the Best Version of Myself]]></title>
+				<content><![CDATA[&ldquo;My mother worked in travel my entire life. As a child, I would be in her office looking at brochures, playing with her globe and unraveling supplier posters in awe of the images. In 10<sup>th</sup> grade, I cleaned houses saving money for a Japan school exchange.&nbsp;During that exchange, I fell in love with traveling.&nbsp;It was not just the pretty pictures I got to see as a child, it was an experience, a freedom, a self-awareness, a way of life!&nbsp;I truly believe that travel educates our souls and creates identity.&nbsp;Travel allows me to thrive!&rdquo;<br>
+				&mdash; Darci]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/02/article/topten-index-01.jpg]]></src>
+				<position>0</position>
+				<class>active</class>
+			</img>
+			
+			<img>
+				<title><![CDATA[To Explore History in Person]]></title>
+				<content><![CDATA[&ldquo;I was never into history books! I always liked to be hands on. By traveling, I get to see, touch, taste, and feel history and our amazing planet. Whether in a mosque in Turkey, walking through the ruins in Rome, or going to a ballet in St. Petersburg, you understand what it was like many years ago, while getting a feeling of what it's like to live in other countries today.&rdquo;<br>
+					&mdash; Ross
+					
+					<br>
+					<br>
+					
+					&ldquo;I love history and I love places where history is touchable, hearable, smellable, and taste-able all around you.&nbsp;I&rsquo;ve touched the letters that Peter the Great carved into the small boat he made as a teenager in St. Petersburg, and I&rsquo;ve run my fingers over the sandstone of the Sphinx in Egypt. I&rsquo;ve soothed my ears with the rushing waters at the Villa d&rsquo;Este near Rome, and I&rsquo;ve tasted food and wine that harkens back centuries.&nbsp;All of these things cement me firmly on my planet as part of a centuries long story.&rdquo;<br>
+					&mdash; Diana
+				]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/02/article/topten-index-02.jpg]]></src>
+				<position>1</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[To Remain Humble and Open]]></title>
+				<content><![CDATA[&ldquo;Sometimes, staying put in one place ... viewing life through one set of eyes ... can be dangerous. Sometimes, we need to be reminded that we are but one, small speck in a great, big world. Traveling keeps me humble and keeps me open to new ideas &hellip; new sights, new sounds, new smells, new tastes, new landscapes, new cultures, new ways of looking at life and the world we live in.&nbsp;I get chills just thinking about the amazing places I've been, the mind-blowing experiences I've had and, most of all, how much more of this fascinating planet I've yet to explore!&rdquo;<br>
+				&mdash; Scott]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/02/article/topten-index-03.jpg]]></src>
+				<position>2</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[To Appreciate Other Cultures and Ways of Life]]></title>
+				<content><![CDATA[&ldquo;Traveling allows us to not only experience other cultures, traditions and foods, and have a great time doing it, but it also enables us to be educated in understanding why and how people live the way they do.&nbsp;We can learn so much about being compassionate, being tolerant and appreciating all walks of life by opening our eyes and our minds to the world we live in.&nbsp;The excitement of planning and experiencing that type of travel is awesome.&rdquo;<br/>
+				&mdash; Grace <br/>
+				<br/>
+				&ldquo;Traveling provides an escape from our busy lives by giving people the opportunity to slow down and discover new experiences wherever they go. When traveling, I focus on fully immersing myself into the places I visit. That can be through dining at local restaurants to try the area&rsquo;s authentic food and wines, touring beautiful historical estates in France, or even waterfall rappelling in the jungles of Costa Rica! Those are just some of the experiences that have changed me. Travel can open your mind through experiencing the cultures of the places you visit.&rdquo; <br/>
+				&mdash; Stacey]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/02/article/topten-index-04.jpg]]></src>
+				<position>3</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[To Step Out of My Comfort Zone]]></title>
+				<content><![CDATA[&ldquo;Traveling makes me feel more alive than anything else I do! It is unpredictable, delicious and inspiring! There is almost nothing else one can do where we really don&rsquo;t know the outcome! I relish the rush of experiencing for the first time a hot air balloon ride in Egypt, climbing to the Tiger Nest Monastery in Bhutan, or snorkeling around the icebergs in the Arctic. I love to experience new and unexpected things, to be challenged, and to learn to be comfortable being uncomfortable. Travel does all this and more!&rdquo; <br/>
+				&mdash; Cathy]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/02/article/topten-index-05.jpg]]></src>
+				<position>4</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[To See the World from Someone Else&rsquo;s Eyes]]></title>
+				<content><![CDATA[&ldquo;I travel to meet people and see the world from their eyes and home. I travel because I don&rsquo;t want to be caught up in my American bubble completely distant from the world around me. I long to be a guest in someone else&rsquo;s country so I can have better knowledge of how to treat the guests who visit my country.&nbsp;And, most importantly, I travel because I want to bring people around the world joy through my life.&rdquo; <br/>
+				&mdash; Brian]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/02/article/topten-index-06.jpg]]></src>
+				<position>5</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[To Connect with Loved Ones]]></title>
+				<content><![CDATA[&ldquo;I choose to travel because it brings people together. Whatever it looks like, travel is an opportunity to connect with your family and to deepen friendships while we spend uninterrupted time together. We have travelled with our children since they were young as they soaked up new experiences, and excitedly absorbed&nbsp;each new sight, sound, touch, taste, and smell. Exploring the world with our children and grandchildren has renewed our passion for adventure. I think everything positive you experience as a kid becomesfond memories&nbsp;of your life when you grow and understand more about the world.&rdquo; <br/>
+				&mdash; Robin]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/02/article/topten-index-07.jpg]]></src>
+				<position>6</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[To Gain New Perspectives]]></title>
+				<content><![CDATA[&ldquo;Travel has always been a big part of my life. It helped me grow into the person I am today. Being exposed to different cultures and traditions while traveling has shaped my worldview. Whether it was haggling over street art in Rio, tasting new foods in Reykjavik, or getting in touch with nature on a Central American beach, each destination became a new connection and a new perspective on just about everything.&rdquo; <br/>
+				&mdash; Roger]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/02/article/topten-index-08.jpg]]></src>
+				<position>7</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[To Help Others See the World]]></title>
+				<content><![CDATA[&ldquo;Since the world offers unlimited creativity, culture and beauty that simply cannot be contained in storybooks, articles or photographs alone, traveling equips me to provide an up-close and personal account of an array of destinations when designing trips. I love to broaden my knowledge base while sharpening my brand! And it affords me the opportunity to share with clientele what they may expect when designing trips for locations, I myself, have visited. Familiarization is priceless when planning trips for others!&rdquo; <br/>
+				&mdash; Geneva]]></content>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/02/article/topten-index-09.jpg]]></src>
+				<position>8</position>
+				<class></class>
+			</img>
+		</gallery>
+		
+		<body_2><![CDATA[]]></body_2>
+		
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/02/hero/topten-index.jpg]]></hero_src>
+		<hero_caption><![CDATA[9 Reasons Why Travel Advisors Travel]]></hero_caption>
+		<hero_credit><![CDATA[Ensemble Travel Group]]></hero_credit>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/02/article/topten-index.jpg]]></article_src>
+		<article_caption><![CDATA[9 Reasons Why Travel Advisors Travel]]></article_caption>
+		<article_credit><![CDATA[Ensemble Travel Group]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/02/email/topten-index.jpg</email_src>
+		
+		<tile_color>FFC500</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="food-wine"><![CDATA[food-wine]]></tag>
+		</tags>
+	</article>
+</root>
