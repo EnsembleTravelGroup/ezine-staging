@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!--
+		* Links for YouTube thumbnail images *
+		https://img.youtube.com/vi/youtubeID/0.jpg
+		https://img.youtube.com/vi/youtubeID/maxresdefault.jpg
+	-->
+	
+	<article date="2102" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[February 2021]]></pub_date> <!-- February = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[02]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+		
+		<author><![CDATA[Regent Seven Seas Cruises]]></author>
+		<id_supplier><![CDATA[sea]]></id_supplier>
+		
+		<title><![CDATA[Unrivaled Space at Sea&trade;]]></title>
+		<teaser><![CDATA[Regent Seven Seas Cruises]]></teaser>
+		<lead><![CDATA[
+			The luxury of personal space is central to the promise of <em>An Unrivaled Experience</em>&reg; with Regent Seven Seas Cruises&reg;. It provides the extravagant freedom you need to explore and relax to the fullest. Discover how &mdash; with its unrivaled space at sea &mdash; Regent Seven Seas Cruises&reg; will exceed your loftiest expectations of comfort and personalized service for a truly unforgettable experience aboard The World&rsquo;s Most Luxurious Fleet&trade;.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/irx8sLBX0Sc?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+	
+	<article date="2102" id="02">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[February 2021]]></pub_date> <!-- February = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[02]]></dir_month>
+		<file_video><![CDATA[02]]></file_video>
+		
+		<author><![CDATA[Oceania Cruises&reg;]]></author>
+		<id_supplier><![CDATA[ocn]]></id_supplier>
+		
+		<title><![CDATA[Discover Your Perfect Voyage]]></title>
+		<teaser><![CDATA[Oceania Cruises&reg;]]></teaser>
+		<lead><![CDATA[
+			Let Oceania Cruises take you on a dream voyage you will never forget. Sail among grand icons and hidden boutique ports across the globe. Explore the medieval castles and rolling countryside of Northern Europe or the colorful markets and sun-bleached ruins of the Mediterranean. Find your perfect voyage today!
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/yocfp0EfULE?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+
+</root>
+
