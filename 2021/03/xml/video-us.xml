@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!--
+		* Links for YouTube thumbnail images *
+		https://img.youtube.com/vi/youtubeID/0.jpg
+		https://img.youtube.com/vi/youtubeID/maxresdefault.jpg
+	-->
+	
+	<article date="2103" id="01">
+		<dir_name><![CDATA[video]]></dir_name>
+		<pub_date><![CDATA[March 2021]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[03]]></dir_month>
+		<file_video><![CDATA[01]]></file_video>
+		
+		<author><![CDATA[Princess Cruises]]></author>
+		<id_supplier><![CDATA[pri]]></id_supplier>
+		
+		<title><![CDATA[Dream with Us | Princess Cruises]]></title>
+		<teaser><![CDATA[Princess Cruises]]></teaser>
+		<lead><![CDATA[
+			Princess is using this pause in operations to consult with the best minds in medical science, public health, and infectious disease control. When it’s safe to sail again, they’ll be ready with new health & safety protocols that will give their guests and crew peace of mind. Until then, where are you dreaming of taking your next vacation?
+		]]></lead>
+		<body><![CDATA[]]></body>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/GypIOQf7S5g?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		]]></embed>
+		
+		<tile_color>D2367D</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+	</article>
+
+</root>
