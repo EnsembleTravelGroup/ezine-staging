@@ -269,7 +269,7 @@
 		<author><![CDATA[Oceania Cruises]]></author>
 		<id_supplier><![CDATA[ocn]]></id_supplier>
 		
-		<title><![CDATA[Dream. Plan. Discover. Oceania Cruises' New Tropics & Exotics Collection!]]></title>
+		<title><![CDATA[Dream. Plan. Discover. <br>Oceania Cruises' New Tropics & Exotics Collection!]]></title>
 		<teaser><![CDATA[The captivating voyages of Oceania Cruises&rsquo; new Tropics & Exotics Collection immerse you in the best of the iconic attractions, but also leave room for the discovery of the unexpected.]]></teaser>
 		<lead><![CDATA[
 			Oceania Cruises&rsquo; 2022-2023 Tropics & Exotics Collection is an imaginatively curated array of voyages that explores the most coveted corners of the world. More than ever before, these voyages charting the Caribbean, South America, Asia, Africa, the South Pacific, Australia and beyond are the perfect inspiration for future travels.
@@ -299,12 +299,13 @@
 			<p>&nbsp;</p>
 			<h4>2 for 1 Cruise Fares &amp; Free Internet</h4>
 			<p><strong><em>OLife Choice</em></strong> | Includes: Roundtrip Airfare* &amp; Airport Transfers</p>
-			<p><em>Plus choose one</em>: <br>
-			* Free Shore Excursions<br>
-			* Free Beverage Package<br>
-			* Free Shipboard Credit</p>
-			<p>&nbsp;</p>
-			<p>Contact your travel advisor today for more information!</p>
+			<p><em>Plus choose one</em>:</p>
+			<ul>
+			<li>Free Shore Excursions</li><li>Free Beverage Package</li><li>Free Shipboard Credit</li>
+			</ul>
+			
+			<br>
+			<p>Contact your Travel Advisor today for Terms and Conditions and more information!</p>
 		]]></body>
 		
 		<body_2><![CDATA[]]></body_2>
