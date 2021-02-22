@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2103">
+		<dir_name><![CDATA[style]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[March 2021]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[03]]></dir_month>
+		
+		<author><![CDATA[Alexa Wheeler]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Travel Back to Your Safe Spot]]></title>
+		<teaser><![CDATA[
+			Experience your comfort zone like never before.
+		]]></teaser>
+		<lead><![CDATA[
+			In our new era of social distancing, mask wearing, and working from home, where does travel fit in? Some borders are open, some are not. Requirements and regulations are ever-changing and different in every place and space. It’s confusing and overwhelming, and if you’re like me, you probably just want a vacation from it all.
+		]]></lead>
+		<body><![CDATA[
+			<p>But, where <em>can </em>you and <em>should </em>you go? Well, the &ldquo;can&rdquo; part falls into the hands of a travel advisor. During this complicated time, it&rsquo;s highly recommended to use a professional when planning a trip. Travel advisors have the answers, insight and guidance, and they&rsquo;ll be there for you before, during and after your trip. Plus, there is no need to add stress to what should be a stress release.</p>
+			<p>However, when it comes to the &ldquo;should,&rdquo; now is the perfect time to revisit your favorite places, no matter how close to home they are. Why? Because you already know the destinations, you&rsquo;re comfortable with them, and you&rsquo;ll inherently feel safer. Afterall, staying within your comfort zone isn&rsquo;t always a bad thing.</p>
+			<p>But, if you&rsquo;re looking for additional reasons to travel back to the places you&rsquo;ve been before, here are three to consider:</p>
+			
+			<h4>More Personalized and Private Experiences</h4>
+			<p>Far fewer people are currently traveling which means destinations are far less packed. In fact, Thanksgiving is said to be the busiest travel time of the year in the U.S., and only 560,902 people traveled on Thanksgiving Day in 2020 in comparison to 2,648,268 in 2019 (according to <a href="https://www.tsa.gov/coronavirus/passenger-throughput">TSA checkpoint travel numbers</a>). And, fewer people mean more personalized and private experiences are available. But, that doesn&rsquo;t mean you&rsquo;ll simply have more space on a beach; many travel suppliers are <a href="https://www.ensembletravel.com/articles/20/12/book-your-bucket-list-with-globus-family-of-brands/">now offering new small-group and private options while still delivering big experiences</a>. Private transfer options are even becoming the norm, meaning from the moment you step off the plane, you&rsquo;ll enjoy five-star traveling like never before.</p>
+			
+			<h4>More for Your Money</h4>
+			<p>Similarly, the rising popularity of small group traveling and travel bubbles has changed the travel game. Travel suppliers know that in order to attract consumers, they must adapt, which has led to the average traveler receiving much more for their money than in the past. A private tour, a secluded experience &mdash; these things used to cost more than most were willing to spend. However, now, with new health precautions in place, these &ldquo;exclusive&rdquo; and secluded experiences are readily accessible.</p>
+			
+			<h4>More Flexibility</h4>
+			<p>One of the silver linings to the pandemic era is the increased flexibility within the travel sphere. Most suppliers, if not all, have changed their cancellation policies making travel planning much less stressful. For example, <a href="https://www.ensembletravel.com/articles/20/10/reunite-with-travel-by-booking-with-contiki/">Contiki has </a><a href="https://www.ensembletravel.com/articles/20/10/reunite-with-travel-by-booking-with-contiki/">made it easy to change travel plans up to 30 days prior to their trip&rsquo;s departure date.</a> Guests can now choose new dates and/or a new destination without penalty on the land portion of their trip. Additionally, travel insurance has also changed, and Allianz Travel Insurance, for example, is <a href="https://www.ensembletravel.com/articles/20/10/6-things-to-consider-when-purchasing-travel-insurance/">reimbursing you for nonrefundable cancellations</a> if you or someone named on your plan becomes ill with COVID-19 before or during your trip.</p>
+			<p>Simply put, travel is poised for a renaissance in the post-pandemic era with a newfound focus on the consumer and his/her overall experience. This means that even your most favorite places you&rsquo;ve visited time and time again will have something new to offer. So, what are you waiting for? It&rsquo;s time to travel back to your safe spot and experience your comfort zone like never before.</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/03/hero/style.jpg</hero_src>
+		<hero_caption><![CDATA[Travel Back to Your Safe Spot]]></hero_caption>
+		<hero_credit><![CDATA[Travel Style]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/03/article/style.jpg</article_src>
+		<article_caption><![CDATA[Travel Back to Your Safe Spot]]></article_caption>
+		<article_credit><![CDATA[Travel Style]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/03/email/style.jpg</email_src>
+		
+		<tile_color>00B9F2</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="caribbean"><![CDATA[caribbean]]></tag>
+			<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+			<tag slug="luxury-hotels-resorts"><![CDATA[luxury-hotels-resorts]]></tag>
+			<tag slug="independent-travel"><![CDATA[independent-travel]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="beach-sun"><![CDATA[beach-sun]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="honeymoons"><![CDATA[honeymoons]]></tag>
+		</tags>
+	</article>
+</root>
