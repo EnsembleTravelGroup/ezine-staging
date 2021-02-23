@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2103" id="index"> <!-- use 'index' for spotlight/insider/topten/cruising or '##' for advertorial -->
+		<dir_name><![CDATA[topten]]></dir_name> <!-- usually 'topten' OR 'advertorial' -->
+		<pub_date><![CDATA[March 2021]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[03]]></dir_month>
+		<id_article><![CDATA[index]]></id_article>
+		
+		<author><![CDATA[Isabelle Labrosse]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<id_supplier><![CDATA[spacer]]></id_supplier> <!-- use 'spacer' if there is no supplier (eg. spotlight/insider/topten/cruising) -->
+		
+		<title><![CDATA[Top 6 Hotels for a Rejuvenating Long Weekend Closer to Home]]></title>
+		<teaser><![CDATA[
+			Diconnect from everyday life at these year-round sanctuaries.
+		]]></teaser>
+		<lead><![CDATA[
+			Amazing travel experiences don&rsquo;t have to take you around the world and back. If you&rsquo;re needing a break from reality and a chance to recharge in a space that&rsquo;s both peaceful and exhilerating, you don&rsquo;t have to look beyond North America. These six hotels provide all of that and so much more. From the west coast to the east, pick your favorite spot and pack your bags for the perfect long weekend getaway.
+		]]></lead>
+		<body><![CDATA[]]></body>
+		
+		<gallery>
+			<img>
+				<title><![CDATA[Fairmont Chateau Whistler, British Columbia]]></title>
+				<content><![CDATA[Nestled at the foot of Blackcomb Mountain is one of North America&rsquo;s finest year-round resort hotels. Named &ldquo;Best Resort in Canada&rdquo; by Cond&eacute; Nast Traveler&rsquo;s 2020 Readers&rsquo; Choice Awards, the Fairmont Chateau Whistler is a perfect escape from daily life. Breathe in the crisp mountain air and enjoy a few days of ideal spring <a href="https://fb.watch/3HBOzl8OnG/">skiing</a>, or go later in the season to enjoy a round of golf on the magnificent course designed by Robert Trent Jones, Jr. The hotel boasts a modern alpine setting with deluxe amenities and guest service, just what you need to feel miles away from home. After spending the day outdoors, relax your sore muscles with a signature Ayurvedic Swedana treatment at the Vida Spa, or indulge in a succulent meal by the fireplace.]]></content>
+				<caption><![CDATA[Image Credit: Leonardo Worldwide Corporation]]></caption>				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/03/article/topten-index-01.jpg]]></src>
+				<position>0</position>
+				<class>active</class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Terranea Resort, California]]></title>
+				<content><![CDATA[Located right on the edge of the beautiful Palos Verdes Peninsula, <a href="https://www.youtube.com/watch?v=_GmBXDBAsW8">Terranea Resort</a> is a hidden gem on the Southern California coast, weaving into its property the cultural, historical and social fabric of the Peninsula while still preserving the beauty of its oceanfront backdrop. Just a short drive from Los Angeles, this luxury resort offers sweeping Pacific vistas, unspoiled natural beauty and elegant gardens for a dream-like staycation. The Mediterranean-inspired architecture of this unique retreat will make you feel worlds away. Start your day with a session of seaside yoga to focus your mind, strengthen your body and relax your spirit before heading out to explore the fauna and flora along the scenic Terranea Discovery Trail, or simply experience the coastal tranquility from your private balcony.]]></content>
+				<caption><![CDATA[Image Credit: Terranea Resort]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/03/article/topten-index-02.jpg]]></src>
+				<position>1</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Fairmont Chateau Lake Louise, Alberta]]></title>
+				<content><![CDATA[This resort in the Canadian Rockies is a serene year-round sanctuary, remote enough for you to disconnect from everyday life, yet close enough for a long-weekend excursion. Here, guests can appreciate extraordinary vistas while enjoying fine in-room dining (think Brant Lake wagyu lasagna or lobster mac and cheese with applewood mornay) and <a href="https://www.instagram.com/tv/CBYWcTng72r/?hl=en">deep relaxation</a>. Wellness retreats are also offered in an inspiring natural environment where every measure is taken to ensure your safety. So, whether you want to hone in on your positive leadership skills, practice modern mindfulness, or join international yoga instructor MacKenzie Miller for a Yoga, Myofascial &amp; Journaling retreat, you&rsquo;ll find it all in these mountainous surroundings.]]></content>
+				<caption><![CDATA[Image Credit: Getty]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/03/article/topten-index-03.jpg]]></src>
+				<position>2</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Sanctuary Camelback Mountain Resort &amp; Spa, Arizona]]></title>
+				<content><![CDATA[Surrounded by the inspiring landscape of Camelback Mountain, this desert retreat will leave you with a feeling of profound relaxation and wellbeing. Embark on a journey of rejuvenation inspired by Asian influences at the <a href="https://www.facebook.com/71408203407/videos/947750018970330">Sanctuary Resort Spa</a>, where you&rsquo;ll find 12 indoor and outdoor treatment rooms, a soothing reflection pond as well as a Watsu&reg; pool. The experience wouldn&rsquo;t be complete without indulging in the seasonal menu of <em>Food Network</em> star and executive chef Beau MacMillan at <em>elements</em> restaurant. And at the end of the day, you can retreat to your lavish suite, mountain casita, or exquisite villa knowing another day of peacefulness awaits.]]></content>
+				<caption><![CDATA[Image Credit: Sanctuary Camelback Mountain Resort &amp; Spa]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/03/article/topten-index-04.jpg]]></src>
+				<position>3</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Auberge Saint-Antoine, Quebec]]></title>
+				<content><![CDATA[Sometimes, being surrounded by history is the best remedy to modern life. The luxurious rooms and suites of Auberge Saint-Antoine &ndash; steps away from Le Petit Champlain in the heart of Vieux-Qu&eacute;bec, a UNESCO World Heritage site &ndash; offer that perfect balance between unique historic accents and deluxe modern amenities. Inside and out, this Relais &amp; Ch&acirc;teaux property offers a window on the city&rsquo;s past. Its <a href="https://vimeo.com/485689234">Under the Stars experience</a> lets you enjoy the comfort and safety of your own bubble in a heated mini-greenhouse, where you can bask in the city&rsquo;s European charm and savor a delicious four-course meal with champagne while reconnecting with those closest to you.]]></content>
+				<caption><![CDATA[Image Credit: Auberge Saint-Antoine]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/03/article/topten-index-05.jpg]]></src>
+				<position>4</position>
+				<class></class>
+			</img>
+			
+			<img>
+				<title><![CDATA[Canyon Ranch Lenox, Massachusetts]]></title>
+				<content><![CDATA[Whether you want to relax in saunas, steam rooms and whirlpools, take in the natural beauty of the surroundings or relieve stress with a massage or Ayurvedic treatment, you&rsquo;ll find it all at this fabulous Western Massachusetts retreat boasting 100,000 square feet of fitness and wellness facilities. While offering all the modern creature comforts you could wish for, <a href="https://www.youtube.com/watch?v=O9ESLI5gevU">Canyon Ranch Lenox</a> is set in the meticulously preserved d&eacute;cor of the Berkshires&rsquo; iconic Bellefontaine Mansion. Special experiences allow guests to increase resilience through mindfulness, participate in a dance weekend with a Broadway performer, hike the Appalachian Trail with expert guides, and much more.]]></content>
+				<caption><![CDATA[Image Credit: Canyon Ranch Lenox]]></caption>
+				<src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/03/article/topten-index-06.jpg]]></src>
+				<position>5</position>
+				<class></class>
+			</img>
+			
+		</gallery>
+		
+		<body_2><![CDATA[<p stlye="font-size: 80%;">Main Image Credit: Fairmont Chateau Whistler</p>]]></body_2>
+		
+		<hero_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/03/hero/topten-index.jpg]]></hero_src>
+		<hero_caption><![CDATA[Top 6 Hotels for a Rejuvenating Long Weekend Closer to Home]]></hero_caption>
+		<hero_credit><![CDATA[Top Ten]]></hero_credit>
+		<article_src><![CDATA[https://www.ensembletravel.com/assets/img/ezine/21/03/article/topten-index.jpg]]></article_src>
+		<article_caption><![CDATA[Top 6 Hotels for a Rejuvenating Long Weekend Closer to Home]]></article_caption>
+		<article_credit><![CDATA[Top Ten]]></article_credit>
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/03/email/topten-index.jpg</email_src>
+		
+		<tile_color>FFC500</tile_color>
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="north-america"><![CDATA[north-america]]></tag>
+			<tag slug="all-inclusive"><![CDATA[all-inclusive]]></tag>
+			<tag slug="luxury-hotels-resorts"><![CDATA[luxury-hotels-resorts]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="honeymoons"><![CDATA[honeymoons]]></tag>
+			<tag slug="spa-wellness"><![CDATA[spa-wellness]]></tag>
+		</tags>
+	</article>
+</root>
