@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<article date="2103">
+		<dir_name><![CDATA[insider]]></dir_name> <!-- spotlight, style, insider -->
+		<pub_date><![CDATA[March 2021]]></pub_date> <!-- Mmm = Full month name (ie. January) -->
+		<dir_year><![CDATA[21]]></dir_year>
+		<dir_month><![CDATA[03]]></dir_month>
+		
+		<author><![CDATA[articleAuthor]]></author>
+		<translator><![CDATA[]]></translator>
+		
+		<title><![CDATA[Reset and Recharge with G Adventures]]></title>
+		<teaser><![CDATA[
+			Unwind with enriching and immersive experiences.
+		]]></teaser>
+		<lead><![CDATA[
+			One of the most incredible aspects of traveling is its ability to reset and recharge the human body, mind, and soul simultaneously. We chatted with Dave Llewellyn, Trade Marketing Specialist at G Adventures, to learn about unique ways travelers can unwind while also making a difference and immersing into the world around them.
+		]]></lead>
+		<body><![CDATA[
+			<p class="question"><strong>Q:</strong> Tell us a bit about G Adventures and the types of tours the company offers.</p>
+			<p>G Adventures is an adventure travel company offering the widest selection of affordable small group tours, safaris, and expeditions to more than 100 countries across seven continents. We offer immersive small group tours for travelers open to seeing new places, trying new things, and learning about our differences all over the world &ndash; something we need now more than ever.</p>
+			<p>We also work with local businesses to help underserved communities benefit from the global travel economy and establish development projects in the places we visit.</p>
+			<p>Our small group tours connect you with the world in a way unlike you&rsquo;ve ever experienced before. Each one is designed to let you enjoy must-do highlights, embrace spontaneous situations, revel in personal freedom, and share eye-opening encounters with local people.</p>
+			<p class="question"><strong>Q:</strong> How can travelers reset and recharge with G Adventures?</p>
+			<p>I feel we all could use a reset and recharge after the past year, and I think everyone resets and recharges differently. After a year of working remotely, and for a lot of us, being cooped up at home, our Active tours are the perfect way to reconnect with nature and the amazing destinations our world has to offer. Our bucket list hiking trips such as Trekking Mont Blanc, The Inca Trail, Everest Base Camp Trek, and Mt Kilimanjaro have seen even more interest than before as people start to look forward to some of the most epic adventures they can dream up, and I think anything where we can get our bodies moving and breathe in some more fresh air is the perfect way of recharging after an undoubtedly tough year.</p>
+			<p><em>How have the company&rsquo;s offerings changed in response to the pandemic?</em></p>
+			<p>G Adventures has come out with so many responses during the pandemic, it&rsquo;s hard to know where to start, but most importantly, our Travel with Confidence reassures our travelers that we are keeping them safe when they are comfortable traveling once again. On top of that, we&rsquo;ve always run small group tours. We&rsquo;ve always offered more freedom and space even before &ldquo;social distancing&rdquo; was a term so commonly used. Running small group tours for over 30 years, plus the local knowledge and support of our CEOs (tour leaders), means that travelers are in good (and safe) hands. The new policy really just builds on what we&rsquo;ve always inherently done, including staying at smaller hotels with fewer guests, while ensuring travelers can continue to foster connections and access places often overlooked by larger groups.</p>
+			<p>On top of that, we&rsquo;ve also released a <strong>Travel With Confidence Plus</strong> collection of tours that caters to those looking for even more comfort surrounding health and safety protocols in amazing destinations that travelers are booking such as Costa Rica, Morocco, Iceland, Sri Lanka and Jordan. These itineraries feature even smaller maximum group sizes, discounted private room options, more personal space, and private transportation throughout. We know everyone is going to be at different comfort levels as we get back to travel, and we don&rsquo;t take it lightly when we say it&rsquo;s our job to make sure we cater to everyone looking to travel our big, beautiful world.</p>
+			<p class="question"><strong>Q:</strong> What types of new tours and offerings are in the works for G Adventures trips in 2022 and beyond?</p>
+			<p>Most recently, we&rsquo;ve just announced the release of our culturally immersive <strong>Mini Adventures</strong>, a collection of two- to six-day short breaks with experiences across 28 cities in 19 countries globally. We&rsquo;ve seen that people are booking longer trips than ever before, and these Mini Adventures make for perfect trip extensions for those looking to dive deeper into the places they start or end their G Adventures tours. On the other hand, they also work as nice little &ldquo;tasters&rdquo; for those who are new to adventure travel but want to get a peek at what G Adventures offers in classic destinations like Havana, Istanbul, Bangkok and Lima.&nbsp;</p>
+			<p class="question"><strong>Q:</strong> For travelers looking to disconnect and focus on both their mental and physical wellbeing, which one G Adventures trip would you recommend?</p>
+			<p>How does discovering small towns, mountain trails, the ruins of Pompeii and coastal hikes, then wrapping up your day with a home-cooked Italian meal and crawling into bed in a converted 17th-century monastery home sound? If you&rsquo;re looking for a more relaxing alternative, our <em>Local Living: Amalfi Coast</em> trip is the perfect match and allows you to unpack once, enjoy top-notch food and drink, and breathe in fresh ocean air in the company of like-minded travelers.</p>
+			<p class="question"><strong>Q:</strong> BONUS: Describe a G Adventures experience in one word.</p>
+			<p>Immersive. We believe that travel should build meaningful relationships with local communities and provide an enriching experience for all parties involved, while taking you deep into the destinations you visit!</p>
+		]]></body>
+		
+		<hero_src>https://www.ensembletravel.com/assets/img/ezine/21/03/hero/insider.jpg</hero_src>
+		<hero_caption><![CDATA[Reset and Recharge with G Adventures]]></hero_caption>
+		<hero_credit><![CDATA[On Location]]></hero_credit> <!--Spotlight, Insider, Travel Style -->
+		<article_src>https://www.ensembletravel.com/assets/img/ezine/21/03/article/insider.jpg</article_src>
+		<article_caption><![CDATA[Reset and Recharge with G Adventures]]></article_caption>
+		<article_credit><![CDATA[On Location]]></article_credit> <!--Spotlight, Insider, Travel Style -->
+		<email_src>https://www.ensembletravel.com/assets/img/ezine/21/03/email/insider.jpg</email_src>
+		
+		<tile_color>FA6900</tile_color> <!--Spotlight:C8232C, Insider:FA6900, Travel Style:00B9F2 -->
+		<tile_class>opaque-100</tile_class>
+		<tile_new>none</tile_new>
+		
+		<tags>
+			<tag slug="escorted-tours"><![CDATA[escorted-tours]]></tag>
+			<tag slug="adventure"><![CDATA[adventure]]></tag>
+			<tag slug="culture-history"><![CDATA[culture-history]]></tag>
+			<tag slug="education-learning"><![CDATA[education-learning]]></tag>
+			<tag slug="family-vacations"><![CDATA[family-vacations]]></tag>
+			<tag slug="sports-outdoors"><![CDATA[sports-outdoors]]></tag>
+			<tag slug="voluntourism"><![CDATA[voluntourism]]></tag>
+		</tags>
+	</article>
+</root>
